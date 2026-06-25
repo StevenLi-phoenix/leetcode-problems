@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**731 solved** — 🟢 213 Easy · 🟡 362 Medium · 🔴 156 Hard
+**732 solved** — 🟢 213 Easy · 🟡 363 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -465,6 +465,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](problems/2413.smallest-even-multiple.cpp) | 🟢 Easy | C++ |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
+| [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
 | [2438](https://leetcode.com/problems/range-product-queries-of-powers/) | [Range Product Queries of Powers](problems/2438.range-product-queries-of-powers.cpp) | 🟡 Medium | C++ |
 | [2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](problems/2444.count-subarrays-with-fixed-bounds.cpp) | 🔴 Hard | C++ |
 | [2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [Number of Subarrays With GCD Equal to K](problems/2447.number-of-subarrays-with-gcd-equal-to-k.cpp) | 🟡 Medium | C++ |
