@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**747 solved** — 🟢 219 Easy · 🟡 369 Medium · 🔴 159 Hard
+**748 solved** — 🟢 219 Easy · 🟡 370 Medium · 🔴 159 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -715,6 +715,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3715](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | [Sum of Perfect Square Ancestors](problems/3715.sum-of-perfect-square-ancestors.cpp) | 🔴 Hard | C++ |
 | [3716](https://leetcode.com/problems/find-churn-risk-customers/) | [Find Churn Risk Customers](problems/3716.find-churn-risk-customers.sql) | 🟡 Medium | mysql |
 | [3719](https://leetcode.com/problems/longest-balanced-subarray-i/) | [Longest Balanced Subarray I](problems/3719.longest-balanced-subarray-i.cpp) | 🟡 Medium | C++ |
+| [3720](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Lexicographically Smallest Permutation Greater Than Target](problems/3720.lexicographically-smallest-permutation-greater-than-target.cpp) | 🟡 Medium | C++ |
 | [3721](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [Longest Balanced Subarray II](problems/3721.longest-balanced-subarray-ii.cpp) | 🔴 Hard | C++ |
 | [3722](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | [Lexicographically Smallest String After Reverse](problems/3722.lexicographically-smallest-string-after-reverse.cpp) | 🟡 Medium | C++ |
 | [3726](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | [Remove Zeros in Decimal Representation](problems/3726.remove-zeros-in-decimal-representation.cpp) | 🟢 Easy | C++ |
