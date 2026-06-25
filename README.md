@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**849 solved** — 🟢 307 Easy · 🟡 381 Medium · 🔴 161 Hard
+**850 solved** — 🟢 308 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -607,6 +607,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2746](https://leetcode.com/problems/decremental-string-concatenation/) | [Decremental String Concatenation](problems/2746.decremental-string-concatenation.cpp) | 🟡 Medium | C++ |
 | [2748](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Number of Beautiful Pairs](problems/2748.number-of-beautiful-pairs.cpp) | 🟢 Easy | C++ |
 | [2751](https://leetcode.com/problems/robot-collisions/) | [Robot Collisions](problems/2751.robot-collisions.cpp) | 🔴 Hard | C++ |
+| [2760](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [Longest Even Odd Subarray With Threshold](problems/2760.longest-even-odd-subarray-with-threshold.cpp) | 🟢 Easy | C++ |
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
