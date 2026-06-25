@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**830 solved** — 🟢 288 Easy · 🟡 381 Medium · 🔴 161 Hard
+**831 solved** — 🟢 289 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -559,6 +559,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2538](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/) | [Difference Between Maximum and Minimum Price Sum](problems/2538.difference-between-maximum-and-minimum-price-sum.cpp) | 🔴 Hard | C++ |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | [Minimum Common Value](problems/2540.minimum-common-value.cpp) | 🟢 Easy | C++ |
 | [2542](https://leetcode.com/problems/maximum-subsequence-score/) | [Maximum Subsequence Score](problems/2542.maximum-subsequence-score.cpp) | 🟡 Medium | C++ |
+| [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Count Distinct Numbers on Board](problems/2549.count-distinct-numbers-on-board.cpp) | 🟢 Easy | C++ |
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
 | [2573](https://leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](problems/2573.find-the-string-with-lcp.cpp) | 🔴 Hard | C++ |
