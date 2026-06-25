@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**781 solved** — 🟢 239 Easy · 🟡 381 Medium · 🔴 161 Hard
+**782 solved** — 🟢 240 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -467,6 +467,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | [Root Equals Sum of Children](problems/2236.root-equals-sum-of-children.cpp) | 🟢 Easy | C++ |
 | [2239](https://leetcode.com/problems/find-closest-number-to-zero/) | [Find Closest Number to Zero](problems/2239.find-closest-number-to-zero.cpp) | 🟢 Easy | C++ |
 | [2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [Longest Path With Different Adjacent Characters](problems/2246.longest-path-with-different-adjacent-characters.cpp) | 🔴 Hard | C++ |
+| [2248](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Intersection of Multiple Arrays](problems/2248.intersection-of-multiple-arrays.cpp) | 🟢 Easy | C++ |
 | [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Count Unguarded Cells in the Grid](problems/2257.count-unguarded-cells-in-the-grid.cpp) | 🟡 Medium | C++ |
 | [2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Remove Digit From Number to Maximize Result](problems/2259.remove-digit-from-number-to-maximize-result.cpp) | 🟢 Easy | C++ |
 | [2260](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Minimum Consecutive Cards to Pick Up](problems/2260.minimum-consecutive-cards-to-pick-up.cpp) | 🟡 Medium | C++ |
