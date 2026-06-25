@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**812 solved** — 🟢 270 Easy · 🟡 381 Medium · 🔴 161 Hard
+**813 solved** — 🟢 271 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -55,6 +55,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle in Histogram](problems/84.largest-rectangle-in-histogram.cpp) | 🔴 Hard | C++ |
 | [85](https://leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](problems/85.maximal-rectangle.cpp) | 🔴 Hard | C++ |
 | [93](https://leetcode.com/problems/restore-ip-addresses/) | [Restore IP Addresses](problems/93.restore-ip-addresses.cpp) | 🟡 Medium | C++ |
+| [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](problems/94.binary-tree-inorder-traversal.cpp) | 🟢 Easy | C++ |
 | [99](https://leetcode.com/problems/recover-binary-search-tree/) | [Recover Binary Search Tree](problems/99.recover-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](problems/101.symmetric-tree.cpp) | 🟢 Easy | C++ |
 | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](problems/102.binary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
