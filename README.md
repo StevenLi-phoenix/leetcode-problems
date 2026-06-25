@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**847 solved** — 🟢 305 Easy · 🟡 381 Medium · 🔴 161 Hard
+**848 solved** — 🟢 306 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -692,6 +692,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
 | [3224](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | [Minimum Array Changes to Make Differences Equal](problems/3224.minimum-array-changes-to-make-differences-equal.cpp) | 🟡 Medium | C++ |
 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](problems/3225.maximum-score-from-grid-operations.cpp) | 🔴 Hard | C++ |
+| [3226](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [Number of Bit Changes to Make Two Integers Equal](problems/3226.number-of-bit-changes-to-make-two-integers-equal.cpp) | 🟢 Easy | C++ |
 | [3251](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/) | [Find the Count of Monotonic Pairs II](problems/3251.find-the-count-of-monotonic-pairs-ii.cpp) | 🔴 Hard | C++ |
 | [3254](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Find the Power of K-Size Subarrays I](problems/3254.find-the-power-of-k-size-subarrays-i.cpp) | 🟡 Medium | C++ |
 | [3259](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Energy Boost From Two Drinks](problems/3259.maximum-energy-boost-from-two-drinks.cpp) | 🟡 Medium | C++ |
