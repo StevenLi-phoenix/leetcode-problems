@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**780 solved** — 🟢 238 Easy · 🟡 381 Medium · 🔴 161 Hard
+**781 solved** — 🟢 239 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -763,6 +763,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3753](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Total Waviness of Numbers in Range II](problems/3753.total-waviness-of-numbers-in-range-ii.cpp) | 🔴 Hard | C++ |
 | [3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](problems/3761.minimum-absolute-distance-between-mirror-pairs.cpp) | 🟡 Medium | C++ |
 | [3770](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Largest Prime from Consecutive Prime Sum](problems/3770.largest-prime-from-consecutive-prime-sum.cpp) | 🟡 Medium | C++ |
+| [3774](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Absolute Difference Between Maximum and Minimum K Elements](problems/3774.absolute-difference-between-maximum-and-minimum-k-elements.cpp) | 🟢 Easy | C++ |
 | [3780](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Maximum Sum of Three Numbers Divisible by Three](problems/3780.maximum-sum-of-three-numbers-divisible-by-three.cpp) | 🟡 Medium | C++ |
 | [3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Mirror Distance of an Integer](problems/3783.mirror-distance-of-an-integer.cpp) | 🟢 Easy | C++ |
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
