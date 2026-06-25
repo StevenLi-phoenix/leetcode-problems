@@ -1,0 +1,20 @@
+// @leetcode id=2629 questionId=2741 slug=function-composition lang=javascript site=leetcode.com title="Function Composition"
+/**
+ * @param {Function[]} functions
+ * @return {Function}
+ */
+var compose = function(functions) {
+    return function(x) {
+        if (functions.length === 0) return x;
+        let result = x;
+        for (let i = functions.length - 1; i >= 0; i--) {
+            result = functions[i](result);
+        }
+        return result;
+    };
+};
+
+/**
+ * const fn = compose([x => x + 1, x => 2 * x])
+ * fn(4) // 9
+ */
