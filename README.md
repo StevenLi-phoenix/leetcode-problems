@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**842 solved** — 🟢 300 Easy · 🟡 381 Medium · 🔴 161 Hard
+**843 solved** — 🟢 301 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -395,6 +395,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1753](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [Maximum Score From Removing Stones](problems/1753.maximum-score-from-removing-stones.cpp) | 🟡 Medium | C++ |
 | [1754](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Largest Merge Of Two Strings](problems/1754.largest-merge-of-two-strings.cpp) | 🟡 Medium | C++ |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](problems/1758.minimum-changes-to-make-alternating-binary-string.cpp) | 🟢 Easy | C++ |
+| [1763](https://leetcode.com/problems/longest-nice-substring/) | [Longest Nice Substring](problems/1763.longest-nice-substring.cpp) | 🟢 Easy | C++ |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | [Merge Strings Alternately](problems/1768.merge-strings-alternately.cpp) | 🟢 Easy | C++ |
 | [1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Find Nearest Point That Has the Same X or Y Coordinate](problems/1779.find-nearest-point-that-has-the-same-x-or-y-coordinate.cpp) | 🟢 Easy | C++ |
 | [1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](problems/1780.check-if-number-is-a-sum-of-powers-of-three.cpp) | 🟡 Medium | C++ |
