@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**811 solved** — 🟢 269 Easy · 🟡 381 Medium · 🔴 161 Hard
+**812 solved** — 🟢 270 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -713,6 +713,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3485](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/) | [Longest Common Prefix of K Strings After Removal](problems/3485.longest-common-prefix-of-k-strings-after-removal.cpp) | 🔴 Hard | C++ |
 | [3487](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Maximum Unique Subarray Sum After Deletion](problems/3487.maximum-unique-subarray-sum-after-deletion.cpp) | 🟢 Easy | C++ |
 | [3488](https://leetcode.com/problems/closest-equal-element-queries/) | [Closest Equal Element Queries](problems/3488.closest-equal-element-queries.cpp) | 🟡 Medium | C++ |
+| [3492](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [Maximum Containers on a Ship](problems/3492.maximum-containers-on-a-ship.cpp) | 🟢 Easy | C++ |
 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](problems/3507.minimum-pair-removal-to-sort-array-i.cpp) | 🟢 Easy | C++ |
 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](problems/3510.minimum-pair-removal-to-sort-array-ii.cpp) | 🔴 Hard | C++ |
 | [3515](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Shortest Path in a Weighted Tree](problems/3515.shortest-path-in-a-weighted-tree.cpp) | 🔴 Hard | C++ |
