@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**788 solved** — 🟢 246 Easy · 🟡 381 Medium · 🔴 161 Hard
+**789 solved** — 🟢 247 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -584,6 +584,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [Longest Unequal Adjacent Groups Subsequence I](problems/2900.longest-unequal-adjacent-groups-subsequence-i.cpp) | 🟢 Easy | C++ |
 | [2904](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Shortest and Lexicographically Smallest Beautiful String](problems/2904.shortest-and-lexicographically-smallest-beautiful-string.cpp) | 🟡 Medium | C++ |
 | [2906](https://leetcode.com/problems/construct-product-matrix/) | [Construct Product Matrix](problems/2906.construct-product-matrix.cpp) | 🟡 Medium | C++ |
+| [2908](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/) | [Minimum Sum of Mountain Triplets I](problems/2908.minimum-sum-of-mountain-triplets-i.cpp) | 🟢 Easy | C++ |
 | [2911](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Minimum Changes to Make K Semi-palindromes](problems/2911.minimum-changes-to-make-k-semi-palindromes.cpp) | 🔴 Hard | C++ |
 | [2915](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/) | [Length of the Longest Subsequence That Sums to Target](problems/2915.length-of-the-longest-subsequence-that-sums-to-target.cpp) | 🟡 Medium | C++ |
 | [2917](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Find the K-or of an Array](problems/2917.find-the-k-or-of-an-array.cpp) | 🟢 Easy | C++ |
