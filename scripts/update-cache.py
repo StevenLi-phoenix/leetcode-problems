@@ -12,12 +12,12 @@ from pathlib import Path
 SCRIPTS = Path(__file__).parent
 CPP     = SCRIPTS / "gen-readme.cpp"
 
-# ── 1. Fetch solved list from LeetCode ───────────────────────────────────────
+# ── 1. Fetch ALL problems from LeetCode ──────────────────────────────────────
 ansi    = re.compile(r'\x1B\[[0-9;]*m')
-row_pat = re.compile(r'^[✔✖]\s+(\d+)\s+(Easy|Medium|Hard)\s+')
+row_pat = re.compile(r'^\W*(\d+)\s+(Easy|Medium|Hard)\s+')
 
 result = subprocess.run(
-    ["leetcode", "list", "--status", "solved", "-n", "5000"],
+    ["leetcode", "list", "-n", "5000"],
     capture_output=True, text=True,
 )
 rows: list[tuple[int, str]] = []
