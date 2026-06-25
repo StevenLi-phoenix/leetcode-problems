@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**721 solved** — 🟢 209 Easy · 🟡 356 Medium · 🔴 156 Hard
+**722 solved** — 🟢 209 Easy · 🟡 357 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -183,6 +183,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](problems/874.walking-robot-simulation.cpp) | 🟡 Medium | C++ |
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
 | [880](https://leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](problems/880.decoded-string-at-index.cpp) | 🟡 Medium | C++ |
+| [886](https://leetcode.com/problems/possible-bipartition/) | [Possible Bipartition](problems/886.possible-bipartition.cpp) | 🟡 Medium | C++ |
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
 | [909](https://leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](problems/909.snakes-and-ladders.cpp) | 🟡 Medium | C++ |
 | [913](https://leetcode.com/problems/cat-and-mouse/) | [Cat and Mouse](problems/913.cat-and-mouse.cpp) | 🔴 Hard | C++ |
