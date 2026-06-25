@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**815 solved** — 🟢 273 Easy · 🟡 381 Medium · 🔴 161 Hard
+**816 solved** — 🟢 274 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -288,6 +288,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](problems/1370.increasing-decreasing-string.cpp) | 🟢 Easy | C++ |
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Maximum Sum BST in Binary Tree](problems/1373.maximum-sum-bst-in-binary-tree.cpp) | 🔴 Hard | C++ |
+| [1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](problems/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp) | 🟢 Easy | C++ |
 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](problems/1382.balance-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [1389](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Create Target Array in the Given Order](problems/1389.create-target-array-in-the-given-order.cpp) | 🟢 Easy | C++ |
 | [1390](https://leetcode.com/problems/four-divisors/) | [Four Divisors](problems/1390.four-divisors.cpp) | 🟡 Medium | C++ |
