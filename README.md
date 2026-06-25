@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**797 solved** — 🟢 255 Easy · 🟡 381 Medium · 🔴 161 Hard
+**798 solved** — 🟢 256 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -56,6 +56,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [85](https://leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](problems/85.maximal-rectangle.cpp) | 🔴 Hard | C++ |
 | [93](https://leetcode.com/problems/restore-ip-addresses/) | [Restore IP Addresses](problems/93.restore-ip-addresses.cpp) | 🟡 Medium | C++ |
 | [99](https://leetcode.com/problems/recover-binary-search-tree/) | [Recover Binary Search Tree](problems/99.recover-binary-search-tree.cpp) | 🟡 Medium | C++ |
+| [101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](problems/101.symmetric-tree.cpp) | 🟢 Easy | C++ |
 | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](problems/102.binary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
 | [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](problems/109.convert-sorted-list-to-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [110](https://leetcode.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](problems/110.balanced-binary-tree.cpp) | 🟢 Easy | C++ |
