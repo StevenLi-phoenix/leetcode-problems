@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**783 solved** — 🟢 241 Easy · 🟡 381 Medium · 🔴 161 Hard
+**784 solved** — 🟢 242 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -438,6 +438,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Delete the Middle Node of a Linked List](problems/2095.delete-the-middle-node-of-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Find Subsequence of Length K With the Largest Sum](problems/2099.find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 Easy | C++ |
 | [2103](https://leetcode.com/problems/rings-and-rods/) | [Rings and Rods](problems/2103.rings-and-rods.cpp) | 🟢 Easy | C++ |
+| [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Find First Palindromic String in the Array](problems/2108.find-first-palindromic-string-in-the-array.cpp) | 🟢 Easy | C++ |
 | [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Number of Smooth Descent Periods of a Stock](problems/2110.number-of-smooth-descent-periods-of-a-stock.cpp) | 🟡 Medium | C++ |
 | [2114](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Maximum Number of Words Found in Sentences](problems/2114.maximum-number-of-words-found-in-sentences.cpp) | 🟢 Easy | C++ |
 | [2115](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Find All Possible Recipes from Given Supplies](problems/2115.find-all-possible-recipes-from-given-supplies.cpp) | 🟡 Medium | C++ |
