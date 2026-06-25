@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**701 solved** — 🟢 207 Easy · 🟡 347 Medium · 🔴 147 Hard
+**702 solved** — 🟢 207 Easy · 🟡 347 Medium · 🔴 148 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -154,6 +154,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [756](https://leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](problems/756.pyramid-transition-matrix.cpp) | 🟡 Medium | C++ |
 | [761](https://leetcode.com/problems/special-binary-string/) | [Special Binary String](problems/761.special-binary-string.cpp) | 🔴 Hard | C++ |
 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](problems/762.prime-number-of-set-bits-in-binary-representation.cpp) | 🟢 Easy | C++ |
+| [773](https://leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](problems/773.sliding-puzzle.cpp) | 🔴 Hard | C++ |
 | [781](https://leetcode.com/problems/rabbits-in-forest/) | [Rabbits in Forest](problems/781.rabbits-in-forest.cpp) | 🟡 Medium | C++ |
 | [782](https://leetcode.com/problems/transform-to-chessboard/) | [Transform to Chessboard](problems/782.transform-to-chessboard.cpp) | 🔴 Hard | C++ |
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
