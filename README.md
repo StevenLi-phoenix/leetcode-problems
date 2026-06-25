@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**768 solved** — 🟢 226 Easy · 🟡 381 Medium · 🔴 161 Hard
+**770 solved** — 🟢 227 Easy · 🟡 382 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -607,6 +607,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3091](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | [Apply Operations to Make Sum of Array Greater Than or Equal to k](problems/3091.apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3092](https://leetcode.com/problems/most-frequent-ids/) | [Most Frequent IDs](problems/3092.most-frequent-ids.cpp) | 🟡 Medium | C++ |
 | [3093](https://leetcode.com/problems/longest-common-suffix-queries/) | [Longest Common Suffix Queries](problems/3093.longest-common-suffix-queries.cpp) | 🔴 Hard | C++ |
+| [3095](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [Shortest Subarray With OR at Least K I](problems/3095.shortest-subarray-with-or-at-least-k-i.cpp) | 🟢 Easy | C++ |
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | [Water Bottles II](problems/3100.water-bottles-ii.cpp) | 🟡 Medium | C++ |
 | [3106](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/) | [Lexicographically Smallest String After Operations With Constraint](problems/3106.lexicographically-smallest-string-after-operations-with-constraint.cpp) | 🟡 Medium | C++ |
 | [3108](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](problems/3108.minimum-cost-walk-in-weighted-graph.cpp) | 🔴 Hard | C++ |
@@ -623,6 +624,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
+| [3211](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | [Generate Binary Strings Without Adjacent Zeros](problems/3211.generate-binary-strings-without-adjacent-zeros.cpp) | 🟡 Medium | C++ |
 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](problems/3212.count-submatrices-with-equal-frequency-of-x-and-y.cpp) | 🟡 Medium | C++ |
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
 | [3224](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | [Minimum Array Changes to Make Differences Equal](problems/3224.minimum-array-changes-to-make-differences-equal.cpp) | 🟡 Medium | C++ |
