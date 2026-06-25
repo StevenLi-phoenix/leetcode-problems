@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**729 solved** — 🟢 213 Easy · 🟡 360 Medium · 🔴 156 Hard
+**730 solved** — 🟢 213 Easy · 🟡 361 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -645,6 +645,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3515](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Shortest Path in a Weighted Tree](problems/3515.shortest-path-in-a-weighted-tree.cpp) | 🔴 Hard | C++ |
 | [3521](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Find Product Recommendation Pairs](problems/3521.find-product-recommendation-pairs.sql) | 🟡 Medium | mysql |
 | [3524](https://leetcode.com/problems/find-x-value-of-array-i/) | [Find X Value of Array I](problems/3524.find-x-value-of-array-i.cpp) | 🟡 Medium | C++ |
+| [3531](https://leetcode.com/problems/count-covered-buildings/) | [Count Covered Buildings](problems/3531.count-covered-buildings.cpp) | 🟡 Medium | C++ |
 | [3532](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Path Existence Queries in a Graph I](problems/3532.path-existence-queries-in-a-graph-i.cpp) | 🟡 Medium | C++ |
 | [3534](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Path Existence Queries in a Graph II](problems/3534.path-existence-queries-in-a-graph-ii.cpp) | 🔴 Hard | C++ |
 | [3536](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Maximum Product of Two Digits](problems/3536.maximum-product-of-two-digits.cpp) | 🟢 Easy | C++ |
