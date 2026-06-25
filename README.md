@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**720 solved** — 🟢 209 Easy · 🟡 356 Medium · 🔴 155 Hard
+**721 solved** — 🟢 209 Easy · 🟡 356 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -40,6 +40,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [36](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](problems/36.valid-sudoku.cpp) | 🟡 Medium | C++ |
 | [37](https://leetcode.com/problems/sudoku-solver/) | [Sudoku Solver](problems/37.sudoku-solver.cpp) | 🔴 Hard | C++ |
 | [39](https://leetcode.com/problems/combination-sum/) | [Combination Sum](problems/39.combination-sum.cpp) | 🟡 Medium | C++ |
+| [41](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](problems/41.first-missing-positive.cpp) | 🔴 Hard | C++ |
 | [44](https://leetcode.com/problems/wildcard-matching/) | [Wildcard Matching](problems/44.wildcard-matching.cpp) | 🔴 Hard | C++ |
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](problems/48.rotate-image.cpp) | 🟡 Medium | C++ |
 | [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](problems/57.insert-interval.cpp) | 🟡 Medium | C++ |
