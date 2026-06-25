@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**710 solved** — 🟢 207 Easy · 🟡 352 Medium · 🔴 151 Hard
+**711 solved** — 🟢 207 Easy · 🟡 353 Medium · 🔴 151 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -446,6 +446,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
 | [2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [Largest Local Values in a Matrix](problems/2373.largest-local-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [2380](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Time Needed to Rearrange a Binary String](problems/2380.time-needed-to-rearrange-a-binary-string.cpp) | 🟡 Medium | C++ |
+| [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](problems/2402.meeting-rooms-iii.cpp) | 🔴 Hard | C++ |
 | [2413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](problems/2413.smallest-even-multiple.cpp) | 🟢 Easy | C++ |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
