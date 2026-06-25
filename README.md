@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**698 solved** — 🟢 206 Easy · 🟡 346 Medium · 🔴 146 Hard
+**699 solved** — 🟢 207 Easy · 🟡 346 Medium · 🔴 146 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -459,6 +459,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2507](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Smallest Value After Replacing With Sum of Prime Factors](problems/2507.smallest-value-after-replacing-with-sum-of-prime-factors.cpp) | 🟡 Medium | C++ |
 | [2511](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [Maximum Enemy Forts That Can Be Captured](problems/2511.maximum-enemy-forts-that-can-be-captured.cpp) | 🟢 Easy | C++ |
 | [2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](problems/2515.shortest-distance-to-target-string-in-a-circular-array.cpp) | 🟢 Easy | C++ |
+| [2520](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Count the Digits That Divide a Number](problems/2520.count-the-digits-that-divide-a-number.cpp) | 🟢 Easy | C++ |
 | [2521](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [Distinct Prime Factors of Product of Array](problems/2521.distinct-prime-factors-of-product-of-array.cpp) | 🟡 Medium | C++ |
 | [2528](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](problems/2528.maximize-the-minimum-powered-city.cpp) | 🔴 Hard | C++ |
 | [2535](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Difference Between Element Sum and Digit Sum of an Array](problems/2535.difference-between-element-sum-and-digit-sum-of-an-array.cpp) | 🟢 Easy | C++ |
