@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**778 solved** — 🟢 236 Easy · 🟡 381 Medium · 🔴 161 Hard
+**779 solved** — 🟢 237 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -369,6 +369,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](problems/1780.check-if-number-is-a-sum-of-powers-of-three.cpp) | 🟡 Medium | C++ |
 | [1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Sum of Beauty of All Substrings](problems/1781.sum-of-beauty-of-all-substrings.cpp) | 🟡 Medium | C++ |
 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](problems/1784.check-if-binary-string-has-at-most-one-segment-of-ones.cpp) | 🟢 Easy | C++ |
+| [1791](https://leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](problems/1791.find-center-of-star-graph.cpp) | 🟢 Easy | C++ |
 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](problems/1792.maximum-average-pass-ratio.cpp) | 🟡 Medium | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1816](https://leetcode.com/problems/truncate-sentence/) | [Truncate Sentence](problems/1816.truncate-sentence.cpp) | 🟢 Easy | C++ |
