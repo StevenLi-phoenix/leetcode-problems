@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**748 solved** — 🟢 219 Easy · 🟡 370 Medium · 🔴 159 Hard
+**749 solved** — 🟢 219 Easy · 🟡 371 Medium · 🔴 159 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -531,6 +531,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | [Painting the Walls](problems/2742.painting-the-walls.cpp) | 🔴 Hard | C++ |
 | [2744](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [Find Maximum Number of String Pairs](problems/2744.find-maximum-number-of-string-pairs.cpp) | 🟢 Easy | C++ |
+| [2746](https://leetcode.com/problems/decremental-string-concatenation/) | [Decremental String Concatenation](problems/2746.decremental-string-concatenation.cpp) | 🟡 Medium | C++ |
 | [2748](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Number of Beautiful Pairs](problems/2748.number-of-beautiful-pairs.cpp) | 🟢 Easy | C++ |
 | [2751](https://leetcode.com/problems/robot-collisions/) | [Robot Collisions](problems/2751.robot-collisions.cpp) | 🔴 Hard | C++ |
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
