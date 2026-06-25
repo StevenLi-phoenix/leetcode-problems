@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate SOLVED.md from local problems/ + leetcode list difficulty data."""
+"""Regenerate README.md with solved-problems table from local problems/ + leetcode list."""
 import os
 import re
 import subprocess
@@ -7,7 +7,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 PROBLEMS = ROOT / "problems"
-OUT = ROOT / "SOLVED.md"
+OUT = ROOT / "README.md"
 
 hdr_pat = re.compile(r'id=(\d+).*?slug=([\w-]+).*?lang=(\w+).*?site=([\w.]+).*?title="([^"]+)"')
 ansi = re.compile(r'\x1B\[[0-9;]*m')
@@ -39,8 +39,14 @@ BADGE = {"Easy": "🟢 Easy", "Medium": "🟡 Medium", "Hard": "🔴 Hard"}
 LANG = {"cpp": "C++", "py": "Python", "java": "Java", "ts": "TypeScript",
         "go": "Go", "rs": "Rust", "kt": "Kotlin"}
 
+easy   = sum(1 for fid in local if diff_map.get(fid) == "Easy")
+medium = sum(1 for fid in local if diff_map.get(fid) == "Medium")
+hard   = sum(1 for fid in local if diff_map.get(fid) == "Hard")
+
 lines = [
-    "# Solved Problems\n",
+    "# leetcode-problems\n",
+    "My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).\n",
+    f"**{len(local)} solved** — 🟢 {easy} Easy · 🟡 {medium} Medium · 🔴 {hard} Hard\n",
     "| # | Title | Difficulty | Lang |",
     "|---|-------|------------|------|",
 ]
