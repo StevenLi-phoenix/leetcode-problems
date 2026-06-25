@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**837 solved** — 🟢 295 Easy · 🟡 381 Medium · 🔴 161 Hard
+**838 solved** — 🟢 296 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -571,6 +571,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
 | [2591](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [Distribute Money to Maximum Children](problems/2591.distribute-money-to-maximum-children.cpp) | 🟢 Easy | C++ |
 | [2596](https://leetcode.com/problems/check-knight-tour-configuration/) | [Check Knight Tour Configuration](problems/2596.check-knight-tour-configuration.cpp) | 🟡 Medium | C++ |
+| [2600](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [K Items With the Maximum Sum](problems/2600.k-items-with-the-maximum-sum.cpp) | 🟢 Easy | C++ |
 | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Shortest Cycle in a Graph](problems/2608.shortest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2609](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Find the Longest Balanced Substring of a Binary String](problems/2609.find-the-longest-balanced-substring-of-a-binary-string.cpp) | 🟢 Easy | C++ |
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Convert an Array Into a 2D Array With Conditions](problems/2610.convert-an-array-into-a-2d-array-with-conditions.cpp) | 🟡 Medium | C++ |
