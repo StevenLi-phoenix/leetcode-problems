@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**759 solved** — 🟢 222 Easy · 🟡 377 Medium · 🔴 160 Hard
+**760 solved** — 🟢 223 Easy · 🟡 377 Medium · 🔴 160 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -649,6 +649,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3398](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [Smallest Substring With Identical Characters I](problems/3398.smallest-substring-with-identical-characters-i.cpp) | 🔴 Hard | C++ |
 | [3399](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/) | [Smallest Substring With Identical Characters II](problems/3399.smallest-substring-with-identical-characters-ii.cpp) | 🔴 Hard | C++ |
 | [3405](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Count the Number of Arrays with K Matching Adjacent Elements](problems/3405.count-the-number-of-arrays-with-k-matching-adjacent-elements.cpp) | 🔴 Hard | C++ |
+| [3411](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Maximum Subarray With Equal Products](problems/3411.maximum-subarray-with-equal-products.cpp) | 🟢 Easy | C++ |
 | [3412](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [Find Mirror Score of a String](problems/3412.find-mirror-score-of-a-string.cpp) | 🟡 Medium | C++ |
 | [3417](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Zigzag Grid Traversal With Skip](problems/3417.zigzag-grid-traversal-with-skip.cpp) | 🟢 Easy | C++ |
 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](problems/3418.maximum-amount-of-money-robot-can-earn.cpp) | 🟡 Medium | C++ |
