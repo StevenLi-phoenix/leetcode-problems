@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**704 solved** — 🟢 207 Easy · 🟡 349 Medium · 🔴 148 Hard
+**705 solved** — 🟢 207 Easy · 🟡 349 Medium · 🔴 149 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -491,6 +491,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Remove Trailing Zeros From a String](problems/2710.remove-trailing-zeros-from-a-string.cpp) | 🟢 Easy | C++ |
 | [2717](https://leetcode.com/problems/semi-ordered-permutation/) | [Semi-Ordered Permutation](problems/2717.semi-ordered-permutation.cpp) | 🟢 Easy | C++ |
 | [2718](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [Sum of Matrix After Queries](problems/2718.sum-of-matrix-after-queries.cpp) | 🟡 Medium | C++ |
+| [2719](https://leetcode.com/problems/count-of-integers/) | [Count of Integers](problems/2719.count-of-integers.cpp) | 🔴 Hard | C++ |
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
