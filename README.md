@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**779 solved** — 🟢 237 Easy · 🟡 381 Medium · 🔴 161 Hard
+**780 solved** — 🟢 238 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -272,6 +272,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Count Negative Numbers in a Sorted Matrix](problems/1351.count-negative-numbers-in-a-sorted-matrix.cpp) | 🟢 Easy | C++ |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](problems/1356.sort-integers-by-the-number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [1360](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Number of Days Between Two Dates](problems/1360.number-of-days-between-two-dates.cpp) | 🟢 Easy | C++ |
+| [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](problems/1370.increasing-decreasing-string.cpp) | 🟢 Easy | C++ |
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Maximum Sum BST in Binary Tree](problems/1373.maximum-sum-bst-in-binary-tree.cpp) | 🔴 Hard | C++ |
 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](problems/1382.balance-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
