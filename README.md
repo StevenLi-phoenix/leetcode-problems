@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**737 solved** — 🟢 216 Easy · 🟡 363 Medium · 🔴 158 Hard
+**738 solved** — 🟢 217 Easy · 🟡 363 Medium · 🔴 158 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -345,6 +345,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1754](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Largest Merge Of Two Strings](problems/1754.largest-merge-of-two-strings.cpp) | 🟡 Medium | C++ |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](problems/1758.minimum-changes-to-make-alternating-binary-string.cpp) | 🟢 Easy | C++ |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | [Merge Strings Alternately](problems/1768.merge-strings-alternately.cpp) | 🟢 Easy | C++ |
+| [1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Find Nearest Point That Has the Same X or Y Coordinate](problems/1779.find-nearest-point-that-has-the-same-x-or-y-coordinate.cpp) | 🟢 Easy | C++ |
 | [1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](problems/1780.check-if-number-is-a-sum-of-powers-of-three.cpp) | 🟡 Medium | C++ |
 | [1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Sum of Beauty of All Substrings](problems/1781.sum-of-beauty-of-all-substrings.cpp) | 🟡 Medium | C++ |
 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](problems/1784.check-if-binary-string-has-at-most-one-segment-of-ones.cpp) | 🟢 Easy | C++ |
