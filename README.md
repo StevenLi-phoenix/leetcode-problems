@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**823 solved** — 🟢 281 Easy · 🟡 381 Medium · 🔴 161 Hard
+**824 solved** — 🟢 282 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -225,6 +225,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Check Completeness of a Binary Tree](problems/958.check-completeness-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](problems/960.delete-columns-to-make-sorted-iii.cpp) | 🔴 Hard | C++ |
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](problems/961.n-repeated-element-in-size-2n-array.cpp) | 🟢 Easy | C++ |
+| [965](https://leetcode.com/problems/univalued-binary-tree/) | [Univalued Binary Tree](problems/965.univalued-binary-tree.cpp) | 🟢 Easy | C++ |
 | [968](https://leetcode.com/problems/binary-tree-cameras/) | [Binary Tree Cameras](problems/968.binary-tree-cameras.cpp) | 🔴 Hard | C++ |
 | [976](https://leetcode.com/problems/largest-perimeter-triangle/) | [Largest Perimeter Triangle](problems/976.largest-perimeter-triangle.cpp) | 🟢 Easy | C++ |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](problems/977.squares-of-a-sorted-array.cpp) | 🟢 Easy | C++ |
