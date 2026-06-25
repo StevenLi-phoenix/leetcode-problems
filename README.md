@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**803 solved** — 🟢 261 Easy · 🟡 381 Medium · 🔴 161 Hard
+**804 solved** — 🟢 262 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -114,6 +114,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
 | [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Number of Segments in a String](problems/434.number-of-segments-in-a-string.cpp) | 🟢 Easy | C++ |
 | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435.non-overlapping-intervals.cpp) | 🟡 Medium | C++ |
+| [441](https://leetcode.com/problems/arranging-coins/) | [Arranging Coins](problems/441.arranging-coins.cpp) | 🟢 Easy | C++ |
 | [443](https://leetcode.com/problems/string-compression/) | [String Compression](problems/443.string-compression.cpp) | 🟡 Medium | C++ |
 | [445](https://leetcode.com/problems/add-two-numbers-ii/) | [Add Two Numbers II](problems/445.add-two-numbers-ii.cpp) | 🟡 Medium | C++ |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Find All Numbers Disappeared in an Array](problems/448.find-all-numbers-disappeared-in-an-array.cpp) | 🟢 Easy | C++ |
