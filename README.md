@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**845 solved** — 🟢 303 Easy · 🟡 381 Medium · 🔴 161 Hard
+**846 solved** — 🟢 304 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -472,6 +472,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2079](https://leetcode.com/problems/watering-plants/) | [Watering Plants](problems/2079.watering-plants.cpp) | 🟡 Medium | C++ |
 | [2080](https://leetcode.com/problems/range-frequency-queries/) | [Range Frequency Queries](problems/2080.range-frequency-queries.cpp) | 🟡 Medium | C++ |
 | [2081](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [Sum of k-Mirror Numbers](problems/2081.sum-of-k-mirror-numbers.cpp) | 🔴 Hard | C++ |
+| [2085](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Count Common Words With One Occurrence](problems/2085.count-common-words-with-one-occurrence.cpp) | 🟢 Easy | C++ |
 | [2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Find Target Indices After Sorting Array](problems/2089.find-target-indices-after-sorting-array.cpp) | 🟢 Easy | C++ |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](problems/2092.find-all-people-with-secret.cpp) | 🔴 Hard | C++ |
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Delete the Middle Node of a Linked List](problems/2095.delete-the-middle-node-of-a-linked-list.cpp) | 🟡 Medium | C++ |
