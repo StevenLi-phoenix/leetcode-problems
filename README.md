@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**746 solved** — 🟢 218 Easy · 🟡 369 Medium · 🔴 159 Hard
+**747 solved** — 🟢 219 Easy · 🟡 369 Medium · 🔴 159 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -237,6 +237,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1200](https://leetcode.com/problems/minimum-absolute-difference/) | [Minimum Absolute Difference](problems/1200.minimum-absolute-difference.cpp) | 🟢 Easy | C++ |
 | [1210](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [Minimum Moves to Reach Target with Rotations](problems/1210.minimum-moves-to-reach-target-with-rotations.cpp) | 🔴 Hard | C++ |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Longest Arithmetic Subsequence of Given Difference](problems/1218.longest-arithmetic-subsequence-of-given-difference.cpp) | 🟡 Medium | C++ |
+| [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Split a String in Balanced Strings](problems/1221.split-a-string-in-balanced-strings.cpp) | 🟢 Easy | C++ |
 | [1226](https://leetcode.com/problems/the-dining-philosophers/) | [The Dining Philosophers](problems/1226.the-dining-philosophers.cpp) | 🟡 Medium | C++ |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](problems/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | 🟡 Medium | C++ |
 | [1240](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [Tiling a Rectangle with the Fewest Squares](problems/1240.tiling-a-rectangle-with-the-fewest-squares.cpp) | 🔴 Hard | C++ |
