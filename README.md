@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**732 solved** — 🟢 213 Easy · 🟡 363 Medium · 🔴 156 Hard
+**733 solved** — 🟢 214 Easy · 🟡 363 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -645,6 +645,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](problems/3507.minimum-pair-removal-to-sort-array-i.cpp) | 🟢 Easy | C++ |
 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](problems/3510.minimum-pair-removal-to-sort-array-ii.cpp) | 🔴 Hard | C++ |
 | [3515](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Shortest Path in a Weighted Tree](problems/3515.shortest-path-in-a-weighted-tree.cpp) | 🔴 Hard | C++ |
+| [3516](https://leetcode.com/problems/find-closest-person/) | [Find Closest Person](problems/3516.find-closest-person.cpp) | 🟢 Easy | C++ |
 | [3521](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Find Product Recommendation Pairs](problems/3521.find-product-recommendation-pairs.sql) | 🟡 Medium | mysql |
 | [3524](https://leetcode.com/problems/find-x-value-of-array-i/) | [Find X Value of Array I](problems/3524.find-x-value-of-array-i.cpp) | 🟡 Medium | C++ |
 | [3531](https://leetcode.com/problems/count-covered-buildings/) | [Count Covered Buildings](problems/3531.count-covered-buildings.cpp) | 🟡 Medium | C++ |
