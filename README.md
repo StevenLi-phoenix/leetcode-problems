@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**784 solved** — 🟢 242 Easy · 🟡 381 Medium · 🔴 161 Hard
+**785 solved** — 🟢 243 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -334,6 +334,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](problems/1614.maximum-nesting-depth-of-the-parentheses.cpp) | 🟢 Easy | C++ |
 | [1616](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [Split Two Strings to Make Palindrome](problems/1616.split-two-strings-to-make-palindrome.cpp) | 🟡 Medium | C++ |
 | [1622](https://leetcode.com/problems/fancy-sequence/) | [Fancy Sequence](problems/1622.fancy-sequence.cpp) | 🔴 Hard | C++ |
+| [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
 | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](problems/1631.path-with-minimum-effort.cpp) | 🟡 Medium | C++ |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Percentage of Users Attended a Contest](problems/1633.percentage-of-users-attended-a-contest.sql) | 🟢 Easy | mysql |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Count Sorted Vowel Strings](problems/1641.count-sorted-vowel-strings.cpp) | 🟡 Medium | C++ |
