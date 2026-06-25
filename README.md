@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**714 solved** — 🟢 208 Easy · 🟡 354 Medium · 🔴 152 Hard
+**715 solved** — 🟢 209 Easy · 🟡 354 Medium · 🔴 152 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -149,6 +149,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [691](https://leetcode.com/problems/stickers-to-spell-word/) | [Stickers to Spell Word](problems/691.stickers-to-spell-word.cpp) | 🔴 Hard | C++ |
 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](problems/693.binary-number-with-alternating-bits.cpp) | 🟢 Easy | C++ |
 | [696](https://leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](problems/696.count-binary-substrings.cpp) | 🟢 Easy | C++ |
+| [709](https://leetcode.com/problems/to-lower-case/) | [To Lower Case](problems/709.to-lower-case.cpp) | 🟢 Easy | C++ |
 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](problems/712.minimum-ascii-delete-sum-for-two-strings.cpp) | 🟡 Medium | C++ |
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
 | [729](https://leetcode.com/problems/my-calendar-i/) | [My Calendar I](problems/729.my-calendar-i.cpp) | 🟡 Medium | C++ |
