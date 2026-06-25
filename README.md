@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**827 solved** — 🟢 285 Easy · 🟡 381 Medium · 🔴 161 Hard
+**828 solved** — 🟢 286 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -367,6 +367,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1667](https://leetcode.com/problems/fix-names-in-a-table/) | [Fix Names in a Table](problems/1667.fix-names-in-a-table.sql) | 🟢 Easy | mysql |
 | [1668](https://leetcode.com/problems/maximum-repeating-substring/) | [Maximum Repeating Substring](problems/1668.maximum-repeating-substring.cpp) | 🟢 Easy | C++ |
 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Minimum Number of Removals to Make Mountain Array](problems/1671.minimum-number-of-removals-to-make-mountain-array.cpp) | 🔴 Hard | C++ |
+| [1672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](problems/1672.richest-customer-wealth.cpp) | 🟢 Easy | C++ |
 | [1674](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Moves to Make Array Complementary](problems/1674.minimum-moves-to-make-array-complementary.cpp) | 🟡 Medium | C++ |
 | [1678](https://leetcode.com/problems/goal-parser-interpretation/) | [Goal Parser Interpretation](problems/1678.goal-parser-interpretation.cpp) | 🟢 Easy | C++ |
 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](problems/1680.concatenation-of-consecutive-binary-numbers.cpp) | 🟡 Medium | C++ |
