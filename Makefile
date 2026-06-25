@@ -8,7 +8,8 @@ build: scripts/gen-readme
 scripts/gen-readme: scripts/gen-readme.cpp
 	$(CXX) $(CXXFLAGS) -o $@ $<
 
-update-cache: scripts/gen-readme
+# Fetch latest difficulty data from LeetCode, embed in gen-readme.cpp, recompile
+update-cache:
 	python3 scripts/update-cache.py
 	./scripts/gen-readme
-	git add scripts/difficulty.csv README.md
+	git add scripts/gen-readme.cpp README.md
