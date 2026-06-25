@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**796 solved** — 🟢 254 Easy · 🟡 381 Medium · 🔴 161 Hard
+**797 solved** — 🟢 255 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -759,6 +759,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3714](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Longest Balanced Substring II](problems/3714.longest-balanced-substring-ii.cpp) | 🟡 Medium | C++ |
 | [3715](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | [Sum of Perfect Square Ancestors](problems/3715.sum-of-perfect-square-ancestors.cpp) | 🔴 Hard | C++ |
 | [3716](https://leetcode.com/problems/find-churn-risk-customers/) | [Find Churn Risk Customers](problems/3716.find-churn-risk-customers.sql) | 🟡 Medium | mysql |
+| [3718](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [Smallest Missing Multiple of K](problems/3718.smallest-missing-multiple-of-k.cpp) | 🟢 Easy | C++ |
 | [3719](https://leetcode.com/problems/longest-balanced-subarray-i/) | [Longest Balanced Subarray I](problems/3719.longest-balanced-subarray-i.cpp) | 🟡 Medium | C++ |
 | [3720](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Lexicographically Smallest Permutation Greater Than Target](problems/3720.lexicographically-smallest-permutation-greater-than-target.cpp) | 🟡 Medium | C++ |
 | [3721](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [Longest Balanced Subarray II](problems/3721.longest-balanced-subarray-ii.cpp) | 🔴 Hard | C++ |
