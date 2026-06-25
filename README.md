@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**702 solved** — 🟢 207 Easy · 🟡 347 Medium · 🔴 148 Hard
+**703 solved** — 🟢 207 Easy · 🟡 348 Medium · 🔴 148 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -261,6 +261,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](problems/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp) | 🟡 Medium | C++ |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](problems/1422.maximum-score-after-splitting-a-string.cpp) | 🟢 Easy | C++ |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](problems/1425.constrained-subsequence-sum.cpp) | 🔴 Hard | C++ |
+| [1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](problems/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | 🟡 Medium | C++ |
 | [1442](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](problems/1442.count-triplets-that-can-form-two-arrays-of-equal-xor.cpp) | 🟡 Medium | C++ |
 | [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Number of Students Doing Homework at a Given Time](problems/1450.number-of-students-doing-homework-at-a-given-time.cpp) | 🟢 Easy | C++ |
 | [1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Maximum Number of Vowels in a Substring of Given Length](problems/1456.maximum-number-of-vowels-in-a-substring-of-given-length.py) | 🟡 Medium | Python |
