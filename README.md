@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**728 solved** — 🟢 213 Easy · 🟡 359 Medium · 🔴 156 Hard
+**729 solved** — 🟢 213 Easy · 🟡 360 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -215,6 +215,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1034](https://leetcode.com/problems/coloring-a-border/) | [Coloring A Border](problems/1034.coloring-a-border.cpp) | 🟡 Medium | C++ |
 | [1041](https://leetcode.com/problems/robot-bounded-in-circle/) | [Robot Bounded In Circle](problems/1041.robot-bounded-in-circle.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
+| [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Duplicate Zeros](problems/1089.duplicate-zeros.cpp) | 🟢 Easy | C++ |
 | [1094](https://leetcode.com/problems/car-pooling/) | [Car Pooling](problems/1094.car-pooling.cpp) | 🟡 Medium | C++ |
