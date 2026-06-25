@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**736 solved** — 🟢 215 Easy · 🟡 363 Medium · 🔴 158 Hard
+**737 solved** — 🟢 216 Easy · 🟡 363 Medium · 🔴 158 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -506,6 +506,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2621](https://leetcode.com/problems/sleep/) | [Sleep](problems/2621.sleep.js) | 🟢 Easy | JavaScript |
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
 | [2629](https://leetcode.com/problems/function-composition/) | [Function Composition](problems/2629.function-composition.js) | 🟢 Easy | JavaScript |
+| [2639](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Find the Width of Columns of a Grid](problems/2639.find-the-width-of-columns-of-a-grid.cpp) | 🟢 Easy | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
 | [2660](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [Determine the Winner of a Bowling Game](problems/2660.determine-the-winner-of-a-bowling-game.cpp) | 🟢 Easy | C++ |
