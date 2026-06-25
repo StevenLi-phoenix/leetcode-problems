@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**754 solved** — 🟢 220 Easy · 🟡 374 Medium · 🔴 160 Hard
+**755 solved** — 🟢 220 Easy · 🟡 375 Medium · 🔴 160 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -170,6 +170,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [782](https://leetcode.com/problems/transform-to-chessboard/) | [Transform to Chessboard](problems/782.transform-to-chessboard.cpp) | 🔴 Hard | C++ |
 | [784](https://leetcode.com/problems/letter-case-permutation/) | [Letter Case Permutation](problems/784.letter-case-permutation.cpp) | 🟡 Medium | C++ |
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
+| [789](https://leetcode.com/problems/escape-the-ghosts/) | [Escape The Ghosts](problems/789.escape-the-ghosts.cpp) | 🟡 Medium | C++ |
 | [796](https://leetcode.com/problems/rotate-string/) | [Rotate String](problems/796.rotate-string.cpp) | 🟢 Easy | C++ |
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/) | [All Paths From Source to Target](problems/797.all-paths-from-source-to-target.cpp) | 🟡 Medium | C++ |
 | [799](https://leetcode.com/problems/champagne-tower/) | [Champagne Tower](problems/799.champagne-tower.cpp) | 🟡 Medium | C++ |
