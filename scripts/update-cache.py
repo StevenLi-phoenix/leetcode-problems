@@ -29,21 +29,22 @@ for line in result.stdout.splitlines():
 # ── 2. Build flat char array indexed by problem ID ────────────────────────────
 code = {"Easy": "E", "Medium": "M", "Hard": "H"}
 max_id = max(diff_map)
-entries = ["0"] * (max_id + 1)   # index 0 unused
-for fid, diff in diff_map.items():
-    entries[fid] = f"'{code[diff]}'"
-
-table = "".join(f"    {e},\n" for e in entries)
+raw = "".join(
+    code.get(diff_map.get(i, ""), "0") if i > 0 else "0"
+    for i in range(max_id + 1)
+)
+lines = [raw[i:i+80] for i in range(0, len(raw), 80)]
+table_str = "\n".join(f'    "{l}"' for l in lines)
 
 # ── 3. Splice new table into gen-readme.cpp ───────────────────────────────────
 src = CPP.read_text()
-pattern = r'(// ── difficulty table[^\n]*\n// clang-format off\nstatic const char DIFF\[\] = \{)\n.*?(// clang-format on)'
+pattern = r'(// ── difficulty table[^\n]*\n// clang-format off\n)static const char DIFF\[\] =\n.*?\n    ;(\n// clang-format on)'
 if not re.search(pattern, src, re.DOTALL):
     print("ERROR: could not find DIFF[] table in gen-readme.cpp", file=sys.stderr)
     sys.exit(1)
 new_src = re.sub(
     pattern,
-    lambda m: m.group(1) + "\n" + table + "};\n" + m.group(2),
+    lambda m: m.group(1) + f"static const char DIFF[] =\n{table_str}\n    ;" + m.group(2),
     src,
     count=1,
     flags=re.DOTALL,
