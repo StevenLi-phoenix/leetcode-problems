@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**790 solved** — 🟢 248 Easy · 🟡 381 Medium · 🔴 161 Hard
+**791 solved** — 🟢 249 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -381,6 +381,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1816](https://leetcode.com/problems/truncate-sentence/) | [Truncate Sentence](problems/1816.truncate-sentence.cpp) | 🟢 Easy | C++ |
 | [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Sign of the Product of an Array](problems/1822.sign-of-the-product-of-an-array.cpp) | 🟢 Easy | C++ |
 | [1825](https://leetcode.com/problems/finding-mk-average/) | [Finding MK Average](problems/1825.finding-mk-average.cpp) | 🔴 Hard | C++ |
+| [1827](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Minimum Operations to Make the Array Increasing](problems/1827.minimum-operations-to-make-the-array-increasing.cpp) | 🟢 Easy | C++ |
 | [1833](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](problems/1833.maximum-ice-cream-bars.cpp) | 🟡 Medium | C++ |
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
