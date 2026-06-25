@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**699 solved** — 🟢 207 Easy · 🟡 346 Medium · 🔴 146 Hard
+**700 solved** — 🟢 207 Easy · 🟡 346 Medium · 🔴 147 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -176,6 +176,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
 | [909](https://leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](problems/909.snakes-and-ladders.cpp) | 🟡 Medium | C++ |
+| [913](https://leetcode.com/problems/cat-and-mouse/) | [Cat and Mouse](problems/913.cat-and-mouse.cpp) | 🔴 Hard | C++ |
 | [916](https://leetcode.com/problems/word-subsets/) | [Word Subsets](problems/916.word-subsets.cpp) | 🟡 Medium | C++ |
 | [917](https://leetcode.com/problems/reverse-only-letters/) | [Reverse Only Letters](problems/917.reverse-only-letters.cpp) | 🟢 Easy | C++ |
 | [919](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Complete Binary Tree Inserter](problems/919.complete-binary-tree-inserter.cpp) | 🟡 Medium | C++ |
