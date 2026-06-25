@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**697 solved** — 🟢 206 Easy · 🟡 346 Medium · 🔴 145 Hard
+**698 solved** — 🟢 206 Easy · 🟡 346 Medium · 🔴 146 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -489,6 +489,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
+| [2742](https://leetcode.com/problems/painting-the-walls/) | [Painting the Walls](problems/2742.painting-the-walls.cpp) | 🔴 Hard | C++ |
 | [2744](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [Find Maximum Number of String Pairs](problems/2744.find-maximum-number-of-string-pairs.cpp) | 🟢 Easy | C++ |
 | [2748](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Number of Beautiful Pairs](problems/2748.number-of-beautiful-pairs.cpp) | 🟢 Easy | C++ |
 | [2751](https://leetcode.com/problems/robot-collisions/) | [Robot Collisions](problems/2751.robot-collisions.cpp) | 🔴 Hard | C++ |
