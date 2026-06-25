@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**818 solved** — 🟢 276 Easy · 🟡 381 Medium · 🔴 161 Hard
+**819 solved** — 🟢 277 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -110,6 +110,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [398](https://leetcode.com/problems/random-pick-index/) | [Random Pick Index](problems/398.random-pick-index.cpp) | 🟡 Medium | C++ |
 | [399](https://leetcode.com/problems/evaluate-division/) | [Evaluate Division](problems/399.evaluate-division.cpp) | 🟡 Medium | C++ |
 | [401](https://leetcode.com/problems/binary-watch/) | [Binary Watch](problems/401.binary-watch.cpp) | 🟢 Easy | C++ |
+| [412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](problems/412.fizz-buzz.cpp) | 🟢 Easy | C++ |
 | [423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Reconstruct Original Digits from English](problems/423.reconstruct-original-digits-from-english.cpp) | 🟡 Medium | C++ |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](problems/424.longest-repeating-character-replacement.cpp) | 🟡 Medium | C++ |
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
