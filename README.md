@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**808 solved** — 🟢 266 Easy · 🟡 381 Medium · 🔴 161 Hard
+**809 solved** — 🟢 267 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -130,6 +130,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
 | [491](https://leetcode.com/problems/non-decreasing-subsequences/) | [Non-decreasing Subsequences](problems/491.non-decreasing-subsequences.cpp) | 🟡 Medium | C++ |
 | [494](https://leetcode.com/problems/target-sum/) | [Target Sum](problems/494.target-sum.cpp) | 🟡 Medium | C++ |
+| [495](https://leetcode.com/problems/teemo-attacking/) | [Teemo Attacking](problems/495.teemo-attacking.cpp) | 🟢 Easy | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](problems/515.find-largest-value-in-each-tree-row.cpp) | 🟡 Medium | C++ |
