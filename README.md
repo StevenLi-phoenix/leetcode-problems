@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**703 solved** — 🟢 207 Easy · 🟡 348 Medium · 🔴 148 Hard
+**704 solved** — 🟢 207 Easy · 🟡 349 Medium · 🔴 148 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -664,6 +664,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3678](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Smallest Absent Positive Greater Than Average](problems/3678.smallest-absent-positive-greater-than-average.cpp) | 🟢 Easy | C++ |
 | [3680](https://leetcode.com/problems/generate-schedule/) | [Generate Schedule](problems/3680.generate-schedule.cpp) | 🟡 Medium | C++ |
 | [3689](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Maximum Total Subarray Value I](problems/3689.maximum-total-subarray-value-i.cpp) | 🟡 Medium | C++ |
+| [3690](https://leetcode.com/problems/split-and-merge-array-transformation/) | [Split and Merge Array Transformation](problems/3690.split-and-merge-array-transformation.cpp) | 🟡 Medium | C++ |
 | [3691](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Maximum Total Subarray Value II](problems/3691.maximum-total-subarray-value-ii.cpp) | 🔴 Hard | C++ |
 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](problems/3699.number-of-zigzag-arrays-i.cpp) | 🔴 Hard | C++ |
 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](problems/3700.number-of-zigzag-arrays-ii.cpp) | 🔴 Hard | C++ |
