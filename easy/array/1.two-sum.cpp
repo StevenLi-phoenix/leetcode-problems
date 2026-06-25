@@ -1,0 +1,17 @@
+// @leetcode id=1 questionId=1 slug=two-sum lang=cpp site=leetcode.com title="Two Sum"
+#include <vector>
+#include <unordered_map>
+using namespace std;
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> seen;
+        for (int i = 0; i < (int)nums.size(); ++i) {
+            auto it = seen.find(target - nums[i]);
+            if (it != seen.end()) return {it->second, i};
+            seen[nums[i]] = i;
+        }
+        return {};
+    }
+};
