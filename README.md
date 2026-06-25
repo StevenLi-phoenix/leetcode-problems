@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**753 solved** — 🟢 220 Easy · 🟡 373 Medium · 🔴 160 Hard
+**754 solved** — 🟢 220 Easy · 🟡 374 Medium · 🔴 160 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -408,6 +408,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | [Parallel Courses III](problems/2050.parallel-courses-iii.cpp) | 🔴 Hard | C++ |
 | [2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [Kth Distinct String in an Array](problems/2053.kth-distinct-string-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2054](https://leetcode.com/problems/two-best-non-overlapping-events/) | [Two Best Non-Overlapping Events](problems/2054.two-best-non-overlapping-events.cpp) | 🟡 Medium | C++ |
+| [2055](https://leetcode.com/problems/plates-between-candles/) | [Plates Between Candles](problems/2055.plates-between-candles.cpp) | 🟡 Medium | C++ |
 | [2060](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [Check if an Original String Exists Given Two Encoded Strings](problems/2060.check-if-an-original-string-exists-given-two-encoded-strings.cpp) | 🔴 Hard | C++ |
 | [2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Minimized Maximum of Products Distributed to Any Store](problems/2064.minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 Medium | C++ |
 | [2069](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Walking Robot Simulation II](problems/2069.walking-robot-simulation-ii.cpp) | 🟡 Medium | C++ |
