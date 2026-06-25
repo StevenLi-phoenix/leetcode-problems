@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**825 solved** — 🟢 283 Easy · 🟡 381 Medium · 🔴 161 Hard
+**826 solved** — 🟢 284 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -563,6 +563,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Kth Largest Sum in a Binary Tree](problems/2583.kth-largest-sum-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
+| [2591](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [Distribute Money to Maximum Children](problems/2591.distribute-money-to-maximum-children.cpp) | 🟢 Easy | C++ |
 | [2596](https://leetcode.com/problems/check-knight-tour-configuration/) | [Check Knight Tour Configuration](problems/2596.check-knight-tour-configuration.cpp) | 🟡 Medium | C++ |
 | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Shortest Cycle in a Graph](problems/2608.shortest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2609](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Find the Longest Balanced Substring of a Binary String](problems/2609.find-the-longest-balanced-substring-of-a-binary-string.cpp) | 🟢 Easy | C++ |
