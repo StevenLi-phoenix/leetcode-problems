@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**734 solved** — 🟢 214 Easy · 🟡 363 Medium · 🔴 157 Hard
+**735 solved** — 🟢 215 Easy · 🟡 363 Medium · 🔴 157 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -330,6 +330,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Number of Students Unable to Eat Lunch](problems/1700.number-of-students-unable-to-eat-lunch.cpp) | 🟢 Easy | C++ |
 | [1702](https://leetcode.com/problems/maximum-binary-string-after-change/) | [Maximum Binary String After Change](problems/1702.maximum-binary-string-after-change.cpp) | 🟡 Medium | C++ |
 | [1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [Minimum Adjacent Swaps for K Consecutive Ones](problems/1703.minimum-adjacent-swaps-for-k-consecutive-ones.cpp) | 🔴 Hard | C++ |
+| [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Maximum Units on a Truck](problems/1710.maximum-units-on-a-truck.cpp) | 🟢 Easy | C++ |
 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Minimize Hamming Distance After Swap Operations](problems/1722.minimize-hamming-distance-after-swap-operations.cpp) | 🟡 Medium | C++ |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](problems/1727.largest-submatrix-with-rearrangements.cpp) | 🟡 Medium | C++ |
 | [1732](https://leetcode.com/problems/find-the-highest-altitude/) | [Find the Highest Altitude](problems/1732.find-the-highest-altitude.cpp) | 🟢 Easy | C++ |
