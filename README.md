@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**835 solved** — 🟢 293 Easy · 🟡 381 Medium · 🔴 161 Hard
+**836 solved** — 🟢 294 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -675,6 +675,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
 | [3174](https://leetcode.com/problems/clear-digits/) | [Clear Digits](problems/3174.clear-digits.cpp) | 🟢 Easy | C++ |
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
+| [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](problems/3212.count-submatrices-with-equal-frequency-of-x-and-y.cpp) | 🟡 Medium | C++ |
