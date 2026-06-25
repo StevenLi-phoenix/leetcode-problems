@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**740 solved** — 🟢 217 Easy · 🟡 365 Medium · 🔴 158 Hard
+**741 solved** — 🟢 218 Easy · 🟡 365 Medium · 🔴 158 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -746,3 +746,4 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
 | [3954](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Sum of Compatible Numbers in Range I](problems/3954.sum-of-compatible-numbers-in-range-i.cpp) | 🟢 Easy | C++ |
+| [3959](https://leetcode.com/problems/check-good-integer/) | [Check Good Integer](problems/3959.check-good-integer.cpp) | 🟢 Easy | C++ |
