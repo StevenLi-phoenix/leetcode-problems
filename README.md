@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**723 solved** — 🟢 210 Easy · 🟡 357 Medium · 🔴 156 Hard
+**724 solved** — 🟢 211 Easy · 🟡 357 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -408,6 +408,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Find Subsequence of Length K With the Largest Sum](problems/2099.find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 Easy | C++ |
 | [2103](https://leetcode.com/problems/rings-and-rods/) | [Rings and Rods](problems/2103.rings-and-rods.cpp) | 🟢 Easy | C++ |
 | [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Number of Smooth Descent Periods of a Stock](problems/2110.number-of-smooth-descent-periods-of-a-stock.cpp) | 🟡 Medium | C++ |
+| [2114](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Maximum Number of Words Found in Sentences](problems/2114.maximum-number-of-words-found-in-sentences.cpp) | 🟢 Easy | C++ |
 | [2115](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Find All Possible Recipes from Given Supplies](problems/2115.find-all-possible-recipes-from-given-supplies.cpp) | 🟡 Medium | C++ |
 | [2121](https://leetcode.com/problems/intervals-between-identical-elements/) | [Intervals Between Identical Elements](problems/2121.intervals-between-identical-elements.cpp) | 🟡 Medium | C++ |
 | [2122](https://leetcode.com/problems/recover-the-original-array/) | [Recover the Original Array](problems/2122.recover-the-original-array.cpp) | 🔴 Hard | C++ |
