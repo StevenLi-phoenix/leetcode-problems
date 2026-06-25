@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**766 solved** — 🟢 225 Easy · 🟡 380 Medium · 🔴 161 Hard
+**767 solved** — 🟢 225 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -518,6 +518,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2573](https://leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](problems/2573.find-the-string-with-lcp.cpp) | 🔴 Hard | C++ |
 | [2574](https://leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](problems/2574.left-and-right-sum-differences.cpp) | 🟢 Easy | C++ |
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
+| [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Kth Largest Sum in a Binary Tree](problems/2583.kth-largest-sum-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
 | [2596](https://leetcode.com/problems/check-knight-tour-configuration/) | [Check Knight Tour Configuration](problems/2596.check-knight-tour-configuration.cpp) | 🟡 Medium | C++ |
 | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Shortest Cycle in a Graph](problems/2608.shortest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |

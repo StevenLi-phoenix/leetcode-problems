@@ -1,0 +1,35 @@
+// @leetcode id=2583 questionId=2646 slug=kth-largest-sum-in-a-binary-tree lang=cpp site=leetcode.com title="Kth Largest Sum in a Binary Tree"
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    long long kthLargestLevelSum(TreeNode* root, int k) {
+        vector<long long> sums;
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            int n = q.size();
+            long long sum = 0;
+            for (int i = 0; i < n; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+                sum += node->val;
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+            }
+            sums.push_back(sum);
+        }
+        if ((int)sums.size() < k) return -1;
+        sort(sums.rbegin(), sums.rend());
+        return sums[k - 1];
+    }
+};
