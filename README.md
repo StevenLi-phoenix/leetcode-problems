@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**799 solved** — 🟢 257 Easy · 🟡 381 Medium · 🔴 161 Hard
+**800 solved** — 🟢 258 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -414,6 +414,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](problems/1957.delete-characters-to-make-fancy-string.cpp) | 🟢 Easy | C++ |
 | [1958](https://leetcode.com/problems/check-if-move-is-legal/) | [Check if Move is Legal](problems/1958.check-if-move-is-legal.cpp) | 🟡 Medium | C++ |
 | [1959](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [Minimum Total Space Wasted With K Resizing Operations](problems/1959.minimum-total-space-wasted-with-k-resizing-operations.cpp) | 🟡 Medium | C++ |
+| [1961](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Check If String Is a Prefix of Array](problems/1961.check-if-string-is-a-prefix-of-array.cpp) | 🟢 Easy | C++ |
 | [1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Remove Stones to Minimize the Total](problems/1962.remove-stones-to-minimize-the-total.cpp) | 🟡 Medium | C++ |
 | [1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Last Day Where You Can Still Cross](problems/1970.last-day-where-you-can-still-cross.cpp) | 🔴 Hard | C++ |
 | [1975](https://leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](problems/1975.maximum-matrix-sum.cpp) | 🟡 Medium | C++ |
