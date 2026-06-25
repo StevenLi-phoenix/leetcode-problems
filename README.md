@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**800 solved** — 🟢 258 Easy · 🟡 381 Medium · 🔴 161 Hard
+**801 solved** — 🟢 259 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -514,6 +514,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
 | [2438](https://leetcode.com/problems/range-product-queries-of-powers/) | [Range Product Queries of Powers](problems/2438.range-product-queries-of-powers.cpp) | 🟡 Medium | C++ |
 | [2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](problems/2444.count-subarrays-with-fixed-bounds.cpp) | 🔴 Hard | C++ |
+| [2446](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Determine if Two Events Have Conflict](problems/2446.determine-if-two-events-have-conflict.cpp) | 🟢 Easy | C++ |
 | [2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [Number of Subarrays With GCD Equal to K](problems/2447.number-of-subarrays-with-gcd-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [2449](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [Minimum Number of Operations to Make Arrays Similar](problems/2449.minimum-number-of-operations-to-make-arrays-similar.cpp) | 🔴 Hard | C++ |
 | [2451](https://leetcode.com/problems/odd-string-difference/) | [Odd String Difference](problems/2451.odd-string-difference.cpp) | 🟢 Easy | C++ |
