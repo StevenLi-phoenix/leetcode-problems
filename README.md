@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**826 solved** — 🟢 284 Easy · 🟡 381 Medium · 🔴 161 Hard
+**827 solved** — 🟢 285 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -641,6 +641,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3028](https://leetcode.com/problems/ant-on-the-boundary/) | [Ant on the Boundary](problems/3028.ant-on-the-boundary.cpp) | 🟢 Easy | C++ |
 | [3035](https://leetcode.com/problems/maximum-palindromes-after-operations/) | [Maximum Palindromes After Operations](problems/3035.maximum-palindromes-after-operations.cpp) | 🟡 Medium | C++ |
 | [3036](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | [Number of Subarrays That Match a Pattern II](problems/3036.number-of-subarrays-that-match-a-pattern-ii.cpp) | 🔴 Hard | C++ |
+| [3038](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [Maximum Number of Operations With the Same Score I](problems/3038.maximum-number-of-operations-with-the-same-score-i.cpp) | 🟢 Easy | C++ |
 | [3039](https://leetcode.com/problems/apply-operations-to-make-string-empty/) | [Apply Operations to Make String Empty](problems/3039.apply-operations-to-make-string-empty.cpp) | 🟡 Medium | C++ |
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](problems/3043.find-the-length-of-the-longest-common-prefix.cpp) | 🟡 Medium | C++ |
 | [3044](https://leetcode.com/problems/most-frequent-prime/) | [Most Frequent Prime](problems/3044.most-frequent-prime.cpp) | 🟡 Medium | C++ |
