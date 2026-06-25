@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**807 solved** — 🟢 265 Easy · 🟡 381 Medium · 🔴 161 Hard
+**808 solved** — 🟢 266 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -421,6 +421,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1959](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [Minimum Total Space Wasted With K Resizing Operations](problems/1959.minimum-total-space-wasted-with-k-resizing-operations.cpp) | 🟡 Medium | C++ |
 | [1961](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Check If String Is a Prefix of Array](problems/1961.check-if-string-is-a-prefix-of-array.cpp) | 🟢 Easy | C++ |
 | [1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Remove Stones to Minimize the Total](problems/1962.remove-stones-to-minimize-the-total.cpp) | 🟡 Medium | C++ |
+| [1967](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Number of Strings That Appear as Substrings in Word](problems/1967.number-of-strings-that-appear-as-substrings-in-word.cpp) | 🟢 Easy | C++ |
 | [1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Last Day Where You Can Still Cross](problems/1970.last-day-where-you-can-still-cross.cpp) | 🔴 Hard | C++ |
 | [1975](https://leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](problems/1975.maximum-matrix-sum.cpp) | 🟡 Medium | C++ |
 | [1978](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [Employees Whose Manager Left the Company](problems/1978.employees-whose-manager-left-the-company.sql) | 🟢 Easy | mysql |
