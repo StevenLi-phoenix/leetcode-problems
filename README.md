@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**757 solved** — 🟢 220 Easy · 🟡 377 Medium · 🔴 160 Hard
+**758 solved** — 🟢 221 Easy · 🟡 377 Medium · 🔴 160 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -304,6 +304,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | [Number of Good Pairs](problems/1512.number-of-good-pairs.cpp) | 🟢 Easy | C++ |
 | [1513](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Number of Substrings With Only 1s](problems/1513.number-of-substrings-with-only-1s.cpp) | 🟡 Medium | C++ |
 | [1517](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [Find Users With Valid E-Mails](problems/1517.find-users-with-valid-e-mails.sql) | 🟢 Easy | mysql |
+| [1518](https://leetcode.com/problems/water-bottles/) | [Water Bottles](problems/1518.water-bottles.cpp) | 🟢 Easy | C++ |
 | [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Count Odd Numbers in an Interval Range](problems/1523.count-odd-numbers-in-an-interval-range.cpp) | 🟢 Easy | C++ |
 | [1528](https://leetcode.com/problems/shuffle-string/) | [Shuffle String](problems/1528.shuffle-string.py) | 🟢 Easy | Python |
 | [1534](https://leetcode.com/problems/count-good-triplets/) | [Count Good Triplets](problems/1534.count-good-triplets.cpp) | 🟢 Easy | C++ |
