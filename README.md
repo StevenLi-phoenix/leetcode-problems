@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**816 solved** — 🟢 274 Easy · 🟡 381 Medium · 🔴 161 Hard
+**817 solved** — 🟢 275 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -809,6 +809,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3866](https://leetcode.com/problems/first-unique-even-element/) | [First Unique Even Element](problems/3866.first-unique-even-element.cpp) | 🟢 Easy | C++ |
 | [3869](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | [Count Fancy Numbers in a Range](problems/3869.count-fancy-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3870](https://leetcode.com/problems/count-commas-in-range/) | [Count Commas in Range](problems/3870.count-commas-in-range.cpp) | 🟢 Easy | C++ |
+| [3875](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Construct Uniform Parity Array I](problems/3875.construct-uniform-parity-array-i.cpp) | 🟢 Easy | C++ |
 | [3877](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | [Minimum Removals to Achieve Target XOR](problems/3877.minimum-removals-to-achieve-target-xor.cpp) | 🟡 Medium | C++ |
 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](problems/3882.minimum-xor-path-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
