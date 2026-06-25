@@ -20,34 +20,39 @@ result = subprocess.run(
     ["leetcode", "list", "-n", "5000"],
     capture_output=True, text=True,
 )
-rows: list[tuple[int, str]] = []
+diff_map: dict[int, str] = {}
 for line in result.stdout.splitlines():
     m = row_pat.match(ansi.sub("", line))
     if m:
-        rows.append((int(m.group(1)), m.group(2)))
-rows.sort()
+        diff_map[int(m.group(1))] = m.group(2)
 
+# ── 2. Build flat char array indexed by problem ID ────────────────────────────
 code = {"Easy": "E", "Medium": "M", "Hard": "H"}
-table_lines = [f"    {{{fid}, '{code[diff]}'}},\n" for fid, diff in rows]
-table = "".join(table_lines)
+max_id = max(diff_map)
+entries = ["0"] * (max_id + 1)   # index 0 unused
+for fid, diff in diff_map.items():
+    entries[fid] = f"'{code[diff]}'"
 
-# ── 2. Splice new table into gen-readme.cpp ───────────────────────────────────
+table = "".join(f"    {e},\n" for e in entries)
+
+# ── 3. Splice new table into gen-readme.cpp ───────────────────────────────────
 src = CPP.read_text()
+pattern = r'(// ── difficulty table[^\n]*\n// clang-format off\nstatic const char DIFF\[\] = \{)\n.*?(// clang-format on)'
+if not re.search(pattern, src, re.DOTALL):
+    print("ERROR: could not find DIFF[] table in gen-readme.cpp", file=sys.stderr)
+    sys.exit(1)
 new_src = re.sub(
-    r'(// ── difficulty table.*?static const struct \{[^}]+\} DIFF\[\] = \{)\n.*?(\};)',
-    lambda m: m.group(1) + "\n" + table + m.group(2),
+    pattern,
+    lambda m: m.group(1) + "\n" + table + "};\n" + m.group(2),
     src,
     count=1,
     flags=re.DOTALL,
 )
-if new_src == src:
-    print("ERROR: could not find DIFF[] table in gen-readme.cpp", file=sys.stderr)
-    sys.exit(1)
 
 CPP.write_text(new_src)
-print(f"Updated gen-readme.cpp ({len(rows)} difficulty entries)")
+print(f"Updated gen-readme.cpp (max id {max_id}, {len(diff_map)} entries)")
 
-# ── 3. Recompile ─────────────────────────────────────────────────────────────
+# ── 4. Recompile ─────────────────────────────────────────────────────────────
 subprocess.run(
     ["c++", "-std=c++17", "-O2", "-Wall", "-o", str(SCRIPTS / "gen-readme"), str(CPP)],
     check=True,
