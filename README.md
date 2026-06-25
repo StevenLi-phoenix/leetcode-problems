@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**700 solved** — 🟢 207 Easy · 🟡 346 Medium · 🔴 147 Hard
+**701 solved** — 🟢 207 Easy · 🟡 347 Medium · 🔴 147 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -100,6 +100,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [398](https://leetcode.com/problems/random-pick-index/) | [Random Pick Index](problems/398.random-pick-index.cpp) | 🟡 Medium | C++ |
 | [399](https://leetcode.com/problems/evaluate-division/) | [Evaluate Division](problems/399.evaluate-division.cpp) | 🟡 Medium | C++ |
 | [401](https://leetcode.com/problems/binary-watch/) | [Binary Watch](problems/401.binary-watch.cpp) | 🟢 Easy | C++ |
+| [423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Reconstruct Original Digits from English](problems/423.reconstruct-original-digits-from-english.cpp) | 🟡 Medium | C++ |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](problems/424.longest-repeating-character-replacement.cpp) | 🟡 Medium | C++ |
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
 | [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Number of Segments in a String](problems/434.number-of-segments-in-a-string.cpp) | 🟢 Easy | C++ |
