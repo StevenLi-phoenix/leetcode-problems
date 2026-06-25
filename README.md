@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**774 solved** — 🟢 232 Easy · 🟡 381 Medium · 🔴 161 Hard
+**775 solved** — 🟢 233 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -325,6 +325,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Special Positions in a Binary Matrix](problems/1582.special-positions-in-a-binary-matrix.cpp) | 🟢 Easy | C++ |
 | [1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Min Cost to Connect All Points](problems/1584.min-cost-to-connect-all-points.cpp) | 🟡 Medium | C++ |
 | [1587](https://leetcode.com/problems/bank-account-summary-ii/) | [Bank Account Summary II](problems/1587.bank-account-summary-ii.sql) | 🟢 Easy | mysql |
+| [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Sum of All Odd Length Subarrays](problems/1588.sum-of-all-odd-length-subarrays.cpp) | 🟢 Easy | C++ |
 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](problems/1594.maximum-non-negative-product-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [1604](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](problems/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.cpp) | 🟡 Medium | C++ |
 | [1605](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [Find Valid Matrix Given Row and Column Sums](problems/1605.find-valid-matrix-given-row-and-column-sums.cpp) | 🟡 Medium | C++ |
