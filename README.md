@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**712 solved** — 🟢 207 Easy · 🟡 353 Medium · 🔴 152 Hard
+**713 solved** — 🟢 207 Easy · 🟡 354 Medium · 🔴 152 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -105,6 +105,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
 | [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Number of Segments in a String](problems/434.number-of-segments-in-a-string.cpp) | 🟢 Easy | C++ |
 | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435.non-overlapping-intervals.cpp) | 🟡 Medium | C++ |
+| [443](https://leetcode.com/problems/string-compression/) | [String Compression](problems/443.string-compression.cpp) | 🟡 Medium | C++ |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Find All Numbers Disappeared in an Array](problems/448.find-all-numbers-disappeared-in-an-array.cpp) | 🟢 Easy | C++ |
 | [451](https://leetcode.com/problems/sort-characters-by-frequency/) | [Sort Characters By Frequency](problems/451.sort-characters-by-frequency.cpp) | 🟡 Medium | C++ |
 | [454](https://leetcode.com/problems/4sum-ii/) | [4Sum II](problems/454.4sum-ii.cpp) | 🟡 Medium | C++ |
