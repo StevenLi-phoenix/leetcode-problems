@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**802 solved** — 🟢 260 Easy · 🟡 381 Medium · 🔴 161 Hard
+**803 solved** — 🟢 261 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -392,6 +392,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
 | [1850](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](problems/1850.minimum-adjacent-swaps-to-reach-the-kth-smallest-number.cpp) | 🟡 Medium | C++ |
+| [1854](https://leetcode.com/problems/maximum-population-year/) | [Maximum Population Year](problems/1854.maximum-population-year.cpp) | 🟢 Easy | C++ |
 | [1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Maximum Distance Between a Pair of Values](problems/1855.maximum-distance-between-a-pair-of-values.cpp) | 🟡 Medium | C++ |
 | [1861](https://leetcode.com/problems/rotating-the-box/) | [Rotating the Box](problems/1861.rotating-the-box.cpp) | 🟡 Medium | C++ |
 | [1871](https://leetcode.com/problems/jump-game-vii/) | [Jump Game VII](problems/1871.jump-game-vii.cpp) | 🟡 Medium | C++ |
