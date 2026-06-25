@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**850 solved** — 🟢 308 Easy · 🟡 381 Medium · 🔴 161 Hard
+**851 solved** — 🟢 309 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -177,6 +177,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [709](https://leetcode.com/problems/to-lower-case/) | [To Lower Case](problems/709.to-lower-case.cpp) | 🟢 Easy | C++ |
 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](problems/712.minimum-ascii-delete-sum-for-two-strings.cpp) | 🟡 Medium | C++ |
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
+| [724](https://leetcode.com/problems/find-pivot-index/) | [Find Pivot Index](problems/724.find-pivot-index.cpp) | 🟢 Easy | C++ |
 | [729](https://leetcode.com/problems/my-calendar-i/) | [My Calendar I](problems/729.my-calendar-i.cpp) | 🟡 Medium | C++ |
 | [743](https://leetcode.com/problems/network-delay-time/) | [Network Delay Time](problems/743.network-delay-time.cpp) | 🟡 Medium | C++ |
 | [744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Find Smallest Letter Greater Than Target](problems/744.find-smallest-letter-greater-than-target.cpp) | 🟢 Easy | C++ |
