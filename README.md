@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**739 solved** — 🟢 217 Easy · 🟡 364 Medium · 🔴 158 Hard
+**740 solved** — 🟢 217 Easy · 🟡 365 Medium · 🔴 158 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -88,6 +88,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [292](https://leetcode.com/problems/nim-game/) | [Nim Game](problems/292.nim-game.cpp) | 🟢 Easy | C++ |
 | [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Range Sum Query 2D - Immutable](problems/304.range-sum-query-2d-immutable.cpp) | 🟡 Medium | C++ |
 | [319](https://leetcode.com/problems/bulb-switcher/) | [Bulb Switcher](problems/319.bulb-switcher.cpp) | 🟡 Medium | C++ |
+| [322](https://leetcode.com/problems/coin-change/) | [Coin Change](problems/322.coin-change.cpp) | 🟡 Medium | C++ |
 | [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Longest Increasing Path in a Matrix](problems/329.longest-increasing-path-in-a-matrix.cpp) | 🔴 Hard | C++ |
 | [331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Verify Preorder Serialization of a Binary Tree](problems/331.verify-preorder-serialization-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [335](https://leetcode.com/problems/self-crossing/) | [Self Crossing](problems/335.self-crossing.cpp) | 🔴 Hard | C++ |
