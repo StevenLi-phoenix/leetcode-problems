@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**751 solved** — 🟢 219 Easy · 🟡 372 Medium · 🔴 160 Hard
+**752 solved** — 🟢 220 Easy · 🟡 372 Medium · 🔴 160 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -555,6 +555,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2906](https://leetcode.com/problems/construct-product-matrix/) | [Construct Product Matrix](problems/2906.construct-product-matrix.cpp) | 🟡 Medium | C++ |
 | [2911](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Minimum Changes to Make K Semi-palindromes](problems/2911.minimum-changes-to-make-k-semi-palindromes.cpp) | 🔴 Hard | C++ |
 | [2915](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/) | [Length of the Longest Subsequence That Sums to Target](problems/2915.length-of-the-longest-subsequence-that-sums-to-target.cpp) | 🟡 Medium | C++ |
+| [2917](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Find the K-or of an Array](problems/2917.find-the-k-or-of-an-array.cpp) | 🟢 Easy | C++ |
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
 | [2943](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](problems/2943.maximize-area-of-square-hole-in-grid.cpp) | 🟡 Medium | C++ |
