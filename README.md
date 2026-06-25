@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**727 solved** — 🟢 212 Easy · 🟡 359 Medium · 🔴 156 Hard
+**728 solved** — 🟢 213 Easy · 🟡 359 Medium · 🔴 156 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -551,6 +551,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](problems/2976.minimum-cost-to-convert-string-i.cpp) | 🟡 Medium | C++ |
 | [2977](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Cost to Convert String II](problems/2977.minimum-cost-to-convert-string-ii.cpp) | 🔴 Hard | C++ |
 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Maximize the Number of Partitions After Operations](problems/3003.maximize-the-number-of-partitions-after-operations.cpp) | 🔴 Hard | C++ |
+| [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Count Elements With Maximum Frequency](problems/3005.count-elements-with-maximum-frequency.cpp) | 🟢 Easy | C++ |
 | [3006](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | [Find Beautiful Indices in the Given Array I](problems/3006.find-beautiful-indices-in-the-given-array-i.cpp) | 🟡 Medium | C++ |
 | [3007](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](problems/3007.maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3010](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Divide an Array Into Subarrays With Minimum Cost I](problems/3010.divide-an-array-into-subarrays-with-minimum-cost-i.cpp) | 🟢 Easy | C++ |
