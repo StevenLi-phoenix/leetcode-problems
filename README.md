@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**756 solved** — 🟢 220 Easy · 🟡 376 Medium · 🔴 160 Hard
+**757 solved** — 🟢 220 Easy · 🟡 377 Medium · 🔴 160 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -170,6 +170,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [781](https://leetcode.com/problems/rabbits-in-forest/) | [Rabbits in Forest](problems/781.rabbits-in-forest.cpp) | 🟡 Medium | C++ |
 | [782](https://leetcode.com/problems/transform-to-chessboard/) | [Transform to Chessboard](problems/782.transform-to-chessboard.cpp) | 🔴 Hard | C++ |
 | [784](https://leetcode.com/problems/letter-case-permutation/) | [Letter Case Permutation](problems/784.letter-case-permutation.cpp) | 🟡 Medium | C++ |
+| [786](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [K-th Smallest Prime Fraction](problems/786.k-th-smallest-prime-fraction.cpp) | 🟡 Medium | C++ |
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
 | [789](https://leetcode.com/problems/escape-the-ghosts/) | [Escape The Ghosts](problems/789.escape-the-ghosts.cpp) | 🟡 Medium | C++ |
 | [796](https://leetcode.com/problems/rotate-string/) | [Rotate String](problems/796.rotate-string.cpp) | 🟢 Easy | C++ |
