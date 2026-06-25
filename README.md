@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**772 solved** — 🟢 230 Easy · 🟡 381 Medium · 🔴 161 Hard
+**773 solved** — 🟢 231 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -158,6 +158,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [691](https://leetcode.com/problems/stickers-to-spell-word/) | [Stickers to Spell Word](problems/691.stickers-to-spell-word.cpp) | 🔴 Hard | C++ |
 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](problems/693.binary-number-with-alternating-bits.cpp) | 🟢 Easy | C++ |
 | [696](https://leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](problems/696.count-binary-substrings.cpp) | 🟢 Easy | C++ |
+| [704](https://leetcode.com/problems/binary-search/) | [Binary Search](problems/704.binary-search.cpp) | 🟢 Easy | C++ |
 | [706](https://leetcode.com/problems/design-hashmap/) | [Design HashMap](problems/706.design-hashmap.cpp) | 🟢 Easy | C++ |
 | [709](https://leetcode.com/problems/to-lower-case/) | [To Lower Case](problems/709.to-lower-case.cpp) | 🟢 Easy | C++ |
 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](problems/712.minimum-ascii-delete-sum-for-two-strings.cpp) | 🟡 Medium | C++ |
