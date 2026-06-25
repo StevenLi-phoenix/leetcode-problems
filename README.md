@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**750 solved** — 🟢 219 Easy · 🟡 371 Medium · 🔴 160 Hard
+**751 solved** — 🟢 219 Easy · 🟡 372 Medium · 🔴 160 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -748,6 +748,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3870](https://leetcode.com/problems/count-commas-in-range/) | [Count Commas in Range](problems/3870.count-commas-in-range.cpp) | 🟢 Easy | C++ |
 | [3877](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | [Minimum Removals to Achieve Target XOR](problems/3877.minimum-removals-to-achieve-target-xor.cpp) | 🟡 Medium | C++ |
 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](problems/3882.minimum-xor-path-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
 | [3895](https://leetcode.com/problems/count-digit-appearances/) | [Count Digit Appearances](problems/3895.count-digit-appearances.cpp) | 🟡 Medium | C++ |
 | [3896](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Minimum Operations to Transform Array into Alternating Prime](problems/3896.minimum-operations-to-transform-array-into-alternating-prime.cpp) | 🟡 Medium | C++ |
 | [3909](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Compare Sums of Bitonic Parts](problems/3909.compare-sums-of-bitonic-parts.cpp) | 🟡 Medium | C++ |
