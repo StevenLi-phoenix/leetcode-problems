@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**741 solved** — 🟢 218 Easy · 🟡 365 Medium · 🔴 158 Hard
+**742 solved** — 🟢 218 Easy · 🟡 365 Medium · 🔴 159 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -302,6 +302,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1536](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Minimum Swaps to Arrange a Binary Grid](problems/1536.minimum-swaps-to-arrange-a-binary-grid.cpp) | 🟡 Medium | C++ |
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](problems/1545.find-kth-bit-in-nth-binary-string.cpp) | 🟡 Medium | C++ |
 | [1546](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problems/1546.maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.cpp) | 🟡 Medium | C++ |
+| [1553](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Minimum Number of Days to Eat N Oranges](problems/1553.minimum-number-of-days-to-eat-n-oranges.cpp) | 🔴 Hard | C++ |
 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](problems/1559.detect-cycles-in-2d-grid.cpp) | 🟡 Medium | C++ |
 | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](problems/1569.number-of-ways-to-reorder-array-to-get-same-bst.cpp) | 🔴 Hard | C++ |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](problems/1578.minimum-time-to-make-rope-colorful.cpp) | 🟡 Medium | C++ |
