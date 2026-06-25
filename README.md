@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**794 solved** — 🟢 252 Easy · 🟡 381 Medium · 🔴 161 Hard
+**795 solved** — 🟢 253 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -76,6 +76,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
+| [205](https://leetcode.com/problems/isomorphic-strings/) | [Isomorphic Strings](problems/205.isomorphic-strings.cpp) | 🟢 Easy | C++ |
 | [212](https://leetcode.com/problems/word-search-ii/) | [Word Search II](problems/212.word-search-ii.cpp) | 🔴 Hard | C++ |
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
 | [224](https://leetcode.com/problems/basic-calculator/) | [Basic Calculator](problems/224.basic-calculator.cpp) | 🔴 Hard | C++ |
