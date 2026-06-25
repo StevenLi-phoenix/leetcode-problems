@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**743 solved** — 🟢 218 Easy · 🟡 366 Medium · 🔴 159 Hard
+**744 solved** — 🟢 218 Easy · 🟡 367 Medium · 🔴 159 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -177,6 +177,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [820](https://leetcode.com/problems/short-encoding-of-words/) | [Short Encoding of Words](problems/820.short-encoding-of-words.cpp) | 🟡 Medium | C++ |
 | [823](https://leetcode.com/problems/binary-trees-with-factors/) | [Binary Trees With Factors](problems/823.binary-trees-with-factors.py) | 🟡 Medium | Python |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
+| [833](https://leetcode.com/problems/find-and-replace-in-string/) | [Find And Replace in String](problems/833.find-and-replace-in-string.cpp) | 🟡 Medium | C++ |
 | [840](https://leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](problems/840.magic-squares-in-grid.cpp) | 🟡 Medium | C++ |
 | [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Peak Index in a Mountain Array](problems/852.peak-index-in-a-mountain-array.cpp) | 🟡 Medium | C++ |
 | [857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](problems/857.minimum-cost-to-hire-k-workers.cpp) | 🔴 Hard | C++ |
