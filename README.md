@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**805 solved** — 🟢 263 Easy · 🟡 381 Medium · 🔴 161 Hard
+**806 solved** — 🟢 264 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -347,6 +347,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
 | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](problems/1631.path-with-minimum-effort.cpp) | 🟡 Medium | C++ |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Percentage of Users Attended a Contest](problems/1633.percentage-of-users-attended-a-contest.sql) | 🟢 Easy | mysql |
+| [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](problems/1636.sort-array-by-increasing-frequency.cpp) | 🟢 Easy | C++ |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Count Sorted Vowel Strings](problems/1641.count-sorted-vowel-strings.cpp) | 🟡 Medium | C++ |
 | [1646](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Get Maximum in Generated Array](problems/1646.get-maximum-in-generated-array.cpp) | 🟢 Easy | C++ |
 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](problems/1653.minimum-deletions-to-make-string-balanced.cpp) | 🟡 Medium | C++ |
