@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**793 solved** — 🟢 251 Easy · 🟡 381 Medium · 🔴 161 Hard
+**794 solved** — 🟢 252 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -184,6 +184,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/) | [All Paths From Source to Target](problems/797.all-paths-from-source-to-target.cpp) | 🟡 Medium | C++ |
 | [799](https://leetcode.com/problems/champagne-tower/) | [Champagne Tower](problems/799.champagne-tower.cpp) | 🟡 Medium | C++ |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | [Unique Morse Code Words](problems/804.unique-morse-code-words.cpp) | 🟢 Easy | C++ |
+| [806](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Number of Lines To Write String](problems/806.number-of-lines-to-write-string.cpp) | 🟢 Easy | C++ |
 | [815](https://leetcode.com/problems/bus-routes/) | [Bus Routes](problems/815.bus-routes.cpp) | 🔴 Hard | C++ |
 | [817](https://leetcode.com/problems/linked-list-components/) | [Linked List Components](problems/817.linked-list-components.cpp) | 🟡 Medium | C++ |
 | [820](https://leetcode.com/problems/short-encoding-of-words/) | [Short Encoding of Words](problems/820.short-encoding-of-words.cpp) | 🟡 Medium | C++ |
