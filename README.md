@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**770 solved** — 🟢 227 Easy · 🟡 382 Medium · 🔴 161 Hard
+**770 solved** — 🟢 228 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -483,6 +483,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
 | [2401](https://leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](problems/2401.longest-nice-subarray.cpp) | 🟡 Medium | C++ |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](problems/2402.meeting-rooms-iii.cpp) | 🔴 Hard | C++ |
+| [2404](https://leetcode.com/problems/most-frequent-even-element/) | [Most Frequent Even Element](problems/2404.most-frequent-even-element.cpp) | 🟢 Easy | C++ |
 | [2413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](problems/2413.smallest-even-multiple.cpp) | 🟢 Easy | C++ |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
 | [2424](https://leetcode.com/problems/longest-uploaded-prefix/) | [Longest Uploaded Prefix](problems/2424.longest-uploaded-prefix.cpp) | 🟡 Medium | C++ |
@@ -624,7 +625,6 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
-| [3211](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | [Generate Binary Strings Without Adjacent Zeros](problems/3211.generate-binary-strings-without-adjacent-zeros.cpp) | 🟡 Medium | C++ |
 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](problems/3212.count-submatrices-with-equal-frequency-of-x-and-y.cpp) | 🟡 Medium | C++ |
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
 | [3224](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | [Minimum Array Changes to Make Differences Equal](problems/3224.minimum-array-changes-to-make-differences-equal.cpp) | 🟡 Medium | C++ |
