@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**814 solved** — 🟢 272 Easy · 🟡 381 Medium · 🔴 161 Hard
+**815 solved** — 🟢 273 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -442,6 +442,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2028](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](problems/2028.find-missing-observations.cpp) | 🟡 Medium | C++ |
 | [2029](https://leetcode.com/problems/stone-game-ix/) | [Stone Game IX](problems/2029.stone-game-ix.cpp) | 🟡 Medium | C++ |
 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](problems/2033.minimum-operations-to-make-a-uni-value-grid.cpp) | 🟡 Medium | C++ |
+| [2042](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Check if Numbers Are Ascending in a Sentence](problems/2042.check-if-numbers-are-ascending-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](problems/2044.count-number-of-maximum-bitwise-or-subsets.cpp) | 🟡 Medium | C++ |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | [Parallel Courses III](problems/2050.parallel-courses-iii.cpp) | 🔴 Hard | C++ |
 | [2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [Kth Distinct String in an Array](problems/2053.kth-distinct-string-in-an-array.cpp) | 🟢 Easy | C++ |
