@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**856 solved** — 🟢 314 Easy · 🟡 381 Medium · 🔴 161 Hard
+**857 solved** — 🟢 314 Easy · 🟡 382 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -73,6 +73,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [149](https://leetcode.com/problems/max-points-on-a-line/) | [Max Points on a Line](problems/149.max-points-on-a-line.cpp) | 🔴 Hard | C++ |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](problems/153.find-minimum-in-rotated-sorted-array.cpp) | 🟡 Medium | C++ |
 | [154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Find Minimum in Rotated Sorted Array II](problems/154.find-minimum-in-rotated-sorted-array-ii.cpp) | 🔴 Hard | C++ |
+| [165](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](problems/165.compare-version-numbers.cpp) | 🟡 Medium | C++ |
 | [171](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](problems/171.excel-sheet-column-number.cpp) | 🟢 Easy | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
