@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**852 solved** — 🟢 310 Easy · 🟡 381 Medium · 🔴 161 Hard
+**853 solved** — 🟢 311 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -436,6 +436,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1922](https://leetcode.com/problems/count-good-numbers/) | [Count Good Numbers](problems/1922.count-good-numbers.cpp) | 🟡 Medium | C++ |
 | [1923](https://leetcode.com/problems/longest-common-subpath/) | [Longest Common Subpath](problems/1923.longest-common-subpath.cpp) | 🔴 Hard | C++ |
 | [1936](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Add Minimum Number of Rungs](problems/1936.add-minimum-number-of-rungs.cpp) | 🟡 Medium | C++ |
+| [1941](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [Check if All Characters Have Equal Number of Occurrences](problems/1941.check-if-all-characters-have-equal-number-of-occurrences.cpp) | 🟢 Easy | C++ |
 | [1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [Number of Visible People in a Queue](problems/1944.number-of-visible-people-in-a-queue.cpp) | 🔴 Hard | C++ |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](problems/1945.sum-of-digits-of-string-after-convert.cpp) | 🟢 Easy | C++ |
 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](problems/1957.delete-characters-to-make-fancy-string.cpp) | 🟢 Easy | C++ |
