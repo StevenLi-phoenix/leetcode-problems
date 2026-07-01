@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**854 solved** — 🟢 312 Easy · 🟡 381 Medium · 🔴 161 Hard
+**855 solved** — 🟢 313 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -519,6 +519,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2270](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](problems/2270.number-of-ways-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Maximum White Tiles Covered by a Carpet](problems/2271.maximum-white-tiles-covered-by-a-carpet.cpp) | 🟡 Medium | C++ |
 | [2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Find Resultant Array After Removing Anagrams](problems/2273.find-resultant-array-after-removing-anagrams.cpp) | 🟢 Easy | C++ |
+| [2278](https://leetcode.com/problems/percentage-of-letter-in-string/) | [Percentage of Letter in String](problems/2278.percentage-of-letter-in-string.cpp) | 🟢 Easy | C++ |
 | [2283](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Check if Number Has Equal Digit Count and Digit Value](problems/2283.check-if-number-has-equal-digit-count-and-digit-value.cpp) | 🟢 Easy | C++ |
 | [2299](https://leetcode.com/problems/strong-password-checker-ii/) | [Strong Password Checker II](problems/2299.strong-password-checker-ii.cpp) | 🟢 Easy | C++ |
 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](problems/2300.successful-pairs-of-spells-and-potions.cpp) | 🟡 Medium | C++ |
