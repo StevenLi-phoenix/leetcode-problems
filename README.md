@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**853 solved** — 🟢 311 Easy · 🟡 381 Medium · 🔴 161 Hard
+**854 solved** — 🟢 312 Easy · 🟡 381 Medium · 🔴 161 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -458,6 +458,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [First Day Where You Have Been in All the Rooms](problems/1997.first-day-where-you-have-been-in-all-the-rooms.cpp) | 🟡 Medium | C++ |
 | [2019](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [The Score of Students Solving Math Expression](problems/2019.the-score-of-students-solving-math-expression.cpp) | 🔴 Hard | C++ |
 | [2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [Number of Pairs of Strings With Concatenation Equal to Target](problems/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.cpp) | 🟡 Medium | C++ |
+| [2027](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Minimum Moves to Convert String](problems/2027.minimum-moves-to-convert-string.cpp) | 🟢 Easy | C++ |
 | [2028](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](problems/2028.find-missing-observations.cpp) | 🟡 Medium | C++ |
 | [2029](https://leetcode.com/problems/stone-game-ix/) | [Stone Game IX](problems/2029.stone-game-ix.cpp) | 🟡 Medium | C++ |
 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](problems/2033.minimum-operations-to-make-a-uni-value-grid.cpp) | 🟡 Medium | C++ |
