@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**868 solved** — 🟢 318 Easy · 🟡 388 Medium · 🔴 162 Hard
+**869 solved** — 🟢 319 Easy · 🟡 388 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -803,6 +803,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3658](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [GCD of Odd and Even Sums](problems/3658.gcd-of-odd-and-even-sums.cpp) | 🟢 Easy | C++ |
 | [3660](https://leetcode.com/problems/jump-game-ix/) | [Jump Game IX](problems/3660.jump-game-ix.cpp) | 🟡 Medium | C++ |
 | [3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Maximum Walls Destroyed by Robots](problems/3661.maximum-walls-destroyed-by-robots.cpp) | 🔴 Hard | C++ |
+| [3663](https://leetcode.com/problems/find-the-least-frequent-digit/) | [Find The Least Frequent Digit](problems/3663.find-the-least-frequent-digit.cpp) | 🟢 Easy | C++ |
 | [3664](https://leetcode.com/problems/two-letter-card-game/) | [Two-Letter Card Game](problems/3664.two-letter-card-game.cpp) | 🟡 Medium | C++ |
 | [3666](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [Minimum Operations to Equalize Binary String](problems/3666.minimum-operations-to-equalize-binary-string.cpp) | 🔴 Hard | C++ |
 | [3668](https://leetcode.com/problems/restore-finishing-order/) | [Restore Finishing Order](problems/3668.restore-finishing-order.cpp) | 🟢 Easy | C++ |
