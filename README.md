@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**879 solved** — 🟢 322 Easy · 🟡 393 Medium · 🔴 164 Hard
+**880 solved** — 🟢 323 Easy · 🟡 393 Medium · 🔴 164 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -466,6 +466,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1995](https://leetcode.com/problems/count-special-quadruplets/) | [Count Special Quadruplets](problems/1995.count-special-quadruplets.cpp) | 🟢 Easy | C++ |
 | [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [The Number of Weak Characters in the Game](problems/1996.the-number-of-weak-characters-in-the-game.cpp) | 🟡 Medium | C++ |
 | [1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [First Day Where You Have Been in All the Rooms](problems/1997.first-day-where-you-have-been-in-all-the-rooms.cpp) | 🟡 Medium | C++ |
+| [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Maximum Difference Between Increasing Elements](problems/2016.maximum-difference-between-increasing-elements.cpp) | 🟢 Easy | C++ |
 | [2019](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [The Score of Students Solving Math Expression](problems/2019.the-score-of-students-solving-math-expression.cpp) | 🔴 Hard | C++ |
 | [2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [Number of Pairs of Strings With Concatenation Equal to Target](problems/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.cpp) | 🟡 Medium | C++ |
 | [2027](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Minimum Moves to Convert String](problems/2027.minimum-moves-to-convert-string.cpp) | 🟢 Easy | C++ |
