@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**869 solved** — 🟢 319 Easy · 🟡 388 Medium · 🔴 162 Hard
+**870 solved** — 🟢 319 Easy · 🟡 389 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -642,6 +642,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2906](https://leetcode.com/problems/construct-product-matrix/) | [Construct Product Matrix](problems/2906.construct-product-matrix.cpp) | 🟡 Medium | C++ |
 | [2908](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/) | [Minimum Sum of Mountain Triplets I](problems/2908.minimum-sum-of-mountain-triplets-i.cpp) | 🟢 Easy | C++ |
 | [2911](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Minimum Changes to Make K Semi-palindromes](problems/2911.minimum-changes-to-make-k-semi-palindromes.cpp) | 🔴 Hard | C++ |
+| [2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914.minimum-number-of-changes-to-make-binary-string-beautiful.cpp) | 🟡 Medium | C++ |
 | [2915](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/) | [Length of the Longest Subsequence That Sums to Target](problems/2915.length-of-the-longest-subsequence-that-sums-to-target.cpp) | 🟡 Medium | C++ |
 | [2917](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Find the K-or of an Array](problems/2917.find-the-k-or-of-an-array.cpp) | 🟢 Easy | C++ |
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
