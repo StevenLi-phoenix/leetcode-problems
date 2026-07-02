@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**871 solved** — 🟢 320 Easy · 🟡 389 Medium · 🔴 162 Hard
+**872 solved** — 🟢 320 Easy · 🟡 390 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -551,6 +551,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](problems/2402.meeting-rooms-iii.cpp) | 🔴 Hard | C++ |
 | [2404](https://leetcode.com/problems/most-frequent-even-element/) | [Most Frequent Even Element](problems/2404.most-frequent-even-element.cpp) | 🟢 Easy | C++ |
 | [2413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](problems/2413.smallest-even-multiple.cpp) | 🟢 Easy | C++ |
+| [2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Length of the Longest Alphabetical Continuous Substring](problems/2414.length-of-the-longest-alphabetical-continuous-substring.cpp) | 🟡 Medium | C++ |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
 | [2424](https://leetcode.com/problems/longest-uploaded-prefix/) | [Longest Uploaded Prefix](problems/2424.longest-uploaded-prefix.cpp) | 🟡 Medium | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
