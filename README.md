@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**891 solved** — 🟢 325 Easy · 🟡 400 Medium · 🔴 166 Hard
+**892 solved** — 🟢 325 Easy · 🟡 401 Medium · 🔴 166 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -870,6 +870,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
 | [3800](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Cost to Make Two Binary Strings Equal](problems/3800.minimum-cost-to-make-two-binary-strings-equal.cpp) | 🟡 Medium | C++ |
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
+| [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
 | [3820](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/) | [Pythagorean Distance Nodes in a Tree](problems/3820.pythagorean-distance-nodes-in-a-tree.cpp) | 🟡 Medium | C++ |
 | [3830](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | [Longest Alternating Subarray After Removing At Most One Element](problems/3830.longest-alternating-subarray-after-removing-at-most-one-element.cpp) | 🔴 Hard | C++ |
 | [3835](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | [Count Subarrays With Cost Less Than or Equal to K](problems/3835.count-subarrays-with-cost-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
