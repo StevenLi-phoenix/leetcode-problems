@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**867 solved** — 🟢 318 Easy · 🟡 387 Medium · 🔴 162 Hard
+**868 solved** — 🟢 318 Easy · 🟡 388 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -252,6 +252,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1032](https://leetcode.com/problems/stream-of-characters/) | [Stream of Characters](problems/1032.stream-of-characters.cpp) | 🔴 Hard | C++ |
 | [1034](https://leetcode.com/problems/coloring-a-border/) | [Coloring A Border](problems/1034.coloring-a-border.cpp) | 🟡 Medium | C++ |
 | [1041](https://leetcode.com/problems/robot-bounded-in-circle/) | [Robot Bounded In Circle](problems/1041.robot-bounded-in-circle.cpp) | 🟡 Medium | C++ |
+| [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](problems/1043.partition-array-for-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
