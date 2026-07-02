@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**887 solved** — 🟢 325 Easy · 🟡 398 Medium · 🔴 164 Hard
+**888 solved** — 🟢 325 Easy · 🟡 398 Medium · 🔴 165 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -729,6 +729,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3254](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Find the Power of K-Size Subarrays I](problems/3254.find-the-power-of-k-size-subarrays-i.cpp) | 🟡 Medium | C++ |
 | [3258](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | [Count Substrings That Satisfy K-Constraint I](problems/3258.count-substrings-that-satisfy-k-constraint-i.cpp) | 🟢 Easy | C++ |
 | [3259](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Energy Boost From Two Drinks](problems/3259.maximum-energy-boost-from-two-drinks.cpp) | 🟡 Medium | C++ |
+| [3272](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Find the Count of Good Integers](problems/3272.find-the-count-of-good-integers.cpp) | 🔴 Hard | C++ |
 | [3280](https://leetcode.com/problems/convert-date-to-binary/) | [Convert Date to Binary](problems/3280.convert-date-to-binary.cpp) | 🟢 Easy | C++ |
 | [3281](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Maximize Score of Numbers in Ranges](problems/3281.maximize-score-of-numbers-in-ranges.cpp) | 🟡 Medium | C++ |
 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](problems/3286.find-a-safe-walk-through-a-grid.cpp) | 🟡 Medium | C++ |
