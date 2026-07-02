@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**864 solved** — 🟢 316 Easy · 🟡 386 Medium · 🔴 162 Hard
+**865 solved** — 🟢 316 Easy · 🟡 387 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -393,6 +393,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](problems/1727.largest-submatrix-with-rearrangements.cpp) | 🟡 Medium | C++ |
 | [1732](https://leetcode.com/problems/find-the-highest-altitude/) | [Find the Highest Altitude](problems/1732.find-the-highest-altitude.cpp) | 🟢 Easy | C++ |
 | [1735](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Count Ways to Make Array With Product](problems/1735.count-ways-to-make-array-with-product.cpp) | 🔴 Hard | C++ |
+| [1738](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Find Kth Largest XOR Coordinate Value](problems/1738.find-kth-largest-xor-coordinate-value.cpp) | 🟡 Medium | C++ |
 | [1744](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [Can You Eat Your Favorite Candy on Your Favorite Day?](problems/1744.can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | 🟡 Medium | C++ |
 | [1745](https://leetcode.com/problems/palindrome-partitioning-iv/) | [Palindrome Partitioning IV](problems/1745.palindrome-partitioning-iv.cpp) | 🔴 Hard | C++ |
 | [1748](https://leetcode.com/problems/sum-of-unique-elements/) | [Sum of Unique Elements](problems/1748.sum-of-unique-elements.cpp) | 🟢 Easy | C++ |
