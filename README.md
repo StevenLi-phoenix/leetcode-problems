@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**865 solved** — 🟢 316 Easy · 🟡 387 Medium · 🔴 162 Hard
+**866 solved** — 🟢 317 Easy · 🟡 387 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -606,6 +606,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Minimum String Length After Removing Substrings](problems/2696.minimum-string-length-after-removing-substrings.cpp) | 🟢 Easy | C++ |
 | [2697](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Lexicographically Smallest Palindrome](problems/2697.lexicographically-smallest-palindrome.cpp) | 🟢 Easy | C++ |
 | [2698](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Find the Punishment Number of an Integer](problems/2698.find-the-punishment-number-of-an-integer.cpp) | 🟡 Medium | C++ |
+| [2706](https://leetcode.com/problems/buy-two-chocolates/) | [Buy Two Chocolates](problems/2706.buy-two-chocolates.cpp) | 🟢 Easy | C++ |
 | [2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Remove Trailing Zeros From a String](problems/2710.remove-trailing-zeros-from-a-string.cpp) | 🟢 Easy | C++ |
 | [2717](https://leetcode.com/problems/semi-ordered-permutation/) | [Semi-Ordered Permutation](problems/2717.semi-ordered-permutation.cpp) | 🟢 Easy | C++ |
 | [2718](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [Sum of Matrix After Queries](problems/2718.sum-of-matrix-after-queries.cpp) | 🟡 Medium | C++ |
