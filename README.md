@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**880 solved** — 🟢 323 Easy · 🟡 393 Medium · 🔴 164 Hard
+**881 solved** — 🟢 324 Easy · 🟡 393 Medium · 🔴 164 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -790,6 +790,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](problems/3573.best-time-to-buy-and-sell-stock-v.cpp) | 🟡 Medium | C++ |
 | [3580](https://leetcode.com/problems/find-consistently-improving-employees/) | [Find Consistently Improving Employees](problems/3580.find-consistently-improving-employees.sql) | 🟡 Medium | mysql |
+| [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
 | [3592](https://leetcode.com/problems/inverse-coin-change/) | [Inverse Coin Change](problems/3592.inverse-coin-change.cpp) | 🟡 Medium | C++ |
 | [3600](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](problems/3600.maximize-spanning-tree-stability-with-upgrades.cpp) | 🔴 Hard | C++ |
 | [3607](https://leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](problems/3607.power-grid-maintenance.cpp) | 🟡 Medium | C++ |
