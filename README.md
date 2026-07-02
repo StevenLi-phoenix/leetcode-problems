@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**874 solved** — 🟢 320 Easy · 🟡 392 Medium · 🔴 162 Hard
+**875 solved** — 🟢 320 Easy · 🟡 393 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -239,6 +239,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](problems/977.squares-of-a-sorted-array.cpp) | 🟢 Easy | C++ |
 | [979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Distribute Coins in Binary Tree](problems/979.distribute-coins-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [988](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Smallest String Starting From Leaf](problems/988.smallest-string-starting-from-leaf.cpp) | 🟡 Medium | C++ |
+| [990](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Satisfiability of Equality Equations](problems/990.satisfiability-of-equality-equations.cpp) | 🟡 Medium | C++ |
 | [992](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Subarrays with K Different Integers](problems/992.subarrays-with-k-different-integers.cpp) | 🔴 Hard | C++ |
 | [993](https://leetcode.com/problems/cousins-in-binary-tree/) | [Cousins in Binary Tree](problems/993.cousins-in-binary-tree.cpp) | 🟢 Easy | C++ |
 | [998](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Maximum Binary Tree II](problems/998.maximum-binary-tree-ii.cpp) | 🟡 Medium | C++ |
