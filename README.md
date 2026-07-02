@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**876 solved** — 🟢 321 Easy · 🟡 393 Medium · 🔴 162 Hard
+**877 solved** — 🟢 321 Easy · 🟡 393 Medium · 🔴 163 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -510,6 +510,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2151](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Maximum Good People Based on Statements](problems/2151.maximum-good-people-based-on-statements.cpp) | 🔴 Hard | C++ |
 | [2154](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [Keep Multiplying Found Values by Two](problems/2154.keep-multiplying-found-values-by-two.cpp) | 🟢 Easy | C++ |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Partition Array According to Given Pivot](problems/2161.partition-array-according-to-given-pivot.cpp) | 🟡 Medium | C++ |
+| [2163](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | [Minimum Difference in Sums After Removal of Elements](problems/2163.minimum-difference-in-sums-after-removal-of-elements.cpp) | 🔴 Hard | C++ |
 | [2165](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Smallest Value of the Rearranged Number](problems/2165.smallest-value-of-the-rearranged-number.cpp) | 🟡 Medium | C++ |
 | [2167](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [Minimum Time to Remove All Cars Containing Illegal Goods](problems/2167.minimum-time-to-remove-all-cars-containing-illegal-goods.cpp) | 🔴 Hard | C++ |
 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](problems/2169.count-operations-to-obtain-zero.cpp) | 🟢 Easy | C++ |
