@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**875 solved** — 🟢 320 Easy · 🟡 393 Medium · 🔴 162 Hard
+**876 solved** — 🟢 321 Easy · 🟡 393 Medium · 🔴 162 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -257,6 +257,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](problems/1043.partition-array-for-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
+| [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Greatest Common Divisor of Strings](problems/1071.greatest-common-divisor-of-strings.cpp) | 🟢 Easy | C++ |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Duplicate Zeros](problems/1089.duplicate-zeros.cpp) | 🟢 Easy | C++ |
 | [1094](https://leetcode.com/problems/car-pooling/) | [Car Pooling](problems/1094.car-pooling.cpp) | 🟡 Medium | C++ |
