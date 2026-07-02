@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**882 solved** — 🟢 324 Easy · 🟡 394 Medium · 🔴 164 Hard
+**883 solved** — 🟢 325 Easy · 🟡 394 Medium · 🔴 164 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -357,6 +357,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](problems/1559.detect-cycles-in-2d-grid.cpp) | 🟡 Medium | C++ |
 | [1566](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](problems/1566.detect-pattern-of-length-m-repeated-k-or-more-times.cpp) | 🟢 Easy | C++ |
 | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](problems/1569.number-of-ways-to-reorder-array-to-get-same-bst.cpp) | 🔴 Hard | C++ |
+| [1572](https://leetcode.com/problems/matrix-diagonal-sum/) | [Matrix Diagonal Sum](problems/1572.matrix-diagonal-sum.cpp) | 🟢 Easy | C++ |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](problems/1578.minimum-time-to-make-rope-colorful.cpp) | 🟡 Medium | C++ |
 | [1579](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Remove Max Number of Edges to Keep Graph Fully Traversable](problems/1579.remove-max-number-of-edges-to-keep-graph-fully-traversable.cpp) | 🔴 Hard | C++ |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Special Positions in a Binary Matrix](problems/1582.special-positions-in-a-binary-matrix.cpp) | 🟢 Easy | C++ |
