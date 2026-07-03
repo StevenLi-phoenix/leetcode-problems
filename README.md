@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**908 solved** — 🟢 328 Easy · 🟡 411 Medium · 🔴 169 Hard
+**909 solved** — 🟢 328 Easy · 🟡 411 Medium · 🔴 170 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -139,6 +139,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [475](https://leetcode.com/problems/heaters/) | [Heaters](problems/475.heaters.cpp) | 🟡 Medium | C++ |
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
 | [491](https://leetcode.com/problems/non-decreasing-subsequences/) | [Non-decreasing Subsequences](problems/491.non-decreasing-subsequences.cpp) | 🟡 Medium | C++ |
+| [493](https://leetcode.com/problems/reverse-pairs/) | [Reverse Pairs](problems/493.reverse-pairs.cpp) | 🔴 Hard | C++ |
 | [494](https://leetcode.com/problems/target-sum/) | [Target Sum](problems/494.target-sum.cpp) | 🟡 Medium | C++ |
 | [495](https://leetcode.com/problems/teemo-attacking/) | [Teemo Attacking](problems/495.teemo-attacking.cpp) | 🟢 Easy | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
