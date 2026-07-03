@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**914 solved** — 🟢 328 Easy · 🟡 415 Medium · 🔴 171 Hard
+**915 solved** — 🟢 329 Easy · 🟡 415 Medium · 🔴 171 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -688,6 +688,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Make Lexicographically Smallest Array by Swapping Elements](problems/2948.make-lexicographically-smallest-array-by-swapping-elements.cpp) | 🟡 Medium | C++ |
 | [2952](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | [Minimum Number of Coins to be Added](problems/2952.minimum-number-of-coins-to-be-added.cpp) | 🟡 Medium | C++ |
 | [2953](https://leetcode.com/problems/count-complete-substrings/) | [Count Complete Substrings](problems/2953.count-complete-substrings.cpp) | 🔴 Hard | C++ |
+| [2956](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [Find Common Elements Between Two Arrays](problems/2956.find-common-elements-between-two-arrays.cpp) | 🟢 Easy | C++ |
 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](problems/2958.length-of-longest-subarray-with-at-most-k-frequency.cpp) | 🟡 Medium | C++ |
 | [2963](https://leetcode.com/problems/count-the-number-of-good-partitions/) | [Count the Number of Good Partitions](problems/2963.count-the-number-of-good-partitions.cpp) | 🔴 Hard | C++ |
 | [2965](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Find Missing and Repeated Values](problems/2965.find-missing-and-repeated-values.cpp) | 🟢 Easy | C++ |
