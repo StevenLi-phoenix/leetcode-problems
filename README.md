@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**926 solved** — 🟢 333 Easy · 🟡 420 Medium · 🔴 173 Hard
+**927 solved** — 🟢 333 Easy · 🟡 421 Medium · 🔴 173 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -297,6 +297,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Find the Smallest Divisor Given a Threshold](problems/1283.find-the-smallest-divisor-given-a-threshold.cpp) | 🟡 Medium | C++ |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Element Appearing More Than 25% In Sorted Array](problems/1287.element-appearing-more-than-25-in-sorted-array.cpp) | 🟢 Easy | C++ |
 | [1292](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problems/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp) | 🟡 Medium | C++ |
+| [1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [All Elements in Two Binary Search Trees](problems/1305.all-elements-in-two-binary-search-trees.cpp) | 🟡 Medium | C++ |
 | [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](problems/1306.jump-game-iii.cpp) | 🟡 Medium | C++ |
 | [1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Convert Integer to the Sum of Two No-Zero Integers](problems/1317.convert-integer-to-the-sum-of-two-no-zero-integers.cpp) | 🟢 Easy | C++ |
 | [1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Number of Operations to Make Network Connected](problems/1319.number-of-operations-to-make-network-connected.cpp) | 🟡 Medium | C++ |
