@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**912 solved** — 🟢 328 Easy · 🟡 413 Medium · 🔴 171 Hard
+**913 solved** — 🟢 328 Easy · 🟡 414 Medium · 🔴 171 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -302,6 +302,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimum Distance to Type a Word Using Two Fingers](problems/1320.minimum-distance-to-type-a-word-using-two-fingers.cpp) | 🔴 Hard | C++ |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Sort the Matrix Diagonally](problems/1329.sort-the-matrix-diagonally.cpp) | 🟡 Medium | C++ |
 | [1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Remove Palindromic Subsequences](problems/1332.remove-palindromic-subsequences.cpp) | 🟢 Easy | C++ |
+| [1333](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [Filter Restaurants by Vegan-Friendly, Price and Distance](problems/1333.filter-restaurants-by-vegan-friendly-price-and-distance.cpp) | 🟡 Medium | C++ |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [The K Weakest Rows in a Matrix](problems/1337.the-k-weakest-rows-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Maximum Product of Splitted Binary Tree](problems/1339.maximum-product-of-splitted-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1340](https://leetcode.com/problems/jump-game-v/) | [Jump Game V](problems/1340.jump-game-v.cpp) | 🔴 Hard | C++ |
