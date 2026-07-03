@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**896 solved** — 🟢 326 Easy · 🟡 404 Medium · 🔴 166 Hard
+**897 solved** — 🟢 326 Easy · 🟡 405 Medium · 🔴 166 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -435,6 +435,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1854](https://leetcode.com/problems/maximum-population-year/) | [Maximum Population Year](problems/1854.maximum-population-year.cpp) | 🟢 Easy | C++ |
 | [1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Maximum Distance Between a Pair of Values](problems/1855.maximum-distance-between-a-pair-of-values.cpp) | 🟡 Medium | C++ |
 | [1861](https://leetcode.com/problems/rotating-the-box/) | [Rotating the Box](problems/1861.rotating-the-box.cpp) | 🟡 Medium | C++ |
+| [1864](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [Minimum Number of Swaps to Make the Binary String Alternating](problems/1864.minimum-number-of-swaps-to-make-the-binary-string-alternating.cpp) | 🟡 Medium | C++ |
 | [1869](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Longer Contiguous Segments of Ones than Zeros](problems/1869.longer-contiguous-segments-of-ones-than-zeros.cpp) | 🟢 Easy | C++ |
 | [1871](https://leetcode.com/problems/jump-game-vii/) | [Jump Game VII](problems/1871.jump-game-vii.cpp) | 🟡 Medium | C++ |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](problems/1877.minimize-maximum-pair-sum-in-array.cpp) | 🟡 Medium | C++ |
