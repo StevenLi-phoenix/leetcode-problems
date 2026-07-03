@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**894 solved** — 🟢 326 Easy · 🟡 402 Medium · 🔴 166 Hard
+**895 solved** — 🟢 326 Easy · 🟡 403 Medium · 🔴 166 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -797,6 +797,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](problems/3548.equal-sum-grid-partition-ii.cpp) | 🔴 Hard | C++ |
 | [3558](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Number of Ways to Assign Edge Weights I](problems/3558.number-of-ways-to-assign-edge-weights-i.cpp) | 🟡 Medium | C++ |
 | [3559](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [Number of Ways to Assign Edge Weights II](problems/3559.number-of-ways-to-assign-edge-weights-ii.cpp) | 🔴 Hard | C++ |
+| [3561](https://leetcode.com/problems/resulting-string-after-adjacent-removals/) | [Resulting String After Adjacent Removals](problems/3561.resulting-string-after-adjacent-removals.cpp) | 🟡 Medium | C++ |
 | [3562](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Maximum Profit from Trading Stocks with Discounts](problems/3562.maximum-profit-from-trading-stocks-with-discounts.cpp) | 🔴 Hard | C++ |
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](problems/3573.best-time-to-buy-and-sell-stock-v.cpp) | 🟡 Medium | C++ |
