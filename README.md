@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**904 solved** — 🟢 328 Easy · 🟡 408 Medium · 🔴 168 Hard
+**905 solved** — 🟢 328 Easy · 🟡 409 Medium · 🔴 168 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -625,6 +625,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2615](https://leetcode.com/problems/sum-of-distances/) | [Sum of Distances](problems/2615.sum-of-distances.cpp) | 🟡 Medium | C++ |
 | [2621](https://leetcode.com/problems/sleep/) | [Sleep](problems/2621.sleep.js) | 🟢 Easy | JavaScript |
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
+| [2623](https://leetcode.com/problems/memoize/) | [Memoize](problems/2623.memoize.js) | 🟡 Medium | JavaScript |
 | [2629](https://leetcode.com/problems/function-composition/) | [Function Composition](problems/2629.function-composition.js) | 🟢 Easy | JavaScript |
 | [2639](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Find the Width of Columns of a Grid](problems/2639.find-the-width-of-columns-of-a-grid.cpp) | 🟢 Easy | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
