@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**903 solved** — 🟢 327 Easy · 🟡 408 Medium · 🔴 168 Hard
+**904 solved** — 🟢 328 Easy · 🟡 408 Medium · 🔴 168 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -159,6 +159,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](problems/589.n-ary-tree-preorder-traversal.cpp) | 🟢 Easy | C++ |
 | [593](https://leetcode.com/problems/valid-square/) | [Valid Square](problems/593.valid-square.cpp) | 🟡 Medium | C++ |
 | [594](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](problems/594.longest-harmonious-subsequence.cpp) | 🟢 Easy | C++ |
+| [596](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Classes With at Least 5 Students](problems/596.classes-with-at-least-5-students.sql) | 🟢 Easy | mysql |
 | [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Minimum Index Sum of Two Lists](problems/599.minimum-index-sum-of-two-lists.cpp) | 🟢 Easy | C++ |
 | [606](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](problems/606.construct-string-from-binary-tree.cpp) | 🟡 Medium | C++ |
 | [607](https://leetcode.com/problems/sales-person/) | [Sales Person](problems/607.sales-person.sql) | 🟢 Easy | mysql |
