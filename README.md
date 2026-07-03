@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**900 solved** — 🟢 326 Easy · 🟡 407 Medium · 🔴 167 Hard
+**901 solved** — 🟢 326 Easy · 🟡 407 Medium · 🔴 168 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -142,6 +142,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [494](https://leetcode.com/problems/target-sum/) | [Target Sum](problems/494.target-sum.cpp) | 🟡 Medium | C++ |
 | [495](https://leetcode.com/problems/teemo-attacking/) | [Teemo Attacking](problems/495.teemo-attacking.cpp) | 🟢 Easy | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
+| [502](https://leetcode.com/problems/ipo/) | [IPO](problems/502.ipo.cpp) | 🔴 Hard | C++ |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](problems/515.find-largest-value-in-each-tree-row.cpp) | 🟡 Medium | C++ |
 | [523](https://leetcode.com/problems/continuous-subarray-sum/) | [Continuous Subarray Sum](problems/523.continuous-subarray-sum.cpp) | 🟡 Medium | C++ |
