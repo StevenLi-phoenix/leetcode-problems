@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**920 solved** — 🟢 332 Easy · 🟡 416 Medium · 🔴 172 Hard
+**921 solved** — 🟢 332 Easy · 🟡 417 Medium · 🔴 172 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -924,5 +924,6 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3936](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Minimum Swaps to Move Zeros to End](problems/3936.minimum-swaps-to-move-zeros-to-end.cpp) | 🟢 Easy | C++ |
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
 | [3950](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Exactly One Consecutive Set Bits Pair](problems/3950.exactly-one-consecutive-set-bits-pair.cpp) | 🟢 Easy | C++ |
+| [3952](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | [Maximum Total Value of Covered Indices](problems/3952.maximum-total-value-of-covered-indices.cpp) | 🟡 Medium | C++ |
 | [3954](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Sum of Compatible Numbers in Range I](problems/3954.sum-of-compatible-numbers-in-range-i.cpp) | 🟢 Easy | C++ |
 | [3959](https://leetcode.com/problems/check-good-integer/) | [Check Good Integer](problems/3959.check-good-integer.cpp) | 🟢 Easy | C++ |
