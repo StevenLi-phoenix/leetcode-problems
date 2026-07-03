@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**917 solved** — 🟢 331 Easy · 🟡 415 Medium · 🔴 171 Hard
+**918 solved** — 🟢 331 Easy · 🟡 416 Medium · 🔴 171 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -892,6 +892,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3774](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Absolute Difference Between Maximum and Minimum K Elements](problems/3774.absolute-difference-between-maximum-and-minimum-k-elements.cpp) | 🟢 Easy | C++ |
 | [3780](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Maximum Sum of Three Numbers Divisible by Three](problems/3780.maximum-sum-of-three-numbers-divisible-by-three.cpp) | 🟡 Medium | C++ |
 | [3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Mirror Distance of an Integer](problems/3783.mirror-distance-of-an-integer.cpp) | 🟢 Easy | C++ |
+| [3790](https://leetcode.com/problems/smallest-all-ones-multiple/) | [Smallest All-Ones Multiple](problems/3790.smallest-all-ones-multiple.cpp) | 🟡 Medium | C++ |
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
 | [3800](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Cost to Make Two Binary Strings Equal](problems/3800.minimum-cost-to-make-two-binary-strings-equal.cpp) | 🟡 Medium | C++ |
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
