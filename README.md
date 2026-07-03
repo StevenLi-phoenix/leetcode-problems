@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**898 solved** — 🟢 326 Easy · 🟡 406 Medium · 🔴 166 Hard
+**899 solved** — 🟢 326 Easy · 🟡 406 Medium · 🔴 167 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -601,6 +601,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2538](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/) | [Difference Between Maximum and Minimum Price Sum](problems/2538.difference-between-maximum-and-minimum-price-sum.cpp) | 🔴 Hard | C++ |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | [Minimum Common Value](problems/2540.minimum-common-value.cpp) | 🟢 Easy | C++ |
 | [2542](https://leetcode.com/problems/maximum-subsequence-score/) | [Maximum Subsequence Score](problems/2542.maximum-subsequence-score.cpp) | 🟡 Medium | C++ |
+| [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | [Check if Point Is Reachable](problems/2543.check-if-point-is-reachable.cpp) | 🔴 Hard | C++ |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Count Distinct Numbers on Board](problems/2549.count-distinct-numbers-on-board.cpp) | 🟢 Easy | C++ |
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2562](https://leetcode.com/problems/find-the-array-concatenation-value/) | [Find the Array Concatenation Value](problems/2562.find-the-array-concatenation-value.cpp) | 🟢 Easy | C++ |
