@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**906 solved** — 🟢 328 Easy · 🟡 410 Medium · 🔴 168 Hard
+**907 solved** — 🟢 328 Easy · 🟡 411 Medium · 🔴 168 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -726,6 +726,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3131](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [Find the Integer Added to Array I](problems/3131.find-the-integer-added-to-array-i.cpp) | 🟢 Easy | C++ |
 | [3133](https://leetcode.com/problems/minimum-array-end/) | [Minimum Array End](problems/3133.minimum-array-end.cpp) | 🟡 Medium | C++ |
 | [3137](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/) | [Minimum Number of Operations to Make Word K-Periodic](problems/3137.minimum-number-of-operations-to-make-word-k-periodic.cpp) | 🟡 Medium | C++ |
+| [3138](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | [Minimum Length of Anagram Concatenation](problems/3138.minimum-length-of-anagram-concatenation.cpp) | 🟡 Medium | C++ |
 | [3151](https://leetcode.com/problems/special-array-i/) | [Special Array I](problems/3151.special-array-i.cpp) | 🟢 Easy | C++ |
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
