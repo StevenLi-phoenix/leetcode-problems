@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**902 solved** — 🟢 326 Easy · 🟡 408 Medium · 🔴 168 Hard
+**903 solved** — 🟢 327 Easy · 🟡 408 Medium · 🔴 168 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -190,6 +190,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [756](https://leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](problems/756.pyramid-transition-matrix.cpp) | 🟡 Medium | C++ |
 | [761](https://leetcode.com/problems/special-binary-string/) | [Special Binary String](problems/761.special-binary-string.cpp) | 🔴 Hard | C++ |
 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](problems/762.prime-number-of-set-bits-in-binary-representation.cpp) | 🟢 Easy | C++ |
+| [766](https://leetcode.com/problems/toeplitz-matrix/) | [Toeplitz Matrix](problems/766.toeplitz-matrix.cpp) | 🟢 Easy | C++ |
 | [773](https://leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](problems/773.sliding-puzzle.cpp) | 🔴 Hard | C++ |
 | [779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [K-th Symbol in Grammar](problems/779.k-th-symbol-in-grammar.cpp) | 🟡 Medium | C++ |
 | [781](https://leetcode.com/problems/rabbits-in-forest/) | [Rabbits in Forest](problems/781.rabbits-in-forest.cpp) | 🟡 Medium | C++ |
