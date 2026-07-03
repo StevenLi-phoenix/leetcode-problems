@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**913 solved** — 🟢 328 Easy · 🟡 414 Medium · 🔴 171 Hard
+**914 solved** — 🟢 328 Easy · 🟡 415 Medium · 🔴 171 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -456,6 +456,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1888](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [Minimum Number of Flips to Make the Binary String Alternating](problems/1888.minimum-number-of-flips-to-make-the-binary-string-alternating.cpp) | 🟡 Medium | C++ |
 | [1893](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Check if All the Integers in a Range Are Covered](problems/1893.check-if-all-the-integers-in-a-range-are-covered.cpp) | 🟢 Easy | C++ |
 | [1895](https://leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](problems/1895.largest-magic-square.cpp) | 🟡 Medium | C++ |
+| [1898](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [Maximum Number of Removable Characters](problems/1898.maximum-number-of-removable-characters.cpp) | 🟡 Medium | C++ |
 | [1904](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [The Number of Full Rounds You Have Played](problems/1904.the-number-of-full-rounds-you-have-played.cpp) | 🟡 Medium | C++ |
 | [1909](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [Remove One Element to Make the Array Strictly Increasing](problems/1909.remove-one-element-to-make-the-array-strictly-increasing.cpp) | 🟢 Easy | C++ |
 | [1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](problems/1914.cyclically-rotating-a-grid.cpp) | 🟡 Medium | C++ |
