@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**923 solved** — 🟢 332 Easy · 🟡 418 Medium · 🔴 173 Hard
+**924 solved** — 🟢 333 Easy · 🟡 418 Medium · 🔴 173 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -772,6 +772,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3318](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Find X-Sum of All K-Long Subarrays I](problems/3318.find-x-sum-of-all-k-long-subarrays-i.cpp) | 🟢 Easy | C++ |
 | [3321](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](problems/3321.find-x-sum-of-all-k-long-subarrays-ii.cpp) | 🔴 Hard | C++ |
 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](problems/3333.find-the-original-typed-string-ii.cpp) | 🔴 Hard | C++ |
+| [3340](https://leetcode.com/problems/check-balanced-string/) | [Check Balanced String](problems/3340.check-balanced-string.cpp) | 🟢 Easy | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
 | [3357](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Minimize the Maximum Adjacent Element Difference](problems/3357.minimize-the-maximum-adjacent-element-difference.cpp) | 🔴 Hard | C++ |
 | [3360](https://leetcode.com/problems/stone-removal-game/) | [Stone Removal Game](problems/3360.stone-removal-game.cpp) | 🟢 Easy | C++ |
