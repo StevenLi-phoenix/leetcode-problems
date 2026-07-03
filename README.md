@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**901 solved** — 🟢 326 Easy · 🟡 407 Medium · 🔴 168 Hard
+**902 solved** — 🟢 326 Easy · 🟡 408 Medium · 🔴 168 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -768,6 +768,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3393](https://leetcode.com/problems/count-paths-with-the-given-xor-value/) | [Count Paths With the Given XOR Value](problems/3393.count-paths-with-the-given-xor-value.cpp) | 🟡 Medium | C++ |
 | [3398](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [Smallest Substring With Identical Characters I](problems/3398.smallest-substring-with-identical-characters-i.cpp) | 🔴 Hard | C++ |
 | [3399](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/) | [Smallest Substring With Identical Characters II](problems/3399.smallest-substring-with-identical-characters-ii.cpp) | 🔴 Hard | C++ |
+| [3403](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Find the Lexicographically Largest String From the Box I](problems/3403.find-the-lexicographically-largest-string-from-the-box-i.cpp) | 🟡 Medium | C++ |
 | [3405](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Count the Number of Arrays with K Matching Adjacent Elements](problems/3405.count-the-number-of-arrays-with-k-matching-adjacent-elements.cpp) | 🔴 Hard | C++ |
 | [3411](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Maximum Subarray With Equal Products](problems/3411.maximum-subarray-with-equal-products.cpp) | 🟢 Easy | C++ |
 | [3412](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [Find Mirror Score of a String](problems/3412.find-mirror-score-of-a-string.cpp) | 🟡 Medium | C++ |
