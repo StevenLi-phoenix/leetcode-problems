@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**925 solved** — 🟢 333 Easy · 🟡 419 Medium · 🔴 173 Hard
+**926 solved** — 🟢 333 Easy · 🟡 420 Medium · 🔴 173 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -405,6 +405,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1678](https://leetcode.com/problems/goal-parser-interpretation/) | [Goal Parser Interpretation](problems/1678.goal-parser-interpretation.cpp) | 🟢 Easy | C++ |
 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](problems/1680.concatenation-of-consecutive-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](problems/1689.partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | 🟡 Medium | C++ |
+| [1690](https://leetcode.com/problems/stone-game-vii/) | [Stone Game VII](problems/1690.stone-game-vii.cpp) | 🟡 Medium | C++ |
 | [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Number of Students Unable to Eat Lunch](problems/1700.number-of-students-unable-to-eat-lunch.cpp) | 🟢 Easy | C++ |
 | [1702](https://leetcode.com/problems/maximum-binary-string-after-change/) | [Maximum Binary String After Change](problems/1702.maximum-binary-string-after-change.cpp) | 🟡 Medium | C++ |
 | [1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [Minimum Adjacent Swaps for K Consecutive Ones](problems/1703.minimum-adjacent-swaps-for-k-consecutive-ones.cpp) | 🔴 Hard | C++ |
