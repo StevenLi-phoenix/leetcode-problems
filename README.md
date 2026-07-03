@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**921 solved** — 🟢 332 Easy · 🟡 417 Medium · 🔴 172 Hard
+**922 solved** — 🟢 332 Easy · 🟡 418 Medium · 🔴 172 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -306,6 +306,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [The K Weakest Rows in a Matrix](problems/1337.the-k-weakest-rows-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Maximum Product of Splitted Binary Tree](problems/1339.maximum-product-of-splitted-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1340](https://leetcode.com/problems/jump-game-v/) | [Jump Game V](problems/1340.jump-game-v.cpp) | 🔴 Hard | C++ |
+| [1341](https://leetcode.com/problems/movie-rating/) | [Movie Rating](problems/1341.movie-rating.sql) | 🟡 Medium | mysql |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Number of Steps to Reduce a Number to Zero](problems/1342.number-of-steps-to-reduce-a-number-to-zero.cpp) | 🟢 Easy | C++ |
 | [1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Angle Between Hands of a Clock](problems/1344.angle-between-hands-of-a-clock.cpp) | 🟡 Medium | C++ |
 | [1345](https://leetcode.com/problems/jump-game-iv/) | [Jump Game IV](problems/1345.jump-game-iv.cpp) | 🔴 Hard | C++ |
