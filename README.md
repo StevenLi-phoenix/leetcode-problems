@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**918 solved** — 🟢 331 Easy · 🟡 416 Medium · 🔴 171 Hard
+**919 solved** — 🟢 331 Easy · 🟡 416 Medium · 🔴 172 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -359,6 +359,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1518](https://leetcode.com/problems/water-bottles/) | [Water Bottles](problems/1518.water-bottles.cpp) | 🟢 Easy | C++ |
 | [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Count Odd Numbers in an Interval Range](problems/1523.count-odd-numbers-in-an-interval-range.cpp) | 🟢 Easy | C++ |
 | [1528](https://leetcode.com/problems/shuffle-string/) | [Shuffle String](problems/1528.shuffle-string.py) | 🟢 Easy | Python |
+| [1531](https://leetcode.com/problems/string-compression-ii/) | [String Compression II](problems/1531.string-compression-ii.cpp) | 🔴 Hard | C++ |
 | [1534](https://leetcode.com/problems/count-good-triplets/) | [Count Good Triplets](problems/1534.count-good-triplets.cpp) | 🟢 Easy | C++ |
 | [1536](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Minimum Swaps to Arrange a Binary Grid](problems/1536.minimum-swaps-to-arrange-a-binary-grid.cpp) | 🟡 Medium | C++ |
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](problems/1545.find-kth-bit-in-nth-binary-string.cpp) | 🟡 Medium | C++ |
