@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**993 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 188 Hard
+**994 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 189 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -465,6 +465,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Check if One String Swap Can Make Strings Equal](problems/1790.check-if-one-string-swap-can-make-strings-equal.cpp) | 🟢 Easy | C++ |
 | [1791](https://leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](problems/1791.find-center-of-star-graph.cpp) | 🟢 Easy | C++ |
 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](problems/1792.maximum-average-pass-ratio.cpp) | 🟡 Medium | C++ |
+| [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Maximum Score of a Good Subarray](problems/1793.maximum-score-of-a-good-subarray.cpp) | 🔴 Hard | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
 | [1816](https://leetcode.com/problems/truncate-sentence/) | [Truncate Sentence](problems/1816.truncate-sentence.cpp) | 🟢 Easy | C++ |
