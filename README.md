@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1002 solved** — 🟢 352 Easy · 🟡 458 Medium · 🔴 192 Hard
+**1003 solved** — 🟢 352 Easy · 🟡 458 Medium · 🔴 193 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -874,6 +874,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3488](https://leetcode.com/problems/closest-equal-element-queries/) | [Closest Equal Element Queries](problems/3488.closest-equal-element-queries.cpp) | 🟡 Medium | C++ |
 | [3492](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [Maximum Containers on a Ship](problems/3492.maximum-containers-on-a-ship.cpp) | 🟢 Easy | C++ |
 | [3493](https://leetcode.com/problems/properties-graph/) | [Properties Graph](problems/3493.properties-graph.cpp) | 🟡 Medium | C++ |
+| [3500](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [Minimum Cost to Divide Array Into Subarrays](problems/3500.minimum-cost-to-divide-array-into-subarrays.cpp) | 🔴 Hard | C++ |
 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](problems/3501.maximize-active-section-with-trade-ii.cpp) | 🔴 Hard | C++ |
 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](problems/3507.minimum-pair-removal-to-sort-array-i.cpp) | 🟢 Easy | C++ |
 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](problems/3510.minimum-pair-removal-to-sort-array-ii.cpp) | 🔴 Hard | C++ |
