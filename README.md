@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**989 solved** — 🟢 350 Easy · 🟡 453 Medium · 🔴 186 Hard
+**990 solved** — 🟢 350 Easy · 🟡 454 Medium · 🔴 186 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -297,6 +297,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1105](https://leetcode.com/problems/filling-bookcase-shelves/) | [Filling Bookcase Shelves](problems/1105.filling-bookcase-shelves.cpp) | 🟡 Medium | C++ |
 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Parsing A Boolean Expression](problems/1106.parsing-a-boolean-expression.cpp) | 🔴 Hard | C++ |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](problems/1110.delete-nodes-and-return-forest.cpp) | 🟡 Medium | C++ |
+| [1145](https://leetcode.com/problems/binary-tree-coloring-game/) | [Binary Tree Coloring Game](problems/1145.binary-tree-coloring-game.cpp) | 🟡 Medium | C++ |
 | [1146](https://leetcode.com/problems/snapshot-array/) | [Snapshot Array](problems/1146.snapshot-array.cpp) | 🟡 Medium | C++ |
 | [1147](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Longest Chunked Palindrome Decomposition](problems/1147.longest-chunked-palindrome-decomposition.cpp) | 🔴 Hard | C++ |
 | [1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](problems/1161.maximum-level-sum-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
