@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**961 solved** — 🟢 341 Easy · 🟡 440 Medium · 🔴 180 Hard
+**962 solved** — 🟢 341 Easy · 🟡 441 Medium · 🔴 180 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -76,6 +76,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](problems/153.find-minimum-in-rotated-sorted-array.cpp) | 🟡 Medium | C++ |
 | [154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Find Minimum in Rotated Sorted Array II](problems/154.find-minimum-in-rotated-sorted-array-ii.cpp) | 🔴 Hard | C++ |
 | [165](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](problems/165.compare-version-numbers.cpp) | 🟡 Medium | C++ |
+| [166](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Fraction to Recurring Decimal](problems/166.fraction-to-recurring-decimal.cpp) | 🟡 Medium | C++ |
 | [171](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](problems/171.excel-sheet-column-number.cpp) | 🟢 Easy | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
