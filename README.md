@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**996 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 191 Hard
+**997 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 192 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -979,6 +979,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3838](https://leetcode.com/problems/weighted-word-mapping/) | [Weighted Word Mapping](problems/3838.weighted-word-mapping.cpp) | 🟢 Easy | C++ |
 | [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
+| [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
 | [3866](https://leetcode.com/problems/first-unique-even-element/) | [First Unique Even Element](problems/3866.first-unique-even-element.cpp) | 🟢 Easy | C++ |
 | [3867](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Sum of GCD of Formed Pairs](problems/3867.sum-of-gcd-of-formed-pairs.cpp) | 🟡 Medium | C++ |
 | [3869](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | [Count Fancy Numbers in a Range](problems/3869.count-fancy-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
