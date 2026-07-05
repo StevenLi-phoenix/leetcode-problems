@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**932 solved** — 🟢 333 Easy · 🟡 426 Medium · 🔴 173 Hard
+**933 solved** — 🟢 333 Easy · 🟡 427 Medium · 🔴 173 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -155,6 +155,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Single Element in a Sorted Array](problems/540.single-element-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [541](https://leetcode.com/problems/reverse-string-ii/) | [Reverse String II](problems/541.reverse-string-ii.cpp) | 🟢 Easy | C++ |
 | [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Maximum Depth of N-ary Tree](problems/559.maximum-depth-of-n-ary-tree.cpp) | 🟢 Easy | C++ |
+| [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](problems/560.subarray-sum-equals-k.cpp) | 🟡 Medium | C++ |
 | [565](https://leetcode.com/problems/array-nesting/) | [Array Nesting](problems/565.array-nesting.cpp) | 🟡 Medium | C++ |
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](problems/572.subtree-of-another-tree.cpp) | 🟢 Easy | C++ |
 | [584](https://leetcode.com/problems/find-customer-referee/) | [Find Customer Referee](problems/584.find-customer-referee.sql) | 🟢 Easy | mysql |
