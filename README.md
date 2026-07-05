@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**958 solved** — 🟢 340 Easy · 🟡 438 Medium · 🔴 180 Hard
+**959 solved** — 🟢 341 Easy · 🟡 438 Medium · 🔴 180 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -385,6 +385,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1546](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problems/1546.maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.cpp) | 🟡 Medium | C++ |
 | [1553](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Minimum Number of Days to Eat N Oranges](problems/1553.minimum-number-of-days-to-eat-n-oranges.cpp) | 🔴 Hard | C++ |
 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](problems/1559.detect-cycles-in-2d-grid.cpp) | 🟡 Medium | C++ |
+| [1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [Most Visited Sector in  a Circular Track](problems/1560.most-visited-sector-in-a-circular-track.cpp) | 🟢 Easy | C++ |
 | [1566](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](problems/1566.detect-pattern-of-length-m-repeated-k-or-more-times.cpp) | 🟢 Easy | C++ |
 | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](problems/1569.number-of-ways-to-reorder-array-to-get-same-bst.cpp) | 🔴 Hard | C++ |
 | [1572](https://leetcode.com/problems/matrix-diagonal-sum/) | [Matrix Diagonal Sum](problems/1572.matrix-diagonal-sum.cpp) | 🟢 Easy | C++ |
