@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**990 solved** — 🟢 350 Easy · 🟡 454 Medium · 🔴 186 Hard
+**991 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 186 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -670,6 +670,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2596](https://leetcode.com/problems/check-knight-tour-configuration/) | [Check Knight Tour Configuration](problems/2596.check-knight-tour-configuration.cpp) | 🟡 Medium | C++ |
 | [2598](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [Smallest Missing Non-negative Integer After Operations](problems/2598.smallest-missing-non-negative-integer-after-operations.cpp) | 🟡 Medium | C++ |
 | [2600](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [K Items With the Maximum Sum](problems/2600.k-items-with-the-maximum-sum.cpp) | 🟢 Easy | C++ |
+| [2602](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/) | [Minimum Operations to Make All Array Elements Equal](problems/2602.minimum-operations-to-make-all-array-elements-equal.cpp) | 🟡 Medium | C++ |
 | [2607](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [Make K-Subarray Sums Equal](problems/2607.make-k-subarray-sums-equal.cpp) | 🟡 Medium | C++ |
 | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Shortest Cycle in a Graph](problems/2608.shortest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2609](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Find the Longest Balanced Substring of a Binary String](problems/2609.find-the-longest-balanced-substring-of-a-binary-string.cpp) | 🟢 Easy | C++ |
