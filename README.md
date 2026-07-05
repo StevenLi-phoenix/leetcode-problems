@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**936 solved** — 🟢 333 Easy · 🟡 428 Medium · 🔴 175 Hard
+**937 solved** — 🟢 333 Easy · 🟡 429 Medium · 🔴 175 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -104,6 +104,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [322](https://leetcode.com/problems/coin-change/) | [Coin Change](problems/322.coin-change.cpp) | 🟡 Medium | C++ |
 | [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Longest Increasing Path in a Matrix](problems/329.longest-increasing-path-in-a-matrix.cpp) | 🔴 Hard | C++ |
 | [331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Verify Preorder Serialization of a Binary Tree](problems/331.verify-preorder-serialization-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
+| [334](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Increasing Triplet Subsequence](problems/334.increasing-triplet-subsequence.cpp) | 🟡 Medium | C++ |
 | [335](https://leetcode.com/problems/self-crossing/) | [Self Crossing](problems/335.self-crossing.cpp) | 🔴 Hard | C++ |
 | [338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](problems/338.counting-bits.cpp) | 🟢 Easy | C++ |
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
