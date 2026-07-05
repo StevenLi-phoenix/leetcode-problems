@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**956 solved** — 🟢 340 Easy · 🟡 438 Medium · 🔴 178 Hard
+**957 solved** — 🟢 340 Easy · 🟡 438 Medium · 🔴 179 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -62,6 +62,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](problems/109.convert-sorted-list-to-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [110](https://leetcode.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](problems/110.balanced-binary-tree.cpp) | 🟢 Easy | C++ |
 | [112](https://leetcode.com/problems/path-sum/) | [Path Sum](problems/112.path-sum.cpp) | 🟢 Easy | C++ |
+| [115](https://leetcode.com/problems/distinct-subsequences/) | [Distinct Subsequences](problems/115.distinct-subsequences.cpp) | 🔴 Hard | C++ |
 | [116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Populating Next Right Pointers in Each Node](problems/116.populating-next-right-pointers-in-each-node.cpp) | 🟡 Medium | C++ |
 | [119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](problems/119.pascals-triangle-ii.cpp) | 🟢 Easy | C++ |
 | [120](https://leetcode.com/problems/triangle/) | [Triangle](problems/120.triangle.cpp) | 🟡 Medium | C++ |
