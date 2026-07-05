@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**943 solved** — 🟢 335 Easy · 🟡 433 Medium · 🔴 175 Hard
+**944 solved** — 🟢 335 Easy · 🟡 434 Medium · 🔴 175 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -851,6 +851,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
 | [3592](https://leetcode.com/problems/inverse-coin-change/) | [Inverse Coin Change](problems/3592.inverse-coin-change.cpp) | 🟡 Medium | C++ |
 | [3600](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](problems/3600.maximize-spanning-tree-stability-with-upgrades.cpp) | 🔴 Hard | C++ |
+| [3603](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/) | [Minimum Cost Path with Alternating Directions II](problems/3603.minimum-cost-path-with-alternating-directions-ii.cpp) | 🟡 Medium | C++ |
 | [3607](https://leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](problems/3607.power-grid-maintenance.cpp) | 🟡 Medium | C++ |
 | [3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Process String with Special Operations I](problems/3612.process-string-with-special-operations-i.cpp) | 🟡 Medium | C++ |
 | [3614](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Process String with Special Operations II](problems/3614.process-string-with-special-operations-ii.cpp) | 🔴 Hard | C++ |
