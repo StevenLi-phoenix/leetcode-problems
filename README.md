@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**927 solved** — 🟢 333 Easy · 🟡 421 Medium · 🔴 173 Hard
+**929 solved** — 🟢 333 Easy · 🟡 423 Medium · 🔴 173 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -254,6 +254,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1009](https://leetcode.com/problems/complement-of-base-10-integer/) | [Complement of Base 10 Integer](problems/1009.complement-of-base-10-integer.cpp) | 🟢 Easy | C++ |
 | [1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Pairs of Songs With Total Durations Divisible by 60](problems/1010.pairs-of-songs-with-total-durations-divisible-by-60.cpp) | 🟡 Medium | C++ |
 | [1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Capacity To Ship Packages Within D Days](problems/1011.capacity-to-ship-packages-within-d-days.cpp) | 🟡 Medium | C++ |
+| [1016](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Binary String With Substrings Representing 1 To N](problems/1016.binary-string-with-substrings-representing-1-to-n.cpp) | 🟡 Medium | C++ |
 | [1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Binary Prefix Divisible By 5](problems/1018.binary-prefix-divisible-by-5.cpp) | 🟢 Easy | C++ |
 | [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | [Remove Outermost Parentheses](problems/1021.remove-outermost-parentheses.cpp) | 🟢 Easy | C++ |
 | [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Sum of Root To Leaf Binary Numbers](problems/1022.sum-of-root-to-leaf-binary-numbers.cpp) | 🟢 Easy | C++ |
@@ -263,6 +264,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1034](https://leetcode.com/problems/coloring-a-border/) | [Coloring A Border](problems/1034.coloring-a-border.cpp) | 🟡 Medium | C++ |
 | [1041](https://leetcode.com/problems/robot-bounded-in-circle/) | [Robot Bounded In Circle](problems/1041.robot-bounded-in-circle.cpp) | 🟡 Medium | C++ |
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](problems/1043.partition-array-for-maximum-sum.cpp) | 🟡 Medium | C++ |
+| [1045](https://leetcode.com/problems/customers-who-bought-all-products/) | [Customers Who Bought All Products](problems/1045.customers-who-bought-all-products.sql) | 🟡 Medium | mysql |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
 | [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Greatest Common Divisor of Strings](problems/1071.greatest-common-divisor-of-strings.cpp) | 🟢 Easy | C++ |
