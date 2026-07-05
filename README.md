@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**959 solved** — 🟢 341 Easy · 🟡 438 Medium · 🔴 180 Hard
+**960 solved** — 🟢 341 Easy · 🟡 439 Medium · 🔴 180 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -764,6 +764,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3133](https://leetcode.com/problems/minimum-array-end/) | [Minimum Array End](problems/3133.minimum-array-end.cpp) | 🟡 Medium | C++ |
 | [3137](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/) | [Minimum Number of Operations to Make Word K-Periodic](problems/3137.minimum-number-of-operations-to-make-word-k-periodic.cpp) | 🟡 Medium | C++ |
 | [3138](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | [Minimum Length of Anagram Concatenation](problems/3138.minimum-length-of-anagram-concatenation.cpp) | 🟡 Medium | C++ |
+| [3144](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/) | [Minimum Substring Partition of Equal Character Frequency](problems/3144.minimum-substring-partition-of-equal-character-frequency.cpp) | 🟡 Medium | C++ |
 | [3146](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Permutation Difference between Two Strings](problems/3146.permutation-difference-between-two-strings.cpp) | 🟢 Easy | C++ |
 | [3151](https://leetcode.com/problems/special-array-i/) | [Special Array I](problems/3151.special-array-i.cpp) | 🟢 Easy | C++ |
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
