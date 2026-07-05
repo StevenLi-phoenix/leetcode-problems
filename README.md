@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**964 solved** — 🟢 342 Easy · 🟡 442 Medium · 🔴 180 Hard
+**965 solved** — 🟢 343 Easy · 🟡 442 Medium · 🔴 180 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -715,6 +715,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2917](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Find the K-or of an Array](problems/2917.find-the-k-or-of-an-array.cpp) | 🟢 Easy | C++ |
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
+| [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
 | [2942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](problems/2942.find-words-containing-character.cpp) | 🟢 Easy | C++ |
 | [2943](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](problems/2943.maximize-area-of-square-hole-in-grid.cpp) | 🟡 Medium | C++ |
 | [2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Matrix Similarity After Cyclic Shifts](problems/2946.matrix-similarity-after-cyclic-shifts.cpp) | 🟢 Easy | C++ |
