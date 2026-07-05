@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**930 solved** — 🟢 333 Easy · 🟡 424 Medium · 🔴 173 Hard
+**931 solved** — 🟢 333 Easy · 🟡 425 Medium · 🔴 173 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -97,6 +97,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [289](https://leetcode.com/problems/game-of-life/) | [Game of Life](problems/289.game-of-life.cpp) | 🟡 Medium | C++ |
 | [292](https://leetcode.com/problems/nim-game/) | [Nim Game](problems/292.nim-game.cpp) | 🟢 Easy | C++ |
 | [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](problems/297.serialize-and-deserialize-binary-tree.cpp) | 🔴 Hard | C++ |
+| [300](https://leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](problems/300.longest-increasing-subsequence.cpp) | 🟡 Medium | C++ |
 | [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Range Sum Query 2D - Immutable](problems/304.range-sum-query-2d-immutable.cpp) | 🟡 Medium | C++ |
 | [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Count of Smaller Numbers After Self](problems/315.count-of-smaller-numbers-after-self.cpp) | 🔴 Hard | C++ |
 | [319](https://leetcode.com/problems/bulb-switcher/) | [Bulb Switcher](problems/319.bulb-switcher.cpp) | 🟡 Medium | C++ |
