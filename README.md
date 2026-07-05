@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**967 solved** — 🟢 344 Easy · 🟡 442 Medium · 🔴 181 Hard
+**968 solved** — 🟢 344 Easy · 🟡 443 Medium · 🔴 181 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -484,6 +484,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1895](https://leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](problems/1895.largest-magic-square.cpp) | 🟡 Medium | C++ |
 | [1898](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [Maximum Number of Removable Characters](problems/1898.maximum-number-of-removable-characters.cpp) | 🟡 Medium | C++ |
 | [1904](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [The Number of Full Rounds You Have Played](problems/1904.the-number-of-full-rounds-you-have-played.cpp) | 🟡 Medium | C++ |
+| [1907](https://leetcode.com/problems/count-salary-categories/) | [Count Salary Categories](problems/1907.count-salary-categories.sql) | 🟡 Medium | mysql |
 | [1909](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [Remove One Element to Make the Array Strictly Increasing](problems/1909.remove-one-element-to-make-the-array-strictly-increasing.cpp) | 🟢 Easy | C++ |
 | [1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](problems/1914.cyclically-rotating-a-grid.cpp) | 🟡 Medium | C++ |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](problems/1921.eliminate-maximum-number-of-monsters.cpp) | 🟡 Medium | C++ |
