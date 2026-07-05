@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**941 solved** — 🟢 333 Easy · 🟡 433 Medium · 🔴 175 Hard
+**942 solved** — 🟢 334 Easy · 🟡 433 Medium · 🔴 175 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -229,6 +229,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
 | [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](problems/878.nth-magical-number.cpp) | 🔴 Hard | C++ |
 | [880](https://leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](problems/880.decoded-string-at-index.cpp) | 🟡 Medium | C++ |
+| [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](problems/884.uncommon-words-from-two-sentences.cpp) | 🟢 Easy | C++ |
 | [886](https://leetcode.com/problems/possible-bipartition/) | [Possible Bipartition](problems/886.possible-bipartition.cpp) | 🟡 Medium | C++ |
 | [888](https://leetcode.com/problems/fair-candy-swap/) | [Fair Candy Swap](problems/888.fair-candy-swap.cpp) | 🟢 Easy | C++ |
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
