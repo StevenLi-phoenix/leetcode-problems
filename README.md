@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**986 solved** — 🟢 350 Easy · 🟡 451 Medium · 🔴 185 Hard
+**987 solved** — 🟢 350 Easy · 🟡 452 Medium · 🔴 185 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -968,6 +968,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3835](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | [Count Subarrays With Cost Less Than or Equal to K](problems/3835.count-subarrays-with-cost-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3836](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Maximum Score Using Exactly K Pairs](problems/3836.maximum-score-using-exactly-k-pairs.cpp) | 🔴 Hard | C++ |
 | [3838](https://leetcode.com/problems/weighted-word-mapping/) | [Weighted Word Mapping](problems/3838.weighted-word-mapping.cpp) | 🟢 Easy | C++ |
+| [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
 | [3866](https://leetcode.com/problems/first-unique-even-element/) | [First Unique Even Element](problems/3866.first-unique-even-element.cpp) | 🟢 Easy | C++ |
 | [3867](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Sum of GCD of Formed Pairs](problems/3867.sum-of-gcd-of-formed-pairs.cpp) | 🟡 Medium | C++ |
