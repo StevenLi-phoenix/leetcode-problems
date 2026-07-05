@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**974 solved** — 🟢 346 Easy · 🟡 446 Medium · 🔴 182 Hard
+**975 solved** — 🟢 347 Easy · 🟡 446 Medium · 🔴 182 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -972,6 +972,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3908](https://leetcode.com/problems/valid-digit-number/) | [Valid Digit Number](problems/3908.valid-digit-number.cpp) | 🟢 Easy | C++ |
 | [3909](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Compare Sums of Bitonic Parts](problems/3909.compare-sums-of-bitonic-parts.cpp) | 🟡 Medium | C++ |
 | [3910](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Count Connected Subgraphs with Even Node Sum](problems/3910.count-connected-subgraphs-with-even-node-sum.cpp) | 🔴 Hard | C++ |
+| [3921](https://leetcode.com/problems/score-validator/) | [Score Validator](problems/3921.score-validator.cpp) | 🟢 Easy | C++ |
 | [3925](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Concatenate Array With Reverse](problems/3925.concatenate-array-with-reverse.cpp) | 🟢 Easy | C++ |
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3936](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Minimum Swaps to Move Zeros to End](problems/3936.minimum-swaps-to-move-zeros-to-end.cpp) | 🟢 Easy | C++ |
