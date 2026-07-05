@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**957 solved** — 🟢 340 Easy · 🟡 438 Medium · 🔴 179 Hard
+**958 solved** — 🟢 340 Easy · 🟡 438 Medium · 🔴 180 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -246,6 +246,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Data in Log Files](problems/937.reorder-data-in-log-files.cpp) | 🟡 Medium | C++ |
 | [942](https://leetcode.com/problems/di-string-match/) | [DI String Match](problems/942.di-string-match.cpp) | 🟢 Easy | C++ |
 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](problems/944.delete-columns-to-make-sorted.cpp) | 🟢 Easy | C++ |
+| [952](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Largest Component Size by Common Factor](problems/952.largest-component-size-by-common-factor.cpp) | 🔴 Hard | C++ |
 | [955](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Delete Columns to Make Sorted II](problems/955.delete-columns-to-make-sorted-ii.cpp) | 🟡 Medium | C++ |
 | [958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Check Completeness of a Binary Tree](problems/958.check-completeness-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](problems/960.delete-columns-to-make-sorted-iii.cpp) | 🔴 Hard | C++ |
