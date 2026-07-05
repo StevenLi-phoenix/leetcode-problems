@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**987 solved** — 🟢 350 Easy · 🟡 452 Medium · 🔴 185 Hard
+**988 solved** — 🟢 350 Easy · 🟡 452 Medium · 🔴 186 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -846,6 +846,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](problems/3418.maximum-amount-of-money-robot-can-earn.cpp) | 🟡 Medium | C++ |
 | [3438](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [Find Valid Pair of Adjacent Digits in String](problems/3438.find-valid-pair-of-adjacent-digits-in-string.cpp) | 🟢 Easy | C++ |
 | [3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Maximum Difference Between Even and Odd Frequency I](problems/3442.maximum-difference-between-even-and-odd-frequency-i.cpp) | 🟢 Easy | C++ |
+| [3445](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](problems/3445.maximum-difference-between-even-and-odd-frequency-ii.cpp) | 🔴 Hard | C++ |
 | [3451](https://leetcode.com/problems/find-invalid-ip-addresses/) | [Find Invalid IP Addresses](problems/3451.find-invalid-ip-addresses.sql) | 🔴 Hard | mysql |
 | [3453](https://leetcode.com/problems/separate-squares-i/) | [Separate Squares I](problems/3453.separate-squares-i.cpp) | 🟡 Medium | C++ |
 | [3454](https://leetcode.com/problems/separate-squares-ii/) | [Separate Squares II](problems/3454.separate-squares-ii.cpp) | 🔴 Hard | C++ |
