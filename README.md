@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**935 solved** — 🟢 333 Easy · 🟡 428 Medium · 🔴 174 Hard
+**936 solved** — 🟢 333 Easy · 🟡 428 Medium · 🔴 175 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -781,6 +781,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3315](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | [Construct the Minimum Bitwise Array II](problems/3315.construct-the-minimum-bitwise-array-ii.cpp) | 🟡 Medium | C++ |
 | [3318](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Find X-Sum of All K-Long Subarrays I](problems/3318.find-x-sum-of-all-k-long-subarrays-i.cpp) | 🟢 Easy | C++ |
 | [3321](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](problems/3321.find-x-sum-of-all-k-long-subarrays-ii.cpp) | 🔴 Hard | C++ |
+| [3327](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/) | [Check if DFS Strings Are Palindromes](problems/3327.check-if-dfs-strings-are-palindromes.cpp) | 🔴 Hard | C++ |
 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](problems/3333.find-the-original-typed-string-ii.cpp) | 🔴 Hard | C++ |
 | [3340](https://leetcode.com/problems/check-balanced-string/) | [Check Balanced String](problems/3340.check-balanced-string.cpp) | 🟢 Easy | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
