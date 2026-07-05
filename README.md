@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1001 solved** — 🟢 352 Easy · 🟡 457 Medium · 🔴 192 Hard
+**1002 solved** — 🟢 352 Easy · 🟡 458 Medium · 🔴 192 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -664,6 +664,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | [Check if Point Is Reachable](problems/2543.check-if-point-is-reachable.cpp) | 🔴 Hard | C++ |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Count Distinct Numbers on Board](problems/2549.count-distinct-numbers-on-board.cpp) | 🟢 Easy | C++ |
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
+| [2555](https://leetcode.com/problems/maximize-win-from-two-segments/) | [Maximize Win From Two Segments](problems/2555.maximize-win-from-two-segments.cpp) | 🟡 Medium | C++ |
 | [2562](https://leetcode.com/problems/find-the-array-concatenation-value/) | [Find the Array Concatenation Value](problems/2562.find-the-array-concatenation-value.cpp) | 🟢 Easy | C++ |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
 | [2567](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](problems/2567.minimum-score-by-changing-two-elements.cpp) | 🟡 Medium | C++ |
