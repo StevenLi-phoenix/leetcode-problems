@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1005 solved** — 🟢 353 Easy · 🟡 459 Medium · 🔴 193 Hard
+**1007 solved** — 🟢 353 Easy · 🟡 460 Medium · 🔴 194 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -57,6 +57,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [89](https://leetcode.com/problems/gray-code/) | [Gray Code](problems/89.gray-code.cpp) | 🟡 Medium | C++ |
 | [93](https://leetcode.com/problems/restore-ip-addresses/) | [Restore IP Addresses](problems/93.restore-ip-addresses.cpp) | 🟡 Medium | C++ |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](problems/94.binary-tree-inorder-traversal.cpp) | 🟢 Easy | C++ |
+| [98](https://leetcode.com/problems/validate-binary-search-tree/) | [Validate Binary Search Tree](problems/98.validate-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [99](https://leetcode.com/problems/recover-binary-search-tree/) | [Recover Binary Search Tree](problems/99.recover-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [100](https://leetcode.com/problems/same-tree/) | [Same Tree](problems/100.same-tree.cpp) | 🟢 Easy | C++ |
 | [101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](problems/101.symmetric-tree.cpp) | 🟢 Easy | C++ |
@@ -814,6 +815,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](problems/3225.maximum-score-from-grid-operations.cpp) | 🔴 Hard | C++ |
 | [3226](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [Number of Bit Changes to Make Two Integers Equal](problems/3226.number-of-bit-changes-to-make-two-integers-equal.cpp) | 🟢 Easy | C++ |
 | [3229](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Minimum Operations to Make Array Equal to Target](problems/3229.minimum-operations-to-make-array-equal-to-target.cpp) | 🔴 Hard | C++ |
+| [3235](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [Check if the Rectangle Corner Is Reachable](problems/3235.check-if-the-rectangle-corner-is-reachable.cpp) | 🔴 Hard | C++ |
 | [3251](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/) | [Find the Count of Monotonic Pairs II](problems/3251.find-the-count-of-monotonic-pairs-ii.cpp) | 🔴 Hard | C++ |
 | [3254](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Find the Power of K-Size Subarrays I](problems/3254.find-the-power-of-k-size-subarrays-i.cpp) | 🟡 Medium | C++ |
 | [3258](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | [Count Substrings That Satisfy K-Constraint I](problems/3258.count-substrings-that-satisfy-k-constraint-i.cpp) | 🟢 Easy | C++ |
