@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**982 solved** — 🟢 349 Easy · 🟡 449 Medium · 🔴 184 Hard
+**983 solved** — 🟢 349 Easy · 🟡 450 Medium · 🔴 184 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -664,6 +664,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
 | [2591](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [Distribute Money to Maximum Children](problems/2591.distribute-money-to-maximum-children.cpp) | 🟢 Easy | C++ |
 | [2596](https://leetcode.com/problems/check-knight-tour-configuration/) | [Check Knight Tour Configuration](problems/2596.check-knight-tour-configuration.cpp) | 🟡 Medium | C++ |
+| [2598](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [Smallest Missing Non-negative Integer After Operations](problems/2598.smallest-missing-non-negative-integer-after-operations.cpp) | 🟡 Medium | C++ |
 | [2600](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [K Items With the Maximum Sum](problems/2600.k-items-with-the-maximum-sum.cpp) | 🟢 Easy | C++ |
 | [2607](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [Make K-Subarray Sums Equal](problems/2607.make-k-subarray-sums-equal.cpp) | 🟡 Medium | C++ |
 | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Shortest Cycle in a Graph](problems/2608.shortest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
