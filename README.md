@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**963 solved** — 🟢 341 Easy · 🟡 442 Medium · 🔴 180 Hard
+**964 solved** — 🟢 342 Easy · 🟡 442 Medium · 🔴 180 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -92,6 +92,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](problems/237.delete-node-in-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](problems/238.product-of-array-except-self.cpp) | 🟡 Medium | C++ |
 | [257](https://leetcode.com/problems/binary-tree-paths/) | [Binary Tree Paths](problems/257.binary-tree-paths.cpp) | 🟢 Easy | C++ |
+| [258](https://leetcode.com/problems/add-digits/) | [Add Digits](problems/258.add-digits.cpp) | 🟢 Easy | C++ |
 | [262](https://leetcode.com/problems/trips-and-users/) | [Trips and Users](problems/262.trips-and-users.sql) | 🔴 Hard | mysql |
 | [263](https://leetcode.com/problems/ugly-number/) | [Ugly Number](problems/263.ugly-number.cpp) | 🟢 Easy | C++ |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](problems/283.move-zeroes.cpp) | 🟢 Easy | C++ |
