@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**978 solved** — 🟢 348 Easy · 🟡 447 Medium · 🔴 183 Hard
+**979 solved** — 🟢 348 Easy · 🟡 448 Medium · 🔴 183 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -956,6 +956,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
 | [3819](https://leetcode.com/problems/rotate-non-negative-elements/) | [Rotate Non Negative Elements](problems/3819.rotate-non-negative-elements.cpp) | 🟡 Medium | C++ |
 | [3820](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/) | [Pythagorean Distance Nodes in a Tree](problems/3820.pythagorean-distance-nodes-in-a-tree.cpp) | 🟡 Medium | C++ |
+| [3824](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | [Minimum K to Reduce Array Within Limit](problems/3824.minimum-k-to-reduce-array-within-limit.cpp) | 🟡 Medium | C++ |
 | [3830](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | [Longest Alternating Subarray After Removing At Most One Element](problems/3830.longest-alternating-subarray-after-removing-at-most-one-element.cpp) | 🔴 Hard | C++ |
 | [3835](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | [Count Subarrays With Cost Less Than or Equal to K](problems/3835.count-subarrays-with-cost-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3836](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Maximum Score Using Exactly K Pairs](problems/3836.maximum-score-using-exactly-k-pairs.cpp) | 🔴 Hard | C++ |
