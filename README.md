@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**994 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 189 Hard
+**995 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 190 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -405,6 +405,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1579](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Remove Max Number of Edges to Keep Graph Fully Traversable](problems/1579.remove-max-number-of-edges-to-keep-graph-fully-traversable.cpp) | 🔴 Hard | C++ |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Special Positions in a Binary Matrix](problems/1582.special-positions-in-a-binary-matrix.cpp) | 🟢 Easy | C++ |
 | [1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Min Cost to Connect All Points](problems/1584.min-cost-to-connect-all-points.cpp) | 🟡 Medium | C++ |
+| [1585](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [Check If String Is Transformable With Substring Sort Operations](problems/1585.check-if-string-is-transformable-with-substring-sort-operations.cpp) | 🔴 Hard | C++ |
 | [1587](https://leetcode.com/problems/bank-account-summary-ii/) | [Bank Account Summary II](problems/1587.bank-account-summary-ii.sql) | 🟢 Easy | mysql |
 | [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Sum of All Odd Length Subarrays](problems/1588.sum-of-all-odd-length-subarrays.cpp) | 🟢 Easy | C++ |
 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](problems/1594.maximum-non-negative-product-in-a-matrix.cpp) | 🟡 Medium | C++ |
