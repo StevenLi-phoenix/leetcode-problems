@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**983 solved** — 🟢 349 Easy · 🟡 450 Medium · 🔴 184 Hard
+**984 solved** — 🟢 349 Easy · 🟡 451 Medium · 🔴 184 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -887,6 +887,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3603](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/) | [Minimum Cost Path with Alternating Directions II](problems/3603.minimum-cost-path-with-alternating-directions-ii.cpp) | 🟡 Medium | C++ |
 | [3607](https://leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](problems/3607.power-grid-maintenance.cpp) | 🟡 Medium | C++ |
 | [3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Process String with Special Operations I](problems/3612.process-string-with-special-operations-i.cpp) | 🟡 Medium | C++ |
+| [3613](https://leetcode.com/problems/minimize-maximum-component-cost/) | [Minimize Maximum Component Cost](problems/3613.minimize-maximum-component-cost.cpp) | 🟡 Medium | C++ |
 | [3614](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Process String with Special Operations II](problems/3614.process-string-with-special-operations-ii.cpp) | 🔴 Hard | C++ |
 | [3618](https://leetcode.com/problems/split-array-by-prime-indices/) | [Split Array by Prime Indices](problems/3618.split-array-by-prime-indices.cpp) | 🟡 Medium | C++ |
 | [3621](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [Number of Integers With Popcount-Depth Equal to K I](problems/3621.number-of-integers-with-popcount-depth-equal-to-k-i.cpp) | 🔴 Hard | C++ |
