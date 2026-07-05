@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**973 solved** — 🟢 346 Easy · 🟡 446 Medium · 🔴 181 Hard
+**974 solved** — 🟢 346 Easy · 🟡 446 Medium · 🔴 182 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -888,6 +888,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3633](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Earliest Finish Time for Land and Water Rides I](problems/3633.earliest-finish-time-for-land-and-water-rides-i.cpp) | 🟢 Easy | C++ |
 | [3634](https://leetcode.com/problems/minimum-removals-to-balance-array/) | [Minimum Removals to Balance Array](problems/3634.minimum-removals-to-balance-array.cpp) | 🟡 Medium | C++ |
 | [3635](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Earliest Finish Time for Land and Water Rides II](problems/3635.earliest-finish-time-for-land-and-water-rides-ii.cpp) | 🟡 Medium | C++ |
+| [3636](https://leetcode.com/problems/threshold-majority-queries/) | [Threshold Majority Queries](problems/3636.threshold-majority-queries.cpp) | 🔴 Hard | C++ |
 | [3637](https://leetcode.com/problems/trionic-array-i/) | [Trionic Array I](problems/3637.trionic-array-i.cpp) | 🟢 Easy | C++ |
 | [3640](https://leetcode.com/problems/trionic-array-ii/) | [Trionic Array II](problems/3640.trionic-array-ii.cpp) | 🔴 Hard | C++ |
 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](problems/3643.flip-square-submatrix-vertically.cpp) | 🟢 Easy | C++ |
