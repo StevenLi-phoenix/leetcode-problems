@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**955 solved** — 🟢 340 Easy · 🟡 437 Medium · 🔴 178 Hard
+**956 solved** — 🟢 340 Easy · 🟡 438 Medium · 🔴 178 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -173,6 +173,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [641](https://leetcode.com/problems/design-circular-deque/) | [Design Circular Deque](problems/641.design-circular-deque.cpp) | 🟡 Medium | C++ |
 | [645](https://leetcode.com/problems/set-mismatch/) | [Set Mismatch](problems/645.set-mismatch.cpp) | 🟢 Easy | C++ |
 | [646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Maximum Length of Pair Chain](problems/646.maximum-length-of-pair-chain.cpp) | 🟡 Medium | C++ |
+| [654](https://leetcode.com/problems/maximum-binary-tree/) | [Maximum Binary Tree](problems/654.maximum-binary-tree.cpp) | 🟡 Medium | C++ |
 | [657](https://leetcode.com/problems/robot-return-to-origin/) | [Robot Return to Origin](problems/657.robot-return-to-origin.cpp) | 🟢 Easy | C++ |
 | [661](https://leetcode.com/problems/image-smoother/) | [Image Smoother](problems/661.image-smoother.cpp) | 🟢 Easy | C++ |
 | [667](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Beautiful Arrangement II](problems/667.beautiful-arrangement-ii.cpp) | 🟡 Medium | C++ |
