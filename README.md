@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**975 solved** — 🟢 347 Easy · 🟡 446 Medium · 🔴 182 Hard
+**976 solved** — 🟢 347 Easy · 🟡 447 Medium · 🔴 182 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -932,6 +932,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3728](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | [Stable Subarrays With Equal Boundary and Interior Sum](problems/3728.stable-subarrays-with-equal-boundary-and-interior-sum.cpp) | 🟡 Medium | C++ |
 | [3729](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | [Count Distinct Subarrays Divisible by K in Sorted Array](problems/3729.count-distinct-subarrays-divisible-by-k-in-sorted-array.cpp) | 🔴 Hard | C++ |
 | [3737](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Count Subarrays With Majority Element I](problems/3737.count-subarrays-with-majority-element-i.cpp) | 🟡 Medium | C++ |
+| [3738](https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | [Longest Non-Decreasing Subarray After Replacing at Most One Element](problems/3738.longest-non-decreasing-subarray-after-replacing-at-most-one-element.cpp) | 🟡 Medium | C++ |
 | [3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Minimum Distance Between Three Equal Elements I](problems/3740.minimum-distance-between-three-equal-elements-i.cpp) | 🟢 Easy | C++ |
 | [3741](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [Minimum Distance Between Three Equal Elements II](problems/3741.minimum-distance-between-three-equal-elements-ii.cpp) | 🟡 Medium | C++ |
 | [3742](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | [Maximum Path Score in a Grid](problems/3742.maximum-path-score-in-a-grid.cpp) | 🟡 Medium | C++ |
