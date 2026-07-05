@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**997 solved** — 🟢 350 Easy · 🟡 455 Medium · 🔴 192 Hard
+**998 solved** — 🟢 351 Easy · 🟡 455 Medium · 🔴 192 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -610,6 +610,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2318](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [Number of Distinct Roll Sequences](problems/2318.number-of-distinct-roll-sequences.cpp) | 🔴 Hard | C++ |
 | [2321](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [Maximum Score Of Spliced Array](problems/2321.maximum-score-of-spliced-array.cpp) | 🔴 Hard | C++ |
 | [2322](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Minimum Score After Removals on a Tree](problems/2322.minimum-score-after-removals-on-a-tree.cpp) | 🔴 Hard | C++ |
+| [2325](https://leetcode.com/problems/decode-the-message/) | [Decode the Message](problems/2325.decode-the-message.cpp) | 🟢 Easy | C++ |
 | [2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [The Latest Time to Catch a Bus](problems/2332.the-latest-time-to-catch-a-bus.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
