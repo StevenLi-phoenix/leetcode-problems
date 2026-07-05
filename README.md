@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**933 solved** — 🟢 333 Easy · 🟡 427 Medium · 🔴 173 Hard
+**934 solved** — 🟢 333 Easy · 🟡 428 Medium · 🔴 173 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -577,6 +577,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2318](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [Number of Distinct Roll Sequences](problems/2318.number-of-distinct-roll-sequences.cpp) | 🔴 Hard | C++ |
 | [2321](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [Maximum Score Of Spliced Array](problems/2321.maximum-score-of-spliced-array.cpp) | 🔴 Hard | C++ |
 | [2322](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Minimum Score After Removals on a Tree](problems/2322.minimum-score-after-removals-on-a-tree.cpp) | 🔴 Hard | C++ |
+| [2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [The Latest Time to Catch a Bus](problems/2332.the-latest-time-to-catch-a-bus.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
 | [2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Make Array Zero by Subtracting Equal Amounts](problems/2357.make-array-zero-by-subtracting-equal-amounts.cpp) | 🟢 Easy | C++ |
