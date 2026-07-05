@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**940 solved** — 🟢 333 Easy · 🟡 432 Medium · 🔴 175 Hard
+**941 solved** — 🟢 333 Easy · 🟡 433 Medium · 🔴 175 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -502,6 +502,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2018](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Check if Word Can Be Placed In Crossword](problems/2018.check-if-word-can-be-placed-in-crossword.cpp) | 🟡 Medium | C++ |
 | [2019](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [The Score of Students Solving Math Expression](problems/2019.the-score-of-students-solving-math-expression.cpp) | 🔴 Hard | C++ |
 | [2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [Number of Pairs of Strings With Concatenation Equal to Target](problems/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.cpp) | 🟡 Medium | C++ |
+| [2024](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [Maximize the Confusion of an Exam](problems/2024.maximize-the-confusion-of-an-exam.cpp) | 🟡 Medium | C++ |
 | [2027](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Minimum Moves to Convert String](problems/2027.minimum-moves-to-convert-string.cpp) | 🟢 Easy | C++ |
 | [2028](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](problems/2028.find-missing-observations.cpp) | 🟡 Medium | C++ |
 | [2029](https://leetcode.com/problems/stone-game-ix/) | [Stone Game IX](problems/2029.stone-game-ix.cpp) | 🟡 Medium | C++ |
