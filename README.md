@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**942 solved** — 🟢 334 Easy · 🟡 433 Medium · 🔴 175 Hard
+**943 solved** — 🟢 335 Easy · 🟡 433 Medium · 🔴 175 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -765,6 +765,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](problems/3212.count-submatrices-with-equal-frequency-of-x-and-y.cpp) | 🟡 Medium | C++ |
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
+| [3216](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [Lexicographically Smallest String After a Swap](problems/3216.lexicographically-smallest-string-after-a-swap.cpp) | 🟢 Easy | C++ |
 | [3224](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | [Minimum Array Changes to Make Differences Equal](problems/3224.minimum-array-changes-to-make-differences-equal.cpp) | 🟡 Medium | C++ |
 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](problems/3225.maximum-score-from-grid-operations.cpp) | 🔴 Hard | C++ |
 | [3226](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [Number of Bit Changes to Make Two Integers Equal](problems/3226.number-of-bit-changes-to-make-two-integers-equal.cpp) | 🟢 Easy | C++ |
