@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**944 solved** — 🟢 335 Easy · 🟡 434 Medium · 🔴 175 Hard
+**945 solved** — 🟢 336 Easy · 🟡 434 Medium · 🔴 175 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -657,6 +657,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
 | [2660](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [Determine the Winner of a Bowling Game](problems/2660.determine-the-winner-of-a-bowling-game.cpp) | 🟢 Easy | C++ |
 | [2663](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [Lexicographically Smallest Beautiful String](problems/2663.lexicographically-smallest-beautiful-string.cpp) | 🔴 Hard | C++ |
+| [2666](https://leetcode.com/problems/allow-one-function-call/) | [Allow One Function Call](problems/2666.allow-one-function-call.js) | 🟢 Easy | JavaScript |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Minimum String Length After Removing Substrings](problems/2696.minimum-string-length-after-removing-substrings.cpp) | 🟢 Easy | C++ |
 | [2697](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Lexicographically Smallest Palindrome](problems/2697.lexicographically-smallest-palindrome.cpp) | 🟢 Easy | C++ |
 | [2698](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Find the Punishment Number of an Integer](problems/2698.find-the-punishment-number-of-an-integer.cpp) | 🟡 Medium | C++ |
