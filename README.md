@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**980 solved** — 🟢 349 Easy · 🟡 448 Medium · 🔴 183 Hard
+**981 solved** — 🟢 349 Easy · 🟡 448 Medium · 🔴 184 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -740,6 +740,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2975](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | [Maximum Square Area by Removing Fences From a Field](problems/2975.maximum-square-area-by-removing-fences-from-a-field.cpp) | 🟡 Medium | C++ |
 | [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](problems/2976.minimum-cost-to-convert-string-i.cpp) | 🟡 Medium | C++ |
 | [2977](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Cost to Convert String II](problems/2977.minimum-cost-to-convert-string-ii.cpp) | 🔴 Hard | C++ |
+| [2983](https://leetcode.com/problems/palindrome-rearrangement-queries/) | [Palindrome Rearrangement Queries](problems/2983.palindrome-rearrangement-queries.cpp) | 🔴 Hard | C++ |
 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](problems/2999.count-the-number-of-powerful-integers.cpp) | 🔴 Hard | C++ |
 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Maximize the Number of Partitions After Operations](problems/3003.maximize-the-number-of-partitions-after-operations.cpp) | 🔴 Hard | C++ |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Count Elements With Maximum Frequency](problems/3005.count-elements-with-maximum-frequency.cpp) | 🟢 Easy | C++ |
