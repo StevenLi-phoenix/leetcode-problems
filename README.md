@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**985 solved** — 🟢 349 Easy · 🟡 451 Medium · 🔴 185 Hard
+**986 solved** — 🟢 350 Easy · 🟡 451 Medium · 🔴 185 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -57,6 +57,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [93](https://leetcode.com/problems/restore-ip-addresses/) | [Restore IP Addresses](problems/93.restore-ip-addresses.cpp) | 🟡 Medium | C++ |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](problems/94.binary-tree-inorder-traversal.cpp) | 🟢 Easy | C++ |
 | [99](https://leetcode.com/problems/recover-binary-search-tree/) | [Recover Binary Search Tree](problems/99.recover-binary-search-tree.cpp) | 🟡 Medium | C++ |
+| [100](https://leetcode.com/problems/same-tree/) | [Same Tree](problems/100.same-tree.cpp) | 🟢 Easy | C++ |
 | [101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](problems/101.symmetric-tree.cpp) | 🟢 Easy | C++ |
 | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](problems/102.binary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
 | [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](problems/109.convert-sorted-list-to-binary-search-tree.cpp) | 🟡 Medium | C++ |
