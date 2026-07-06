@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1063 solved** — 🟢 367 Easy · 🟡 486 Medium · 🔴 210 Hard
+**1064 solved** — 🟢 367 Easy · 🟡 487 Medium · 🔴 210 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -987,6 +987,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3668](https://leetcode.com/problems/restore-finishing-order/) | [Restore Finishing Order](problems/3668.restore-finishing-order.cpp) | 🟢 Easy | C++ |
 | [3674](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [Minimum Operations to Equalize Array](problems/3674.minimum-operations-to-equalize-array.cpp) | 🟢 Easy | C++ |
 | [3678](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Smallest Absent Positive Greater Than Average](problems/3678.smallest-absent-positive-greater-than-average.cpp) | 🟢 Easy | C++ |
+| [3679](https://leetcode.com/problems/minimum-discards-to-balance-inventory/) | [ Minimum Discards to Balance Inventory](problems/3679.minimum-discards-to-balance-inventory.cpp) | 🟡 Medium | C++ |
 | [3680](https://leetcode.com/problems/generate-schedule/) | [Generate Schedule](problems/3680.generate-schedule.cpp) | 🟡 Medium | C++ |
 | [3684](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | [Maximize Sum of At Most K Distinct Elements](problems/3684.maximize-sum-of-at-most-k-distinct-elements.cpp) | 🟢 Easy | C++ |
 | [3685](https://leetcode.com/problems/subsequence-sum-after-capping-elements/) | [Subsequence Sum After Capping Elements](problems/3685.subsequence-sum-after-capping-elements.cpp) | 🟡 Medium | C++ |
