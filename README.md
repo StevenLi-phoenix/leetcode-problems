@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1043 solved** — 🟢 365 Easy · 🟡 474 Medium · 🔴 204 Hard
+**1044 solved** — 🟢 365 Easy · 🟡 475 Medium · 🔴 204 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -341,6 +341,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1284](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](problems/1284.minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.cpp) | 🔴 Hard | C++ |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Element Appearing More Than 25% In Sorted Array](problems/1287.element-appearing-more-than-25-in-sorted-array.cpp) | 🟢 Easy | C++ |
 | [1292](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problems/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp) | 🟡 Medium | C++ |
+| [1302](https://leetcode.com/problems/deepest-leaves-sum/) | [Deepest Leaves Sum](problems/1302.deepest-leaves-sum.cpp) | 🟡 Medium | C++ |
 | [1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [All Elements in Two Binary Search Trees](problems/1305.all-elements-in-two-binary-search-trees.cpp) | 🟡 Medium | C++ |
 | [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](problems/1306.jump-game-iii.cpp) | 🟡 Medium | C++ |
 | [1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Convert Integer to the Sum of Two No-Zero Integers](problems/1317.convert-integer-to-the-sum-of-two-no-zero-integers.cpp) | 🟢 Easy | C++ |
