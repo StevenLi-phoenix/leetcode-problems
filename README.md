@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1032 solved** — 🟢 362 Easy · 🟡 470 Medium · 🔴 200 Hard
+**1033 solved** — 🟢 363 Easy · 🟡 470 Medium · 🔴 200 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -636,6 +636,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [The Latest Time to Catch a Bus](problems/2332.the-latest-time-to-catch-a-bus.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
+| [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [Number of Unique Subjects Taught by Each Teacher](problems/2356.number-of-unique-subjects-taught-by-each-teacher.sql) | 🟢 Easy | mysql |
 | [2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Make Array Zero by Subtracting Equal Amounts](problems/2357.make-array-zero-by-subtracting-equal-amounts.cpp) | 🟢 Easy | C++ |
 | [2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Longest Cycle in a Graph](problems/2360.longest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
