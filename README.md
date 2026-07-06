@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1020 solved** — 🟢 358 Easy · 🟡 466 Medium · 🔴 196 Hard
+**1021 solved** — 🟢 359 Easy · 🟡 466 Medium · 🔴 196 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -661,6 +661,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Remove Nodes From Linked List](problems/2487.remove-nodes-from-linked-list.cpp) | 🟡 Medium | C++ |
 | [2490](https://leetcode.com/problems/circular-sentence/) | [Circular Sentence](problems/2490.circular-sentence.cpp) | 🟢 Easy | C++ |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [Divide Players Into Teams of Equal Skill](problems/2491.divide-players-into-teams-of-equal-skill.cpp) | 🟡 Medium | C++ |
+| [2500](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [Delete Greatest Value in Each Row](problems/2500.delete-greatest-value-in-each-row.cpp) | 🟢 Easy | C++ |
 | [2501](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [Longest Square Streak in an Array](problems/2501.longest-square-streak-in-an-array.cpp) | 🟡 Medium | C++ |
 | [2506](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [Count Pairs Of Similar Strings](problems/2506.count-pairs-of-similar-strings.cpp) | 🟢 Easy | C++ |
 | [2507](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Smallest Value After Replacing With Sum of Prime Factors](problems/2507.smallest-value-after-replacing-with-sum-of-prime-factors.cpp) | 🟡 Medium | C++ |
