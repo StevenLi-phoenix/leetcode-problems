@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1052 solved** — 🟢 366 Easy · 🟡 478 Medium · 🔴 208 Hard
+**1053 solved** — 🟢 366 Easy · 🟡 479 Medium · 🔴 208 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -752,6 +752,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
 | [2798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number of Employees Who Met the Target](problems/2798.number-of-employees-who-met-the-target.cpp) | 🟢 Easy | C++ |
 | [2806](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Account Balance After Rounded Purchase](problems/2806.account-balance-after-rounded-purchase.cpp) | 🟢 Easy | C++ |
+| [2829](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | [Determine the Minimum Sum of a k-avoiding Array](problems/2829.determine-the-minimum-sum-of-a-k-avoiding-array.cpp) | 🟡 Medium | C++ |
 | [2831](https://leetcode.com/problems/find-the-longest-equal-subarray/) | [Find the Longest Equal Subarray](problems/2831.find-the-longest-equal-subarray.cpp) | 🟡 Medium | C++ |
 | [2833](https://leetcode.com/problems/furthest-point-from-origin/) | [Furthest Point From Origin](problems/2833.furthest-point-from-origin.cpp) | 🟢 Easy | C++ |
 | [2834](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/) | [Find the Minimum Possible Sum of a Beautiful Array](problems/2834.find-the-minimum-possible-sum-of-a-beautiful-array.cpp) | 🟡 Medium | C++ |
