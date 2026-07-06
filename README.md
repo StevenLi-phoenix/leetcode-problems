@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1046 solved** — 🟢 366 Easy · 🟡 476 Medium · 🔴 204 Hard
+**1047 solved** — 🟢 366 Easy · 🟡 477 Medium · 🔴 204 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -897,6 +897,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3412](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [Find Mirror Score of a String](problems/3412.find-mirror-score-of-a-string.cpp) | 🟡 Medium | C++ |
 | [3417](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Zigzag Grid Traversal With Skip](problems/3417.zigzag-grid-traversal-with-skip.cpp) | 🟢 Easy | C++ |
 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](problems/3418.maximum-amount-of-money-robot-can-earn.cpp) | 🟡 Medium | C++ |
+| [3421](https://leetcode.com/problems/find-students-who-improved/) | [Find Students Who Improved](problems/3421.find-students-who-improved.sql) | 🟡 Medium | mysql |
 | [3438](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [Find Valid Pair of Adjacent Digits in String](problems/3438.find-valid-pair-of-adjacent-digits-in-string.cpp) | 🟢 Easy | C++ |
 | [3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Maximum Difference Between Even and Odd Frequency I](problems/3442.maximum-difference-between-even-and-odd-frequency-i.cpp) | 🟢 Easy | C++ |
 | [3445](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](problems/3445.maximum-difference-between-even-and-odd-frequency-ii.cpp) | 🔴 Hard | C++ |
