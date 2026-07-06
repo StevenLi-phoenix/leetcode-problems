@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1054 solved** — 🟢 366 Easy · 🟡 479 Medium · 🔴 209 Hard
+**1055 solved** — 🟢 366 Easy · 🟡 480 Medium · 🔴 209 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -718,6 +718,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Shortest Cycle in a Graph](problems/2608.shortest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2609](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Find the Longest Balanced Substring of a Binary String](problems/2609.find-the-longest-balanced-substring-of-a-binary-string.cpp) | 🟢 Easy | C++ |
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Convert an Array Into a 2D Array With Conditions](problems/2610.convert-an-array-into-a-2d-array-with-conditions.cpp) | 🟡 Medium | C++ |
+| [2611](https://leetcode.com/problems/mice-and-cheese/) | [Mice and Cheese](problems/2611.mice-and-cheese.cpp) | 🟡 Medium | C++ |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | [Sum of Distances](problems/2615.sum-of-distances.cpp) | 🟡 Medium | C++ |
 | [2621](https://leetcode.com/problems/sleep/) | [Sleep](problems/2621.sleep.js) | 🟢 Easy | JavaScript |
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
