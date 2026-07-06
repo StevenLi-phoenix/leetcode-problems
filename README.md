@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1027 solved** — 🟢 361 Easy · 🟡 468 Medium · 🔴 198 Hard
+**1028 solved** — 🟢 361 Easy · 🟡 469 Medium · 🔴 198 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -841,6 +841,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3259](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Energy Boost From Two Drinks](problems/3259.maximum-energy-boost-from-two-drinks.cpp) | 🟡 Medium | C++ |
 | [3272](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Find the Count of Good Integers](problems/3272.find-the-count-of-good-integers.cpp) | 🔴 Hard | C++ |
 | [3274](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Check if Two Chessboard Squares Have the Same Color](problems/3274.check-if-two-chessboard-squares-have-the-same-color.cpp) | 🟢 Easy | C++ |
+| [3275](https://leetcode.com/problems/k-th-nearest-obstacle-queries/) | [K-th Nearest Obstacle Queries](problems/3275.k-th-nearest-obstacle-queries.cpp) | 🟡 Medium | C++ |
 | [3280](https://leetcode.com/problems/convert-date-to-binary/) | [Convert Date to Binary](problems/3280.convert-date-to-binary.cpp) | 🟢 Easy | C++ |
 | [3281](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Maximize Score of Numbers in Ranges](problems/3281.maximize-score-of-numbers-in-ranges.cpp) | 🟡 Medium | C++ |
 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](problems/3286.find-a-safe-walk-through-a-grid.cpp) | 🟡 Medium | C++ |
