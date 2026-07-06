@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1017 solved** — 🟢 357 Easy · 🟡 465 Medium · 🔴 195 Hard
+**1018 solved** — 🟢 357 Easy · 🟡 466 Medium · 🔴 195 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -486,6 +486,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1827](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Minimum Operations to Make the Array Increasing](problems/1827.minimum-operations-to-make-the-array-increasing.cpp) | 🟢 Easy | C++ |
 | [1833](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](problems/1833.maximum-ice-cream-bars.cpp) | 🟡 Medium | C++ |
 | [1837](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Sum of Digits in Base K](problems/1837.sum-of-digits-in-base-k.cpp) | 🟢 Easy | C++ |
+| [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](problems/1838.frequency-of-the-most-frequent-element.cpp) | 🟡 Medium | C++ |
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
 | [1850](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](problems/1850.minimum-adjacent-swaps-to-reach-the-kth-smallest-number.cpp) | 🟡 Medium | C++ |
