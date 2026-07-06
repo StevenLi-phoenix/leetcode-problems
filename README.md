@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1013 solved** — 🟢 355 Easy · 🟡 463 Medium · 🔴 195 Hard
+**1014 solved** — 🟢 356 Easy · 🟡 463 Medium · 🔴 195 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -230,6 +230,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [815](https://leetcode.com/problems/bus-routes/) | [Bus Routes](problems/815.bus-routes.cpp) | 🔴 Hard | C++ |
 | [817](https://leetcode.com/problems/linked-list-components/) | [Linked List Components](problems/817.linked-list-components.cpp) | 🟡 Medium | C++ |
 | [820](https://leetcode.com/problems/short-encoding-of-words/) | [Short Encoding of Words](problems/820.short-encoding-of-words.cpp) | 🟡 Medium | C++ |
+| [821](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Shortest Distance to a Character](problems/821.shortest-distance-to-a-character.cpp) | 🟢 Easy | C++ |
 | [823](https://leetcode.com/problems/binary-trees-with-factors/) | [Binary Trees With Factors](problems/823.binary-trees-with-factors.py) | 🟡 Medium | Python |
 | [827](https://leetcode.com/problems/making-a-large-island/) | [Making A Large Island](problems/827.making-a-large-island.cpp) | 🔴 Hard | C++ |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
