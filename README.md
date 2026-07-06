@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1009 solved** — 🟢 354 Easy · 🟡 461 Medium · 🔴 194 Hard
+**1010 solved** — 🟢 354 Easy · 🟡 462 Medium · 🔴 194 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -313,6 +313,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1210](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [Minimum Moves to Reach Target with Rotations](problems/1210.minimum-moves-to-reach-target-with-rotations.cpp) | 🔴 Hard | C++ |
 | [1211](https://leetcode.com/problems/queries-quality-and-percentage/) | [Queries Quality and Percentage](problems/1211.queries-quality-and-percentage.sql) | 🟢 Easy | mysql |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Longest Arithmetic Subsequence of Given Difference](problems/1218.longest-arithmetic-subsequence-of-given-difference.cpp) | 🟡 Medium | C++ |
+| [1219](https://leetcode.com/problems/path-with-maximum-gold/) | [Path with Maximum Gold](problems/1219.path-with-maximum-gold.cpp) | 🟡 Medium | C++ |
 | [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Split a String in Balanced Strings](problems/1221.split-a-string-in-balanced-strings.cpp) | 🟢 Easy | C++ |
 | [1226](https://leetcode.com/problems/the-dining-philosophers/) | [The Dining Philosophers](problems/1226.the-dining-philosophers.cpp) | 🟡 Medium | C++ |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](problems/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | 🟡 Medium | C++ |
