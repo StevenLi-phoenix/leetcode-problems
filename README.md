@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1012 solved** — 🟢 355 Easy · 🟡 462 Medium · 🔴 195 Hard
+**1013 solved** — 🟢 355 Easy · 🟡 463 Medium · 🔴 195 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -149,6 +149,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [467](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Unique Substrings in Wraparound String](problems/467.unique-substrings-in-wraparound-string.cpp) | 🟡 Medium | C++ |
 | [473](https://leetcode.com/problems/matchsticks-to-square/) | [Matchsticks to Square](problems/473.matchsticks-to-square.cpp) | 🟡 Medium | C++ |
 | [475](https://leetcode.com/problems/heaters/) | [Heaters](problems/475.heaters.cpp) | 🟡 Medium | C++ |
+| [477](https://leetcode.com/problems/total-hamming-distance/) | [Total Hamming Distance](problems/477.total-hamming-distance.cpp) | 🟡 Medium | C++ |
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
 | [491](https://leetcode.com/problems/non-decreasing-subsequences/) | [Non-decreasing Subsequences](problems/491.non-decreasing-subsequences.cpp) | 🟡 Medium | C++ |
 | [493](https://leetcode.com/problems/reverse-pairs/) | [Reverse Pairs](problems/493.reverse-pairs.cpp) | 🔴 Hard | C++ |
