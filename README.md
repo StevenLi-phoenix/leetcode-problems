@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1062 solved** — 🟢 367 Easy · 🟡 485 Medium · 🔴 210 Hard
+**1063 solved** — 🟢 367 Easy · 🟡 486 Medium · 🔴 210 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -208,6 +208,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](problems/704.binary-search.cpp) | 🟢 Easy | C++ |
 | [705](https://leetcode.com/problems/design-hashset/) | [Design HashSet](problems/705.design-hashset.cpp) | 🟢 Easy | C++ |
 | [706](https://leetcode.com/problems/design-hashmap/) | [Design HashMap](problems/706.design-hashmap.cpp) | 🟢 Easy | C++ |
+| [707](https://leetcode.com/problems/design-linked-list/) | [Design Linked List](problems/707.design-linked-list.cpp) | 🟡 Medium | C++ |
 | [709](https://leetcode.com/problems/to-lower-case/) | [To Lower Case](problems/709.to-lower-case.cpp) | 🟢 Easy | C++ |
 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](problems/712.minimum-ascii-delete-sum-for-two-strings.cpp) | 🟡 Medium | C++ |
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
