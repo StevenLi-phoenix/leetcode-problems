@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1036 solved** — 🟢 364 Easy · 🟡 471 Medium · 🔴 201 Hard
+**1037 solved** — 🟢 364 Easy · 🟡 472 Medium · 🔴 201 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -879,6 +879,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3386](https://leetcode.com/problems/button-with-longest-push-time/) | [Button with Longest Push Time](problems/3386.button-with-longest-push-time.cpp) | 🟢 Easy | C++ |
 | [3392](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Count Subarrays of Length Three With a Condition](problems/3392.count-subarrays-of-length-three-with-a-condition.cpp) | 🟢 Easy | C++ |
 | [3393](https://leetcode.com/problems/count-paths-with-the-given-xor-value/) | [Count Paths With the Given XOR Value](problems/3393.count-paths-with-the-given-xor-value.cpp) | 🟡 Medium | C++ |
+| [3397](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | [Maximum Number of Distinct Elements After Operations](problems/3397.maximum-number-of-distinct-elements-after-operations.cpp) | 🟡 Medium | C++ |
 | [3398](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [Smallest Substring With Identical Characters I](problems/3398.smallest-substring-with-identical-characters-i.cpp) | 🔴 Hard | C++ |
 | [3399](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/) | [Smallest Substring With Identical Characters II](problems/3399.smallest-substring-with-identical-characters-ii.cpp) | 🔴 Hard | C++ |
 | [3403](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Find the Lexicographically Largest String From the Box I](problems/3403.find-the-lexicographically-largest-string-from-the-box-i.cpp) | 🟡 Medium | C++ |
