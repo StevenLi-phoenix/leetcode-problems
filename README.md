@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1041 solved** — 🟢 365 Easy · 🟡 473 Medium · 🔴 203 Hard
+**1042 solved** — 🟢 365 Easy · 🟡 474 Medium · 🔴 203 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -293,6 +293,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Binary Prefix Divisible By 5](problems/1018.binary-prefix-divisible-by-5.cpp) | 🟢 Easy | C++ |
 | [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | [Remove Outermost Parentheses](problems/1021.remove-outermost-parentheses.cpp) | 🟢 Easy | C++ |
 | [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Sum of Root To Leaf Binary Numbers](problems/1022.sum-of-root-to-leaf-binary-numbers.cpp) | 🟢 Easy | C++ |
+| [1023](https://leetcode.com/problems/camelcase-matching/) | [Camelcase Matching](problems/1023.camelcase-matching.cpp) | 🟡 Medium | C++ |
 | [1030](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](problems/1030.matrix-cells-in-distance-order.cpp) | 🟢 Easy | C++ |
 | [1032](https://leetcode.com/problems/stream-of-characters/) | [Stream of Characters](problems/1032.stream-of-characters.cpp) | 🔴 Hard | C++ |
 | [1033](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Moving Stones Until Consecutive](problems/1033.moving-stones-until-consecutive.cpp) | 🟡 Medium | C++ |
