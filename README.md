@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1034 solved** — 🟢 363 Easy · 🟡 471 Medium · 🔴 200 Hard
+**1035 solved** — 🟢 364 Easy · 🟡 471 Medium · 🔴 200 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -811,6 +811,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | [Water Bottles II](problems/3100.water-bottles-ii.cpp) | 🟡 Medium | C++ |
 | [3106](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/) | [Lexicographically Smallest String After Operations With Constraint](problems/3106.lexicographically-smallest-string-after-operations-with-constraint.cpp) | 🟡 Medium | C++ |
 | [3108](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](problems/3108.minimum-cost-walk-in-weighted-graph.cpp) | 🔴 Hard | C++ |
+| [3110](https://leetcode.com/problems/score-of-a-string/) | [Score of a String](problems/3110.score-of-a-string.cpp) | 🟢 Easy | C++ |
 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](problems/3120.count-the-number-of-special-characters-i.cpp) | 🟢 Easy | C++ |
 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Count the Number of Special Characters II](problems/3121.count-the-number-of-special-characters-ii.cpp) | 🟡 Medium | C++ |
 | [3129](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Find All Possible Stable Binary Arrays I](problems/3129.find-all-possible-stable-binary-arrays-i.cpp) | 🟡 Medium | C++ |
