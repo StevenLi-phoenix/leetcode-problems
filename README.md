@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1031 solved** — 🟢 361 Easy · 🟡 470 Medium · 🔴 200 Hard
+**1032 solved** — 🟢 362 Easy · 🟡 470 Medium · 🔴 200 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -249,6 +249,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [866](https://leetcode.com/problems/prime-palindrome/) | [Prime Palindrome](problems/866.prime-palindrome.cpp) | 🟡 Medium | C++ |
 | [868](https://leetcode.com/problems/binary-gap/) | [Binary Gap](problems/868.binary-gap.cpp) | 🟢 Easy | C++ |
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | [Reordered Power of 2](problems/869.reordered-power-of-2.cpp) | 🟡 Medium | C++ |
+| [872](https://leetcode.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](problems/872.leaf-similar-trees.cpp) | 🟢 Easy | C++ |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](problems/874.walking-robot-simulation.cpp) | 🟡 Medium | C++ |
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
 | [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](problems/878.nth-magical-number.cpp) | 🔴 Hard | C++ |
