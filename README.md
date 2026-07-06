@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1065 solved** — 🟢 368 Easy · 🟡 487 Medium · 🔴 210 Hard
+**1066 solved** — 🟢 368 Easy · 🟡 488 Medium · 🔴 210 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -656,6 +656,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [Number of Unique Subjects Taught by Each Teacher](problems/2356.number-of-unique-subjects-taught-by-each-teacher.sql) | 🟢 Easy | mysql |
 | [2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Make Array Zero by Subtracting Equal Amounts](problems/2357.make-array-zero-by-subtracting-equal-amounts.cpp) | 🟢 Easy | C++ |
 | [2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Longest Cycle in a Graph](problems/2360.longest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
+| [2368](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [Reachable Nodes With Restrictions](problems/2368.reachable-nodes-with-restrictions.cpp) | 🟡 Medium | C++ |
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
 | [2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [Largest Local Values in a Matrix](problems/2373.largest-local-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [2380](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Time Needed to Rearrange a Binary String](problems/2380.time-needed-to-rearrange-a-binary-string.cpp) | 🟡 Medium | C++ |
