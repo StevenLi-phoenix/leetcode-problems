@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1011 solved** — 🟢 355 Easy · 🟡 462 Medium · 🔴 194 Hard
+**1012 solved** — 🟢 355 Easy · 🟡 462 Medium · 🔴 195 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -476,6 +476,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Maximum Score of a Good Subarray](problems/1793.maximum-score-of-a-good-subarray.cpp) | 🔴 Hard | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
+| [1815](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [Maximum Number of Groups Getting Fresh Donuts](problems/1815.maximum-number-of-groups-getting-fresh-donuts.cpp) | 🔴 Hard | C++ |
 | [1816](https://leetcode.com/problems/truncate-sentence/) | [Truncate Sentence](problems/1816.truncate-sentence.cpp) | 🟢 Easy | C++ |
 | [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Sign of the Product of an Array](problems/1822.sign-of-the-product-of-an-array.cpp) | 🟢 Easy | C++ |
 | [1824](https://leetcode.com/problems/minimum-sideway-jumps/) | [Minimum Sideway Jumps](problems/1824.minimum-sideway-jumps.cpp) | 🟡 Medium | C++ |
