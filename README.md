@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1014 solved** — 🟢 356 Easy · 🟡 463 Medium · 🔴 195 Hard
+**1015 solved** — 🟢 356 Easy · 🟡 464 Medium · 🔴 195 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -615,6 +615,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2299](https://leetcode.com/problems/strong-password-checker-ii/) | [Strong Password Checker II](problems/2299.strong-password-checker-ii.cpp) | 🟢 Easy | C++ |
 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](problems/2300.successful-pairs-of-spells-and-potions.cpp) | 🟡 Medium | C++ |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [Calculate Amount Paid in Taxes](problems/2303.calculate-amount-paid-in-taxes.cpp) | 🟢 Easy | C++ |
+| [2311](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [Longest Binary Subsequence Less Than or Equal to K](problems/2311.longest-binary-subsequence-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [2312](https://leetcode.com/problems/selling-pieces-of-wood/) | [Selling Pieces of Wood](problems/2312.selling-pieces-of-wood.cpp) | 🔴 Hard | C++ |
 | [2316](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Count Unreachable Pairs of Nodes in an Undirected Graph](problems/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp) | 🟡 Medium | C++ |
 | [2318](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [Number of Distinct Roll Sequences](problems/2318.number-of-distinct-roll-sequences.cpp) | 🔴 Hard | C++ |
