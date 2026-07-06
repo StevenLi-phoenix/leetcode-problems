@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1057 solved** — 🟢 366 Easy · 🟡 481 Medium · 🔴 210 Hard
+**1058 solved** — 🟢 366 Easy · 🟡 482 Medium · 🔴 210 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -484,6 +484,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1753](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [Maximum Score From Removing Stones](problems/1753.maximum-score-from-removing-stones.cpp) | 🟡 Medium | C++ |
 | [1754](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Largest Merge Of Two Strings](problems/1754.largest-merge-of-two-strings.cpp) | 🟡 Medium | C++ |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](problems/1758.minimum-changes-to-make-alternating-binary-string.cpp) | 🟢 Easy | C++ |
+| [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Minimum Limit of Balls in a Bag](problems/1760.minimum-limit-of-balls-in-a-bag.cpp) | 🟡 Medium | C++ |
 | [1763](https://leetcode.com/problems/longest-nice-substring/) | [Longest Nice Substring](problems/1763.longest-nice-substring.cpp) | 🟢 Easy | C++ |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | [Merge Strings Alternately](problems/1768.merge-strings-alternately.cpp) | 🟢 Easy | C++ |
 | [1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [Equal Sum Arrays With Minimum Number of Operations](problems/1775.equal-sum-arrays-with-minimum-number-of-operations.cpp) | 🟡 Medium | C++ |
