@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1028 solved** — 🟢 361 Easy · 🟡 469 Medium · 🔴 198 Hard
+**1029 solved** — 🟢 361 Easy · 🟡 469 Medium · 🔴 199 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -481,6 +481,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1791](https://leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](problems/1791.find-center-of-star-graph.cpp) | 🟢 Easy | C++ |
 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](problems/1792.maximum-average-pass-ratio.cpp) | 🟡 Medium | C++ |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Maximum Score of a Good Subarray](problems/1793.maximum-score-of-a-good-subarray.cpp) | 🔴 Hard | C++ |
+| [1799](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Maximize Score After N Operations](problems/1799.maximize-score-after-n-operations.cpp) | 🔴 Hard | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
 | [1815](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [Maximum Number of Groups Getting Fresh Donuts](problems/1815.maximum-number-of-groups-getting-fresh-donuts.cpp) | 🔴 Hard | C++ |
