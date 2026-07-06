@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1029 solved** — 🟢 361 Easy · 🟡 469 Medium · 🔴 199 Hard
+**1030 solved** — 🟢 361 Easy · 🟡 470 Medium · 🔴 199 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -860,6 +860,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3327](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/) | [Check if DFS Strings Are Palindromes](problems/3327.check-if-dfs-strings-are-palindromes.cpp) | 🔴 Hard | C++ |
 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](problems/3333.find-the-original-typed-string-ii.cpp) | 🔴 Hard | C++ |
 | [3340](https://leetcode.com/problems/check-balanced-string/) | [Check Balanced String](problems/3340.check-balanced-string.cpp) | 🟢 Easy | C++ |
+| [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](problems/3342.find-minimum-time-to-reach-last-room-ii.cpp) | 🟡 Medium | C++ |
 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](problems/3349.adjacent-increasing-subarrays-detection-i.cpp) | 🟢 Easy | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
 | [3357](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Minimize the Maximum Adjacent Element Difference](problems/3357.minimize-the-maximum-adjacent-element-difference.cpp) | 🔴 Hard | C++ |
