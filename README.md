@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1015 solved** — 🟢 356 Easy · 🟡 464 Medium · 🔴 195 Hard
+**1016 solved** — 🟢 357 Easy · 🟡 464 Medium · 🔴 195 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -972,6 +972,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Minimum Distance Between Three Equal Elements I](problems/3740.minimum-distance-between-three-equal-elements-i.cpp) | 🟢 Easy | C++ |
 | [3741](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/) | [Minimum Distance Between Three Equal Elements II](problems/3741.minimum-distance-between-three-equal-elements-ii.cpp) | 🟡 Medium | C++ |
 | [3742](https://leetcode.com/problems/maximum-path-score-in-a-grid/) | [Maximum Path Score in a Grid](problems/3742.maximum-path-score-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [3745](https://leetcode.com/problems/maximize-expression-of-three-elements/) | [Maximize Expression of Three Elements](problems/3745.maximize-expression-of-three-elements.cpp) | 🟢 Easy | C++ |
 | [3747](https://leetcode.com/problems/count-distinct-integers-after-removing-zeros/) | [Count Distinct Integers After Removing Zeros](problems/3747.count-distinct-integers-after-removing-zeros.cpp) | 🟡 Medium | C++ |
 | [3748](https://leetcode.com/problems/count-stable-subarrays/) | [Count Stable Subarrays](problems/3748.count-stable-subarrays.cpp) | 🔴 Hard | C++ |
 | [3751](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Total Waviness of Numbers in Range I](problems/3751.total-waviness-of-numbers-in-range-i.cpp) | 🟡 Medium | C++ |
