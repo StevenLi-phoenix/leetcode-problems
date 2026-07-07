@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1145 solved** — 🟢 391 Easy · 🟡 526 Medium · 🔴 228 Hard
+**1146 solved** — 🟢 392 Easy · 🟡 526 Medium · 🔴 228 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -719,6 +719,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](problems/2413.smallest-even-multiple.cpp) | 🟢 Easy | C++ |
 | [2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Length of the Longest Alphabetical Continuous Substring](problems/2414.length-of-the-longest-alphabetical-continuous-substring.cpp) | 🟡 Medium | C++ |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
+| [2423](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [Remove Letter To Equalize Frequency](problems/2423.remove-letter-to-equalize-frequency.cpp) | 🟢 Easy | C++ |
 | [2424](https://leetcode.com/problems/longest-uploaded-prefix/) | [Longest Uploaded Prefix](problems/2424.longest-uploaded-prefix.cpp) | 🟡 Medium | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
