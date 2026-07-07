@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1085 solved** — 🟢 374 Easy · 🟡 496 Medium · 🔴 215 Hard
+**1086 solved** — 🟢 374 Easy · 🟡 497 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -177,6 +177,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [526](https://leetcode.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](problems/526.beautiful-arrangement.cpp) | 🟡 Medium | C++ |
 | [528](https://leetcode.com/problems/random-pick-with-weight/) | [Random Pick with Weight](problems/528.random-pick-with-weight.cpp) | 🟡 Medium | C++ |
 | [535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Encode and Decode TinyURL](problems/535.encode-and-decode-tinyurl.cpp) | 🟡 Medium | C++ |
+| [537](https://leetcode.com/problems/complex-number-multiplication/) | [Complex Number Multiplication](problems/537.complex-number-multiplication.cpp) | 🟡 Medium | C++ |
 | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Single Element in a Sorted Array](problems/540.single-element-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [541](https://leetcode.com/problems/reverse-string-ii/) | [Reverse String II](problems/541.reverse-string-ii.cpp) | 🟢 Easy | C++ |
 | [547](https://leetcode.com/problems/number-of-provinces/) | [Number of Provinces](problems/547.number-of-provinces.cpp) | 🟡 Medium | C++ |
