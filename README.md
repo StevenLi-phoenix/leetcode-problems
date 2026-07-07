@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1076 solved** — 🟢 373 Easy · 🟡 492 Medium · 🔴 211 Hard
+**1077 solved** — 🟢 373 Easy · 🟡 493 Medium · 🔴 211 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -277,6 +277,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Data in Log Files](problems/937.reorder-data-in-log-files.cpp) | 🟡 Medium | C++ |
 | [942](https://leetcode.com/problems/di-string-match/) | [DI String Match](problems/942.di-string-match.cpp) | 🟢 Easy | C++ |
 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](problems/944.delete-columns-to-make-sorted.cpp) | 🟢 Easy | C++ |
+| [950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Reveal Cards In Increasing Order](problems/950.reveal-cards-in-increasing-order.cpp) | 🟡 Medium | C++ |
 | [952](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Largest Component Size by Common Factor](problems/952.largest-component-size-by-common-factor.cpp) | 🔴 Hard | C++ |
 | [953](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Verifying an Alien Dictionary](problems/953.verifying-an-alien-dictionary.cpp) | 🟢 Easy | C++ |
 | [955](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Delete Columns to Make Sorted II](problems/955.delete-columns-to-make-sorted-ii.cpp) | 🟡 Medium | C++ |
