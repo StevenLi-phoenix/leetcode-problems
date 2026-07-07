@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1160 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 234 Hard
+**1161 solved** — 🟢 393 Easy · 🟡 534 Medium · 🔴 234 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -43,6 +43,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [35](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](problems/35.search-insert-position.cpp) | 🟢 Easy | C++ |
 | [36](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](problems/36.valid-sudoku.cpp) | 🟡 Medium | C++ |
 | [37](https://leetcode.com/problems/sudoku-solver/) | [Sudoku Solver](problems/37.sudoku-solver.cpp) | 🔴 Hard | C++ |
+| [38](https://leetcode.com/problems/count-and-say/) | [Count and Say](problems/38.count-and-say.cpp) | 🟡 Medium | C++ |
 | [39](https://leetcode.com/problems/combination-sum/) | [Combination Sum](problems/39.combination-sum.cpp) | 🟡 Medium | C++ |
 | [41](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](problems/41.first-missing-positive.cpp) | 🔴 Hard | C++ |
 | [43](https://leetcode.com/problems/multiply-strings/) | [Multiply Strings](problems/43.multiply-strings.cpp) | 🟡 Medium | C++ |
