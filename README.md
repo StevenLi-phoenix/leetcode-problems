@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1111 solved** — 🟢 382 Easy · 🟡 511 Medium · 🔴 218 Hard
+**1112 solved** — 🟢 382 Easy · 🟡 512 Medium · 🔴 218 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -99,6 +99,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [212](https://leetcode.com/problems/word-search-ii/) | [Word Search II](problems/212.word-search-ii.cpp) | 🔴 Hard | C++ |
 | [213](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](problems/213.house-robber-ii.cpp) | 🟡 Medium | C++ |
 | [214](https://leetcode.com/problems/shortest-palindrome/) | [Shortest Palindrome](problems/214.shortest-palindrome.cpp) | 🔴 Hard | C++ |
+| [221](https://leetcode.com/problems/maximal-square/) | [Maximal Square](problems/221.maximal-square.cpp) | 🟡 Medium | C++ |
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
 | [224](https://leetcode.com/problems/basic-calculator/) | [Basic Calculator](problems/224.basic-calculator.cpp) | 🔴 Hard | C++ |
 | [228](https://leetcode.com/problems/summary-ranges/) | [Summary Ranges](problems/228.summary-ranges.cpp) | 🟢 Easy | C++ |
