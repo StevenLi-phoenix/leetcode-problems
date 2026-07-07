@@ -36,3 +36,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/40.combination-sum-ii.cpp
 - Solved 42 (Trapping Rain Water, Hard). Two-pointer O(1) space.
   Files: problems/42.trapping-rain-water.cpp
+- Solved 45 (Jump Game II, Medium). Greedy BFS-layer jump.
+  Files: problems/45.jump-game-ii.cpp
