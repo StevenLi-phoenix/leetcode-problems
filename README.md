@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1108 solved** — 🟢 380 Easy · 🟡 510 Medium · 🔴 218 Hard
+**1109 solved** — 🟢 381 Easy · 🟡 510 Medium · 🔴 218 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1087,6 +1087,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3839](https://leetcode.com/problems/number-of-prefix-connected-groups/) | [Number of Prefix Connected Groups](problems/3839.number-of-prefix-connected-groups.cpp) | 🟡 Medium | C++ |
 | [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
+| [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
 | [3864](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Minimum Cost to Partition a Binary String](problems/3864.minimum-cost-to-partition-a-binary-string.cpp) | 🔴 Hard | C++ |
 | [3866](https://leetcode.com/problems/first-unique-even-element/) | [First Unique Even Element](problems/3866.first-unique-even-element.cpp) | 🟢 Easy | C++ |
