@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1126 solved** — 🟢 384 Easy · 🟡 518 Medium · 🔴 224 Hard
+**1127 solved** — 🟢 384 Easy · 🟡 519 Medium · 🔴 224 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1124,6 +1124,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3915](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](problems/3915.maximum-sum-of-alternating-subsequence-with-distance-at-least-k.cpp) | 🔴 Hard | C++ |
 | [3921](https://leetcode.com/problems/score-validator/) | [Score Validator](problems/3921.score-validator.cpp) | 🟢 Easy | C++ |
 | [3925](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Concatenate Array With Reverse](problems/3925.concatenate-array-with-reverse.cpp) | 🟢 Easy | C++ |
+| [3927](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | [Minimize Array Sum Using Divisible Replacements](problems/3927.minimize-array-sum-using-divisible-replacements.cpp) | 🟡 Medium | C++ |
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3936](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Minimum Swaps to Move Zeros to End](problems/3936.minimum-swaps-to-move-zeros-to-end.cpp) | 🟢 Easy | C++ |
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
