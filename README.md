@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1131 solved** — 🟢 386 Easy · 🟡 520 Medium · 🔴 225 Hard
+**1132 solved** — 🟢 387 Easy · 🟡 520 Medium · 🔴 225 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -218,6 +218,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [667](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Beautiful Arrangement II](problems/667.beautiful-arrangement-ii.cpp) | 🟡 Medium | C++ |
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [678](https://leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](problems/678.valid-parenthesis-string.cpp) | 🟡 Medium | C++ |
+| [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](problems/680.valid-palindrome-ii.cpp) | 🟢 Easy | C++ |
 | [682](https://leetcode.com/problems/baseball-game/) | [Baseball Game](problems/682.baseball-game.cpp) | 🟢 Easy | C++ |
 | [686](https://leetcode.com/problems/repeated-string-match/) | [Repeated String Match](problems/686.repeated-string-match.cpp) | 🟡 Medium | C++ |
 | [691](https://leetcode.com/problems/stickers-to-spell-word/) | [Stickers to Spell Word](problems/691.stickers-to-spell-word.cpp) | 🔴 Hard | C++ |
