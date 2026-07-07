@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1107 solved** — 🟢 380 Easy · 🟡 510 Medium · 🔴 217 Hard
+**1108 solved** — 🟢 380 Easy · 🟡 510 Medium · 🔴 218 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -351,6 +351,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](problems/1190.reverse-substrings-between-each-pair-of-parentheses.cpp) | 🟡 Medium | C++ |
 | [1192](https://leetcode.com/problems/critical-connections-in-a-network/) | [Critical Connections in a Network](problems/1192.critical-connections-in-a-network.cpp) | 🔴 Hard | C++ |
 | [1200](https://leetcode.com/problems/minimum-absolute-difference/) | [Minimum Absolute Difference](problems/1200.minimum-absolute-difference.cpp) | 🟢 Easy | C++ |
+| [1203](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Sort Items by Groups Respecting Dependencies](problems/1203.sort-items-by-groups-respecting-dependencies.cpp) | 🔴 Hard | C++ |
 | [1210](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [Minimum Moves to Reach Target with Rotations](problems/1210.minimum-moves-to-reach-target-with-rotations.cpp) | 🔴 Hard | C++ |
 | [1211](https://leetcode.com/problems/queries-quality-and-percentage/) | [Queries Quality and Percentage](problems/1211.queries-quality-and-percentage.sql) | 🟢 Easy | mysql |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Longest Arithmetic Subsequence of Given Difference](problems/1218.longest-arithmetic-subsequence-of-given-difference.cpp) | 🟡 Medium | C++ |
