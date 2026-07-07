@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1116 solved** — 🟢 383 Easy · 🟡 513 Medium · 🔴 220 Hard
+**1117 solved** — 🟢 383 Easy · 🟡 513 Medium · 🔴 221 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -517,6 +517,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1763](https://leetcode.com/problems/longest-nice-substring/) | [Longest Nice Substring](problems/1763.longest-nice-substring.cpp) | 🟢 Easy | C++ |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | [Merge Strings Alternately](problems/1768.merge-strings-alternately.cpp) | 🟢 Easy | C++ |
 | [1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [Equal Sum Arrays With Minimum Number of Operations](problems/1775.equal-sum-arrays-with-minimum-number-of-operations.cpp) | 🟡 Medium | C++ |
+| [1776](https://leetcode.com/problems/car-fleet-ii/) | [Car Fleet II](problems/1776.car-fleet-ii.cpp) | 🔴 Hard | C++ |
 | [1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Find Nearest Point That Has the Same X or Y Coordinate](problems/1779.find-nearest-point-that-has-the-same-x-or-y-coordinate.cpp) | 🟢 Easy | C++ |
 | [1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](problems/1780.check-if-number-is-a-sum-of-powers-of-three.cpp) | 🟡 Medium | C++ |
 | [1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Sum of Beauty of All Substrings](problems/1781.sum-of-beauty-of-all-substrings.cpp) | 🟡 Medium | C++ |
