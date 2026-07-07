@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1093 solved** — 🟢 377 Easy · 🟡 501 Medium · 🔴 215 Hard
+**1094 solved** — 🟢 377 Easy · 🟡 502 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -869,6 +869,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
 | [3174](https://leetcode.com/problems/clear-digits/) | [Clear Digits](problems/3174.clear-digits.cpp) | 🟢 Easy | C++ |
+| [3175](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Find The First Player to win K Games in a Row](problems/3175.find-the-first-player-to-win-k-games-in-a-row.cpp) | 🟡 Medium | C++ |
 | [3184](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | [Count Pairs That Form a Complete Day I](problems/3184.count-pairs-that-form-a-complete-day-i.cpp) | 🟢 Easy | C++ |
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
