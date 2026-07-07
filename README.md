@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1078 solved** — 🟢 373 Easy · 🟡 494 Medium · 🔴 211 Hard
+**1079 solved** — 🟢 373 Easy · 🟡 495 Medium · 🔴 211 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1056,6 +1056,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3835](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | [Count Subarrays With Cost Less Than or Equal to K](problems/3835.count-subarrays-with-cost-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3836](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Maximum Score Using Exactly K Pairs](problems/3836.maximum-score-using-exactly-k-pairs.cpp) | 🔴 Hard | C++ |
 | [3838](https://leetcode.com/problems/weighted-word-mapping/) | [Weighted Word Mapping](problems/3838.weighted-word-mapping.cpp) | 🟢 Easy | C++ |
+| [3839](https://leetcode.com/problems/number-of-prefix-connected-groups/) | [Number of Prefix Connected Groups](problems/3839.number-of-prefix-connected-groups.cpp) | 🟡 Medium | C++ |
 | [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
