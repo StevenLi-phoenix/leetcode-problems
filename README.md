@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1104 solved** — 🟢 380 Easy · 🟡 508 Medium · 🔴 216 Hard
+**1105 solved** — 🟢 380 Easy · 🟡 509 Medium · 🔴 216 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -658,6 +658,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Count Unguarded Cells in the Grid](problems/2257.count-unguarded-cells-in-the-grid.cpp) | 🟡 Medium | C++ |
 | [2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Remove Digit From Number to Maximize Result](problems/2259.remove-digit-from-number-to-maximize-result.cpp) | 🟢 Easy | C++ |
 | [2260](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Minimum Consecutive Cards to Pick Up](problems/2260.minimum-consecutive-cards-to-pick-up.cpp) | 🟡 Medium | C++ |
+| [2261](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [K Divisible Elements Subarrays](problems/2261.k-divisible-elements-subarrays.cpp) | 🟡 Medium | C++ |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Largest 3-Same-Digit Number in String](problems/2264.largest-3-same-digit-number-in-string.cpp) | 🟢 Easy | C++ |
 | [2270](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](problems/2270.number-of-ways-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Maximum White Tiles Covered by a Carpet](problems/2271.maximum-white-tiles-covered-by-a-carpet.cpp) | 🟡 Medium | C++ |
