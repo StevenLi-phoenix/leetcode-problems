@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1121 solved** — 🟢 383 Easy · 🟡 516 Medium · 🔴 222 Hard
+**1122 solved** — 🟢 383 Easy · 🟡 517 Medium · 🔴 222 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -857,6 +857,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3019](https://leetcode.com/problems/number-of-changing-keys/) | [Number of Changing Keys](problems/3019.number-of-changing-keys.cpp) | 🟢 Easy | C++ |
 | [3027](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Find the Number of Ways to Place People II](problems/3027.find-the-number-of-ways-to-place-people-ii.cpp) | 🔴 Hard | C++ |
 | [3028](https://leetcode.com/problems/ant-on-the-boundary/) | [Ant on the Boundary](problems/3028.ant-on-the-boundary.cpp) | 🟢 Easy | C++ |
+| [3034](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | [Number of Subarrays That Match a Pattern I](problems/3034.number-of-subarrays-that-match-a-pattern-i.cpp) | 🟡 Medium | C++ |
 | [3035](https://leetcode.com/problems/maximum-palindromes-after-operations/) | [Maximum Palindromes After Operations](problems/3035.maximum-palindromes-after-operations.cpp) | 🟡 Medium | C++ |
 | [3036](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | [Number of Subarrays That Match a Pattern II](problems/3036.number-of-subarrays-that-match-a-pattern-ii.cpp) | 🔴 Hard | C++ |
 | [3038](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [Maximum Number of Operations With the Same Score I](problems/3038.maximum-number-of-operations-with-the-same-score-i.cpp) | 🟢 Easy | C++ |
