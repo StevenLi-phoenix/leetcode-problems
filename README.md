@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1156 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 230 Hard
+**1157 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 231 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -28,6 +28,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](problems/20.valid-parentheses.cpp) | 🟢 Easy | C++ |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](problems/21.merge-two-sorted-lists.cpp) | 🟢 Easy | C++ |
 | [22](https://leetcode.com/problems/generate-parentheses/) | [Generate Parentheses](problems/22.generate-parentheses.cpp) | 🟡 Medium | C++ |
+| [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted Lists](problems/23.merge-k-sorted-lists.cpp) | 🔴 Hard | C++ |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Swap Nodes in Pairs](problems/24.swap-nodes-in-pairs.cpp) | 🟡 Medium | C++ |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](problems/26.remove-duplicates-from-sorted-array.cpp) | 🟢 Easy | C++ |
 | [27](https://leetcode.com/problems/remove-element/) | [Remove Element](problems/27.remove-element.cpp) | 🟢 Easy | C++ |
