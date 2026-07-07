@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1067 solved** — 🟢 368 Easy · 🟡 489 Medium · 🔴 210 Hard
+**1068 solved** — 🟢 369 Easy · 🟡 489 Medium · 🔴 210 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -390,6 +390,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [Queries on a Permutation With Key](problems/1409.queries-on-a-permutation-with-key.cpp) | 🟡 Medium | C++ |
 | [1410](https://leetcode.com/problems/html-entity-parser/) | [HTML Entity Parser](problems/1410.html-entity-parser.cpp) | 🟡 Medium | C++ |
 | [1411](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | [Number of Ways to Paint N × 3 Grid](problems/1411.number-of-ways-to-paint-n-3-grid.cpp) | 🔴 Hard | C++ |
+| [1413](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [Minimum Value to Get Positive Step by Step Sum](problems/1413.minimum-value-to-get-positive-step-by-step-sum.cpp) | 🟢 Easy | C++ |
 | [1414](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](problems/1414.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.cpp) | 🟡 Medium | C++ |
 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](problems/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp) | 🟡 Medium | C++ |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](problems/1422.maximum-score-after-splitting-a-string.cpp) | 🟢 Easy | C++ |
