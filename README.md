@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1128 solved** — 🟢 384 Easy · 🟡 520 Medium · 🔴 224 Hard
+**1129 solved** — 🟢 384 Easy · 🟡 520 Medium · 🔴 225 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -941,6 +941,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](problems/3333.find-the-original-typed-string-ii.cpp) | 🔴 Hard | C++ |
 | [3340](https://leetcode.com/problems/check-balanced-string/) | [Check Balanced String](problems/3340.check-balanced-string.cpp) | 🟢 Easy | C++ |
 | [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](problems/3342.find-minimum-time-to-reach-last-room-ii.cpp) | 🟡 Medium | C++ |
+| [3343](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](problems/3343.count-number-of-balanced-permutations.cpp) | 🔴 Hard | C++ |
 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](problems/3349.adjacent-increasing-subarrays-detection-i.cpp) | 🟢 Easy | C++ |
 | [3352](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Count K-Reducible Numbers Less Than N](problems/3352.count-k-reducible-numbers-less-than-n.cpp) | 🔴 Hard | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
