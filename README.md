@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1125 solved** — 🟢 384 Easy · 🟡 517 Medium · 🔴 224 Hard
+**1126 solved** — 🟢 384 Easy · 🟡 518 Medium · 🔴 224 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -41,6 +41,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [37](https://leetcode.com/problems/sudoku-solver/) | [Sudoku Solver](problems/37.sudoku-solver.cpp) | 🔴 Hard | C++ |
 | [39](https://leetcode.com/problems/combination-sum/) | [Combination Sum](problems/39.combination-sum.cpp) | 🟡 Medium | C++ |
 | [41](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](problems/41.first-missing-positive.cpp) | 🔴 Hard | C++ |
+| [43](https://leetcode.com/problems/multiply-strings/) | [Multiply Strings](problems/43.multiply-strings.cpp) | 🟡 Medium | C++ |
 | [44](https://leetcode.com/problems/wildcard-matching/) | [Wildcard Matching](problems/44.wildcard-matching.cpp) | 🔴 Hard | C++ |
 | [46](https://leetcode.com/problems/permutations/) | [Permutations](problems/46.permutations.cpp) | 🟡 Medium | C++ |
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](problems/48.rotate-image.cpp) | 🟡 Medium | C++ |
