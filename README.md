@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1135 solved** — 🟢 388 Easy · 🟡 521 Medium · 🔴 226 Hard
+**1136 solved** — 🟢 388 Easy · 🟡 522 Medium · 🔴 226 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -304,6 +304,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [953](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Verifying an Alien Dictionary](problems/953.verifying-an-alien-dictionary.cpp) | 🟢 Easy | C++ |
 | [955](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Delete Columns to Make Sorted II](problems/955.delete-columns-to-make-sorted-ii.cpp) | 🟡 Medium | C++ |
 | [958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Check Completeness of a Binary Tree](problems/958.check-completeness-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
+| [959](https://leetcode.com/problems/regions-cut-by-slashes/) | [Regions Cut By Slashes](problems/959.regions-cut-by-slashes.cpp) | 🟡 Medium | C++ |
 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](problems/960.delete-columns-to-make-sorted-iii.cpp) | 🔴 Hard | C++ |
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](problems/961.n-repeated-element-in-size-2n-array.cpp) | 🟢 Easy | C++ |
 | [965](https://leetcode.com/problems/univalued-binary-tree/) | [Univalued Binary Tree](problems/965.univalued-binary-tree.cpp) | 🟢 Easy | C++ |
