@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1081 solved** — 🟢 373 Easy · 🟡 495 Medium · 🔴 213 Hard
+**1082 solved** — 🟢 374 Easy · 🟡 495 Medium · 🔴 213 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -691,6 +691,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2452](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Words Within Two Edits of Dictionary](problems/2452.words-within-two-edits-of-dictionary.cpp) | 🟡 Medium | C++ |
 | [2455](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [Average Value of Even Numbers That Are Divisible by Three](problems/2455.average-value-of-even-numbers-that-are-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [2456](https://leetcode.com/problems/most-popular-video-creator/) | [Most Popular Video Creator](problems/2456.most-popular-video-creator.cpp) | 🟡 Medium | C++ |
+| [2460](https://leetcode.com/problems/apply-operations-to-an-array/) | [Apply Operations to an Array](problems/2460.apply-operations-to-an-array.cpp) | 🟢 Easy | C++ |
 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](problems/2463.minimum-total-distance-traveled.cpp) | 🔴 Hard | C++ |
 | [2475](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [Number of Unequal Triplets in Array](problems/2475.number-of-unequal-triplets-in-array.cpp) | 🟢 Easy | C++ |
 | [2478](https://leetcode.com/problems/number-of-beautiful-partitions/) | [Number of Beautiful Partitions](problems/2478.number-of-beautiful-partitions.cpp) | 🔴 Hard | C++ |
