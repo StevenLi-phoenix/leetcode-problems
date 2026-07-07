@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1102 solved** — 🟢 379 Easy · 🟡 508 Medium · 🔴 215 Hard
+**1103 solved** — 🟢 380 Easy · 🟡 508 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -66,6 +66,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](problems/102.binary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
 | [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](problems/109.convert-sorted-list-to-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [110](https://leetcode.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](problems/110.balanced-binary-tree.cpp) | 🟢 Easy | C++ |
+| [111](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](problems/111.minimum-depth-of-binary-tree.cpp) | 🟢 Easy | C++ |
 | [112](https://leetcode.com/problems/path-sum/) | [Path Sum](problems/112.path-sum.cpp) | 🟢 Easy | C++ |
 | [115](https://leetcode.com/problems/distinct-subsequences/) | [Distinct Subsequences](problems/115.distinct-subsequences.cpp) | 🔴 Hard | C++ |
 | [116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Populating Next Right Pointers in Each Node](problems/116.populating-next-right-pointers-in-each-node.cpp) | 🟡 Medium | C++ |
