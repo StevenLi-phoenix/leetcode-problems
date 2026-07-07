@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1144 solved** — 🟢 390 Easy · 🟡 526 Medium · 🔴 228 Hard
+**1145 solved** — 🟢 391 Easy · 🟡 526 Medium · 🔴 228 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -655,6 +655,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Rearrange Array Elements by Sign](problems/2149.rearrange-array-elements-by-sign.cpp) | 🟡 Medium | C++ |
 | [2151](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Maximum Good People Based on Statements](problems/2151.maximum-good-people-based-on-statements.cpp) | 🔴 Hard | C++ |
 | [2154](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [Keep Multiplying Found Values by Two](problems/2154.keep-multiplying-found-values-by-two.cpp) | 🟢 Easy | C++ |
+| [2160](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Minimum Sum of Four Digit Number After Splitting Digits](problems/2160.minimum-sum-of-four-digit-number-after-splitting-digits.cpp) | 🟢 Easy | C++ |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Partition Array According to Given Pivot](problems/2161.partition-array-according-to-given-pivot.cpp) | 🟡 Medium | C++ |
 | [2163](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | [Minimum Difference in Sums After Removal of Elements](problems/2163.minimum-difference-in-sums-after-removal-of-elements.cpp) | 🔴 Hard | C++ |
 | [2164](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [Sort Even and Odd Indices Independently](problems/2164.sort-even-and-odd-indices-independently.cpp) | 🟢 Easy | C++ |
