@@ -40,3 +40,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/45.jump-game-ii.cpp
 - Solved 47 (Permutations II, Medium). Sort + next_permutation loop, dedupe is free.
   Files: problems/47.permutations-ii.cpp
+- Solved 49 (Group Anagrams, Medium). Sorted-string hashmap key.
+  Files: problems/49.group-anagrams.cpp
