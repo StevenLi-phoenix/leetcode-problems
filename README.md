@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1155 solved** — 🟢 393 Easy · 🟡 532 Medium · 🔴 230 Hard
+**1156 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 230 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -796,6 +796,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2634](https://leetcode.com/problems/filter-elements-from-array/) | [Filter Elements from Array](problems/2634.filter-elements-from-array.js) | 🟢 Easy | JavaScript |
 | [2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Apply Transform Over Each Element in Array](problems/2635.apply-transform-over-each-element-in-array.js) | 🟢 Easy | JavaScript |
 | [2639](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Find the Width of Columns of a Grid](problems/2639.find-the-width-of-columns-of-a-grid.cpp) | 🟢 Easy | C++ |
+| [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp) | 🟡 Medium | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
 | [2660](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [Determine the Winner of a Bowling Game](problems/2660.determine-the-winner-of-a-bowling-game.cpp) | 🟢 Easy | C++ |
