@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1153 solved** — 🟢 393 Easy · 🟡 530 Medium · 🔴 230 Hard
+**1155 solved** — 🟢 393 Easy · 🟡 532 Medium · 🔴 230 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -172,6 +172,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [466](https://leetcode.com/problems/count-the-repetitions/) | [Count The Repetitions](problems/466.count-the-repetitions.cpp) | 🔴 Hard | C++ |
 | [467](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Unique Substrings in Wraparound String](problems/467.unique-substrings-in-wraparound-string.cpp) | 🟡 Medium | C++ |
 | [473](https://leetcode.com/problems/matchsticks-to-square/) | [Matchsticks to Square](problems/473.matchsticks-to-square.cpp) | 🟡 Medium | C++ |
+| [474](https://leetcode.com/problems/ones-and-zeroes/) | [Ones and Zeroes](problems/474.ones-and-zeroes.cpp) | 🟡 Medium | C++ |
 | [475](https://leetcode.com/problems/heaters/) | [Heaters](problems/475.heaters.cpp) | 🟡 Medium | C++ |
 | [477](https://leetcode.com/problems/total-hamming-distance/) | [Total Hamming Distance](problems/477.total-hamming-distance.cpp) | 🟡 Medium | C++ |
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
@@ -204,6 +205,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [594](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](problems/594.longest-harmonious-subsequence.cpp) | 🟢 Easy | C++ |
 | [596](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Classes With at Least 5 Students](problems/596.classes-with-at-least-5-students.sql) | 🟢 Easy | mysql |
 | [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Minimum Index Sum of Two Lists](problems/599.minimum-index-sum-of-two-lists.cpp) | 🟢 Easy | C++ |
+| [602](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Friend Requests II: Who Has the Most Friends](problems/602.friend-requests-ii-who-has-the-most-friends.sql) | 🟡 Medium | mysql |
 | [606](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](problems/606.construct-string-from-binary-tree.cpp) | 🟡 Medium | C++ |
 | [607](https://leetcode.com/problems/sales-person/) | [Sales Person](problems/607.sales-person.sql) | 🟢 Easy | mysql |
 | [617](https://leetcode.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](problems/617.merge-two-binary-trees.cpp) | 🟢 Easy | C++ |
