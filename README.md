@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1071 solved** — 🟢 370 Easy · 🟡 490 Medium · 🔴 211 Hard
+**1072 solved** — 🟢 370 Easy · 🟡 491 Medium · 🔴 211 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -747,6 +747,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2697](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Lexicographically Smallest Palindrome](problems/2697.lexicographically-smallest-palindrome.cpp) | 🟢 Easy | C++ |
 | [2698](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Find the Punishment Number of an Integer](problems/2698.find-the-punishment-number-of-an-integer.cpp) | 🟡 Medium | C++ |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | [Buy Two Chocolates](problems/2706.buy-two-chocolates.cpp) | 🟢 Easy | C++ |
+| [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | [Extra Characters in a String](problems/2707.extra-characters-in-a-string.cpp) | 🟡 Medium | C++ |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Greatest Common Divisor Traversal](problems/2709.greatest-common-divisor-traversal.cpp) | 🔴 Hard | C++ |
 | [2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Remove Trailing Zeros From a String](problems/2710.remove-trailing-zeros-from-a-string.cpp) | 🟢 Easy | C++ |
 | [2712](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | [Minimum Cost to Make All Characters Equal](problems/2712.minimum-cost-to-make-all-characters-equal.cpp) | 🟡 Medium | C++ |
