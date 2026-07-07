@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1129 solved** — 🟢 384 Easy · 🟡 520 Medium · 🔴 225 Hard
+**1130 solved** — 🟢 385 Easy · 🟡 520 Medium · 🔴 225 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -393,6 +393,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Number of Steps to Reduce a Number to Zero](problems/1342.number-of-steps-to-reduce-a-number-to-zero.cpp) | 🟢 Easy | C++ |
 | [1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Angle Between Hands of a Clock](problems/1344.angle-between-hands-of-a-clock.cpp) | 🟡 Medium | C++ |
 | [1345](https://leetcode.com/problems/jump-game-iv/) | [Jump Game IV](problems/1345.jump-game-iv.cpp) | 🔴 Hard | C++ |
+| [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Check If N and Its Double Exist](problems/1346.check-if-n-and-its-double-exist.cpp) | 🟢 Easy | C++ |
 | [1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Count Negative Numbers in a Sorted Matrix](problems/1351.count-negative-numbers-in-a-sorted-matrix.cpp) | 🟢 Easy | C++ |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](problems/1356.sort-integers-by-the-number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [1359](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Count All Valid Pickup and Delivery Options](problems/1359.count-all-valid-pickup-and-delivery-options.cpp) | 🔴 Hard | C++ |
