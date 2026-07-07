@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1092 solved** — 🟢 377 Easy · 🟡 500 Medium · 🔴 215 Hard
+**1093 solved** — 🟢 377 Easy · 🟡 501 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -416,6 +416,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](problems/1458.max-dot-product-of-two-subsequences.cpp) | 🔴 Hard | C++ |
 | [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Check If a String Contains All Binary Codes of Size K](problems/1461.check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | 🟡 Medium | C++ |
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Maximum Product of Two Elements in an Array](problems/1464.maximum-product-of-two-elements-in-an-array.cpp) | 🟢 Easy | C++ |
+| [1476](https://leetcode.com/problems/subrectangle-queries/) | [Subrectangle Queries](problems/1476.subrectangle-queries.cpp) | 🟡 Medium | C++ |
 | [1477](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Find Two Non-overlapping Sub-arrays Each With Target Sum](problems/1477.find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Kth Ancestor of a Tree Node](problems/1483.kth-ancestor-of-a-tree-node.cpp) | 🔴 Hard | C++ |
 | [1486](https://leetcode.com/problems/xor-operation-in-an-array/) | [XOR Operation in an Array](problems/1486.xor-operation-in-an-array.cpp) | 🟢 Easy | C++ |
