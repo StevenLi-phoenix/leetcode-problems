@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1122 solved** — 🟢 383 Easy · 🟡 517 Medium · 🔴 222 Hard
+**1123 solved** — 🟢 384 Easy · 🟡 517 Medium · 🔴 222 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -65,6 +65,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [100](https://leetcode.com/problems/same-tree/) | [Same Tree](problems/100.same-tree.cpp) | 🟢 Easy | C++ |
 | [101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](problems/101.symmetric-tree.cpp) | 🟢 Easy | C++ |
 | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](problems/102.binary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
+| [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Convert Sorted Array to Binary Search Tree](problems/108.convert-sorted-array-to-binary-search-tree.cpp) | 🟢 Easy | C++ |
 | [109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](problems/109.convert-sorted-list-to-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [110](https://leetcode.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](problems/110.balanced-binary-tree.cpp) | 🟢 Easy | C++ |
 | [111](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](problems/111.minimum-depth-of-binary-tree.cpp) | 🟢 Easy | C++ |
