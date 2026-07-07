@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1112 solved** — 🟢 382 Easy · 🟡 512 Medium · 🔴 218 Hard
+**1113 solved** — 🟢 382 Easy · 🟡 512 Medium · 🔴 219 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -88,6 +88,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [166](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Fraction to Recurring Decimal](problems/166.fraction-to-recurring-decimal.cpp) | 🟡 Medium | C++ |
 | [171](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](problems/171.excel-sheet-column-number.cpp) | 🟢 Easy | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
+| [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
