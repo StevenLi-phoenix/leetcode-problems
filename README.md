@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1157 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 231 Hard
+**1158 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 232 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -30,6 +30,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [22](https://leetcode.com/problems/generate-parentheses/) | [Generate Parentheses](problems/22.generate-parentheses.cpp) | 🟡 Medium | C++ |
 | [23](https://leetcode.com/problems/merge-k-sorted-lists/) | [Merge k Sorted Lists](problems/23.merge-k-sorted-lists.cpp) | 🔴 Hard | C++ |
 | [24](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Swap Nodes in Pairs](problems/24.swap-nodes-in-pairs.cpp) | 🟡 Medium | C++ |
+| [25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Reverse Nodes in k-Group](problems/25.reverse-nodes-in-k-group.cpp) | 🔴 Hard | C++ |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](problems/26.remove-duplicates-from-sorted-array.cpp) | 🟢 Easy | C++ |
 | [27](https://leetcode.com/problems/remove-element/) | [Remove Element](problems/27.remove-element.cpp) | 🟢 Easy | C++ |
 | [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Find the Index of the First Occurrence in a String](problems/28.find-the-index-of-the-first-occurrence-in-a-string.cpp) | 🟢 Easy | C++ |
