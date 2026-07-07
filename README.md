@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1158 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 232 Hard
+**1159 solved** — 🟢 393 Easy · 🟡 533 Medium · 🔴 233 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -35,6 +35,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [27](https://leetcode.com/problems/remove-element/) | [Remove Element](problems/27.remove-element.cpp) | 🟢 Easy | C++ |
 | [28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Find the Index of the First Occurrence in a String](problems/28.find-the-index-of-the-first-occurrence-in-a-string.cpp) | 🟢 Easy | C++ |
 | [29](https://leetcode.com/problems/divide-two-integers/) | [Divide Two Integers](problems/29.divide-two-integers.cpp) | 🟡 Medium | C++ |
+| [30](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Substring with Concatenation of All Words](problems/30.substring-with-concatenation-of-all-words.cpp) | 🔴 Hard | C++ |
 | [31](https://leetcode.com/problems/next-permutation/) | [Next Permutation](problems/31.next-permutation.cpp) | 🟡 Medium | C++ |
 | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](problems/33.search-in-rotated-sorted-array.cpp) | 🟡 Medium | C++ |
 | [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](problems/34.find-first-and-last-position-of-element-in-sorted-array.cpp) | 🟡 Medium | C++ |
