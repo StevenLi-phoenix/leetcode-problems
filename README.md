@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1099 solved** — 🟢 377 Easy · 🟡 507 Medium · 🔴 215 Hard
+**1100 solved** — 🟢 378 Easy · 🟡 507 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -551,6 +551,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1904](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [The Number of Full Rounds You Have Played](problems/1904.the-number-of-full-rounds-you-have-played.cpp) | 🟡 Medium | C++ |
 | [1907](https://leetcode.com/problems/count-salary-categories/) | [Count Salary Categories](problems/1907.count-salary-categories.sql) | 🟡 Medium | mysql |
 | [1909](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [Remove One Element to Make the Array Strictly Increasing](problems/1909.remove-one-element-to-make-the-array-strictly-increasing.cpp) | 🟢 Easy | C++ |
+| [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Maximum Product Difference Between Two Pairs](problems/1913.maximum-product-difference-between-two-pairs.cpp) | 🟢 Easy | C++ |
 | [1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](problems/1914.cyclically-rotating-a-grid.cpp) | 🟡 Medium | C++ |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](problems/1921.eliminate-maximum-number-of-monsters.cpp) | 🟡 Medium | C++ |
 | [1922](https://leetcode.com/problems/count-good-numbers/) | [Count Good Numbers](problems/1922.count-good-numbers.cpp) | 🟡 Medium | C++ |
