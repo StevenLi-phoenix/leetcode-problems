@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1083 solved** — 🟢 374 Easy · 🟡 495 Medium · 🔴 214 Hard
+**1084 solved** — 🟢 374 Easy · 🟡 495 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1044,6 +1044,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3770](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Largest Prime from Consecutive Prime Sum](problems/3770.largest-prime-from-consecutive-prime-sum.cpp) | 🟡 Medium | C++ |
 | [3774](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Absolute Difference Between Maximum and Minimum K Elements](problems/3774.absolute-difference-between-maximum-and-minimum-k-elements.cpp) | 🟢 Easy | C++ |
 | [3780](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Maximum Sum of Three Numbers Divisible by Three](problems/3780.maximum-sum-of-three-numbers-divisible-by-three.cpp) | 🟡 Medium | C++ |
+| [3782](https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations/) | [Last Remaining Integer After Alternating Deletion Operations](problems/3782.last-remaining-integer-after-alternating-deletion-operations.cpp) | 🔴 Hard | C++ |
 | [3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Mirror Distance of an Integer](problems/3783.mirror-distance-of-an-integer.cpp) | 🟢 Easy | C++ |
 | [3790](https://leetcode.com/problems/smallest-all-ones-multiple/) | [Smallest All-Ones Multiple](problems/3790.smallest-all-ones-multiple.cpp) | 🟡 Medium | C++ |
 | [3791](https://leetcode.com/problems/number-of-balanced-integers-in-a-range/) | [Number of Balanced Integers in a Range](problems/3791.number-of-balanced-integers-in-a-range.cpp) | 🔴 Hard | C++ |
