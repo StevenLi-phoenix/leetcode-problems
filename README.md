@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1161 solved** — 🟢 393 Easy · 🟡 534 Medium · 🔴 234 Hard
+**1162 solved** — 🟢 393 Easy · 🟡 535 Medium · 🔴 234 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -45,6 +45,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [37](https://leetcode.com/problems/sudoku-solver/) | [Sudoku Solver](problems/37.sudoku-solver.cpp) | 🔴 Hard | C++ |
 | [38](https://leetcode.com/problems/count-and-say/) | [Count and Say](problems/38.count-and-say.cpp) | 🟡 Medium | C++ |
 | [39](https://leetcode.com/problems/combination-sum/) | [Combination Sum](problems/39.combination-sum.cpp) | 🟡 Medium | C++ |
+| [40](https://leetcode.com/problems/combination-sum-ii/) | [Combination Sum II](problems/40.combination-sum-ii.cpp) | 🟡 Medium | C++ |
 | [41](https://leetcode.com/problems/first-missing-positive/) | [First Missing Positive](problems/41.first-missing-positive.cpp) | 🔴 Hard | C++ |
 | [43](https://leetcode.com/problems/multiply-strings/) | [Multiply Strings](problems/43.multiply-strings.cpp) | 🟡 Medium | C++ |
 | [44](https://leetcode.com/problems/wildcard-matching/) | [Wildcard Matching](problems/44.wildcard-matching.cpp) | 🔴 Hard | C++ |
