@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1117 solved** — 🟢 383 Easy · 🟡 513 Medium · 🔴 221 Hard
+**1118 solved** — 🟢 383 Easy · 🟡 514 Medium · 🔴 221 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -809,6 +809,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2840](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Check if Strings Can be Made Equal With Operations II](problems/2840.check-if-strings-can-be-made-equal-with-operations-ii.cpp) | 🟡 Medium | C++ |
 | [2843](https://leetcode.com/problems/count-symmetric-integers/) | [  Count Symmetric Integers](problems/2843.count-symmetric-integers.cpp) | 🟢 Easy | C++ |
 | [2855](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [Minimum Right Shifts to Sort the Array](problems/2855.minimum-right-shifts-to-sort-the-array.cpp) | 🟢 Easy | C++ |
+| [2856](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Minimum Array Length After Pair Removals](problems/2856.minimum-array-length-after-pair-removals.cpp) | 🟡 Medium | C++ |
 | [2867](https://leetcode.com/problems/count-valid-paths-in-a-tree/) | [Count Valid Paths in a Tree](problems/2867.count-valid-paths-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2887](https://leetcode.com/problems/fill-missing-data/) | [Fill Missing Data](problems/2887.fill-missing-data.py) | 🟢 Easy | pythondata |
 | [2889](https://leetcode.com/problems/reshape-data-pivot/) | [Reshape Data: Pivot](problems/2889.reshape-data-pivot.py) | 🟢 Easy | pythondata |
