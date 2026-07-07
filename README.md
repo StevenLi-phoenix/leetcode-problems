@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1164 solved** — 🟢 393 Easy · 🟡 536 Medium · 🔴 235 Hard
+**1165 solved** — 🟢 393 Easy · 🟡 537 Medium · 🔴 235 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -52,6 +52,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [44](https://leetcode.com/problems/wildcard-matching/) | [Wildcard Matching](problems/44.wildcard-matching.cpp) | 🔴 Hard | C++ |
 | [45](https://leetcode.com/problems/jump-game-ii/) | [Jump Game II](problems/45.jump-game-ii.cpp) | 🟡 Medium | C++ |
 | [46](https://leetcode.com/problems/permutations/) | [Permutations](problems/46.permutations.cpp) | 🟡 Medium | C++ |
+| [47](https://leetcode.com/problems/permutations-ii/) | [Permutations II](problems/47.permutations-ii.cpp) | 🟡 Medium | C++ |
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](problems/48.rotate-image.cpp) | 🟡 Medium | C++ |
 | [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](problems/57.insert-interval.cpp) | 🟡 Medium | C++ |
 | [59](https://leetcode.com/problems/spiral-matrix-ii/) | [Spiral Matrix II](problems/59.spiral-matrix-ii.cpp) | 🟡 Medium | C++ |
