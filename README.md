@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1084 solved** — 🟢 374 Easy · 🟡 495 Medium · 🔴 215 Hard
+**1085 solved** — 🟢 374 Easy · 🟡 496 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -166,6 +166,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [493](https://leetcode.com/problems/reverse-pairs/) | [Reverse Pairs](problems/493.reverse-pairs.cpp) | 🔴 Hard | C++ |
 | [494](https://leetcode.com/problems/target-sum/) | [Target Sum](problems/494.target-sum.cpp) | 🟡 Medium | C++ |
 | [495](https://leetcode.com/problems/teemo-attacking/) | [Teemo Attacking](problems/495.teemo-attacking.cpp) | 🟢 Easy | C++ |
+| [498](https://leetcode.com/problems/diagonal-traverse/) | [Diagonal Traverse](problems/498.diagonal-traverse.cpp) | 🟡 Medium | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
 | [502](https://leetcode.com/problems/ipo/) | [IPO](problems/502.ipo.cpp) | 🔴 Hard | C++ |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
