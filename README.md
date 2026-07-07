@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1151 solved** — 🟢 393 Easy · 🟡 529 Medium · 🔴 229 Hard
+**1152 solved** — 🟢 393 Easy · 🟡 529 Medium · 🔴 230 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -732,6 +732,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](problems/2444.count-subarrays-with-fixed-bounds.cpp) | 🔴 Hard | C++ |
 | [2446](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Determine if Two Events Have Conflict](problems/2446.determine-if-two-events-have-conflict.cpp) | 🟢 Easy | C++ |
 | [2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [Number of Subarrays With GCD Equal to K](problems/2447.number-of-subarrays-with-gcd-equal-to-k.cpp) | 🟡 Medium | C++ |
+| [2448](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [Minimum Cost to Make Array Equal](problems/2448.minimum-cost-to-make-array-equal.cpp) | 🔴 Hard | C++ |
 | [2449](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [Minimum Number of Operations to Make Arrays Similar](problems/2449.minimum-number-of-operations-to-make-arrays-similar.cpp) | 🔴 Hard | C++ |
 | [2451](https://leetcode.com/problems/odd-string-difference/) | [Odd String Difference](problems/2451.odd-string-difference.cpp) | 🟢 Easy | C++ |
 | [2452](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Words Within Two Edits of Dictionary](problems/2452.words-within-two-edits-of-dictionary.cpp) | 🟡 Medium | C++ |
