@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1147 solved** — 🟢 392 Easy · 🟡 526 Medium · 🔴 229 Hard
+**1148 solved** — 🟢 392 Easy · 🟡 527 Medium · 🔴 229 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -481,6 +481,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1585](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [Check If String Is Transformable With Substring Sort Operations](problems/1585.check-if-string-is-transformable-with-substring-sort-operations.cpp) | 🔴 Hard | C++ |
 | [1587](https://leetcode.com/problems/bank-account-summary-ii/) | [Bank Account Summary II](problems/1587.bank-account-summary-ii.sql) | 🟢 Easy | mysql |
 | [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Sum of All Odd Length Subarrays](problems/1588.sum-of-all-odd-length-subarrays.cpp) | 🟢 Easy | C++ |
+| [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](problems/1593.split-a-string-into-the-max-number-of-unique-substrings.cpp) | 🟡 Medium | C++ |
 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](problems/1594.maximum-non-negative-product-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [1603](https://leetcode.com/problems/design-parking-system/) | [Design Parking System](problems/1603.design-parking-system.cpp) | 🟢 Easy | C++ |
 | [1604](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](problems/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.cpp) | 🟡 Medium | C++ |
