@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1091 solved** — 🟢 376 Easy · 🟡 500 Medium · 🔴 215 Hard
+**1092 solved** — 🟢 377 Easy · 🟡 500 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -632,6 +632,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](problems/2169.count-operations-to-obtain-zero.cpp) | 🟢 Easy | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
 | [2191](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [Sort the Jumbled Numbers](problems/2191.sort-the-jumbled-numbers.cpp) | 🟡 Medium | C++ |
+| [2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Cells in a Range on an Excel Sheet](problems/2194.cells-in-a-range-on-an-excel-sheet.cpp) | 🟢 Easy | C++ |
 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](problems/2196.create-binary-tree-from-descriptions.cpp) | 🟡 Medium | C++ |
 | [2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Find All K-Distant Indices in an Array](problems/2200.find-all-k-distant-indices-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Minimum Operations to Halve Array Sum](problems/2208.minimum-operations-to-halve-array-sum.cpp) | 🟡 Medium | C++ |
