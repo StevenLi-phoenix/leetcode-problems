@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1070 solved** — 🟢 370 Easy · 🟡 489 Medium · 🔴 211 Hard
+**1071 solved** — 🟢 370 Easy · 🟡 490 Medium · 🔴 211 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -87,6 +87,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
 | [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Bitwise AND of Numbers Range](problems/201.bitwise-and-of-numbers-range.cpp) | 🟡 Medium | C++ |
+| [204](https://leetcode.com/problems/count-primes/) | [Count Primes](problems/204.count-primes.cpp) | 🟡 Medium | C++ |
 | [205](https://leetcode.com/problems/isomorphic-strings/) | [Isomorphic Strings](problems/205.isomorphic-strings.cpp) | 🟢 Easy | C++ |
 | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](problems/206.reverse-linked-list.cpp) | 🟢 Easy | C++ |
 | [207](https://leetcode.com/problems/course-schedule/) | [Course Schedule](problems/207.course-schedule.cpp) | 🟡 Medium | C++ |
