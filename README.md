@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1138 solved** — 🟢 388 Easy · 🟡 523 Medium · 🔴 227 Hard
+**1139 solved** — 🟢 388 Easy · 🟡 524 Medium · 🔴 227 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -684,6 +684,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2274](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Maximum Consecutive Floors Without Special Floors](problems/2274.maximum-consecutive-floors-without-special-floors.cpp) | 🟡 Medium | C++ |
 | [2278](https://leetcode.com/problems/percentage-of-letter-in-string/) | [Percentage of Letter in String](problems/2278.percentage-of-letter-in-string.cpp) | 🟢 Easy | C++ |
 | [2283](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Check if Number Has Equal Digit Count and Digit Value](problems/2283.check-if-number-has-equal-digit-count-and-digit-value.cpp) | 🟢 Easy | C++ |
+| [2288](https://leetcode.com/problems/apply-discount-to-prices/) | [Apply Discount to Prices](problems/2288.apply-discount-to-prices.cpp) | 🟡 Medium | C++ |
 | [2299](https://leetcode.com/problems/strong-password-checker-ii/) | [Strong Password Checker II](problems/2299.strong-password-checker-ii.cpp) | 🟢 Easy | C++ |
 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](problems/2300.successful-pairs-of-spells-and-potions.cpp) | 🟡 Medium | C++ |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [Calculate Amount Paid in Taxes](problems/2303.calculate-amount-paid-in-taxes.cpp) | 🟢 Easy | C++ |
