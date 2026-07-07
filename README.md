@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1079 solved** — 🟢 373 Easy · 🟡 495 Medium · 🔴 211 Hard
+**1080 solved** — 🟢 373 Easy · 🟡 495 Medium · 🔴 212 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -902,6 +902,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3340](https://leetcode.com/problems/check-balanced-string/) | [Check Balanced String](problems/3340.check-balanced-string.cpp) | 🟢 Easy | C++ |
 | [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](problems/3342.find-minimum-time-to-reach-last-room-ii.cpp) | 🟡 Medium | C++ |
 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](problems/3349.adjacent-increasing-subarrays-detection-i.cpp) | 🟢 Easy | C++ |
+| [3352](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Count K-Reducible Numbers Less Than N](problems/3352.count-k-reducible-numbers-less-than-n.cpp) | 🔴 Hard | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
 | [3357](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Minimize the Maximum Adjacent Element Difference](problems/3357.minimize-the-maximum-adjacent-element-difference.cpp) | 🔴 Hard | C++ |
 | [3360](https://leetcode.com/problems/stone-removal-game/) | [Stone Removal Game](problems/3360.stone-removal-game.cpp) | 🟢 Easy | C++ |
