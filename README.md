@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1124 solved** — 🟢 384 Easy · 🟡 517 Medium · 🔴 223 Hard
+**1125 solved** — 🟢 384 Easy · 🟡 517 Medium · 🔴 224 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -222,6 +222,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [691](https://leetcode.com/problems/stickers-to-spell-word/) | [Stickers to Spell Word](problems/691.stickers-to-spell-word.cpp) | 🔴 Hard | C++ |
 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](problems/693.binary-number-with-alternating-bits.cpp) | 🟢 Easy | C++ |
 | [696](https://leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](problems/696.count-binary-substrings.cpp) | 🟢 Easy | C++ |
+| [699](https://leetcode.com/problems/falling-squares/) | [Falling Squares](problems/699.falling-squares.cpp) | 🔴 Hard | C++ |
 | [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in a Binary Search Tree](problems/700.search-in-a-binary-search-tree.cpp) | 🟢 Easy | C++ |
 | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](problems/704.binary-search.cpp) | 🟢 Easy | C++ |
 | [705](https://leetcode.com/problems/design-hashset/) | [Design HashSet](problems/705.design-hashset.cpp) | 🟢 Easy | C++ |
