@@ -34,3 +34,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/38.count-and-say.cpp
 - Solved 40 (Combination Sum II, Medium). Sort + backtrack, skip same-value siblings at each depth to dedupe.
   Files: problems/40.combination-sum-ii.cpp
+- Solved 42 (Trapping Rain Water, Hard). Two-pointer O(1) space.
+  Files: problems/42.trapping-rain-water.cpp
