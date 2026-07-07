@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1132 solved** — 🟢 387 Easy · 🟡 520 Medium · 🔴 225 Hard
+**1133 solved** — 🟢 387 Easy · 🟡 521 Medium · 🔴 225 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -983,6 +983,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3470](https://leetcode.com/problems/permutations-iv/) | [Permutations IV](problems/3470.permutations-iv.cpp) | 🔴 Hard | C++ |
 | [3474](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Lexicographically Smallest Generated String](problems/3474.lexicographically-smallest-generated-string.cpp) | 🔴 Hard | C++ |
 | [3478](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/) | [Choose K Elements With Maximum Sum](problems/3478.choose-k-elements-with-maximum-sum.cpp) | 🟡 Medium | C++ |
+| [3479](https://leetcode.com/problems/fruits-into-baskets-iii/) | [Fruits Into Baskets III](problems/3479.fruits-into-baskets-iii.cpp) | 🟡 Medium | C++ |
 | [3484](https://leetcode.com/problems/design-spreadsheet/) | [Design Spreadsheet](problems/3484.design-spreadsheet.cpp) | 🟡 Medium | C++ |
 | [3485](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/) | [Longest Common Prefix of K Strings After Removal](problems/3485.longest-common-prefix-of-k-strings-after-removal.cpp) | 🔴 Hard | C++ |
 | [3487](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Maximum Unique Subarray Sum After Deletion](problems/3487.maximum-unique-subarray-sum-after-deletion.cpp) | 🟢 Easy | C++ |
