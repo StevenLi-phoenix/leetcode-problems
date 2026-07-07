@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1106 solved** — 🟢 380 Easy · 🟡 509 Medium · 🔴 217 Hard
+**1107 solved** — 🟢 380 Easy · 🟡 510 Medium · 🔴 217 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -300,6 +300,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [965](https://leetcode.com/problems/univalued-binary-tree/) | [Univalued Binary Tree](problems/965.univalued-binary-tree.cpp) | 🟢 Easy | C++ |
 | [968](https://leetcode.com/problems/binary-tree-cameras/) | [Binary Tree Cameras](problems/968.binary-tree-cameras.cpp) | 🔴 Hard | C++ |
 | [972](https://leetcode.com/problems/equal-rational-numbers/) | [Equal Rational Numbers](problems/972.equal-rational-numbers.cpp) | 🔴 Hard | C++ |
+| [973](https://leetcode.com/problems/k-closest-points-to-origin/) | [K Closest Points to Origin](problems/973.k-closest-points-to-origin.cpp) | 🟡 Medium | C++ |
 | [975](https://leetcode.com/problems/odd-even-jump/) | [Odd Even Jump](problems/975.odd-even-jump.cpp) | 🔴 Hard | C++ |
 | [976](https://leetcode.com/problems/largest-perimeter-triangle/) | [Largest Perimeter Triangle](problems/976.largest-perimeter-triangle.cpp) | 🟢 Easy | C++ |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](problems/977.squares-of-a-sorted-array.cpp) | 🟢 Easy | C++ |
