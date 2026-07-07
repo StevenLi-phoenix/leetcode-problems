@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1086 solved** — 🟢 374 Easy · 🟡 497 Medium · 🔴 215 Hard
+**1087 solved** — 🟢 375 Easy · 🟡 497 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -76,6 +76,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [127](https://leetcode.com/problems/word-ladder/) | [Word Ladder](problems/127.word-ladder.cpp) | 🔴 Hard | C++ |
 | [130](https://leetcode.com/problems/surrounded-regions/) | [Surrounded Regions](problems/130.surrounded-regions.cpp) | 🟡 Medium | C++ |
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](problems/131.palindrome-partitioning.cpp) | 🟡 Medium | C++ |
+| [136](https://leetcode.com/problems/single-number/) | [Single Number](problems/136.single-number.cpp) | 🟢 Easy | C++ |
 | [140](https://leetcode.com/problems/word-break-ii/) | [Word Break II](problems/140.word-break-ii.cpp) | 🔴 Hard | C++ |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](problems/141.linked-list-cycle.cpp) | 🟢 Easy | C++ |
 | [149](https://leetcode.com/problems/max-points-on-a-line/) | [Max Points on a Line](problems/149.max-points-on-a-line.cpp) | 🔴 Hard | C++ |

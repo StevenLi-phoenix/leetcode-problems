@@ -8,8 +8,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 - Solved and committed 66 problems on 2026-07-06 via the recurring solve loop (README now lists 1084 problems). Batch 1 (补欠款 sequential batch, ~12:38–13:11): 2311, 3745, 2831, 1838, 953, 2251, 2500, 853, 520, 1931, 2558, 312, 46, 3275, 1799, 3342, 1359, 872, 2356 (MySQL), 1006, 3110, 972, 3397, 1577, 2441, 2968. Batch 2 (15-min cron loop, ~13:20–21:20): 3373, 1023, 975, 1302, 3210, 3685, 3421 (MySQL), 1397, 1080, 3915, 282, 3791, 2829, 726, 2611, 385, 214, 1760, 3903, 394, 207, 2712, 707, 3679, 2073, 2368, 2191, 1413, 2164, 3241, 204, 2707, 117, 1114 (concurrency), 1527 (MySQL), 747, 950, 59, 3839, 3352 (组合计数+popcount步数预处理), 3864 (二分分治+前缀和), 2460, 446 (弱等差DP), 3782 (等差序列O(log n)模拟).
-- Solved 2 problems on 2026-07-07 via the recurring solve loop: 498 (Diagonal Traverse, 对角线分组遍历), 537 (Complex Number Multiplication).
-  Files: problems/498.diagonal-traverse.cpp, problems/537.complex-number-multiplication.cpp Notable: 1397 数位DP+KMP自动机, 3915 值域线段树+延迟插入, 3241 re-rooting DP, 1931 列状态DP, 312 区间DP, 975 单调栈, 2968 中位数滑窗.
+- Solved 3 problems on 2026-07-07 via the recurring solve loop: 498 (Diagonal Traverse, 对角线分组遍历), 537 (Complex Number Multiplication), 136 (Single Number, XOR).
+  Files: problems/498.diagonal-traverse.cpp, problems/537.complex-number-multiplication.cpp, problems/136.single-number.cpp Notable: 1397 数位DP+KMP自动机, 3915 值域线段树+延迟插入, 3241 re-rooting DP, 1931 列状态DP, 312 区间DP, 975 单调栈, 2968 中位数滑窗.
   Files: problems/*.cpp, problems/*.sql, README.md
 
 ### Fixed
