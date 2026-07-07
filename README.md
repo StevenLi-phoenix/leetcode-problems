@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1077 solved** — 🟢 373 Easy · 🟡 493 Medium · 🔴 211 Hard
+**1078 solved** — 🟢 373 Easy · 🟡 494 Medium · 🔴 211 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -45,6 +45,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [46](https://leetcode.com/problems/permutations/) | [Permutations](problems/46.permutations.cpp) | 🟡 Medium | C++ |
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](problems/48.rotate-image.cpp) | 🟡 Medium | C++ |
 | [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](problems/57.insert-interval.cpp) | 🟡 Medium | C++ |
+| [59](https://leetcode.com/problems/spiral-matrix-ii/) | [Spiral Matrix II](problems/59.spiral-matrix-ii.cpp) | 🟡 Medium | C++ |
 | [61](https://leetcode.com/problems/rotate-list/) | [Rotate List](problems/61.rotate-list.cpp) | 🟡 Medium | C++ |
 | [64](https://leetcode.com/problems/minimum-path-sum/) | [Minimum Path Sum](problems/64.minimum-path-sum.cpp) | 🟡 Medium | C++ |
 | [66](https://leetcode.com/problems/plus-one/) | [Plus One](problems/66.plus-one.cpp) | 🟢 Easy | C++ |
