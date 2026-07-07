@@ -26,3 +26,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - 3235 (Check if the Rectangle Corner Is Reachable) remains unsolved as an untracked file: circle-circle DSU merge outside the rectangle needs true lens-vs-rectangle intersection testing.
 - 3848 (Check Digitorial Permutation) remains an untracked stub.
   Files: problems/3235.check-if-the-rectangle-corner-is-reachable.cpp, problems/3848.check-digitorial-permutation.cpp
+- Solved 30 (Substring with Concatenation of All Words, Hard). Multi-offset sliding window + word-count matching.
+  Files: problems/30.substring-with-concatenation-of-all-words.cpp
+- Solved 32 (Longest Valid Parentheses, Hard). Stack of unmatched indices, base sentinel -1.
+  Files: problems/32.longest-valid-parentheses.cpp
