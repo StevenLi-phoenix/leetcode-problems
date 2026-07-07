@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1094 solved** — 🟢 377 Easy · 🟡 502 Medium · 🔴 215 Hard
+**1095 solved** — 🟢 377 Easy · 🟡 503 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -667,6 +667,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2321](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [Maximum Score Of Spliced Array](problems/2321.maximum-score-of-spliced-array.cpp) | 🔴 Hard | C++ |
 | [2322](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Minimum Score After Removals on a Tree](problems/2322.minimum-score-after-removals-on-a-tree.cpp) | 🔴 Hard | C++ |
 | [2325](https://leetcode.com/problems/decode-the-message/) | [Decode the Message](problems/2325.decode-the-message.cpp) | 🟢 Easy | C++ |
+| [2326](https://leetcode.com/problems/spiral-matrix-iv/) | [Spiral Matrix IV](problems/2326.spiral-matrix-iv.cpp) | 🟡 Medium | C++ |
 | [2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [The Latest Time to Catch a Bus](problems/2332.the-latest-time-to-catch-a-bus.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
