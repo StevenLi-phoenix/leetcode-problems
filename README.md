@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1110 solved** — 🟢 381 Easy · 🟡 511 Medium · 🔴 218 Hard
+**1111 solved** — 🟢 382 Easy · 🟡 511 Medium · 🔴 218 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -763,6 +763,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
 | [2623](https://leetcode.com/problems/memoize/) | [Memoize](problems/2623.memoize.js) | 🟡 Medium | JavaScript |
 | [2629](https://leetcode.com/problems/function-composition/) | [Function Composition](problems/2629.function-composition.js) | 🟢 Easy | JavaScript |
+| [2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Apply Transform Over Each Element in Array](problems/2635.apply-transform-over-each-element-in-array.js) | 🟢 Easy | JavaScript |
 | [2639](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Find the Width of Columns of a Grid](problems/2639.find-the-width-of-columns-of-a-grid.cpp) | 🟢 Easy | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
