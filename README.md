@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1090 solved** — 🟢 376 Easy · 🟡 499 Medium · 🔴 215 Hard
+**1091 solved** — 🟢 376 Easy · 🟡 500 Medium · 🔴 215 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -822,6 +822,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2977](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Cost to Convert String II](problems/2977.minimum-cost-to-convert-string-ii.cpp) | 🔴 Hard | C++ |
 | [2983](https://leetcode.com/problems/palindrome-rearrangement-queries/) | [Palindrome Rearrangement Queries](problems/2983.palindrome-rearrangement-queries.cpp) | 🔴 Hard | C++ |
 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](problems/2999.count-the-number-of-powerful-integers.cpp) | 🔴 Hard | C++ |
+| [3002](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | [Maximum Size of a Set After Removals](problems/3002.maximum-size-of-a-set-after-removals.cpp) | 🟡 Medium | C++ |
 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Maximize the Number of Partitions After Operations](problems/3003.maximize-the-number-of-partitions-after-operations.cpp) | 🔴 Hard | C++ |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Count Elements With Maximum Frequency](problems/3005.count-elements-with-maximum-frequency.cpp) | 🟢 Easy | C++ |
 | [3006](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | [Find Beautiful Indices in the Given Array I](problems/3006.find-beautiful-indices-in-the-given-array-i.cpp) | 🟡 Medium | C++ |
