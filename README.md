@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1136 solved** — 🟢 388 Easy · 🟡 522 Medium · 🔴 226 Hard
+**1137 solved** — 🟢 388 Easy · 🟡 523 Medium · 🔴 226 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -352,6 +352,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Parsing A Boolean Expression](problems/1106.parsing-a-boolean-expression.cpp) | 🔴 Hard | C++ |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](problems/1110.delete-nodes-and-return-forest.cpp) | 🟡 Medium | C++ |
 | [1114](https://leetcode.com/problems/print-in-order/) | [Print in Order](problems/1114.print-in-order.cpp) | 🟢 Easy | C++ |
+| [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
 | [1145](https://leetcode.com/problems/binary-tree-coloring-game/) | [Binary Tree Coloring Game](problems/1145.binary-tree-coloring-game.cpp) | 🟡 Medium | C++ |
 | [1146](https://leetcode.com/problems/snapshot-array/) | [Snapshot Array](problems/1146.snapshot-array.cpp) | 🟡 Medium | C++ |
 | [1147](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Longest Chunked Palindrome Decomposition](problems/1147.longest-chunked-palindrome-decomposition.cpp) | 🔴 Hard | C++ |
