@@ -58,3 +58,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/56.merge-intervals.cpp
 - Solved 58 (Length of Last Word, Easy). Scan from the end, skip trailing spaces then count.
   Files: problems/58.length-of-last-word.cpp
+- Solved 60 (Permutation Sequence, Hard). Factorial number system, pick-and-remove from remaining digits.
+  Files: problems/60.permutation-sequence.cpp
