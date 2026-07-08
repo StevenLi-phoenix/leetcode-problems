@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1166 solved** — 🟢 393 Easy · 🟡 538 Medium · 🔴 235 Hard
+**1167 solved** — 🟢 393 Easy · 🟡 539 Medium · 🔴 235 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -55,6 +55,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [47](https://leetcode.com/problems/permutations-ii/) | [Permutations II](problems/47.permutations-ii.cpp) | 🟡 Medium | C++ |
 | [48](https://leetcode.com/problems/rotate-image/) | [Rotate Image](problems/48.rotate-image.cpp) | 🟡 Medium | C++ |
 | [49](https://leetcode.com/problems/group-anagrams/) | [Group Anagrams](problems/49.group-anagrams.cpp) | 🟡 Medium | C++ |
+| [50](https://leetcode.com/problems/powx-n/) | [Pow(x, n)](problems/50.powx-n.cpp) | 🟡 Medium | C++ |
 | [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](problems/57.insert-interval.cpp) | 🟡 Medium | C++ |
 | [59](https://leetcode.com/problems/spiral-matrix-ii/) | [Spiral Matrix II](problems/59.spiral-matrix-ii.cpp) | 🟡 Medium | C++ |
 | [61](https://leetcode.com/problems/rotate-list/) | [Rotate List](problems/61.rotate-list.cpp) | 🟡 Medium | C++ |

@@ -42,3 +42,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/47.permutations-ii.cpp
 - Solved 49 (Group Anagrams, Medium). Sorted-string hashmap key.
   Files: problems/49.group-anagrams.cpp
+- Solved 50 (Pow(x, n), Medium). Fast exponentiation, cast n to long long to avoid INT_MIN negation overflow.
+  Files: problems/50.powx-n.cpp
