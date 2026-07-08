@@ -46,3 +46,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/50.powx-n.cpp
 - Solved 51 (N-Queens, Hard). Backtracking with column/diagonal used-sets.
   Files: problems/51.n-queens.cpp
+- Solved 52 (N-Queens II, Hard). Same backtracking as 51, count-only.
+  Files: problems/52.n-queens-ii.cpp
