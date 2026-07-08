@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1184 solved** — 🟢 396 Easy · 🟡 548 Medium · 🔴 240 Hard
+**1185 solved** — 🟢 396 Easy · 🟡 549 Medium · 🔴 240 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -80,6 +80,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [72](https://leetcode.com/problems/edit-distance/) | [Edit Distance](problems/72.edit-distance.cpp) | 🟡 Medium | C++ |
 | [73](https://leetcode.com/problems/set-matrix-zeroes/) | [Set Matrix Zeroes](problems/73.set-matrix-zeroes.cpp) | 🟡 Medium | C++ |
 | [74](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](problems/74.search-a-2d-matrix.cpp) | 🟡 Medium | C++ |
+| [75](https://leetcode.com/problems/sort-colors/) | [Sort Colors](problems/75.sort-colors.cpp) | 🟡 Medium | C++ |
 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](problems/76.minimum-window-substring.cpp) | 🔴 Hard | C++ |
 | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Remove Duplicates from Sorted Array II](problems/80.remove-duplicates-from-sorted-array-ii.cpp) | 🟡 Medium | C++ |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](problems/83.remove-duplicates-from-sorted-list.cpp) | 🟢 Easy | C++ |
