@@ -62,3 +62,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/60.permutation-sequence.cpp
 - Solved 62 (Unique Paths, Medium). 1-D rolling DP (Pascal's-triangle-style combinatorics).
   Files: problems/62.unique-paths.cpp
+- Solved 63 (Unique Paths II, Medium). 1-D rolling DP with obstacle zeroing.
+  Files: problems/63.unique-paths-ii.cpp
