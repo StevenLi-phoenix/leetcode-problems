@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1180 solved** — 🟢 395 Easy · 🟡 545 Medium · 🔴 240 Hard
+**1181 solved** — 🟢 396 Easy · 🟡 545 Medium · 🔴 240 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -75,6 +75,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [67](https://leetcode.com/problems/add-binary/) | [Add Binary](problems/67.add-binary.cpp) | 🟢 Easy | C++ |
 | [68](https://leetcode.com/problems/text-justification/) | [Text Justification](problems/68.text-justification.cpp) | 🔴 Hard | C++ |
 | [69](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](problems/69.sqrtx.cpp) | 🟢 Easy | C++ |
+| [70](https://leetcode.com/problems/climbing-stairs/) | [Climbing Stairs](problems/70.climbing-stairs.cpp) | 🟢 Easy | C++ |
 | [71](https://leetcode.com/problems/simplify-path/) | [Simplify Path](problems/71.simplify-path.cpp) | 🟡 Medium | C++ |
 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](problems/76.minimum-window-substring.cpp) | 🔴 Hard | C++ |
 | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Remove Duplicates from Sorted Array II](problems/80.remove-duplicates-from-sorted-array-ii.cpp) | 🟡 Medium | C++ |

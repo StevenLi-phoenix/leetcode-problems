@@ -70,3 +70,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/68.text-justification.cpp
 - Solved 69 (Sqrt(x), Easy). Binary search on long long to avoid overflow.
   Files: problems/69.sqrtx.cpp
+- Solved 70 (Climbing Stairs, Easy). Fibonacci recurrence; first attempt used int and hit signed overflow UB at n=45, fixed with long long.
+  Files: problems/70.climbing-stairs.cpp
