@@ -44,3 +44,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/49.group-anagrams.cpp
 - Solved 50 (Pow(x, n), Medium). Fast exponentiation, cast n to long long to avoid INT_MIN negation overflow.
   Files: problems/50.powx-n.cpp
+- Solved 51 (N-Queens, Hard). Backtracking with column/diagonal used-sets.
+  Files: problems/51.n-queens.cpp
