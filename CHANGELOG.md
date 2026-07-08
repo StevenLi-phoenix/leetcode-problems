@@ -48,3 +48,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/51.n-queens.cpp
 - Solved 52 (N-Queens II, Hard). Same backtracking as 51, count-only.
   Files: problems/52.n-queens-ii.cpp
+- Solved 53 (Maximum Subarray, Medium). Kadane's algorithm.
+  Files: problems/53.maximum-subarray.cpp

@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1169 solved** — 🟢 393 Easy · 🟡 539 Medium · 🔴 237 Hard
+**1170 solved** — 🟢 393 Easy · 🟡 540 Medium · 🔴 237 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -58,6 +58,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [50](https://leetcode.com/problems/powx-n/) | [Pow(x, n)](problems/50.powx-n.cpp) | 🟡 Medium | C++ |
 | [51](https://leetcode.com/problems/n-queens/) | [N-Queens](problems/51.n-queens.cpp) | 🔴 Hard | C++ |
 | [52](https://leetcode.com/problems/n-queens-ii/) | [N-Queens II](problems/52.n-queens-ii.cpp) | 🔴 Hard | C++ |
+| [53](https://leetcode.com/problems/maximum-subarray/) | [Maximum Subarray](problems/53.maximum-subarray.cpp) | 🟡 Medium | C++ |
 | [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](problems/57.insert-interval.cpp) | 🟡 Medium | C++ |
 | [59](https://leetcode.com/problems/spiral-matrix-ii/) | [Spiral Matrix II](problems/59.spiral-matrix-ii.cpp) | 🟡 Medium | C++ |
 | [61](https://leetcode.com/problems/rotate-list/) | [Rotate List](problems/61.rotate-list.cpp) | 🟡 Medium | C++ |
