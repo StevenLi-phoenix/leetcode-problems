@@ -54,3 +54,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/54.spiral-matrix.cpp
 - Solved 55 (Jump Game, Medium). Greedy farthest-reach tracking.
   Files: problems/55.jump-game.cpp
+- Solved 56 (Merge Intervals, Medium). Sort by start, merge in place against back().
+  Files: problems/56.merge-intervals.cpp
