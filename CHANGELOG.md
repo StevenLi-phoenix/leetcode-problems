@@ -84,3 +84,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/77.combinations.cpp
 - Solved 78 (Subsets, Medium). Bitmask enumeration of the power set.
   Files: problems/78.subsets.cpp
+- Solved 79 (Word Search, Medium). DFS backtracking with in-place '#' visited marker.
+  Files: problems/79.word-search.cpp

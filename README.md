@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1187 solved** — 🟢 396 Easy · 🟡 551 Medium · 🔴 240 Hard
+**1188 solved** — 🟢 396 Easy · 🟡 552 Medium · 🔴 240 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -84,6 +84,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [76](https://leetcode.com/problems/minimum-window-substring/) | [Minimum Window Substring](problems/76.minimum-window-substring.cpp) | 🔴 Hard | C++ |
 | [77](https://leetcode.com/problems/combinations/) | [Combinations](problems/77.combinations.cpp) | 🟡 Medium | C++ |
 | [78](https://leetcode.com/problems/subsets/) | [Subsets](problems/78.subsets.cpp) | 🟡 Medium | C++ |
+| [79](https://leetcode.com/problems/word-search/) | [Word Search](problems/79.word-search.cpp) | 🟡 Medium | C++ |
 | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Remove Duplicates from Sorted Array II](problems/80.remove-duplicates-from-sorted-array-ii.cpp) | 🟡 Medium | C++ |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](problems/83.remove-duplicates-from-sorted-list.cpp) | 🟢 Easy | C++ |
 | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle in Histogram](problems/84.largest-rectangle-in-histogram.cpp) | 🔴 Hard | C++ |
