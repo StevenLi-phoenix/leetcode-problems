@@ -50,3 +50,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/52.n-queens-ii.cpp
 - Solved 53 (Maximum Subarray, Medium). Kadane's algorithm.
   Files: problems/53.maximum-subarray.cpp
+- Solved 54 (Spiral Matrix, Medium). Boundary-shrinking simulation with row/col guards.
+  Files: problems/54.spiral-matrix.cpp
