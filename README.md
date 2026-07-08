@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1177 solved** — 🟢 394 Easy · 🟡 545 Medium · 🔴 238 Hard
+**1178 solved** — 🟢 394 Easy · 🟡 545 Medium · 🔴 239 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -70,6 +70,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [62](https://leetcode.com/problems/unique-paths/) | [Unique Paths](problems/62.unique-paths.cpp) | 🟡 Medium | C++ |
 | [63](https://leetcode.com/problems/unique-paths-ii/) | [Unique Paths II](problems/63.unique-paths-ii.cpp) | 🟡 Medium | C++ |
 | [64](https://leetcode.com/problems/minimum-path-sum/) | [Minimum Path Sum](problems/64.minimum-path-sum.cpp) | 🟡 Medium | C++ |
+| [65](https://leetcode.com/problems/valid-number/) | [Valid Number](problems/65.valid-number.cpp) | 🔴 Hard | C++ |
 | [66](https://leetcode.com/problems/plus-one/) | [Plus One](problems/66.plus-one.cpp) | 🟢 Easy | C++ |
 | [67](https://leetcode.com/problems/add-binary/) | [Add Binary](problems/67.add-binary.cpp) | 🟢 Easy | C++ |
 | [71](https://leetcode.com/problems/simplify-path/) | [Simplify Path](problems/71.simplify-path.cpp) | 🟡 Medium | C++ |

@@ -64,3 +64,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/62.unique-paths.cpp
 - Solved 63 (Unique Paths II, Medium). 1-D rolling DP with obstacle zeroing.
   Files: problems/63.unique-paths-ii.cpp
+- Solved 65 (Valid Number, Hard, AC 23.2%). Single-pass scan with seenDigit/seenDot/seenExp flags, no real state machine needed.
+  Files: problems/65.valid-number.cpp
