@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1173 solved** — 🟢 393 Easy · 🟡 543 Medium · 🔴 237 Hard
+**1174 solved** — 🟢 394 Easy · 🟡 543 Medium · 🔴 237 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -63,6 +63,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [55](https://leetcode.com/problems/jump-game/) | [Jump Game](problems/55.jump-game.cpp) | 🟡 Medium | C++ |
 | [56](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](problems/56.merge-intervals.cpp) | 🟡 Medium | C++ |
 | [57](https://leetcode.com/problems/insert-interval/) | [Insert Interval](problems/57.insert-interval.cpp) | 🟡 Medium | C++ |
+| [58](https://leetcode.com/problems/length-of-last-word/) | [Length of Last Word](problems/58.length-of-last-word.cpp) | 🟢 Easy | C++ |
 | [59](https://leetcode.com/problems/spiral-matrix-ii/) | [Spiral Matrix II](problems/59.spiral-matrix-ii.cpp) | 🟡 Medium | C++ |
 | [61](https://leetcode.com/problems/rotate-list/) | [Rotate List](problems/61.rotate-list.cpp) | 🟡 Medium | C++ |
 | [64](https://leetcode.com/problems/minimum-path-sum/) | [Minimum Path Sum](problems/64.minimum-path-sum.cpp) | 🟡 Medium | C++ |

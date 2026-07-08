@@ -56,3 +56,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/55.jump-game.cpp
 - Solved 56 (Merge Intervals, Medium). Sort by start, merge in place against back().
   Files: problems/56.merge-intervals.cpp
+- Solved 58 (Length of Last Word, Easy). Scan from the end, skip trailing spaces then count.
+  Files: problems/58.length-of-last-word.cpp
