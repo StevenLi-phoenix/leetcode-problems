@@ -68,3 +68,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/65.valid-number.cpp
 - Solved 68 (Text Justification, Hard). Greedy line-fill + even space distribution (extra spaces go left).
   Files: problems/68.text-justification.cpp
+- Solved 69 (Sqrt(x), Easy). Binary search on long long to avoid overflow.
+  Files: problems/69.sqrtx.cpp
