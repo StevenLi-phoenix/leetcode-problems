@@ -60,3 +60,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/58.length-of-last-word.cpp
 - Solved 60 (Permutation Sequence, Hard). Factorial number system, pick-and-remove from remaining digits.
   Files: problems/60.permutation-sequence.cpp
+- Solved 62 (Unique Paths, Medium). 1-D rolling DP (Pascal's-triangle-style combinatorics).
+  Files: problems/62.unique-paths.cpp
