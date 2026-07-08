@@ -80,3 +80,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/74.search-a-2d-matrix.cpp
 - Solved 75 (Sort Colors, Medium). Dutch national flag, one-pass three-pointer partition.
   Files: problems/75.sort-colors.cpp
+- Solved 77 (Combinations, Medium). Backtracking with remaining-count pruning.
+  Files: problems/77.combinations.cpp
