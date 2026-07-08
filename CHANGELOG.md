@@ -66,3 +66,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/63.unique-paths-ii.cpp
 - Solved 65 (Valid Number, Hard, AC 23.2%). Single-pass scan with seenDigit/seenDot/seenExp flags, no real state machine needed.
   Files: problems/65.valid-number.cpp
+- Solved 68 (Text Justification, Hard). Greedy line-fill + even space distribution (extra spaces go left).
+  Files: problems/68.text-justification.cpp
