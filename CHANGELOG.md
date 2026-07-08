@@ -74,3 +74,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
   Files: problems/70.climbing-stairs.cpp
 - Solved 72 (Edit Distance, Medium). Classic 2-D DP (insert/delete/replace).
   Files: problems/72.edit-distance.cpp
+- Solved 73 (Set Matrix Zeroes, Medium). In-place O(1) space using first row/col as markers.
+  Files: problems/73.set-matrix-zeroes.cpp
