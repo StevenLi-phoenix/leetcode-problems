@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1200 solved** — 🟢 397 Easy · 🟡 557 Medium · 🔴 246 Hard
+**1201 solved** — 🟢 397 Easy · 🟡 558 Medium · 🔴 246 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -810,6 +810,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2555](https://leetcode.com/problems/maximize-win-from-two-segments/) | [Maximize Win From Two Segments](problems/2555.maximize-win-from-two-segments.cpp) | 🟡 Medium | C++ |
 | [2558](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Take Gifts From the Richest Pile](problems/2558.take-gifts-from-the-richest-pile.cpp) | 🟢 Easy | C++ |
+| [2560](https://leetcode.com/problems/house-robber-iv/) | [House Robber IV](problems/2560.house-robber-iv.cpp) | 🟡 Medium | C++ |
 | [2562](https://leetcode.com/problems/find-the-array-concatenation-value/) | [Find the Array Concatenation Value](problems/2562.find-the-array-concatenation-value.cpp) | 🟢 Easy | C++ |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
 | [2567](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](problems/2567.minimum-score-by-changing-two-elements.cpp) | 🟡 Medium | C++ |
