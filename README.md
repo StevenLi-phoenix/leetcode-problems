@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1193 solved** — 🟢 396 Easy · 🟡 554 Medium · 🔴 243 Hard
+**1194 solved** — 🟢 396 Easy · 🟡 555 Medium · 🔴 243 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -645,6 +645,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [The Number of Weak Characters in the Game](problems/1996.the-number-of-weak-characters-in-the-game.cpp) | 🟡 Medium | C++ |
 | [1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [First Day Where You Have Been in All the Rooms](problems/1997.first-day-where-you-have-been-in-all-the-rooms.cpp) | 🟡 Medium | C++ |
 | [2003](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [Smallest Missing Genetic Value in Each Subtree](problems/2003.smallest-missing-genetic-value-in-each-subtree.cpp) | 🔴 Hard | C++ |
+| [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Maximum Earnings From Taxi](problems/2008.maximum-earnings-from-taxi.cpp) | 🟡 Medium | C++ |
 | [2013](https://leetcode.com/problems/detect-squares/) | [Detect Squares](problems/2013.detect-squares.cpp) | 🟡 Medium | C++ |
 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Maximum Difference Between Increasing Elements](problems/2016.maximum-difference-between-increasing-elements.cpp) | 🟢 Easy | C++ |
 | [2018](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Check if Word Can Be Placed In Crossword](problems/2018.check-if-word-can-be-placed-in-crossword.cpp) | 🟡 Medium | C++ |
