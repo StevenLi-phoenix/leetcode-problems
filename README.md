@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1195 solved** — 🟢 396 Easy · 🟡 555 Medium · 🔴 244 Hard
+**1196 solved** — 🟢 396 Easy · 🟡 555 Medium · 🔴 245 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -204,6 +204,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Minimum Moves to Equal Array Elements II](problems/462.minimum-moves-to-equal-array-elements-ii.cpp) | 🟡 Medium | C++ |
 | [466](https://leetcode.com/problems/count-the-repetitions/) | [Count The Repetitions](problems/466.count-the-repetitions.cpp) | 🔴 Hard | C++ |
 | [467](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Unique Substrings in Wraparound String](problems/467.unique-substrings-in-wraparound-string.cpp) | 🟡 Medium | C++ |
+| [472](https://leetcode.com/problems/concatenated-words/) | [Concatenated Words](problems/472.concatenated-words.cpp) | 🔴 Hard | C++ |
 | [473](https://leetcode.com/problems/matchsticks-to-square/) | [Matchsticks to Square](problems/473.matchsticks-to-square.cpp) | 🟡 Medium | C++ |
 | [474](https://leetcode.com/problems/ones-and-zeroes/) | [Ones and Zeroes](problems/474.ones-and-zeroes.cpp) | 🟡 Medium | C++ |
 | [475](https://leetcode.com/problems/heaters/) | [Heaters](problems/475.heaters.cpp) | 🟡 Medium | C++ |
