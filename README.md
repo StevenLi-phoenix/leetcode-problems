@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1201 solved** — 🟢 397 Easy · 🟡 558 Medium · 🔴 246 Hard
+**1202 solved** — 🟢 397 Easy · 🟡 558 Medium · 🔴 247 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1023,6 +1023,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3378](https://leetcode.com/problems/count-connected-components-in-lcm-graph/) | [Count Connected Components in LCM Graph](problems/3378.count-connected-components-in-lcm-graph.cpp) | 🔴 Hard | C++ |
 | [3379](https://leetcode.com/problems/transformed-array/) | [Transformed Array](problems/3379.transformed-array.cpp) | 🟢 Easy | C++ |
 | [3386](https://leetcode.com/problems/button-with-longest-push-time/) | [Button with Longest Push Time](problems/3386.button-with-longest-push-time.cpp) | 🟢 Easy | C++ |
+| [3389](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/) | [Minimum Operations to Make Character Frequencies Equal](problems/3389.minimum-operations-to-make-character-frequencies-equal.cpp) | 🔴 Hard | C++ |
 | [3392](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Count Subarrays of Length Three With a Condition](problems/3392.count-subarrays-of-length-three-with-a-condition.cpp) | 🟢 Easy | C++ |
 | [3393](https://leetcode.com/problems/count-paths-with-the-given-xor-value/) | [Count Paths With the Given XOR Value](problems/3393.count-paths-with-the-given-xor-value.cpp) | 🟡 Medium | C++ |
 | [3397](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | [Maximum Number of Distinct Elements After Operations](problems/3397.maximum-number-of-distinct-elements-after-operations.cpp) | 🟡 Medium | C++ |
