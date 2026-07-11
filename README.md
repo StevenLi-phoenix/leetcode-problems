@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1210 solved** — 🟢 397 Easy · 🟡 562 Medium · 🔴 251 Hard
+**1211 solved** — 🟢 397 Easy · 🟡 563 Medium · 🔴 251 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -586,6 +586,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](problems/1780.check-if-number-is-a-sum-of-powers-of-three.cpp) | 🟡 Medium | C++ |
 | [1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Sum of Beauty of All Substrings](problems/1781.sum-of-beauty-of-all-substrings.cpp) | 🟡 Medium | C++ |
 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](problems/1784.check-if-binary-string-has-at-most-one-segment-of-ones.cpp) | 🟢 Easy | C++ |
+| [1786](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Number of Restricted Paths From First to Last Node](problems/1786.number-of-restricted-paths-from-first-to-last-node.cpp) | 🟡 Medium | C++ |
 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Check if One String Swap Can Make Strings Equal](problems/1790.check-if-one-string-swap-can-make-strings-equal.cpp) | 🟢 Easy | C++ |
 | [1791](https://leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](problems/1791.find-center-of-star-graph.cpp) | 🟢 Easy | C++ |
 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](problems/1792.maximum-average-pass-ratio.cpp) | 🟡 Medium | C++ |
