@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1209 solved** — 🟢 397 Easy · 🟡 562 Medium · 🔴 250 Hard
+**1210 solved** — 🟢 397 Easy · 🟡 562 Medium · 🔴 251 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -543,6 +543,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](problems/1636.sort-array-by-increasing-frequency.cpp) | 🟢 Easy | C++ |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Count Sorted Vowel Strings](problems/1641.count-sorted-vowel-strings.cpp) | 🟡 Medium | C++ |
 | [1646](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Get Maximum in Generated Array](problems/1646.get-maximum-in-generated-array.cpp) | 🟢 Easy | C++ |
+| [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Create Sorted Array through Instructions](problems/1649.create-sorted-array-through-instructions.cpp) | 🔴 Hard | C++ |
 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](problems/1653.minimum-deletions-to-make-string-balanced.cpp) | 🟡 Medium | C++ |
 | [1654](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Minimum Jumps to Reach Home](problems/1654.minimum-jumps-to-reach-home.cpp) | 🟡 Medium | C++ |
 | [1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Minimum Operations to Reduce X to Zero](problems/1658.minimum-operations-to-reduce-x-to-zero.cpp) | 🟡 Medium | C++ |
