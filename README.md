@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1204 solved** — 🟢 397 Easy · 🟡 559 Medium · 🔴 248 Hard
+**1205 solved** — 🟢 397 Easy · 🟡 560 Medium · 🔴 248 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -397,6 +397,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1105](https://leetcode.com/problems/filling-bookcase-shelves/) | [Filling Bookcase Shelves](problems/1105.filling-bookcase-shelves.cpp) | 🟡 Medium | C++ |
 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Parsing A Boolean Expression](problems/1106.parsing-a-boolean-expression.cpp) | 🔴 Hard | C++ |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](problems/1110.delete-nodes-and-return-forest.cpp) | 🟡 Medium | C++ |
+| [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Maximum Nesting Depth of Two Valid Parentheses Strings](problems/1111.maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) | 🟡 Medium | C++ |
 | [1114](https://leetcode.com/problems/print-in-order/) | [Print in Order](problems/1114.print-in-order.cpp) | 🟢 Easy | C++ |
 | [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
 | [1145](https://leetcode.com/problems/binary-tree-coloring-game/) | [Binary Tree Coloring Game](problems/1145.binary-tree-coloring-game.cpp) | 🟡 Medium | C++ |
