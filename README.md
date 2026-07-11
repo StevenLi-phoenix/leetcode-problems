@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1208 solved** — 🟢 397 Easy · 🟡 562 Medium · 🔴 249 Hard
+**1209 solved** — 🟢 397 Easy · 🟡 562 Medium · 🔴 250 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -109,6 +109,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](problems/119.pascals-triangle-ii.cpp) | 🟢 Easy | C++ |
 | [120](https://leetcode.com/problems/triangle/) | [Triangle](problems/120.triangle.cpp) | 🟡 Medium | C++ |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](problems/121.best-time-to-buy-and-sell-stock.cpp) | 🟢 Easy | C++ |
+| [126](https://leetcode.com/problems/word-ladder-ii/) | [Word Ladder II](problems/126.word-ladder-ii.cpp) | 🔴 Hard | C++ |
 | [127](https://leetcode.com/problems/word-ladder/) | [Word Ladder](problems/127.word-ladder.cpp) | 🔴 Hard | C++ |
 | [130](https://leetcode.com/problems/surrounded-regions/) | [Surrounded Regions](problems/130.surrounded-regions.cpp) | 🟡 Medium | C++ |
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](problems/131.palindrome-partitioning.cpp) | 🟡 Medium | C++ |
