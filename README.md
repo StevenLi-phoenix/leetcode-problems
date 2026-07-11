@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1203 solved** — 🟢 397 Easy · 🟡 559 Medium · 🔴 247 Hard
+**1204 solved** — 🟢 397 Easy · 🟡 559 Medium · 🔴 248 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -968,6 +968,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3174](https://leetcode.com/problems/clear-digits/) | [Clear Digits](problems/3174.clear-digits.cpp) | 🟢 Easy | C++ |
 | [3175](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Find The First Player to win K Games in a Row](problems/3175.find-the-first-player-to-win-k-games-in-a-row.cpp) | 🟡 Medium | C++ |
 | [3184](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | [Count Pairs That Form a Complete Day I](problems/3184.count-pairs-that-form-a-complete-day-i.cpp) | 🟢 Easy | C++ |
+| [3187](https://leetcode.com/problems/peaks-in-array/) | [Peaks in Array](problems/3187.peaks-in-array.cpp) | 🔴 Hard | C++ |
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
