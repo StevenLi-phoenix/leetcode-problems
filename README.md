@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1211 solved** — 🟢 397 Easy · 🟡 563 Medium · 🔴 251 Hard
+**1212 solved** — 🟢 397 Easy · 🟡 563 Medium · 🔴 252 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -778,6 +778,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
 | [2438](https://leetcode.com/problems/range-product-queries-of-powers/) | [Range Product Queries of Powers](problems/2438.range-product-queries-of-powers.cpp) | 🟡 Medium | C++ |
+| [2440](https://leetcode.com/problems/create-components-with-same-value/) | [Create Components With Same Value](problems/2440.create-components-with-same-value.cpp) | 🔴 Hard | C++ |
 | [2441](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Largest Positive Integer That Exists With Its Negative](problems/2441.largest-positive-integer-that-exists-with-its-negative.cpp) | 🟢 Easy | C++ |
 | [2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](problems/2444.count-subarrays-with-fixed-bounds.cpp) | 🔴 Hard | C++ |
 | [2446](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Determine if Two Events Have Conflict](problems/2446.determine-if-two-events-have-conflict.cpp) | 🟢 Easy | C++ |
