@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1189 solved** — 🟢 396 Easy · 🟡 552 Medium · 🔴 241 Hard
+**1190 solved** — 🟢 396 Easy · 🟡 552 Medium · 🔴 242 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -876,6 +876,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2887](https://leetcode.com/problems/fill-missing-data/) | [Fill Missing Data](problems/2887.fill-missing-data.py) | 🟢 Easy | pythondata |
 | [2889](https://leetcode.com/problems/reshape-data-pivot/) | [Reshape Data: Pivot](problems/2889.reshape-data-pivot.py) | 🟢 Easy | pythondata |
 | [2890](https://leetcode.com/problems/reshape-data-melt/) | [Reshape Data: Melt](problems/2890.reshape-data-melt.py) | 🟢 Easy | pythondata |
+| [2897](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Apply Operations on Array to Maximize Sum of Squares](problems/2897.apply-operations-on-array-to-maximize-sum-of-squares.cpp) | 🔴 Hard | C++ |
 | [2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [Longest Unequal Adjacent Groups Subsequence I](problems/2900.longest-unequal-adjacent-groups-subsequence-i.cpp) | 🟢 Easy | C++ |
 | [2903](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | [Find Indices With Index and Value Difference I](problems/2903.find-indices-with-index-and-value-difference-i.cpp) | 🟢 Easy | C++ |
 | [2904](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Shortest and Lexicographically Smallest Beautiful String](problems/2904.shortest-and-lexicographically-smallest-beautiful-string.cpp) | 🟡 Medium | C++ |
