@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1199 solved** — 🟢 396 Easy · 🟡 557 Medium · 🔴 246 Hard
+**1200 solved** — 🟢 397 Easy · 🟡 557 Medium · 🔴 246 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -448,6 +448,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](problems/1356.sort-integers-by-the-number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [1359](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Count All Valid Pickup and Delivery Options](problems/1359.count-all-valid-pickup-and-delivery-options.cpp) | 🔴 Hard | C++ |
 | [1360](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Number of Days Between Two Dates](problems/1360.number-of-days-between-two-dates.cpp) | 🟢 Easy | C++ |
+| [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](problems/1365.how-many-numbers-are-smaller-than-the-current-number.cpp) | 🟢 Easy | C++ |
 | [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](problems/1370.increasing-decreasing-string.cpp) | 🟢 Easy | C++ |
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Maximum Sum BST in Binary Tree](problems/1373.maximum-sum-bst-in-binary-tree.cpp) | 🔴 Hard | C++ |
