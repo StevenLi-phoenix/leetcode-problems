@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1196 solved** — 🟢 396 Easy · 🟡 555 Medium · 🔴 245 Hard
+**1197 solved** — 🟢 396 Easy · 🟡 556 Medium · 🔴 245 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -190,6 +190,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
 | [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Number of Segments in a String](problems/434.number-of-segments-in-a-string.cpp) | 🟢 Easy | C++ |
 | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435.non-overlapping-intervals.cpp) | 🟡 Medium | C++ |
+| [436](https://leetcode.com/problems/find-right-interval/) | [Find Right Interval](problems/436.find-right-interval.cpp) | 🟡 Medium | C++ |
 | [437](https://leetcode.com/problems/path-sum-iii/) | [Path Sum III](problems/437.path-sum-iii.cpp) | 🟡 Medium | C++ |
 | [441](https://leetcode.com/problems/arranging-coins/) | [Arranging Coins](problems/441.arranging-coins.cpp) | 🟢 Easy | C++ |
 | [443](https://leetcode.com/problems/string-compression/) | [String Compression](problems/443.string-compression.cpp) | 🟡 Medium | C++ |
