@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1263 solved** — 🟢 408 Easy · 🟡 587 Medium · 🔴 268 Hard
+**1264 solved** — 🟢 408 Easy · 🟡 588 Medium · 🔴 268 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -117,6 +117,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [136](https://leetcode.com/problems/single-number/) | [Single Number](problems/136.single-number.cpp) | 🟢 Easy | C++ |
 | [140](https://leetcode.com/problems/word-break-ii/) | [Word Break II](problems/140.word-break-ii.cpp) | 🔴 Hard | C++ |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](problems/141.linked-list-cycle.cpp) | 🟢 Easy | C++ |
+| [148](https://leetcode.com/problems/sort-list/) | [Sort List](problems/148.sort-list.cpp) | 🟡 Medium | C++ |
 | [149](https://leetcode.com/problems/max-points-on-a-line/) | [Max Points on a Line](problems/149.max-points-on-a-line.cpp) | 🔴 Hard | C++ |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](problems/153.find-minimum-in-rotated-sorted-array.cpp) | 🟡 Medium | C++ |
 | [154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Find Minimum in Rotated Sorted Array II](problems/154.find-minimum-in-rotated-sorted-array-ii.cpp) | 🔴 Hard | C++ |
