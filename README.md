@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1231 solved** — 🟢 403 Easy · 🟡 573 Medium · 🔴 255 Hard
+**1232 solved** — 🟢 403 Easy · 🟡 573 Medium · 🔴 256 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -317,6 +317,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Shortest Distance to a Character](problems/821.shortest-distance-to-a-character.cpp) | 🟢 Easy | C++ |
 | [823](https://leetcode.com/problems/binary-trees-with-factors/) | [Binary Trees With Factors](problems/823.binary-trees-with-factors.py) | 🟡 Medium | Python |
 | [827](https://leetcode.com/problems/making-a-large-island/) | [Making A Large Island](problems/827.making-a-large-island.cpp) | 🔴 Hard | C++ |
+| [829](https://leetcode.com/problems/consecutive-numbers-sum/) | [Consecutive Numbers Sum](problems/829.consecutive-numbers-sum.cpp) | 🔴 Hard | C++ |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
 | [833](https://leetcode.com/problems/find-and-replace-in-string/) | [Find And Replace in String](problems/833.find-and-replace-in-string.cpp) | 🟡 Medium | C++ |
 | [840](https://leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](problems/840.magic-squares-in-grid.cpp) | 🟡 Medium | C++ |
