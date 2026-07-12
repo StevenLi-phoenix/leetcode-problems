@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1230 solved** — 🟢 403 Easy · 🟡 573 Medium · 🔴 254 Hard
+**1231 solved** — 🟢 403 Easy · 🟡 573 Medium · 🔴 255 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -195,6 +195,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435.non-overlapping-intervals.cpp) | 🟡 Medium | C++ |
 | [436](https://leetcode.com/problems/find-right-interval/) | [Find Right Interval](problems/436.find-right-interval.cpp) | 🟡 Medium | C++ |
 | [437](https://leetcode.com/problems/path-sum-iii/) | [Path Sum III](problems/437.path-sum-iii.cpp) | 🟡 Medium | C++ |
+| [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [K-th Smallest in Lexicographical Order](problems/440.k-th-smallest-in-lexicographical-order.cpp) | 🔴 Hard | C++ |
 | [441](https://leetcode.com/problems/arranging-coins/) | [Arranging Coins](problems/441.arranging-coins.cpp) | 🟢 Easy | C++ |
 | [443](https://leetcode.com/problems/string-compression/) | [String Compression](problems/443.string-compression.cpp) | 🟡 Medium | C++ |
 | [445](https://leetcode.com/problems/add-two-numbers-ii/) | [Add Two Numbers II](problems/445.add-two-numbers-ii.cpp) | 🟡 Medium | C++ |
