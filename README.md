@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1223 solved** — 🟢 400 Easy · 🟡 569 Medium · 🔴 254 Hard
+**1224 solved** — 🟢 401 Easy · 🟡 569 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -927,6 +927,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2953](https://leetcode.com/problems/count-complete-substrings/) | [Count Complete Substrings](problems/2953.count-complete-substrings.cpp) | 🔴 Hard | C++ |
 | [2956](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [Find Common Elements Between Two Arrays](problems/2956.find-common-elements-between-two-arrays.cpp) | 🟢 Easy | C++ |
 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](problems/2958.length-of-longest-subarray-with-at-most-k-frequency.cpp) | 🟡 Medium | C++ |
+| [2960](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Count Tested Devices After Test Operations](problems/2960.count-tested-devices-after-test-operations.cpp) | 🟢 Easy | C++ |
 | [2963](https://leetcode.com/problems/count-the-number-of-good-partitions/) | [Count the Number of Good Partitions](problems/2963.count-the-number-of-good-partitions.cpp) | 🔴 Hard | C++ |
 | [2965](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Find Missing and Repeated Values](problems/2965.find-missing-and-repeated-values.cpp) | 🟢 Easy | C++ |
 | [2968](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/) | [Apply Operations to Maximize Frequency Score](problems/2968.apply-operations-to-maximize-frequency-score.cpp) | 🔴 Hard | C++ |
