@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1217 solved** — 🟢 397 Easy · 🟡 567 Medium · 🔴 253 Hard
+**1218 solved** — 🟢 398 Easy · 🟡 567 Medium · 🔴 253 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -543,6 +543,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](problems/1631.path-with-minimum-effort.cpp) | 🟡 Medium | C++ |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Percentage of Users Attended a Contest](problems/1633.percentage-of-users-attended-a-contest.sql) | 🟢 Easy | mysql |
 | [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](problems/1636.sort-array-by-increasing-frequency.cpp) | 🟢 Easy | C++ |
+| [1640](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Check Array Formation Through Concatenation](problems/1640.check-array-formation-through-concatenation.cpp) | 🟢 Easy | C++ |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Count Sorted Vowel Strings](problems/1641.count-sorted-vowel-strings.cpp) | 🟡 Medium | C++ |
 | [1646](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Get Maximum in Generated Array](problems/1646.get-maximum-in-generated-array.cpp) | 🟢 Easy | C++ |
 | [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Create Sorted Array through Instructions](problems/1649.create-sorted-array-through-instructions.cpp) | 🔴 Hard | C++ |
