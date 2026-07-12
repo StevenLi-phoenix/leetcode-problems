@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1239 solved** — 🟢 404 Easy · 🟡 576 Medium · 🔴 259 Hard
+**1240 solved** — 🟢 405 Easy · 🟡 576 Medium · 🔴 259 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -577,6 +577,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1720](https://leetcode.com/problems/decode-xored-array/) | [Decode XORed Array](problems/1720.decode-xored-array.cpp) | 🟢 Easy | C++ |
 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Minimize Hamming Distance After Swap Operations](problems/1722.minimize-hamming-distance-after-swap-operations.cpp) | 🟡 Medium | C++ |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](problems/1727.largest-submatrix-with-rearrangements.cpp) | 🟡 Medium | C++ |
+| [1729](https://leetcode.com/problems/find-followers-count/) | [Find Followers Count](problems/1729.find-followers-count.sql) | 🟢 Easy | mysql |
 | [1732](https://leetcode.com/problems/find-the-highest-altitude/) | [Find the Highest Altitude](problems/1732.find-the-highest-altitude.cpp) | 🟢 Easy | C++ |
 | [1735](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Count Ways to Make Array With Product](problems/1735.count-ways-to-make-array-with-product.cpp) | 🔴 Hard | C++ |
 | [1738](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Find Kth Largest XOR Coordinate Value](problems/1738.find-kth-largest-xor-coordinate-value.cpp) | 🟡 Medium | C++ |
