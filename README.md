@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1262 solved** — 🟢 408 Easy · 🟡 586 Medium · 🔴 268 Hard
+**1263 solved** — 🟢 408 Easy · 🟡 587 Medium · 🔴 268 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -211,6 +211,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Minimum Moves to Equal Array Elements II](problems/462.minimum-moves-to-equal-array-elements-ii.cpp) | 🟡 Medium | C++ |
 | [466](https://leetcode.com/problems/count-the-repetitions/) | [Count The Repetitions](problems/466.count-the-repetitions.cpp) | 🔴 Hard | C++ |
 | [467](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Unique Substrings in Wraparound String](problems/467.unique-substrings-in-wraparound-string.cpp) | 🟡 Medium | C++ |
+| [468](https://leetcode.com/problems/validate-ip-address/) | [Validate IP Address](problems/468.validate-ip-address.cpp) | 🟡 Medium | C++ |
 | [472](https://leetcode.com/problems/concatenated-words/) | [Concatenated Words](problems/472.concatenated-words.cpp) | 🔴 Hard | C++ |
 | [473](https://leetcode.com/problems/matchsticks-to-square/) | [Matchsticks to Square](problems/473.matchsticks-to-square.cpp) | 🟡 Medium | C++ |
 | [474](https://leetcode.com/problems/ones-and-zeroes/) | [Ones and Zeroes](problems/474.ones-and-zeroes.cpp) | 🟡 Medium | C++ |
