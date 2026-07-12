@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1219 solved** — 🟢 399 Easy · 🟡 567 Medium · 🔴 253 Hard
+**1220 solved** — 🟢 400 Easy · 🟡 567 Medium · 🔴 253 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -324,6 +324,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [861](https://leetcode.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](problems/861.score-after-flipping-matrix.cpp) | 🟡 Medium | C++ |
 | [865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Smallest Subtree with all the Deepest Nodes](problems/865.smallest-subtree-with-all-the-deepest-nodes.cpp) | 🟡 Medium | C++ |
 | [866](https://leetcode.com/problems/prime-palindrome/) | [Prime Palindrome](problems/866.prime-palindrome.cpp) | 🟡 Medium | C++ |
+| [867](https://leetcode.com/problems/transpose-matrix/) | [Transpose Matrix](problems/867.transpose-matrix.cpp) | 🟢 Easy | C++ |
 | [868](https://leetcode.com/problems/binary-gap/) | [Binary Gap](problems/868.binary-gap.cpp) | 🟢 Easy | C++ |
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | [Reordered Power of 2](problems/869.reordered-power-of-2.cpp) | 🟡 Medium | C++ |
 | [872](https://leetcode.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](problems/872.leaf-similar-trees.cpp) | 🟢 Easy | C++ |
