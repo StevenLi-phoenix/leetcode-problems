@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1220 solved** — 🟢 400 Easy · 🟡 567 Medium · 🔴 253 Hard
+**1221 solved** — 🟢 400 Easy · 🟡 567 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -248,6 +248,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [617](https://leetcode.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](problems/617.merge-two-binary-trees.cpp) | 🟢 Easy | C++ |
 | [619](https://leetcode.com/problems/biggest-single-number/) | [Biggest Single Number](problems/619.biggest-single-number.sql) | 🟢 Easy | mysql |
 | [628](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Product of Three Numbers](problems/628.maximum-product-of-three-numbers.cpp) | 🟢 Easy | C++ |
+| [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Smallest Range Covering Elements from K Lists](problems/632.smallest-range-covering-elements-from-k-lists.cpp) | 🔴 Hard | C++ |
 | [636](https://leetcode.com/problems/exclusive-time-of-functions/) | [Exclusive Time of Functions](problems/636.exclusive-time-of-functions.cpp) | 🟡 Medium | C++ |
 | [638](https://leetcode.com/problems/shopping-offers/) | [Shopping Offers](problems/638.shopping-offers.cpp) | 🟡 Medium | C++ |
 | [641](https://leetcode.com/problems/design-circular-deque/) | [Design Circular Deque](problems/641.design-circular-deque.cpp) | 🟡 Medium | C++ |
