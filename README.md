@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1250 solved** — 🟢 406 Easy · 🟡 582 Medium · 🔴 262 Hard
+**1251 solved** — 🟢 406 Easy · 🟡 582 Medium · 🔴 263 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -639,6 +639,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1884](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [Egg Drop With 2 Eggs and N Floors](problems/1884.egg-drop-with-2-eggs-and-n-floors.cpp) | 🟡 Medium | C++ |
 | [1886](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Determine Whether Matrix Can Be Obtained By Rotation](problems/1886.determine-whether-matrix-can-be-obtained-by-rotation.cpp) | 🟢 Easy | C++ |
 | [1888](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [Minimum Number of Flips to Make the Binary String Alternating](problems/1888.minimum-number-of-flips-to-make-the-binary-string-alternating.cpp) | 🟡 Medium | C++ |
+| [1889](https://leetcode.com/problems/minimum-space-wasted-from-packaging/) | [Minimum Space Wasted From Packaging](problems/1889.minimum-space-wasted-from-packaging.cpp) | 🔴 Hard | C++ |
 | [1893](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Check if All the Integers in a Range Are Covered](problems/1893.check-if-all-the-integers-in-a-range-are-covered.cpp) | 🟢 Easy | C++ |
 | [1895](https://leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](problems/1895.largest-magic-square.cpp) | 🟡 Medium | C++ |
 | [1898](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [Maximum Number of Removable Characters](problems/1898.maximum-number-of-removable-characters.cpp) | 🟡 Medium | C++ |
