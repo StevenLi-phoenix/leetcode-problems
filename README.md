@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1216 solved** — 🟢 397 Easy · 🟡 566 Medium · 🔴 253 Hard
+**1217 solved** — 🟢 397 Easy · 🟡 567 Medium · 🔴 253 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -430,6 +430,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Find the Smallest Divisor Given a Threshold](problems/1283.find-the-smallest-divisor-given-a-threshold.cpp) | 🟡 Medium | C++ |
 | [1284](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](problems/1284.minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.cpp) | 🔴 Hard | C++ |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Element Appearing More Than 25% In Sorted Array](problems/1287.element-appearing-more-than-25-in-sorted-array.cpp) | 🟢 Easy | C++ |
+| [1291](https://leetcode.com/problems/sequential-digits/) | [Sequential Digits](problems/1291.sequential-digits.cpp) | 🟡 Medium | C++ |
 | [1292](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problems/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp) | 🟡 Medium | C++ |
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Find Numbers with Even Number of Digits](problems/1295.find-numbers-with-even-number-of-digits.cpp) | 🟢 Easy | C++ |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | [Deepest Leaves Sum](problems/1302.deepest-leaves-sum.cpp) | 🟡 Medium | C++ |
