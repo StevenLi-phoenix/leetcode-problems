@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1240 solved** — 🟢 405 Easy · 🟡 576 Medium · 🔴 259 Hard
+**1241 solved** — 🟢 405 Easy · 🟡 577 Medium · 🔴 259 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -316,6 +316,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [820](https://leetcode.com/problems/short-encoding-of-words/) | [Short Encoding of Words](problems/820.short-encoding-of-words.cpp) | 🟡 Medium | C++ |
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Shortest Distance to a Character](problems/821.shortest-distance-to-a-character.cpp) | 🟢 Easy | C++ |
 | [823](https://leetcode.com/problems/binary-trees-with-factors/) | [Binary Trees With Factors](problems/823.binary-trees-with-factors.py) | 🟡 Medium | Python |
+| [826](https://leetcode.com/problems/most-profit-assigning-work/) | [Most Profit Assigning Work](problems/826.most-profit-assigning-work.cpp) | 🟡 Medium | C++ |
 | [827](https://leetcode.com/problems/making-a-large-island/) | [Making A Large Island](problems/827.making-a-large-island.cpp) | 🔴 Hard | C++ |
 | [829](https://leetcode.com/problems/consecutive-numbers-sum/) | [Consecutive Numbers Sum](problems/829.consecutive-numbers-sum.cpp) | 🔴 Hard | C++ |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
