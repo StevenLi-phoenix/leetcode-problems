@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1234 solved** — 🟢 403 Easy · 🟡 573 Medium · 🔴 258 Hard
+**1235 solved** — 🟢 404 Easy · 🟡 573 Medium · 🔴 258 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -908,6 +908,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2856](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Minimum Array Length After Pair Removals](problems/2856.minimum-array-length-after-pair-removals.cpp) | 🟡 Medium | C++ |
 | [2867](https://leetcode.com/problems/count-valid-paths-in-a-tree/) | [Count Valid Paths in a Tree](problems/2867.count-valid-paths-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2887](https://leetcode.com/problems/fill-missing-data/) | [Fill Missing Data](problems/2887.fill-missing-data.py) | 🟢 Easy | pythondata |
+| [2888](https://leetcode.com/problems/reshape-data-concatenate/) | [Reshape Data: Concatenate](problems/2888.reshape-data-concatenate.py) | 🟢 Easy | pythondata |
 | [2889](https://leetcode.com/problems/reshape-data-pivot/) | [Reshape Data: Pivot](problems/2889.reshape-data-pivot.py) | 🟢 Easy | pythondata |
 | [2890](https://leetcode.com/problems/reshape-data-melt/) | [Reshape Data: Melt](problems/2890.reshape-data-melt.py) | 🟢 Easy | pythondata |
 | [2897](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Apply Operations on Array to Maximize Sum of Squares](problems/2897.apply-operations-on-array-to-maximize-sum-of-squares.cpp) | 🔴 Hard | C++ |
