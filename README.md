@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1248 solved** — 🟢 406 Easy · 🟡 580 Medium · 🔴 262 Hard
+**1249 solved** — 🟢 406 Easy · 🟡 581 Medium · 🔴 262 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -726,6 +726,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Maximum Twin Sum of a Linked List](problems/2130.maximum-twin-sum-of-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2132](https://leetcode.com/problems/stamping-the-grid/) | [Stamping the Grid](problems/2132.stamping-the-grid.cpp) | 🔴 Hard | C++ |
 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](problems/2144.minimum-cost-of-buying-candies-with-discount.cpp) | 🟢 Easy | C++ |
+| [2145](https://leetcode.com/problems/count-the-hidden-sequences/) | [Count the Hidden Sequences](problems/2145.count-the-hidden-sequences.cpp) | 🟡 Medium | C++ |
 | [2148](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [Count Elements With Strictly Smaller and Greater Elements ](problems/2148.count-elements-with-strictly-smaller-and-greater-elements.cpp) | 🟢 Easy | C++ |
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Rearrange Array Elements by Sign](problems/2149.rearrange-array-elements-by-sign.cpp) | 🟡 Medium | C++ |
 | [2151](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Maximum Good People Based on Statements](problems/2151.maximum-good-people-based-on-statements.cpp) | 🔴 Hard | C++ |
