@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1227 solved** — 🟢 403 Easy · 🟡 570 Medium · 🔴 254 Hard
+**1228 solved** — 🟢 403 Easy · 🟡 571 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -187,6 +187,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [404](https://leetcode.com/problems/sum-of-left-leaves/) | [Sum of Left Leaves](problems/404.sum-of-left-leaves.cpp) | 🟢 Easy | C++ |
 | [405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Convert a Number to Hexadecimal](problems/405.convert-a-number-to-hexadecimal.cpp) | 🟢 Easy | C++ |
 | [412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](problems/412.fizz-buzz.cpp) | 🟢 Easy | C++ |
+| [421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Maximum XOR of Two Numbers in an Array](problems/421.maximum-xor-of-two-numbers-in-an-array.cpp) | 🟡 Medium | C++ |
 | [423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Reconstruct Original Digits from English](problems/423.reconstruct-original-digits-from-english.cpp) | 🟡 Medium | C++ |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](problems/424.longest-repeating-character-replacement.cpp) | 🟡 Medium | C++ |
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
