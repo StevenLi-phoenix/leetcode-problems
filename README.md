@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1222 solved** — 🟢 400 Easy · 🟡 568 Medium · 🔴 254 Hard
+**1223 solved** — 🟢 400 Easy · 🟡 569 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1223,6 +1223,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3936](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Minimum Swaps to Move Zeros to End](problems/3936.minimum-swaps-to-move-zeros-to-end.cpp) | 🟢 Easy | C++ |
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
+| [3942](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Minimum Operations to Sort a Permutation](problems/3942.minimum-operations-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
 | [3950](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Exactly One Consecutive Set Bits Pair](problems/3950.exactly-one-consecutive-set-bits-pair.cpp) | 🟢 Easy | C++ |
 | [3952](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | [Maximum Total Value of Covered Indices](problems/3952.maximum-total-value-of-covered-indices.cpp) | 🟡 Medium | C++ |
 | [3954](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Sum of Compatible Numbers in Range I](problems/3954.sum-of-compatible-numbers-in-range-i.cpp) | 🟢 Easy | C++ |
