@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1261 solved** — 🟢 408 Easy · 🟡 585 Medium · 🔴 268 Hard
+**1262 solved** — 🟢 408 Easy · 🟡 586 Medium · 🔴 268 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -86,6 +86,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [78](https://leetcode.com/problems/subsets/) | [Subsets](problems/78.subsets.cpp) | 🟡 Medium | C++ |
 | [79](https://leetcode.com/problems/word-search/) | [Word Search](problems/79.word-search.cpp) | 🟡 Medium | C++ |
 | [80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Remove Duplicates from Sorted Array II](problems/80.remove-duplicates-from-sorted-array-ii.cpp) | 🟡 Medium | C++ |
+| [82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Remove Duplicates from Sorted List II](problems/82.remove-duplicates-from-sorted-list-ii.cpp) | 🟡 Medium | C++ |
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](problems/83.remove-duplicates-from-sorted-list.cpp) | 🟢 Easy | C++ |
 | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle in Histogram](problems/84.largest-rectangle-in-histogram.cpp) | 🔴 Hard | C++ |
 | [85](https://leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](problems/85.maximal-rectangle.cpp) | 🔴 Hard | C++ |
