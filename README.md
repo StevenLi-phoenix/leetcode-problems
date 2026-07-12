@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1247 solved** — 🟢 406 Easy · 🟡 580 Medium · 🔴 261 Hard
+**1248 solved** — 🟢 406 Easy · 🟡 580 Medium · 🔴 262 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -438,6 +438,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1260](https://leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](problems/1260.shift-2d-grid.cpp) | 🟢 Easy | C++ |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](problems/1266.minimum-time-visiting-all-points.cpp) | 🟢 Easy | C++ |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Number of Ways to Stay in the Same Place After Some Steps](problems/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.cpp) | 🔴 Hard | C++ |
+| [1278](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Palindrome Partitioning III](problems/1278.palindrome-partitioning-iii.cpp) | 🔴 Hard | C++ |
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Group the People Given the Group Size They Belong To](problems/1282.group-the-people-given-the-group-size-they-belong-to.cpp) | 🟡 Medium | C++ |
 | [1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Find the Smallest Divisor Given a Threshold](problems/1283.find-the-smallest-divisor-given-a-threshold.cpp) | 🟡 Medium | C++ |
 | [1284](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](problems/1284.minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.cpp) | 🔴 Hard | C++ |
