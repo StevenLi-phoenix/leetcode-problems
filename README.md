@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1253 solved** — 🟢 406 Easy · 🟡 582 Medium · 🔴 265 Hard
+**1254 solved** — 🟢 407 Easy · 🟡 582 Medium · 🔴 265 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -851,6 +851,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
 | [2567](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](problems/2567.minimum-score-by-changing-two-elements.cpp) | 🟡 Medium | C++ |
 | [2568](https://leetcode.com/problems/minimum-impossible-or/) | [Minimum Impossible OR](problems/2568.minimum-impossible-or.cpp) | 🟡 Medium | C++ |
+| [2570](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Merge Two 2D Arrays by Summing Values](problems/2570.merge-two-2d-arrays-by-summing-values.cpp) | 🟢 Easy | C++ |
 | [2573](https://leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](problems/2573.find-the-string-with-lcp.cpp) | 🔴 Hard | C++ |
 | [2574](https://leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](problems/2574.left-and-right-sum-differences.cpp) | 🟢 Easy | C++ |
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
