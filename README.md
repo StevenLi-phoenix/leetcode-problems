@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1228 solved** — 🟢 403 Easy · 🟡 571 Medium · 🔴 254 Hard
+**1229 solved** — 🟢 403 Easy · 🟡 572 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -702,6 +702,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Find Subsequence of Length K With the Largest Sum](problems/2099.find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 Easy | C++ |
 | [2101](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Detonate the Maximum Bombs](problems/2101.detonate-the-maximum-bombs.cpp) | 🟡 Medium | C++ |
 | [2103](https://leetcode.com/problems/rings-and-rods/) | [Rings and Rods](problems/2103.rings-and-rods.cpp) | 🟢 Easy | C++ |
+| [2104](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Sum of Subarray Ranges](problems/2104.sum-of-subarray-ranges.cpp) | 🟡 Medium | C++ |
 | [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Find First Palindromic String in the Array](problems/2108.find-first-palindromic-string-in-the-array.cpp) | 🟢 Easy | C++ |
 | [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Number of Smooth Descent Periods of a Stock](problems/2110.number-of-smooth-descent-periods-of-a-stock.cpp) | 🟡 Medium | C++ |
 | [2111](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [Minimum Operations to Make the Array K-Increasing](problems/2111.minimum-operations-to-make-the-array-k-increasing.cpp) | 🔴 Hard | C++ |
