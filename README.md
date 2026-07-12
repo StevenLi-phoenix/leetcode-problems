@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1226 solved** — 🟢 402 Easy · 🟡 570 Medium · 🔴 254 Hard
+**1227 solved** — 🟢 403 Easy · 🟡 570 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -425,6 +425,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](problems/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | 🟡 Medium | C++ |
 | [1240](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [Tiling a Rectangle with the Fewest Squares](problems/1240.tiling-a-rectangle-with-the-fewest-squares.cpp) | 🔴 Hard | C++ |
 | [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](problems/1249.minimum-remove-to-make-valid-parentheses.cpp) | 🟡 Medium | C++ |
+| [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Cells with Odd Values in a Matrix](problems/1252.cells-with-odd-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](problems/1255.maximum-score-words-formed-by-letters.cpp) | 🔴 Hard | C++ |
 | [1260](https://leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](problems/1260.shift-2d-grid.cpp) | 🟢 Easy | C++ |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](problems/1266.minimum-time-visiting-all-points.cpp) | 🟢 Easy | C++ |
