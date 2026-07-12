@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1221 solved** — 🟢 400 Easy · 🟡 567 Medium · 🔴 254 Hard
+**1222 solved** — 🟢 400 Easy · 🟡 568 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -979,6 +979,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3144](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/) | [Minimum Substring Partition of Equal Character Frequency](problems/3144.minimum-substring-partition-of-equal-character-frequency.cpp) | 🟡 Medium | C++ |
 | [3146](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Permutation Difference between Two Strings](problems/3146.permutation-difference-between-two-strings.cpp) | 🟢 Easy | C++ |
 | [3151](https://leetcode.com/problems/special-array-i/) | [Special Array I](problems/3151.special-array-i.cpp) | 🟢 Easy | C++ |
+| [3152](https://leetcode.com/problems/special-array-ii/) | [Special Array II](problems/3152.special-array-ii.cpp) | 🟡 Medium | C++ |
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
 | [3174](https://leetcode.com/problems/clear-digits/) | [Clear Digits](problems/3174.clear-digits.cpp) | 🟢 Easy | C++ |
