@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1224 solved** — 🟢 401 Easy · 🟡 569 Medium · 🔴 254 Hard
+**1225 solved** — 🟢 401 Easy · 🟡 570 Medium · 🔴 254 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1036,6 +1036,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3357](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Minimize the Maximum Adjacent Element Difference](problems/3357.minimize-the-maximum-adjacent-element-difference.cpp) | 🔴 Hard | C++ |
 | [3360](https://leetcode.com/problems/stone-removal-game/) | [Stone Removal Game](problems/3360.stone-removal-game.cpp) | 🟢 Easy | C++ |
 | [3363](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Find the Maximum Number of Fruits Collected](problems/3363.find-the-maximum-number-of-fruits-collected.cpp) | 🔴 Hard | C++ |
+| [3365](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/) | [Rearrange K Substrings to Form Target String](problems/3365.rearrange-k-substrings-to-form-target-string.cpp) | 🟡 Medium | C++ |
 | [3367](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [Maximize Sum of Weights after Edge Removals](problems/3367.maximize-sum-of-weights-after-edge-removals.cpp) | 🔴 Hard | C++ |
 | [3371](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | [Identify the Largest Outlier in an Array](problems/3371.identify-the-largest-outlier-in-an-array.cpp) | 🟡 Medium | C++ |
 | [3373](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](problems/3373.maximize-the-number-of-target-nodes-after-connecting-trees-ii.cpp) | 🔴 Hard | C++ |
