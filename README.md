@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1241 solved** — 🟢 405 Easy · 🟡 577 Medium · 🔴 259 Hard
+**1242 solved** — 🟢 405 Easy · 🟡 577 Medium · 🔴 260 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -361,6 +361,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [959](https://leetcode.com/problems/regions-cut-by-slashes/) | [Regions Cut By Slashes](problems/959.regions-cut-by-slashes.cpp) | 🟡 Medium | C++ |
 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](problems/960.delete-columns-to-make-sorted-iii.cpp) | 🔴 Hard | C++ |
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](problems/961.n-repeated-element-in-size-2n-array.cpp) | 🟢 Easy | C++ |
+| [964](https://leetcode.com/problems/least-operators-to-express-number/) | [Least Operators to Express Number](problems/964.least-operators-to-express-number.cpp) | 🔴 Hard | C++ |
 | [965](https://leetcode.com/problems/univalued-binary-tree/) | [Univalued Binary Tree](problems/965.univalued-binary-tree.cpp) | 🟢 Easy | C++ |
 | [968](https://leetcode.com/problems/binary-tree-cameras/) | [Binary Tree Cameras](problems/968.binary-tree-cameras.cpp) | 🔴 Hard | C++ |
 | [972](https://leetcode.com/problems/equal-rational-numbers/) | [Equal Rational Numbers](problems/972.equal-rational-numbers.cpp) | 🔴 Hard | C++ |
