@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1213 solved** — 🟢 397 Easy · 🟡 564 Medium · 🔴 252 Hard
+**1214 solved** — 🟢 397 Easy · 🟡 564 Medium · 🔴 253 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -655,6 +655,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1995](https://leetcode.com/problems/count-special-quadruplets/) | [Count Special Quadruplets](problems/1995.count-special-quadruplets.cpp) | 🟢 Easy | C++ |
 | [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [The Number of Weak Characters in the Game](problems/1996.the-number-of-weak-characters-in-the-game.cpp) | 🟡 Medium | C++ |
 | [1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [First Day Where You Have Been in All the Rooms](problems/1997.first-day-where-you-have-been-in-all-the-rooms.cpp) | 🟡 Medium | C++ |
+| [1998](https://leetcode.com/problems/gcd-sort-of-an-array/) | [GCD Sort of an Array](problems/1998.gcd-sort-of-an-array.cpp) | 🔴 Hard | C++ |
 | [2003](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [Smallest Missing Genetic Value in Each Subtree](problems/2003.smallest-missing-genetic-value-in-each-subtree.cpp) | 🔴 Hard | C++ |
 | [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Maximum Earnings From Taxi](problems/2008.maximum-earnings-from-taxi.cpp) | 🟡 Medium | C++ |
 | [2013](https://leetcode.com/problems/detect-squares/) | [Detect Squares](problems/2013.detect-squares.cpp) | 🟡 Medium | C++ |
