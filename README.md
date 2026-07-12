@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1236 solved** — 🟢 404 Easy · 🟡 573 Medium · 🔴 259 Hard
+**1237 solved** — 🟢 404 Easy · 🟡 574 Medium · 🔴 259 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1026,6 +1026,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3281](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Maximize Score of Numbers in Ranges](problems/3281.maximize-score-of-numbers-in-ranges.cpp) | 🟡 Medium | C++ |
 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](problems/3286.find-a-safe-walk-through-a-grid.cpp) | 🟡 Medium | C++ |
 | [3289](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [The Two Sneaky Numbers of Digitville](problems/3289.the-two-sneaky-numbers-of-digitville.cpp) | 🟢 Easy | C++ |
+| [3290](https://leetcode.com/problems/maximum-multiplication-score/) | [Maximum Multiplication Score](problems/3290.maximum-multiplication-score.cpp) | 🟡 Medium | C++ |
 | [3296](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Minimum Number of Seconds to Make Mountain Height Zero](problems/3296.minimum-number-of-seconds-to-make-mountain-height-zero.cpp) | 🟡 Medium | C++ |
 | [3300](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Minimum Element After Replacement With Digit Sum](problems/3300.minimum-element-after-replacement-with-digit-sum.cpp) | 🟢 Easy | C++ |
 | [3302](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Find the Lexicographically Smallest Valid Sequence](problems/3302.find-the-lexicographically-smallest-valid-sequence.cpp) | 🟡 Medium | C++ |
