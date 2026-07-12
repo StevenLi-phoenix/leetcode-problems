@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1255 solved** — 🟢 407 Easy · 🟡 583 Medium · 🔴 265 Hard
+**1256 solved** — 🟢 407 Easy · 🟡 584 Medium · 🔴 265 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -503,6 +503,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1444](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Number of Ways of Cutting a Pizza](problems/1444.number-of-ways-of-cutting-a-pizza.cpp) | 🔴 Hard | C++ |
 | [1447](https://leetcode.com/problems/simplified-fractions/) | [Simplified Fractions](problems/1447.simplified-fractions.cpp) | 🟡 Medium | C++ |
 | [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Number of Students Doing Homework at a Given Time](problems/1450.number-of-students-doing-homework-at-a-given-time.cpp) | 🟢 Easy | C++ |
+| [1451](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Rearrange Words in a Sentence](problems/1451.rearrange-words-in-a-sentence.cpp) | 🟡 Medium | C++ |
 | [1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Maximum Number of Vowels in a Substring of Given Length](problems/1456.maximum-number-of-vowels-in-a-substring-of-given-length.py) | 🟡 Medium | Python |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](problems/1458.max-dot-product-of-two-subsequences.cpp) | 🔴 Hard | C++ |
 | [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Check If a String Contains All Binary Codes of Size K](problems/1461.check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | 🟡 Medium | C++ |
