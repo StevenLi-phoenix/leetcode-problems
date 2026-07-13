@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1268 solved** — 🟢 409 Easy · 🟡 590 Medium · 🔴 269 Hard
+**1269 solved** — 🟢 409 Easy · 🟡 591 Medium · 🔴 269 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -243,6 +243,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Maximum Depth of N-ary Tree](problems/559.maximum-depth-of-n-ary-tree.cpp) | 🟢 Easy | C++ |
 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](problems/560.subarray-sum-equals-k.cpp) | 🟡 Medium | C++ |
 | [565](https://leetcode.com/problems/array-nesting/) | [Array Nesting](problems/565.array-nesting.cpp) | 🟡 Medium | C++ |
+| [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](problems/567.permutation-in-string.cpp) | 🟡 Medium | C++ |
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](problems/572.subtree-of-another-tree.cpp) | 🟢 Easy | C++ |
 | [577](https://leetcode.com/problems/employee-bonus/) | [Employee Bonus](problems/577.employee-bonus.sql) | 🟢 Easy | mysql |
 | [584](https://leetcode.com/problems/find-customer-referee/) | [Find Customer Referee](problems/584.find-customer-referee.sql) | 🟢 Easy | mysql |
