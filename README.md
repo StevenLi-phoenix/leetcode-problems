@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1373 solved** — 🟢 428 Easy · 🟡 645 Medium · 🔴 298 Hard
+**1374 solved** — 🟢 428 Easy · 🟡 646 Medium · 🔴 298 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -715,6 +715,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1922](https://leetcode.com/problems/count-good-numbers/) | [Count Good Numbers](problems/1922.count-good-numbers.cpp) | 🟡 Medium | C++ |
 | [1923](https://leetcode.com/problems/longest-common-subpath/) | [Longest Common Subpath](problems/1923.longest-common-subpath.cpp) | 🔴 Hard | C++ |
 | [1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [Minimum Cost to Reach Destination in Time](problems/1928.minimum-cost-to-reach-destination-in-time.cpp) | 🔴 Hard | C++ |
+| [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](problems/1930.unique-length-3-palindromic-subsequences.cpp) | 🟡 Medium | C++ |
 | [1931](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [Painting a Grid With Three Different Colors](problems/1931.painting-a-grid-with-three-different-colors.cpp) | 🔴 Hard | C++ |
 | [1936](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Add Minimum Number of Rungs](problems/1936.add-minimum-number-of-rungs.cpp) | 🟡 Medium | C++ |
 | [1941](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [Check if All Characters Have Equal Number of Occurrences](problems/1941.check-if-all-characters-have-equal-number-of-occurrences.cpp) | 🟢 Easy | C++ |
