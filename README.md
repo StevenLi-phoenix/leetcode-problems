@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1471 solved** — 🟢 448 Easy · 🟡 693 Medium · 🔴 328 Hard
+**1472 solved** — 🟢 448 Easy · 🟡 694 Medium · 🔴 328 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -137,6 +137,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [197](https://leetcode.com/problems/rising-temperature/) | [Rising Temperature](problems/197.rising-temperature.sql) | 🟢 Easy | mysql |
+| [198](https://leetcode.com/problems/house-robber/) | [House Robber](problems/198.house-robber.cpp) | 🟡 Medium | C++ |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
 | [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Bitwise AND of Numbers Range](problems/201.bitwise-and-of-numbers-range.cpp) | 🟡 Medium | C++ |
 | [204](https://leetcode.com/problems/count-primes/) | [Count Primes](problems/204.count-primes.cpp) | 🟡 Medium | C++ |
