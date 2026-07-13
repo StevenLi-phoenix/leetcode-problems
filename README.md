@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1403 solved** — 🟢 436 Easy · 🟡 661 Medium · 🔴 304 Hard
+**1404 solved** — 🟢 436 Easy · 🟡 661 Medium · 🔴 305 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1016,6 +1016,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
 | [2788](https://leetcode.com/problems/split-strings-by-separator/) | [Split Strings by Separator](problems/2788.split-strings-by-separator.cpp) | 🟢 Easy | C++ |
+| [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Count Paths That Can Form a Palindrome in a Tree](problems/2791.count-paths-that-can-form-a-palindrome-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number of Employees Who Met the Target](problems/2798.number-of-employees-who-met-the-target.cpp) | 🟢 Easy | C++ |
 | [2806](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Account Balance After Rounded Purchase](problems/2806.account-balance-after-rounded-purchase.cpp) | 🟢 Easy | C++ |
 | [2829](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | [Determine the Minimum Sum of a k-avoiding Array](problems/2829.determine-the-minimum-sum-of-a-k-avoiding-array.cpp) | 🟡 Medium | C++ |
