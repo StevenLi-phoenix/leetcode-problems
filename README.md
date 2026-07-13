@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1409 solved** — 🟢 437 Easy · 🟡 664 Medium · 🔴 306 Hard
+**1410 solved** — 🟢 437 Easy · 🟡 665 Medium · 🔴 306 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -949,6 +949,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2555](https://leetcode.com/problems/maximize-win-from-two-segments/) | [Maximize Win From Two Segments](problems/2555.maximize-win-from-two-segments.cpp) | 🟡 Medium | C++ |
 | [2558](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Take Gifts From the Richest Pile](problems/2558.take-gifts-from-the-richest-pile.cpp) | 🟢 Easy | C++ |
+| [2559](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Count Vowel Strings in Ranges](problems/2559.count-vowel-strings-in-ranges.cpp) | 🟡 Medium | C++ |
 | [2560](https://leetcode.com/problems/house-robber-iv/) | [House Robber IV](problems/2560.house-robber-iv.cpp) | 🟡 Medium | C++ |
 | [2562](https://leetcode.com/problems/find-the-array-concatenation-value/) | [Find the Array Concatenation Value](problems/2562.find-the-array-concatenation-value.cpp) | 🟢 Easy | C++ |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
