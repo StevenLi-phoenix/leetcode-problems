@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1295 solved** — 🟢 411 Easy · 🟡 608 Medium · 🔴 276 Hard
+**1296 solved** — 🟢 411 Easy · 🟡 609 Medium · 🔴 276 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -188,6 +188,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [394](https://leetcode.com/problems/decode-string/) | [Decode String](problems/394.decode-string.cpp) | 🟡 Medium | C++ |
 | [395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Longest Substring with At Least K Repeating Characters](problems/395.longest-substring-with-at-least-k-repeating-characters.cpp) | 🟡 Medium | C++ |
 | [396](https://leetcode.com/problems/rotate-function/) | [Rotate Function](problems/396.rotate-function.cpp) | 🟡 Medium | C++ |
+| [397](https://leetcode.com/problems/integer-replacement/) | [Integer Replacement](problems/397.integer-replacement.cpp) | 🟡 Medium | C++ |
 | [398](https://leetcode.com/problems/random-pick-index/) | [Random Pick Index](problems/398.random-pick-index.cpp) | 🟡 Medium | C++ |
 | [399](https://leetcode.com/problems/evaluate-division/) | [Evaluate Division](problems/399.evaluate-division.cpp) | 🟡 Medium | C++ |
 | [401](https://leetcode.com/problems/binary-watch/) | [Binary Watch](problems/401.binary-watch.cpp) | 🟢 Easy | C++ |
