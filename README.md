@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1287 solved** — 🟢 410 Easy · 🟡 602 Medium · 🔴 275 Hard
+**1288 solved** — 🟢 410 Easy · 🟡 603 Medium · 🔴 275 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -409,6 +409,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1033](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Moving Stones Until Consecutive](problems/1033.moving-stones-until-consecutive.cpp) | 🟡 Medium | C++ |
 | [1034](https://leetcode.com/problems/coloring-a-border/) | [Coloring A Border](problems/1034.coloring-a-border.cpp) | 🟡 Medium | C++ |
 | [1037](https://leetcode.com/problems/valid-boomerang/) | [Valid Boomerang](problems/1037.valid-boomerang.cpp) | 🟢 Easy | C++ |
+| [1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Binary Search Tree to Greater Sum Tree](problems/1038.binary-search-tree-to-greater-sum-tree.cpp) | 🟡 Medium | C++ |
 | [1041](https://leetcode.com/problems/robot-bounded-in-circle/) | [Robot Bounded In Circle](problems/1041.robot-bounded-in-circle.cpp) | 🟡 Medium | C++ |
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](problems/1043.partition-array-for-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1045](https://leetcode.com/problems/customers-who-bought-all-products/) | [Customers Who Bought All Products](problems/1045.customers-who-bought-all-products.sql) | 🟡 Medium | mysql |
