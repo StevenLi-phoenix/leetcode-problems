@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1379 solved** — 🟢 430 Easy · 🟡 648 Medium · 🔴 299 Hard
+**1380 solved** — 🟢 430 Easy · 🟡 649 Medium · 🔴 299 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -614,6 +614,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1619](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [Mean of Array After Removing Some Elements](problems/1619.mean-of-array-after-removing-some-elements.cpp) | 🟢 Easy | C++ |
 | [1622](https://leetcode.com/problems/fancy-sequence/) | [Fancy Sequence](problems/1622.fancy-sequence.cpp) | 🔴 Hard | C++ |
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](problems/1624.largest-substring-between-two-equal-characters.cpp) | 🟢 Easy | C++ |
+| [1626](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Best Team With No Conflicts](problems/1626.best-team-with-no-conflicts.cpp) | 🟡 Medium | C++ |
 | [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
 | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](problems/1631.path-with-minimum-effort.cpp) | 🟡 Medium | C++ |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Percentage of Users Attended a Contest](problems/1633.percentage-of-users-attended-a-contest.sql) | 🟢 Easy | mysql |
