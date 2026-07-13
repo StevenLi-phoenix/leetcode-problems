@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1334 solved** — 🟢 419 Easy · 🟡 624 Medium · 🔴 289 Hard
+**1335 solved** — 🟢 420 Easy · 🟡 624 Medium · 🔴 289 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -351,6 +351,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [829](https://leetcode.com/problems/consecutive-numbers-sum/) | [Consecutive Numbers Sum](problems/829.consecutive-numbers-sum.cpp) | 🔴 Hard | C++ |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
 | [833](https://leetcode.com/problems/find-and-replace-in-string/) | [Find And Replace in String](problems/833.find-and-replace-in-string.cpp) | 🟡 Medium | C++ |
+| [836](https://leetcode.com/problems/rectangle-overlap/) | [Rectangle Overlap](problems/836.rectangle-overlap.cpp) | 🟢 Easy | C++ |
 | [837](https://leetcode.com/problems/new-21-game/) | [New 21 Game](problems/837.new-21-game.cpp) | 🟡 Medium | C++ |
 | [839](https://leetcode.com/problems/similar-string-groups/) | [Similar String Groups](problems/839.similar-string-groups.cpp) | 🔴 Hard | C++ |
 | [840](https://leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](problems/840.magic-squares-in-grid.cpp) | 🟡 Medium | C++ |
