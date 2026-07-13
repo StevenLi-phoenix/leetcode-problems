@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1521 solved** — 🟢 463 Easy · 🟡 720 Medium · 🔴 336 Hard
+**1522 solved** — 🟢 463 Easy · 🟡 720 Medium · 🔴 337 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -578,6 +578,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Maximum Sum BST in Binary Tree](problems/1373.maximum-sum-bst-in-binary-tree.cpp) | 🔴 Hard | C++ |
 | [1375](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [Number of Times Binary String Is Prefix-Aligned](problems/1375.number-of-times-binary-string-is-prefix-aligned.cpp) | 🟡 Medium | C++ |
+| [1377](https://leetcode.com/problems/frog-position-after-t-seconds/) | [Frog Position After T Seconds](problems/1377.frog-position-after-t-seconds.cpp) | 🔴 Hard | C++ |
 | [1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](problems/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp) | 🟢 Easy | C++ |
 | [1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](problems/1380.lucky-numbers-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](problems/1382.balance-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
