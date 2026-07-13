@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1313 solved** — 🟢 412 Easy · 🟡 617 Medium · 🔴 284 Hard
+**1314 solved** — 🟢 412 Easy · 🟡 618 Medium · 🔴 284 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -765,6 +765,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2126](https://leetcode.com/problems/destroying-asteroids/) | [Destroying Asteroids](problems/2126.destroying-asteroids.cpp) | 🟡 Medium | C++ |
 | [2127](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [Maximum Employees to Be Invited to a Meeting](problems/2127.maximum-employees-to-be-invited-to-a-meeting.cpp) | 🔴 Hard | C++ |
 | [2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Maximum Twin Sum of a Linked List](problems/2130.maximum-twin-sum-of-a-linked-list.cpp) | 🟡 Medium | C++ |
+| [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Longest Palindrome by Concatenating Two Letter Words](problems/2131.longest-palindrome-by-concatenating-two-letter-words.cpp) | 🟡 Medium | C++ |
 | [2132](https://leetcode.com/problems/stamping-the-grid/) | [Stamping the Grid](problems/2132.stamping-the-grid.cpp) | 🔴 Hard | C++ |
 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](problems/2144.minimum-cost-of-buying-candies-with-discount.cpp) | 🟢 Easy | C++ |
 | [2145](https://leetcode.com/problems/count-the-hidden-sequences/) | [Count the Hidden Sequences](problems/2145.count-the-hidden-sequences.cpp) | 🟡 Medium | C++ |
