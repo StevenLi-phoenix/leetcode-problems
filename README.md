@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1460 solved** — 🟢 448 Easy · 🟡 688 Medium · 🔴 322 Hard
+**1461 solved** — 🟢 448 Easy · 🟡 689 Medium · 🔴 322 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -949,6 +949,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](problems/2463.minimum-total-distance-traveled.cpp) | 🔴 Hard | C++ |
 | [2472](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Maximum Number of Non-overlapping Palindrome Substrings](problems/2472.maximum-number-of-non-overlapping-palindrome-substrings.cpp) | 🔴 Hard | C++ |
 | [2475](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [Number of Unequal Triplets in Array](problems/2475.number-of-unequal-triplets-in-array.cpp) | 🟢 Easy | C++ |
+| [2476](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | [Closest Nodes Queries in a Binary Search Tree](problems/2476.closest-nodes-queries-in-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [2478](https://leetcode.com/problems/number-of-beautiful-partitions/) | [Number of Beautiful Partitions](problems/2478.number-of-beautiful-partitions.cpp) | 🔴 Hard | C++ |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Difference Between Ones and Zeros in Row and Column](problems/2482.difference-between-ones-and-zeros-in-row-and-column.cpp) | 🟡 Medium | C++ |
 | [2483](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](problems/2483.minimum-penalty-for-a-shop.cpp) | 🟡 Medium | C++ |
