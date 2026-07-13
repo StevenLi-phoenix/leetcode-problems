@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1407 solved** — 🟢 437 Easy · 🟡 663 Medium · 🔴 305 Hard
+**1408 solved** — 🟢 437 Easy · 🟡 663 Medium · 🔴 306 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -787,6 +787,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Minimized Maximum of Products Distributed to Any Store](problems/2064.minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 Medium | C++ |
 | [2069](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Walking Robot Simulation II](problems/2069.walking-robot-simulation-ii.cpp) | 🟡 Medium | C++ |
 | [2070](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Most Beautiful Item for Each Query](problems/2070.most-beautiful-item-for-each-query.cpp) | 🟡 Medium | C++ |
+| [2071](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) | [Maximum Number of Tasks You Can Assign](problems/2071.maximum-number-of-tasks-you-can-assign.cpp) | 🔴 Hard | C++ |
 | [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Time Needed to Buy Tickets](problems/2073.time-needed-to-buy-tickets.cpp) | 🟢 Easy | C++ |
 | [2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Decode the Slanted Ciphertext](problems/2075.decode-the-slanted-ciphertext.cpp) | 🟡 Medium | C++ |
 | [2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Two Furthest Houses With Different Colors](problems/2078.two-furthest-houses-with-different-colors.cpp) | 🟢 Easy | C++ |
