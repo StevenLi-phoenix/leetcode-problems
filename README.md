@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1428 solved** — 🟢 442 Easy · 🟡 673 Medium · 🔴 311 Hard
+**1429 solved** — 🟢 442 Easy · 🟡 674 Medium · 🔴 311 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -153,6 +153,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of a Binary Search Tree](problems/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](problems/237.delete-node-in-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](problems/238.product-of-array-except-self.cpp) | 🟡 Medium | C++ |
+| [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](problems/240.search-a-2d-matrix-ii.cpp) | 🟡 Medium | C++ |
 | [257](https://leetcode.com/problems/binary-tree-paths/) | [Binary Tree Paths](problems/257.binary-tree-paths.cpp) | 🟢 Easy | C++ |
 | [258](https://leetcode.com/problems/add-digits/) | [Add Digits](problems/258.add-digits.cpp) | 🟢 Easy | C++ |
 | [262](https://leetcode.com/problems/trips-and-users/) | [Trips and Users](problems/262.trips-and-users.sql) | 🔴 Hard | mysql |
