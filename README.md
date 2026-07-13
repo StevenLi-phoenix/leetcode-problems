@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1546 solved** — 🟢 470 Easy · 🟡 731 Medium · 🔴 343 Hard
+**1547 solved** — 🟢 471 Easy · 🟡 731 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -431,6 +431,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
 | [925](https://leetcode.com/problems/long-pressed-name/) | [Long Pressed Name](problems/925.long-pressed-name.cpp) | 🟢 Easy | C++ |
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Data in Log Files](problems/937.reorder-data-in-log-files.cpp) | 🟡 Medium | C++ |
+| [938](https://leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](problems/938.range-sum-of-bst.cpp) | 🟢 Easy | C++ |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | [Minimum Area Rectangle](problems/939.minimum-area-rectangle.cpp) | 🟡 Medium | C++ |
 | [942](https://leetcode.com/problems/di-string-match/) | [DI String Match](problems/942.di-string-match.cpp) | 🟢 Easy | C++ |
 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](problems/944.delete-columns-to-make-sorted.cpp) | 🟢 Easy | C++ |
