@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1513 solved** — 🟢 461 Easy · 🟡 714 Medium · 🔴 336 Hard
+**1514 solved** — 🟢 461 Easy · 🟡 715 Medium · 🔴 336 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -233,6 +233,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Find All Numbers Disappeared in an Array](problems/448.find-all-numbers-disappeared-in-an-array.cpp) | 🟢 Easy | C++ |
 | [450](https://leetcode.com/problems/delete-node-in-a-bst/) | [Delete Node in a BST](problems/450.delete-node-in-a-bst.cpp) | 🟡 Medium | C++ |
 | [451](https://leetcode.com/problems/sort-characters-by-frequency/) | [Sort Characters By Frequency](problems/451.sort-characters-by-frequency.cpp) | 🟡 Medium | C++ |
+| [452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Minimum Number of Arrows to Burst Balloons](problems/452.minimum-number-of-arrows-to-burst-balloons.cpp) | 🟡 Medium | C++ |
 | [454](https://leetcode.com/problems/4sum-ii/) | [4Sum II](problems/454.4sum-ii.cpp) | 🟡 Medium | C++ |
 | [457](https://leetcode.com/problems/circular-array-loop/) | [Circular Array Loop](problems/457.circular-array-loop.cpp) | 🟡 Medium | C++ |
 | [458](https://leetcode.com/problems/poor-pigs/) | [Poor Pigs](problems/458.poor-pigs.cpp) | 🔴 Hard | C++ |
