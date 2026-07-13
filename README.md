@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1352 solved** — 🟢 424 Easy · 🟡 633 Medium · 🔴 293 Hard
+**1353 solved** — 🟢 424 Easy · 🟡 634 Medium · 🔴 293 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1227,6 +1227,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3618](https://leetcode.com/problems/split-array-by-prime-indices/) | [Split Array by Prime Indices](problems/3618.split-array-by-prime-indices.cpp) | 🟡 Medium | C++ |
 | [3619](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Count Islands With Total Value Divisible by K](problems/3619.count-islands-with-total-value-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [3621](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [Number of Integers With Popcount-Depth Equal to K I](problems/3621.number-of-integers-with-popcount-depth-equal-to-k-i.cpp) | 🔴 Hard | C++ |
+| [3626](https://leetcode.com/problems/find-stores-with-inventory-imbalance/) | [Find Stores with Inventory Imbalance](problems/3626.find-stores-with-inventory-imbalance.sql) | 🟡 Medium | mysql |
 | [3628](https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/) | [Maximum Number of Subsequences After One Inserting](problems/3628.maximum-number-of-subsequences-after-one-inserting.cpp) | 🟡 Medium | C++ |
 | [3629](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Minimum Jumps to Reach End via Prime Teleportation](problems/3629.minimum-jumps-to-reach-end-via-prime-teleportation.cpp) | 🟡 Medium | C++ |
 | [3633](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Earliest Finish Time for Land and Water Rides I](problems/3633.earliest-finish-time-for-land-and-water-rides-i.cpp) | 🟢 Easy | C++ |
