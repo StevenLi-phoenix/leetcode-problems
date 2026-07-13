@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1479 solved** — 🟢 450 Easy · 🟡 698 Medium · 🔴 329 Hard
+**1480 solved** — 🟢 451 Easy · 🟡 698 Medium · 🔴 329 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1053,6 +1053,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2717](https://leetcode.com/problems/semi-ordered-permutation/) | [Semi-Ordered Permutation](problems/2717.semi-ordered-permutation.cpp) | 🟢 Easy | C++ |
 | [2718](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [Sum of Matrix After Queries](problems/2718.sum-of-matrix-after-queries.cpp) | 🟡 Medium | C++ |
 | [2719](https://leetcode.com/problems/count-of-integers/) | [Count of Integers](problems/2719.count-of-integers.cpp) | 🔴 Hard | C++ |
+| [2723](https://leetcode.com/problems/add-two-promises/) | [Add Two Promises](problems/2723.add-two-promises.js) | 🟢 Easy | JavaScript |
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
 | [2736](https://leetcode.com/problems/maximum-sum-queries/) | [Maximum Sum Queries](problems/2736.maximum-sum-queries.cpp) | 🔴 Hard | C++ |
