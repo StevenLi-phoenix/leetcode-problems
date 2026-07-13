@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1437 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 314 Hard
+**1438 solved** — 🟢 444 Easy · 🟡 678 Medium · 🔴 314 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -528,6 +528,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1340](https://leetcode.com/problems/jump-game-v/) | [Jump Game V](problems/1340.jump-game-v.cpp) | 🔴 Hard | C++ |
 | [1341](https://leetcode.com/problems/movie-rating/) | [Movie Rating](problems/1341.movie-rating.sql) | 🟡 Medium | mysql |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Number of Steps to Reduce a Number to Zero](problems/1342.number-of-steps-to-reduce-a-number-to-zero.cpp) | 🟢 Easy | C++ |
+| [1343](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](problems/1343.number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.cpp) | 🟡 Medium | C++ |
 | [1344](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Angle Between Hands of a Clock](problems/1344.angle-between-hands-of-a-clock.cpp) | 🟡 Medium | C++ |
 | [1345](https://leetcode.com/problems/jump-game-iv/) | [Jump Game IV](problems/1345.jump-game-iv.cpp) | 🔴 Hard | C++ |
 | [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Check If N and Its Double Exist](problems/1346.check-if-n-and-its-double-exist.cpp) | 🟢 Easy | C++ |
