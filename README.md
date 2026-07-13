@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1283 solved** — 🟢 410 Easy · 🟡 599 Medium · 🔴 274 Hard
+**1284 solved** — 🟢 410 Easy · 🟡 600 Medium · 🔴 274 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -783,6 +783,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2260](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Minimum Consecutive Cards to Pick Up](problems/2260.minimum-consecutive-cards-to-pick-up.cpp) | 🟡 Medium | C++ |
 | [2261](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [K Divisible Elements Subarrays](problems/2261.k-divisible-elements-subarrays.cpp) | 🟡 Medium | C++ |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Largest 3-Same-Digit Number in String](problems/2264.largest-3-same-digit-number-in-string.cpp) | 🟢 Easy | C++ |
+| [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Count Nodes Equal to Average of Subtree](problems/2265.count-nodes-equal-to-average-of-subtree.cpp) | 🟡 Medium | C++ |
 | [2270](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](problems/2270.number-of-ways-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Maximum White Tiles Covered by a Carpet](problems/2271.maximum-white-tiles-covered-by-a-carpet.cpp) | 🟡 Medium | C++ |
 | [2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Find Resultant Array After Removing Anagrams](problems/2273.find-resultant-array-after-removing-anagrams.cpp) | 🟢 Easy | C++ |
