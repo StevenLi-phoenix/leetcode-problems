@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1359 solved** — 🟢 424 Easy · 🟡 639 Medium · 🔴 294 Hard
+**1360 solved** — 🟢 424 Easy · 🟡 639 Medium · 🔴 295 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1071,6 +1071,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3092](https://leetcode.com/problems/most-frequent-ids/) | [Most Frequent IDs](problems/3092.most-frequent-ids.cpp) | 🟡 Medium | C++ |
 | [3093](https://leetcode.com/problems/longest-common-suffix-queries/) | [Longest Common Suffix Queries](problems/3093.longest-common-suffix-queries.cpp) | 🔴 Hard | C++ |
 | [3095](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [Shortest Subarray With OR at Least K I](problems/3095.shortest-subarray-with-or-at-least-k-i.cpp) | 🟢 Easy | C++ |
+| [3098](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [Find the Sum of Subsequence Powers](problems/3098.find-the-sum-of-subsequence-powers.cpp) | 🔴 Hard | C++ |
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | [Water Bottles II](problems/3100.water-bottles-ii.cpp) | 🟡 Medium | C++ |
 | [3106](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/) | [Lexicographically Smallest String After Operations With Constraint](problems/3106.lexicographically-smallest-string-after-operations-with-constraint.cpp) | 🟡 Medium | C++ |
 | [3108](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](problems/3108.minimum-cost-walk-in-weighted-graph.cpp) | 🔴 Hard | C++ |
