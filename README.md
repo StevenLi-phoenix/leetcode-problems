@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1434 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 311 Hard
+**1435 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 312 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1350,6 +1350,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3720](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Lexicographically Smallest Permutation Greater Than Target](problems/3720.lexicographically-smallest-permutation-greater-than-target.cpp) | 🟡 Medium | C++ |
 | [3721](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [Longest Balanced Subarray II](problems/3721.longest-balanced-subarray-ii.cpp) | 🔴 Hard | C++ |
 | [3722](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | [Lexicographically Smallest String After Reverse](problems/3722.lexicographically-smallest-string-after-reverse.cpp) | 🟡 Medium | C++ |
+| [3725](https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/) | [Count Ways to Choose Coprime Integers from Rows](problems/3725.count-ways-to-choose-coprime-integers-from-rows.cpp) | 🔴 Hard | C++ |
 | [3726](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | [Remove Zeros in Decimal Representation](problems/3726.remove-zeros-in-decimal-representation.cpp) | 🟢 Easy | C++ |
 | [3727](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Maximum Alternating Sum of Squares](problems/3727.maximum-alternating-sum-of-squares.cpp) | 🟡 Medium | C++ |
 | [3728](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | [Stable Subarrays With Equal Boundary and Interior Sum](problems/3728.stable-subarrays-with-equal-boundary-and-interior-sum.cpp) | 🟡 Medium | C++ |
