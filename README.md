@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1496 solved** — 🟢 456 Easy · 🟡 704 Medium · 🔴 334 Hard
+**1497 solved** — 🟢 456 Easy · 🟡 705 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -189,6 +189,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
 | [357](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](problems/357.count-numbers-with-unique-digits.cpp) | 🟡 Medium | C++ |
 | [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Max Sum of Rectangle No Larger Than K](problems/363.max-sum-of-rectangle-no-larger-than-k.cpp) | 🔴 Hard | C++ |
+| [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](problems/371.sum-of-two-integers.cpp) | 🟡 Medium | C++ |
 | [372](https://leetcode.com/problems/super-pow/) | [Super Pow](problems/372.super-pow.cpp) | 🟡 Medium | C++ |
 | [373](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Find K Pairs with Smallest Sums](problems/373.find-k-pairs-with-smallest-sums.cpp) | 🟡 Medium | C++ |
 | [375](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](problems/375.guess-number-higher-or-lower-ii.cpp) | 🟡 Medium | C++ |
