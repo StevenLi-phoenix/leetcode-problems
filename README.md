@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1449 solved** — 🟢 447 Easy · 🟡 682 Medium · 🔴 318 Hard
+**1450 solved** — 🟢 448 Easy · 🟡 682 Medium · 🔴 318 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -248,6 +248,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [500](https://leetcode.com/problems/keyboard-row/) | [Keyboard Row](problems/500.keyboard-row.cpp) | 🟢 Easy | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
 | [502](https://leetcode.com/problems/ipo/) | [IPO](problems/502.ipo.cpp) | 🔴 Hard | C++ |
+| [504](https://leetcode.com/problems/base-7/) | [Base 7](problems/504.base-7.cpp) | 🟢 Easy | C++ |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](problems/515.find-largest-value-in-each-tree-row.cpp) | 🟡 Medium | C++ |
 | [520](https://leetcode.com/problems/detect-capital/) | [Detect Capital](problems/520.detect-capital.cpp) | 🟢 Easy | C++ |
