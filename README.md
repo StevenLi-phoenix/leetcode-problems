@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1376 solved** — 🟢 428 Easy · 🟡 648 Medium · 🔴 298 Hard
+**1377 solved** — 🟢 429 Easy · 🟡 648 Medium · 🔴 298 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -693,6 +693,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1857](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Largest Color Value in a Directed Graph](problems/1857.largest-color-value-in-a-directed-graph.cpp) | 🔴 Hard | C++ |
 | [1861](https://leetcode.com/problems/rotating-the-box/) | [Rotating the Box](problems/1861.rotating-the-box.cpp) | 🟡 Medium | C++ |
 | [1862](https://leetcode.com/problems/sum-of-floored-pairs/) | [Sum of Floored Pairs](problems/1862.sum-of-floored-pairs.cpp) | 🔴 Hard | C++ |
+| [1863](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Sum of All Subset XOR Totals](problems/1863.sum-of-all-subset-xor-totals.cpp) | 🟢 Easy | C++ |
 | [1864](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [Minimum Number of Swaps to Make the Binary String Alternating](problems/1864.minimum-number-of-swaps-to-make-the-binary-string-alternating.cpp) | 🟡 Medium | C++ |
 | [1869](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Longer Contiguous Segments of Ones than Zeros](problems/1869.longer-contiguous-segments-of-ones-than-zeros.cpp) | 🟢 Easy | C++ |
 | [1871](https://leetcode.com/problems/jump-game-vii/) | [Jump Game VII](problems/1871.jump-game-vii.cpp) | 🟡 Medium | C++ |
