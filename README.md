@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1494 solved** — 🟢 455 Easy · 🟡 703 Medium · 🔴 334 Hard
+**1495 solved** — 🟢 456 Easy · 🟡 703 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1490,6 +1490,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3932](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Count K-th Roots in a Range](problems/3932.count-k-th-roots-in-a-range.cpp) | 🟡 Medium | C++ |
 | [3936](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Minimum Swaps to Move Zeros to End](problems/3936.minimum-swaps-to-move-zeros-to-end.cpp) | 🟢 Easy | C++ |
+| [3940](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [Limit Occurrences in Sorted Array](problems/3940.limit-occurrences-in-sorted-array.cpp) | 🟢 Easy | C++ |
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
 | [3942](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Minimum Operations to Sort a Permutation](problems/3942.minimum-operations-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
 | [3950](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Exactly One Consecutive Set Bits Pair](problems/3950.exactly-one-consecutive-set-bits-pair.cpp) | 🟢 Easy | C++ |
