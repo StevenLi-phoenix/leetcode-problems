@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1498 solved** — 🟢 456 Easy · 🟡 706 Medium · 🔴 334 Hard
+**1499 solved** — 🟢 456 Easy · 🟡 707 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -880,6 +880,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2166](https://leetcode.com/problems/design-bitset/) | [Design Bitset](problems/2166.design-bitset.cpp) | 🟡 Medium | C++ |
 | [2167](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [Minimum Time to Remove All Cars Containing Illegal Goods](problems/2167.minimum-time-to-remove-all-cars-containing-illegal-goods.cpp) | 🔴 Hard | C++ |
 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](problems/2169.count-operations-to-obtain-zero.cpp) | 🟢 Easy | C++ |
+| [2171](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [Removing Minimum Number of Magic Beans](problems/2171.removing-minimum-number-of-magic-beans.cpp) | 🟡 Medium | C++ |
 | [2172](https://leetcode.com/problems/maximum-and-sum-of-array/) | [Maximum AND Sum of Array](problems/2172.maximum-and-sum-of-array.cpp) | 🔴 Hard | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
 | [2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Minimum Time to Finish the Race](problems/2188.minimum-time-to-finish-the-race.cpp) | 🔴 Hard | C++ |
