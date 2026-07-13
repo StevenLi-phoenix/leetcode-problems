@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1337 solved** — 🟢 420 Easy · 🟡 625 Medium · 🔴 290 Hard
+**1338 solved** — 🟢 421 Easy · 🟡 625 Medium · 🔴 290 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -851,6 +851,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2376](https://leetcode.com/problems/count-special-integers/) | [Count Special Integers](problems/2376.count-special-integers.cpp) | 🔴 Hard | C++ |
 | [2380](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Time Needed to Rearrange a Binary String](problems/2380.time-needed-to-rearrange-a-binary-string.cpp) | 🟡 Medium | C++ |
 | [2382](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [Maximum Segment Sum After Removals](problems/2382.maximum-segment-sum-after-removals.cpp) | 🔴 Hard | C++ |
+| [2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Longest Subsequence With Limited Sum](problems/2389.longest-subsequence-with-limited-sum.cpp) | 🟢 Easy | C++ |
 | [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
 | [2401](https://leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](problems/2401.longest-nice-subarray.cpp) | 🟡 Medium | C++ |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](problems/2402.meeting-rooms-iii.cpp) | 🔴 Hard | C++ |
