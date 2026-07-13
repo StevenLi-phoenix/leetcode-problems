@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1386 solved** — 🟢 432 Easy · 🟡 652 Medium · 🔴 300 Hard
+**1387 solved** — 🟢 432 Easy · 🟡 652 Medium · 🔴 301 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -221,6 +221,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [457](https://leetcode.com/problems/circular-array-loop/) | [Circular Array Loop](problems/457.circular-array-loop.cpp) | 🟡 Medium | C++ |
 | [458](https://leetcode.com/problems/poor-pigs/) | [Poor Pigs](problems/458.poor-pigs.cpp) | 🔴 Hard | C++ |
 | [459](https://leetcode.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](problems/459.repeated-substring-pattern.cpp) | 🟢 Easy | C++ |
+| [460](https://leetcode.com/problems/lfu-cache/) | [LFU Cache](problems/460.lfu-cache.cpp) | 🔴 Hard | C++ |
 | [462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Minimum Moves to Equal Array Elements II](problems/462.minimum-moves-to-equal-array-elements-ii.cpp) | 🟡 Medium | C++ |
 | [466](https://leetcode.com/problems/count-the-repetitions/) | [Count The Repetitions](problems/466.count-the-repetitions.cpp) | 🔴 Hard | C++ |
 | [467](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Unique Substrings in Wraparound String](problems/467.unique-substrings-in-wraparound-string.cpp) | 🟡 Medium | C++ |
