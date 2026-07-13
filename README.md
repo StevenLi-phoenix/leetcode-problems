@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1326 solved** — 🟢 416 Easy · 🟡 622 Medium · 🔴 288 Hard
+**1327 solved** — 🟢 417 Easy · 🟡 622 Medium · 🔴 288 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -189,6 +189,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [385](https://leetcode.com/problems/mini-parser/) | [Mini Parser](problems/385.mini-parser.cpp) | 🟡 Medium | C++ |
 | [389](https://leetcode.com/problems/find-the-difference/) | [Find the Difference](problems/389.find-the-difference.cpp) | 🟢 Easy | C++ |
 | [390](https://leetcode.com/problems/elimination-game/) | [Elimination Game](problems/390.elimination-game.cpp) | 🟡 Medium | C++ |
+| [392](https://leetcode.com/problems/is-subsequence/) | [Is Subsequence](problems/392.is-subsequence.cpp) | 🟢 Easy | C++ |
 | [394](https://leetcode.com/problems/decode-string/) | [Decode String](problems/394.decode-string.cpp) | 🟡 Medium | C++ |
 | [395](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [Longest Substring with At Least K Repeating Characters](problems/395.longest-substring-with-at-least-k-repeating-characters.cpp) | 🟡 Medium | C++ |
 | [396](https://leetcode.com/problems/rotate-function/) | [Rotate Function](problems/396.rotate-function.cpp) | 🟡 Medium | C++ |
