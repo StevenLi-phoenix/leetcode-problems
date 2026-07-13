@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1480 solved** — 🟢 451 Easy · 🟡 698 Medium · 🔴 329 Hard
+**1481 solved** — 🟢 451 Easy · 🟡 698 Medium · 🔴 330 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -918,6 +918,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [The Latest Time to Catch a Bus](problems/2332.the-latest-time-to-catch-a-bus.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
 | [2341](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Maximum Number of Pairs in Array](problems/2341.maximum-number-of-pairs-in-array.cpp) | 🟢 Easy | C++ |
+| [2344](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [Minimum Deletions to Make Array Divisible](problems/2344.minimum-deletions-to-make-array-divisible.cpp) | 🔴 Hard | C++ |
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
 | [2352](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Equal Row and Column Pairs](problems/2352.equal-row-and-column-pairs.cpp) | 🟡 Medium | C++ |
 | [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [Number of Unique Subjects Taught by Each Teacher](problems/2356.number-of-unique-subjects-taught-by-each-teacher.sql) | 🟢 Easy | mysql |
