@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1454 solved** — 🟢 448 Easy · 🟡 684 Medium · 🔴 320 Hard
+**1455 solved** — 🟢 448 Easy · 🟡 685 Medium · 🔴 320 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1117,6 +1117,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3006](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | [Find Beautiful Indices in the Given Array I](problems/3006.find-beautiful-indices-in-the-given-array-i.cpp) | 🟡 Medium | C++ |
 | [3007](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](problems/3007.maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3010](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Divide an Array Into Subarrays With Minimum Cost I](problems/3010.divide-an-array-into-subarrays-with-minimum-cost-i.cpp) | 🟢 Easy | C++ |
+| [3011](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Find if Array Can Be Sorted](problems/3011.find-if-array-can-be-sorted.cpp) | 🟡 Medium | C++ |
 | [3013](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [Divide an Array Into Subarrays With Minimum Cost II](problems/3013.divide-an-array-into-subarrays-with-minimum-cost-ii.cpp) | 🔴 Hard | C++ |
 | [3014](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Minimum Number of Pushes to Type Word I](problems/3014.minimum-number-of-pushes-to-type-word-i.cpp) | 🟢 Easy | C++ |
 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](problems/3016.minimum-number-of-pushes-to-type-word-ii.cpp) | 🟡 Medium | C++ |
