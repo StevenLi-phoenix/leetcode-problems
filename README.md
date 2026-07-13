@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1275 solved** — 🟢 410 Easy · 🟡 594 Medium · 🔴 271 Hard
+**1276 solved** — 🟢 410 Easy · 🟡 594 Medium · 🔴 272 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -964,6 +964,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Make Lexicographically Smallest Array by Swapping Elements](problems/2948.make-lexicographically-smallest-array-by-swapping-elements.cpp) | 🟡 Medium | C++ |
 | [2952](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | [Minimum Number of Coins to be Added](problems/2952.minimum-number-of-coins-to-be-added.cpp) | 🟡 Medium | C++ |
 | [2953](https://leetcode.com/problems/count-complete-substrings/) | [Count Complete Substrings](problems/2953.count-complete-substrings.cpp) | 🔴 Hard | C++ |
+| [2954](https://leetcode.com/problems/count-the-number-of-infection-sequences/) | [Count the Number of Infection Sequences](problems/2954.count-the-number-of-infection-sequences.cpp) | 🔴 Hard | C++ |
 | [2956](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [Find Common Elements Between Two Arrays](problems/2956.find-common-elements-between-two-arrays.cpp) | 🟢 Easy | C++ |
 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](problems/2958.length-of-longest-subarray-with-at-most-k-frequency.cpp) | 🟡 Medium | C++ |
 | [2960](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Count Tested Devices After Test Operations](problems/2960.count-tested-devices-after-test-operations.cpp) | 🟢 Easy | C++ |
