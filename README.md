@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1281 solved** — 🟢 410 Easy · 🟡 598 Medium · 🔴 273 Hard
+**1282 solved** — 🟢 410 Easy · 🟡 598 Medium · 🔴 274 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -697,6 +697,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1998](https://leetcode.com/problems/gcd-sort-of-an-array/) | [GCD Sort of an Array](problems/1998.gcd-sort-of-an-array.cpp) | 🔴 Hard | C++ |
 | [2003](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [Smallest Missing Genetic Value in Each Subtree](problems/2003.smallest-missing-genetic-value-in-each-subtree.cpp) | 🔴 Hard | C++ |
 | [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Maximum Earnings From Taxi](problems/2008.maximum-earnings-from-taxi.cpp) | 🟡 Medium | C++ |
+| [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Minimum Number of Operations to Make Array Continuous](problems/2009.minimum-number-of-operations-to-make-array-continuous.cpp) | 🔴 Hard | C++ |
 | [2013](https://leetcode.com/problems/detect-squares/) | [Detect Squares](problems/2013.detect-squares.cpp) | 🟡 Medium | C++ |
 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Maximum Difference Between Increasing Elements](problems/2016.maximum-difference-between-increasing-elements.cpp) | 🟢 Easy | C++ |
 | [2018](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Check if Word Can Be Placed In Crossword](problems/2018.check-if-word-can-be-placed-in-crossword.cpp) | 🟡 Medium | C++ |
