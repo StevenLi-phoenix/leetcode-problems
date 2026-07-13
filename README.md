@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1398 solved** — 🟢 435 Easy · 🟡 657 Medium · 🔴 304 Hard
+**1399 solved** — 🟢 436 Easy · 🟡 657 Medium · 🔴 304 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -679,6 +679,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Sum of Beauty of All Substrings](problems/1781.sum-of-beauty-of-all-substrings.cpp) | 🟡 Medium | C++ |
 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](problems/1784.check-if-binary-string-has-at-most-one-segment-of-ones.cpp) | 🟢 Easy | C++ |
 | [1786](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Number of Restricted Paths From First to Last Node](problems/1786.number-of-restricted-paths-from-first-to-last-node.cpp) | 🟡 Medium | C++ |
+| [1789](https://leetcode.com/problems/primary-department-for-each-employee/) | [Primary Department for Each Employee](problems/1789.primary-department-for-each-employee.sql) | 🟢 Easy | mysql |
 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Check if One String Swap Can Make Strings Equal](problems/1790.check-if-one-string-swap-can-make-strings-equal.cpp) | 🟢 Easy | C++ |
 | [1791](https://leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](problems/1791.find-center-of-star-graph.cpp) | 🟢 Easy | C++ |
 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](problems/1792.maximum-average-pass-ratio.cpp) | 🟡 Medium | C++ |
