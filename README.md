@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1503 solved** — 🟢 458 Easy · 🟡 709 Medium · 🔴 334 Hard
+**1504 solved** — 🟢 458 Easy · 🟡 710 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -520,6 +520,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Remove Sub-Folders from the Filesystem](problems/1233.remove-sub-folders-from-the-filesystem.cpp) | 🟡 Medium | C++ |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](problems/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | 🟡 Medium | C++ |
 | [1240](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [Tiling a Rectangle with the Fewest Squares](problems/1240.tiling-a-rectangle-with-the-fewest-squares.cpp) | 🔴 Hard | C++ |
+| [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Count Number of Nice Subarrays](problems/1248.count-number-of-nice-subarrays.cpp) | 🟡 Medium | C++ |
 | [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](problems/1249.minimum-remove-to-make-valid-parentheses.cpp) | 🟡 Medium | C++ |
 | [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Cells with Odd Values in a Matrix](problems/1252.cells-with-odd-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](problems/1255.maximum-score-words-formed-by-letters.cpp) | 🔴 Hard | C++ |
