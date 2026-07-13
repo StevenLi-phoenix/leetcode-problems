@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1445 solved** — 🟢 446 Easy · 🟡 680 Medium · 🔴 317 Hard
+**1446 solved** — 🟢 446 Easy · 🟡 680 Medium · 🔴 318 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -518,6 +518,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | [Deepest Leaves Sum](problems/1302.deepest-leaves-sum.cpp) | 🟡 Medium | C++ |
 | [1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [All Elements in Two Binary Search Trees](problems/1305.all-elements-in-two-binary-search-trees.cpp) | 🟡 Medium | C++ |
 | [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](problems/1306.jump-game-iii.cpp) | 🟡 Medium | C++ |
+| [1307](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [Verbal Arithmetic Puzzle](problems/1307.verbal-arithmetic-puzzle.cpp) | 🔴 Hard | C++ |
 | [1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Convert Integer to the Sum of Two No-Zero Integers](problems/1317.convert-integer-to-the-sum-of-two-no-zero-integers.cpp) | 🟢 Easy | C++ |
 | [1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Number of Operations to Make Network Connected](problems/1319.number-of-operations-to-make-network-connected.cpp) | 🟡 Medium | C++ |
 | [1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimum Distance to Type a Word Using Two Fingers](problems/1320.minimum-distance-to-type-a-word-using-two-fingers.cpp) | 🔴 Hard | C++ |
