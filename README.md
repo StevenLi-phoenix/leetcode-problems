@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1447 solved** — 🟢 446 Easy · 🟡 681 Medium · 🔴 318 Hard
+**1448 solved** — 🟢 447 Easy · 🟡 681 Medium · 🔴 318 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1292,6 +1292,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3556](https://leetcode.com/problems/sum-of-largest-prime-substrings/) | [Sum of Largest Prime Substrings](problems/3556.sum-of-largest-prime-substrings.cpp) | 🟡 Medium | C++ |
 | [3558](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Number of Ways to Assign Edge Weights I](problems/3558.number-of-ways-to-assign-edge-weights-i.cpp) | 🟡 Medium | C++ |
 | [3559](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [Number of Ways to Assign Edge Weights II](problems/3559.number-of-ways-to-assign-edge-weights-ii.cpp) | 🔴 Hard | C++ |
+| [3560](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [Find Minimum Log Transportation Cost](problems/3560.find-minimum-log-transportation-cost.cpp) | 🟢 Easy | C++ |
 | [3561](https://leetcode.com/problems/resulting-string-after-adjacent-removals/) | [Resulting String After Adjacent Removals](problems/3561.resulting-string-after-adjacent-removals.cpp) | 🟡 Medium | C++ |
 | [3562](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Maximum Profit from Trading Stocks with Discounts](problems/3562.maximum-profit-from-trading-stocks-with-discounts.cpp) | 🔴 Hard | C++ |
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
