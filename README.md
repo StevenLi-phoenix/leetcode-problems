@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1378 solved** — 🟢 430 Easy · 🟡 648 Medium · 🔴 298 Hard
+**1379 solved** — 🟢 430 Easy · 🟡 648 Medium · 🔴 299 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -984,6 +984,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2719](https://leetcode.com/problems/count-of-integers/) | [Count of Integers](problems/2719.count-of-integers.cpp) | 🔴 Hard | C++ |
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
+| [2736](https://leetcode.com/problems/maximum-sum-queries/) | [Maximum Sum Queries](problems/2736.maximum-sum-queries.cpp) | 🔴 Hard | C++ |
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
 | [2740](https://leetcode.com/problems/find-the-value-of-the-partition/) | [Find the Value of the Partition](problems/2740.find-the-value-of-the-partition.cpp) | 🟡 Medium | C++ |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | [Painting the Walls](problems/2742.painting-the-walls.cpp) | 🔴 Hard | C++ |
