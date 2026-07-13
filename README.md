@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1267 solved** — 🟢 409 Easy · 🟡 589 Medium · 🔴 269 Hard
+**1268 solved** — 🟢 409 Easy · 🟡 590 Medium · 🔴 269 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1225,6 +1225,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
 | [3800](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Cost to Make Two Binary Strings Equal](problems/3800.minimum-cost-to-make-two-binary-strings-equal.cpp) | 🟡 Medium | C++ |
 | [3801](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | [Minimum Cost to Merge Sorted Lists](problems/3801.minimum-cost-to-merge-sorted-lists.cpp) | 🔴 Hard | C++ |
+| [3804](https://leetcode.com/problems/number-of-centered-subarrays/) | [Number of Centered Subarrays](problems/3804.number-of-centered-subarrays.cpp) | 🟡 Medium | C++ |
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
 | [3819](https://leetcode.com/problems/rotate-non-negative-elements/) | [Rotate Non Negative Elements](problems/3819.rotate-non-negative-elements.cpp) | 🟡 Medium | C++ |
