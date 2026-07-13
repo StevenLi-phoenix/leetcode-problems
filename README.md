@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1356 solved** — 🟢 424 Easy · 🟡 637 Medium · 🔴 293 Hard
+**1357 solved** — 🟢 424 Easy · 🟡 637 Medium · 🔴 294 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -324,6 +324,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [771](https://leetcode.com/problems/jewels-and-stones/) | [Jewels and Stones](problems/771.jewels-and-stones.cpp) | 🟢 Easy | C++ |
 | [773](https://leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](problems/773.sliding-puzzle.cpp) | 🔴 Hard | C++ |
 | [779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [K-th Symbol in Grammar](problems/779.k-th-symbol-in-grammar.cpp) | 🟡 Medium | C++ |
+| [780](https://leetcode.com/problems/reaching-points/) | [Reaching Points](problems/780.reaching-points.cpp) | 🔴 Hard | C++ |
 | [781](https://leetcode.com/problems/rabbits-in-forest/) | [Rabbits in Forest](problems/781.rabbits-in-forest.cpp) | 🟡 Medium | C++ |
 | [782](https://leetcode.com/problems/transform-to-chessboard/) | [Transform to Chessboard](problems/782.transform-to-chessboard.cpp) | 🔴 Hard | C++ |
 | [784](https://leetcode.com/problems/letter-case-permutation/) | [Letter Case Permutation](problems/784.letter-case-permutation.cpp) | 🟡 Medium | C++ |
