@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1448 solved** — 🟢 447 Easy · 🟡 681 Medium · 🔴 318 Hard
+**1449 solved** — 🟢 447 Easy · 🟡 682 Medium · 🔴 318 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1052,6 +1052,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Count Paths That Can Form a Palindrome in a Tree](problems/2791.count-paths-that-can-form-a-palindrome-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number of Employees Who Met the Target](problems/2798.number-of-employees-who-met-the-target.cpp) | 🟢 Easy | C++ |
 | [2806](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Account Balance After Rounded Purchase](problems/2806.account-balance-after-rounded-purchase.cpp) | 🟢 Easy | C++ |
+| [2808](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | [Minimum Seconds to Equalize a Circular Array](problems/2808.minimum-seconds-to-equalize-a-circular-array.cpp) | 🟡 Medium | C++ |
 | [2829](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | [Determine the Minimum Sum of a k-avoiding Array](problems/2829.determine-the-minimum-sum-of-a-k-avoiding-array.cpp) | 🟡 Medium | C++ |
 | [2831](https://leetcode.com/problems/find-the-longest-equal-subarray/) | [Find the Longest Equal Subarray](problems/2831.find-the-longest-equal-subarray.cpp) | 🟡 Medium | C++ |
 | [2833](https://leetcode.com/problems/furthest-point-from-origin/) | [Furthest Point From Origin](problems/2833.furthest-point-from-origin.cpp) | 🟢 Easy | C++ |
