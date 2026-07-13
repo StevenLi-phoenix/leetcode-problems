@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1348 solved** — 🟢 424 Easy · 🟡 631 Medium · 🔴 291 Hard
+**1349 solved** — 🟢 424 Easy · 🟡 632 Medium · 🔴 291 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1209,6 +1209,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3562](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Maximum Profit from Trading Stocks with Discounts](problems/3562.maximum-profit-from-trading-stocks-with-discounts.cpp) | 🔴 Hard | C++ |
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](problems/3573.best-time-to-buy-and-sell-stock-v.cpp) | 🟡 Medium | C++ |
+| [3578](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Count Partitions With Max-Min Difference at Most K](problems/3578.count-partitions-with-max-min-difference-at-most-k.cpp) | 🟡 Medium | C++ |
 | [3580](https://leetcode.com/problems/find-consistently-improving-employees/) | [Find Consistently Improving Employees](problems/3580.find-consistently-improving-employees.sql) | 🟡 Medium | mysql |
 | [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
 | [3591](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Check if Any Element Has Prime Frequency](problems/3591.check-if-any-element-has-prime-frequency.cpp) | 🟢 Easy | C++ |
