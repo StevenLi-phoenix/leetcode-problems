@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1467 solved** — 🟢 448 Easy · 🟡 691 Medium · 🔴 326 Hard
+**1468 solved** — 🟢 448 Easy · 🟡 691 Medium · 🔴 327 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1181,6 +1181,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
 | [3174](https://leetcode.com/problems/clear-digits/) | [Clear Digits](problems/3174.clear-digits.cpp) | 🟢 Easy | C++ |
 | [3175](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Find The First Player to win K Games in a Row](problems/3175.find-the-first-player-to-win-k-games-in-a-row.cpp) | 🟡 Medium | C++ |
+| [3177](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | [Find the Maximum Length of a Good Subsequence II](problems/3177.find-the-maximum-length-of-a-good-subsequence-ii.cpp) | 🔴 Hard | C++ |
 | [3184](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | [Count Pairs That Form a Complete Day I](problems/3184.count-pairs-that-form-a-complete-day-i.cpp) | 🟢 Easy | C++ |
 | [3185](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) | [Count Pairs That Form a Complete Day II](problems/3185.count-pairs-that-form-a-complete-day-ii.cpp) | 🟡 Medium | C++ |
 | [3187](https://leetcode.com/problems/peaks-in-array/) | [Peaks in Array](problems/3187.peaks-in-array.cpp) | 🔴 Hard | C++ |
