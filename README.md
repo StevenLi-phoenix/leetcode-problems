@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1368 solved** — 🟢 427 Easy · 🟡 642 Medium · 🔴 297 Hard
+**1369 solved** — 🟢 427 Easy · 🟡 642 Medium · 🔴 298 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -679,6 +679,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1825](https://leetcode.com/problems/finding-mk-average/) | [Finding MK Average](problems/1825.finding-mk-average.cpp) | 🔴 Hard | C++ |
 | [1827](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Minimum Operations to Make the Array Increasing](problems/1827.minimum-operations-to-make-the-array-increasing.cpp) | 🟢 Easy | C++ |
 | [1833](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](problems/1833.maximum-ice-cream-bars.cpp) | 🟡 Medium | C++ |
+| [1835](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [Find XOR Sum of All Pairs Bitwise AND](problems/1835.find-xor-sum-of-all-pairs-bitwise-and.cpp) | 🔴 Hard | C++ |
 | [1837](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Sum of Digits in Base K](problems/1837.sum-of-digits-in-base-k.cpp) | 🟢 Easy | C++ |
 | [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](problems/1838.frequency-of-the-most-frequent-element.cpp) | 🟡 Medium | C++ |
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
