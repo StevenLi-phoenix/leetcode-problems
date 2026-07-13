@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1366 solved** — 🟢 426 Easy · 🟡 642 Medium · 🔴 296 Hard
+**1367 solved** — 🟢 427 Easy · 🟡 642 Medium · 🔴 296 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -753,6 +753,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](problems/2037.minimum-number-of-moves-to-seat-everyone.cpp) | 🟢 Easy | C++ |
 | [2042](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Check if Numbers Are Ascending in a Sentence](problems/2042.check-if-numbers-are-ascending-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](problems/2044.count-number-of-maximum-bitwise-or-subsets.cpp) | 🟡 Medium | C++ |
+| [2047](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [Number of Valid Words in a Sentence](problems/2047.number-of-valid-words-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Next Greater Numerically Balanced Number](problems/2048.next-greater-numerically-balanced-number.cpp) | 🟡 Medium | C++ |
 | [2050](https://leetcode.com/problems/parallel-courses-iii/) | [Parallel Courses III](problems/2050.parallel-courses-iii.cpp) | 🔴 Hard | C++ |
 | [2053](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [Kth Distinct String in an Array](problems/2053.kth-distinct-string-in-an-array.cpp) | 🟢 Easy | C++ |
