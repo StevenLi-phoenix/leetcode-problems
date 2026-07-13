@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1436 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 313 Hard
+**1437 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 314 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -948,6 +948,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2507](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Smallest Value After Replacing With Sum of Prime Factors](problems/2507.smallest-value-after-replacing-with-sum-of-prime-factors.cpp) | 🟡 Medium | C++ |
 | [2511](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [Maximum Enemy Forts That Can Be Captured](problems/2511.maximum-enemy-forts-that-can-be-captured.cpp) | 🟢 Easy | C++ |
 | [2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](problems/2515.shortest-distance-to-target-string-in-a-circular-array.cpp) | 🟢 Easy | C++ |
+| [2518](https://leetcode.com/problems/number-of-great-partitions/) | [Number of Great Partitions](problems/2518.number-of-great-partitions.cpp) | 🔴 Hard | C++ |
 | [2520](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Count the Digits That Divide a Number](problems/2520.count-the-digits-that-divide-a-number.cpp) | 🟢 Easy | C++ |
 | [2521](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [Distinct Prime Factors of Product of Array](problems/2521.distinct-prime-factors-of-product-of-array.cpp) | 🟡 Medium | C++ |
 | [2523](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Closest Prime Numbers in Range](problems/2523.closest-prime-numbers-in-range.cpp) | 🟡 Medium | C++ |
