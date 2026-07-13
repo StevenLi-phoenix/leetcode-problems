@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1526 solved** — 🟢 463 Easy · 🟡 721 Medium · 🔴 340 Hard
+**1527 solved** — 🟢 463 Easy · 🟡 721 Medium · 🔴 341 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1414,6 +1414,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3678](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Smallest Absent Positive Greater Than Average](problems/3678.smallest-absent-positive-greater-than-average.cpp) | 🟢 Easy | C++ |
 | [3679](https://leetcode.com/problems/minimum-discards-to-balance-inventory/) | [ Minimum Discards to Balance Inventory](problems/3679.minimum-discards-to-balance-inventory.cpp) | 🟡 Medium | C++ |
 | [3680](https://leetcode.com/problems/generate-schedule/) | [Generate Schedule](problems/3680.generate-schedule.cpp) | 🟡 Medium | C++ |
+| [3681](https://leetcode.com/problems/maximum-xor-of-subsequences/) | [Maximum XOR of Subsequences](problems/3681.maximum-xor-of-subsequences.cpp) | 🔴 Hard | C++ |
 | [3684](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | [Maximize Sum of At Most K Distinct Elements](problems/3684.maximize-sum-of-at-most-k-distinct-elements.cpp) | 🟢 Easy | C++ |
 | [3685](https://leetcode.com/problems/subsequence-sum-after-capping-elements/) | [Subsequence Sum After Capping Elements](problems/3685.subsequence-sum-after-capping-elements.cpp) | 🟡 Medium | C++ |
 | [3689](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Maximum Total Subarray Value I](problems/3689.maximum-total-subarray-value-i.cpp) | 🟡 Medium | C++ |
