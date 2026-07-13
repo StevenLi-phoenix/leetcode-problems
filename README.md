@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1274 solved** — 🟢 410 Easy · 🟡 594 Medium · 🔴 270 Hard
+**1275 solved** — 🟢 410 Easy · 🟡 594 Medium · 🔴 271 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -248,6 +248,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](problems/572.subtree-of-another-tree.cpp) | 🟢 Easy | C++ |
 | [577](https://leetcode.com/problems/employee-bonus/) | [Employee Bonus](problems/577.employee-bonus.sql) | 🟢 Easy | mysql |
 | [584](https://leetcode.com/problems/find-customer-referee/) | [Find Customer Referee](problems/584.find-customer-referee.sql) | 🟢 Easy | mysql |
+| [587](https://leetcode.com/problems/erect-the-fence/) | [Erect the Fence](problems/587.erect-the-fence.cpp) | 🔴 Hard | C++ |
 | [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](problems/589.n-ary-tree-preorder-traversal.cpp) | 🟢 Easy | C++ |
 | [593](https://leetcode.com/problems/valid-square/) | [Valid Square](problems/593.valid-square.cpp) | 🟡 Medium | C++ |
 | [594](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](problems/594.longest-harmonious-subsequence.cpp) | 🟢 Easy | C++ |
