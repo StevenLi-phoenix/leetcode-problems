@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1364 solved** — 🟢 426 Easy · 🟡 640 Medium · 🔴 296 Hard
+**1365 solved** — 🟢 426 Easy · 🟡 641 Medium · 🔴 296 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1355,6 +1355,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3913](https://leetcode.com/problems/sort-vowels-by-frequency/) | [Sort Vowels by Frequency](problems/3913.sort-vowels-by-frequency.cpp) | 🟡 Medium | C++ |
 | [3915](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](problems/3915.maximum-sum-of-alternating-subsequence-with-distance-at-least-k.cpp) | 🔴 Hard | C++ |
 | [3921](https://leetcode.com/problems/score-validator/) | [Score Validator](problems/3921.score-validator.cpp) | 🟢 Easy | C++ |
+| [3923](https://leetcode.com/problems/minimum-generations-to-target-point/) | [Minimum Generations to Target Point](problems/3923.minimum-generations-to-target-point.cpp) | 🟡 Medium | C++ |
 | [3925](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Concatenate Array With Reverse](problems/3925.concatenate-array-with-reverse.cpp) | 🟢 Easy | C++ |
 | [3927](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | [Minimize Array Sum Using Divisible Replacements](problems/3927.minimize-array-sum-using-divisible-replacements.cpp) | 🟡 Medium | C++ |
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
