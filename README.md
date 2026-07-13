@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1340 solved** — 🟢 423 Easy · 🟡 625 Medium · 🔴 290 Hard
+**1341 solved** — 🟢 423 Easy · 🟡 626 Medium · 🔴 290 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -551,6 +551,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Make Two Arrays Equal by Reversing Subarrays](problems/1460.make-two-arrays-equal-by-reversing-subarrays.cpp) | 🟢 Easy | C++ |
 | [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Check If a String Contains All Binary Codes of Size K](problems/1461.check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | 🟡 Medium | C++ |
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Maximum Product of Two Elements in an Array](problems/1464.maximum-product-of-two-elements-in-an-array.cpp) | 🟢 Easy | C++ |
+| [1471](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [The k Strongest Values in an Array](problems/1471.the-k-strongest-values-in-an-array.cpp) | 🟡 Medium | C++ |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | [Subrectangle Queries](problems/1476.subrectangle-queries.cpp) | 🟡 Medium | C++ |
 | [1477](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Find Two Non-overlapping Sub-arrays Each With Target Sum](problems/1477.find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Kth Ancestor of a Tree Node](problems/1483.kth-ancestor-of-a-tree-node.cpp) | 🔴 Hard | C++ |
