@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1443 solved** — 🟢 445 Easy · 🟡 680 Medium · 🔴 316 Hard
+**1444 solved** — 🟢 446 Easy · 🟡 680 Medium · 🔴 316 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -272,6 +272,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [565](https://leetcode.com/problems/array-nesting/) | [Array Nesting](problems/565.array-nesting.cpp) | 🟡 Medium | C++ |
 | [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](problems/567.permutation-in-string.cpp) | 🟡 Medium | C++ |
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](problems/572.subtree-of-another-tree.cpp) | 🟢 Easy | C++ |
+| [575](https://leetcode.com/problems/distribute-candies/) | [Distribute Candies](problems/575.distribute-candies.cpp) | 🟢 Easy | C++ |
 | [577](https://leetcode.com/problems/employee-bonus/) | [Employee Bonus](problems/577.employee-bonus.sql) | 🟢 Easy | mysql |
 | [584](https://leetcode.com/problems/find-customer-referee/) | [Find Customer Referee](problems/584.find-customer-referee.sql) | 🟢 Easy | mysql |
 | [587](https://leetcode.com/problems/erect-the-fence/) | [Erect the Fence](problems/587.erect-the-fence.cpp) | 🔴 Hard | C++ |
