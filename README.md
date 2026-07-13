@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1463 solved** — 🟢 448 Easy · 🟡 690 Medium · 🔴 323 Hard
+**1464 solved** — 🟢 448 Easy · 🟡 690 Medium · 🔴 324 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1410,6 +1410,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3801](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | [Minimum Cost to Merge Sorted Lists](problems/3801.minimum-cost-to-merge-sorted-lists.cpp) | 🔴 Hard | C++ |
 | [3803](https://leetcode.com/problems/count-residue-prefixes/) | [Count Residue Prefixes](problems/3803.count-residue-prefixes.cpp) | 🟢 Easy | C++ |
 | [3804](https://leetcode.com/problems/number-of-centered-subarrays/) | [Number of Centered Subarrays](problems/3804.number-of-centered-subarrays.cpp) | 🟡 Medium | C++ |
+| [3812](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | [Minimum Edge Toggles on a Tree](problems/3812.minimum-edge-toggles-on-a-tree.cpp) | 🔴 Hard | C++ |
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
 | [3816](https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/) | [Lexicographically Smallest String After Deleting Duplicate Characters](problems/3816.lexicographically-smallest-string-after-deleting-duplicate-characters.cpp) | 🔴 Hard | C++ |
