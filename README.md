@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1272 solved** — 🟢 410 Easy · 🟡 592 Medium · 🔴 270 Hard
+**1273 solved** — 🟢 410 Easy · 🟡 593 Medium · 🔴 270 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -750,6 +750,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2163](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | [Minimum Difference in Sums After Removal of Elements](problems/2163.minimum-difference-in-sums-after-removal-of-elements.cpp) | 🔴 Hard | C++ |
 | [2164](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [Sort Even and Odd Indices Independently](problems/2164.sort-even-and-odd-indices-independently.cpp) | 🟢 Easy | C++ |
 | [2165](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Smallest Value of the Rearranged Number](problems/2165.smallest-value-of-the-rearranged-number.cpp) | 🟡 Medium | C++ |
+| [2166](https://leetcode.com/problems/design-bitset/) | [Design Bitset](problems/2166.design-bitset.cpp) | 🟡 Medium | C++ |
 | [2167](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [Minimum Time to Remove All Cars Containing Illegal Goods](problems/2167.minimum-time-to-remove-all-cars-containing-illegal-goods.cpp) | 🔴 Hard | C++ |
 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](problems/2169.count-operations-to-obtain-zero.cpp) | 🟢 Easy | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
