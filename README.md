@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1413 solved** — 🟢 437 Easy · 🟡 667 Medium · 🔴 307 Hard
+**1414 solved** — 🟢 438 Easy · 🟡 667 Medium · 🔴 307 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -811,6 +811,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2114](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Maximum Number of Words Found in Sentences](problems/2114.maximum-number-of-words-found-in-sentences.cpp) | 🟢 Easy | C++ |
 | [2115](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Find All Possible Recipes from Given Supplies](problems/2115.find-all-possible-recipes-from-given-supplies.cpp) | 🟡 Medium | C++ |
 | [2117](https://leetcode.com/problems/abbreviating-the-product-of-a-range/) | [Abbreviating the Product of a Range](problems/2117.abbreviating-the-product-of-a-range.cpp) | 🔴 Hard | C++ |
+| [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [A Number After a Double Reversal](problems/2119.a-number-after-a-double-reversal.cpp) | 🟢 Easy | C++ |
 | [2121](https://leetcode.com/problems/intervals-between-identical-elements/) | [Intervals Between Identical Elements](problems/2121.intervals-between-identical-elements.cpp) | 🟡 Medium | C++ |
 | [2122](https://leetcode.com/problems/recover-the-original-array/) | [Recover the Original Array](problems/2122.recover-the-original-array.cpp) | 🔴 Hard | C++ |
 | [2126](https://leetcode.com/problems/destroying-asteroids/) | [Destroying Asteroids](problems/2126.destroying-asteroids.cpp) | 🟡 Medium | C++ |
