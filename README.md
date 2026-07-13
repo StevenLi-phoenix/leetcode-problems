@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1309 solved** — 🟢 412 Easy · 🟡 615 Medium · 🔴 282 Hard
+**1310 solved** — 🟢 412 Easy · 🟡 616 Medium · 🔴 282 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1026,6 +1026,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](problems/3043.find-the-length-of-the-longest-common-prefix.cpp) | 🟡 Medium | C++ |
 | [3044](https://leetcode.com/problems/most-frequent-prime/) | [Most Frequent Prime](problems/3044.most-frequent-prime.cpp) | 🟡 Medium | C++ |
 | [3047](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | [Find the Largest Area of Square Inside Two Rectangles](problems/3047.find-the-largest-area-of-square-inside-two-rectangles.cpp) | 🟡 Medium | C++ |
+| [3066](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Minimum Operations to Exceed Threshold Value II](problems/3066.minimum-operations-to-exceed-threshold-value-ii.cpp) | 🟡 Medium | C++ |
 | [3070](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) | [Count Submatrices with Top-Left Element and Sum Less Than k](problems/3070.count-submatrices-with-top-left-element-and-sum-less-than-k.cpp) | 🟡 Medium | C++ |
 | [3074](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [Apple Redistribution into Boxes](problems/3074.apple-redistribution-into-boxes.cpp) | 🟢 Easy | C++ |
 | [3075](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | [Maximize Happiness of Selected Children](problems/3075.maximize-happiness-of-selected-children.cpp) | 🟡 Medium | C++ |
