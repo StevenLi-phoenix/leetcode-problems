@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1477 solved** — 🟢 449 Easy · 🟡 697 Medium · 🔴 329 Hard
+**1478 solved** — 🟢 450 Easy · 🟡 697 Medium · 🔴 329 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -288,6 +288,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [596](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Classes With at Least 5 Students](problems/596.classes-with-at-least-5-students.sql) | 🟢 Easy | mysql |
 | [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Minimum Index Sum of Two Lists](problems/599.minimum-index-sum-of-two-lists.cpp) | 🟢 Easy | C++ |
 | [602](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Friend Requests II: Who Has the Most Friends](problems/602.friend-requests-ii-who-has-the-most-friends.sql) | 🟡 Medium | mysql |
+| [605](https://leetcode.com/problems/can-place-flowers/) | [Can Place Flowers](problems/605.can-place-flowers.cpp) | 🟢 Easy | C++ |
 | [606](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](problems/606.construct-string-from-binary-tree.cpp) | 🟡 Medium | C++ |
 | [607](https://leetcode.com/problems/sales-person/) | [Sales Person](problems/607.sales-person.sql) | 🟢 Easy | mysql |
 | [617](https://leetcode.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](problems/617.merge-two-binary-trees.cpp) | 🟢 Easy | C++ |
