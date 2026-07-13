@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1425 solved** — 🟢 441 Easy · 🟡 672 Medium · 🔴 310 Hard
+**1426 solved** — 🟢 441 Easy · 🟡 672 Medium · 🔴 311 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1357,6 +1357,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3751](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Total Waviness of Numbers in Range I](problems/3751.total-waviness-of-numbers-in-range-i.cpp) | 🟡 Medium | C++ |
 | [3753](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Total Waviness of Numbers in Range II](problems/3753.total-waviness-of-numbers-in-range-ii.cpp) | 🔴 Hard | C++ |
 | [3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](problems/3761.minimum-absolute-distance-between-mirror-pairs.cpp) | 🟡 Medium | C++ |
+| [3768](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Minimum Inversion Count in Subarrays of Fixed Length](problems/3768.minimum-inversion-count-in-subarrays-of-fixed-length.cpp) | 🔴 Hard | C++ |
 | [3769](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Sort Integers by Binary Reflection](problems/3769.sort-integers-by-binary-reflection.cpp) | 🟢 Easy | C++ |
 | [3770](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Largest Prime from Consecutive Prime Sum](problems/3770.largest-prime-from-consecutive-prime-sum.cpp) | 🟡 Medium | C++ |
 | [3774](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Absolute Difference Between Maximum and Minimum K Elements](problems/3774.absolute-difference-between-maximum-and-minimum-k-elements.cpp) | 🟢 Easy | C++ |
