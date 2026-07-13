@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1561 solved** — 🟢 476 Easy · 🟡 739 Medium · 🔴 344 Hard
+**1562 solved** — 🟢 476 Easy · 🟡 739 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1172,6 +1172,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
 | [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
+| [2935](https://leetcode.com/problems/maximum-strong-pair-xor-ii/) | [Maximum Strong Pair XOR II](problems/2935.maximum-strong-pair-xor-ii.cpp) | 🔴 Hard | C++ |
 | [2937](https://leetcode.com/problems/make-three-strings-equal/) | [Make Three Strings Equal](problems/2937.make-three-strings-equal.cpp) | 🟢 Easy | C++ |
 | [2939](https://leetcode.com/problems/maximum-xor-product/) | [Maximum Xor Product](problems/2939.maximum-xor-product.cpp) | 🟡 Medium | C++ |
 | [2942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](problems/2942.find-words-containing-character.cpp) | 🟢 Easy | C++ |
