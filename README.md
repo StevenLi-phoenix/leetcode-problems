@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1525 solved** — 🟢 463 Easy · 🟡 720 Medium · 🔴 340 Hard
+**1526 solved** — 🟢 463 Easy · 🟡 721 Medium · 🔴 340 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -482,6 +482,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1045](https://leetcode.com/problems/customers-who-bought-all-products/) | [Customers Who Bought All Products](problems/1045.customers-who-bought-all-products.sql) | 🟡 Medium | mysql |
 | [1048](https://leetcode.com/problems/longest-string-chain/) | [Longest String Chain](problems/1048.longest-string-chain.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
+| [1054](https://leetcode.com/problems/distant-barcodes/) | [Distant Barcodes](problems/1054.distant-barcodes.cpp) | 🟡 Medium | C++ |
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
 | [1070](https://leetcode.com/problems/product-sales-analysis-iii/) | [Product Sales Analysis III](problems/1070.product-sales-analysis-iii.sql) | 🟡 Medium | mysql |
 | [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Greatest Common Divisor of Strings](problems/1071.greatest-common-divisor-of-strings.cpp) | 🟢 Easy | C++ |
