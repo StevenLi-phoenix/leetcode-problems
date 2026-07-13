@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1551 solved** — 🟢 473 Easy · 🟡 733 Medium · 🔴 343 Hard
+**1552 solved** — 🟢 473 Easy · 🟡 734 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -898,6 +898,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Maximum Twin Sum of a Linked List](problems/2130.maximum-twin-sum-of-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Longest Palindrome by Concatenating Two Letter Words](problems/2131.longest-palindrome-by-concatenating-two-letter-words.cpp) | 🟡 Medium | C++ |
 | [2132](https://leetcode.com/problems/stamping-the-grid/) | [Stamping the Grid](problems/2132.stamping-the-grid.cpp) | 🔴 Hard | C++ |
+| [2140](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Solving Questions With Brainpower](problems/2140.solving-questions-with-brainpower.cpp) | 🟡 Medium | C++ |
 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](problems/2144.minimum-cost-of-buying-candies-with-discount.cpp) | 🟢 Easy | C++ |
 | [2145](https://leetcode.com/problems/count-the-hidden-sequences/) | [Count the Hidden Sequences](problems/2145.count-the-hidden-sequences.cpp) | 🟡 Medium | C++ |
 | [2148](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [Count Elements With Strictly Smaller and Greater Elements ](problems/2148.count-elements-with-strictly-smaller-and-greater-elements.cpp) | 🟢 Easy | C++ |
