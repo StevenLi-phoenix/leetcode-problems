@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1550 solved** — 🟢 472 Easy · 🟡 733 Medium · 🔴 343 Hard
+**1551 solved** — 🟢 473 Easy · 🟡 733 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -502,6 +502,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1093](https://leetcode.com/problems/statistics-from-a-large-sample/) | [Statistics from a Large Sample](problems/1093.statistics-from-a-large-sample.cpp) | 🟡 Medium | C++ |
 | [1094](https://leetcode.com/problems/car-pooling/) | [Car Pooling](problems/1094.car-pooling.cpp) | 🟡 Medium | C++ |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | [Find in Mountain Array](problems/1095.find-in-mountain-array.cpp) | 🔴 Hard | C++ |
+| [1103](https://leetcode.com/problems/distribute-candies-to-people/) | [Distribute Candies to People](problems/1103.distribute-candies-to-people.cpp) | 🟢 Easy | C++ |
 | [1104](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [Path In Zigzag Labelled Binary Tree](problems/1104.path-in-zigzag-labelled-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1105](https://leetcode.com/problems/filling-bookcase-shelves/) | [Filling Bookcase Shelves](problems/1105.filling-bookcase-shelves.cpp) | 🟡 Medium | C++ |
 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Parsing A Boolean Expression](problems/1106.parsing-a-boolean-expression.cpp) | 🔴 Hard | C++ |
