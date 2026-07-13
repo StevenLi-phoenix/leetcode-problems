@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1430 solved** — 🟢 443 Easy · 🟡 674 Medium · 🔴 311 Hard
+**1431 solved** — 🟢 444 Easy · 🟡 674 Medium · 🔴 311 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -966,6 +966,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2560](https://leetcode.com/problems/house-robber-iv/) | [House Robber IV](problems/2560.house-robber-iv.cpp) | 🟡 Medium | C++ |
 | [2562](https://leetcode.com/problems/find-the-array-concatenation-value/) | [Find the Array Concatenation Value](problems/2562.find-the-array-concatenation-value.cpp) | 🟢 Easy | C++ |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
+| [2566](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Maximum Difference by Remapping a Digit](problems/2566.maximum-difference-by-remapping-a-digit.cpp) | 🟢 Easy | C++ |
 | [2567](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](problems/2567.minimum-score-by-changing-two-elements.cpp) | 🟡 Medium | C++ |
 | [2568](https://leetcode.com/problems/minimum-impossible-or/) | [Minimum Impossible OR](problems/2568.minimum-impossible-or.cpp) | 🟡 Medium | C++ |
 | [2570](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Merge Two 2D Arrays by Summing Values](problems/2570.merge-two-2d-arrays-by-summing-values.cpp) | 🟢 Easy | C++ |
