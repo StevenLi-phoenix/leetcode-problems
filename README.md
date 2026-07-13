@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1298 solved** — 🟢 411 Easy · 🟡 611 Medium · 🔴 276 Hard
+**1299 solved** — 🟢 411 Easy · 🟡 612 Medium · 🔴 276 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -776,6 +776,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Cells in a Range on an Excel Sheet](problems/2194.cells-in-a-range-on-an-excel-sheet.cpp) | 🟢 Easy | C++ |
 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](problems/2196.create-binary-tree-from-descriptions.cpp) | 🟡 Medium | C++ |
 | [2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Find All K-Distant Indices in an Array](problems/2200.find-all-k-distant-indices-in-an-array.cpp) | 🟢 Easy | C++ |
+| [2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [Count Artifacts That Can Be Extracted](problems/2201.count-artifacts-that-can-be-extracted.cpp) | 🟡 Medium | C++ |
 | [2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Minimum Operations to Halve Array Sum](problems/2208.minimum-operations-to-halve-array-sum.cpp) | 🟡 Medium | C++ |
 | [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Find the Difference of Two Arrays](problems/2215.find-the-difference-of-two-arrays.cpp) | 🟢 Easy | C++ |
 | [2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [Maximum Value of K Coins From Piles](problems/2218.maximum-value-of-k-coins-from-piles.cpp) | 🔴 Hard | C++ |
