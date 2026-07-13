@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1532 solved** — 🟢 466 Easy · 🟡 723 Medium · 🔴 341 Hard
+**1533 solved** — 🟢 466 Easy · 🟡 724 Medium · 🔴 341 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -444,6 +444,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](problems/961.n-repeated-element-in-size-2n-array.cpp) | 🟢 Easy | C++ |
 | [964](https://leetcode.com/problems/least-operators-to-express-number/) | [Least Operators to Express Number](problems/964.least-operators-to-express-number.cpp) | 🔴 Hard | C++ |
 | [965](https://leetcode.com/problems/univalued-binary-tree/) | [Univalued Binary Tree](problems/965.univalued-binary-tree.cpp) | 🟢 Easy | C++ |
+| [967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Numbers With Same Consecutive Differences](problems/967.numbers-with-same-consecutive-differences.cpp) | 🟡 Medium | C++ |
 | [968](https://leetcode.com/problems/binary-tree-cameras/) | [Binary Tree Cameras](problems/968.binary-tree-cameras.cpp) | 🔴 Hard | C++ |
 | [972](https://leetcode.com/problems/equal-rational-numbers/) | [Equal Rational Numbers](problems/972.equal-rational-numbers.cpp) | 🔴 Hard | C++ |
 | [973](https://leetcode.com/problems/k-closest-points-to-origin/) | [K Closest Points to Origin](problems/973.k-closest-points-to-origin.cpp) | 🟡 Medium | C++ |
