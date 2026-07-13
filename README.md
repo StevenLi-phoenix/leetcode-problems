@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1377 solved** — 🟢 429 Easy · 🟡 648 Medium · 🔴 298 Hard
+**1378 solved** — 🟢 430 Easy · 🟡 648 Medium · 🔴 298 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -236,6 +236,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [493](https://leetcode.com/problems/reverse-pairs/) | [Reverse Pairs](problems/493.reverse-pairs.cpp) | 🔴 Hard | C++ |
 | [494](https://leetcode.com/problems/target-sum/) | [Target Sum](problems/494.target-sum.cpp) | 🟡 Medium | C++ |
 | [495](https://leetcode.com/problems/teemo-attacking/) | [Teemo Attacking](problems/495.teemo-attacking.cpp) | 🟢 Easy | C++ |
+| [496](https://leetcode.com/problems/next-greater-element-i/) | [Next Greater Element I](problems/496.next-greater-element-i.cpp) | 🟢 Easy | C++ |
 | [498](https://leetcode.com/problems/diagonal-traverse/) | [Diagonal Traverse](problems/498.diagonal-traverse.cpp) | 🟡 Medium | C++ |
 | [500](https://leetcode.com/problems/keyboard-row/) | [Keyboard Row](problems/500.keyboard-row.cpp) | 🟢 Easy | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
