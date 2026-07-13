@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1393 solved** — 🟢 434 Easy · 🟡 655 Medium · 🔴 302 Hard
+**1394 solved** — 🟢 435 Easy · 🟡 655 Medium · 🔴 302 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -135,6 +135,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
+| [197](https://leetcode.com/problems/rising-temperature/) | [Rising Temperature](problems/197.rising-temperature.sql) | 🟢 Easy | mysql |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
 | [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Bitwise AND of Numbers Range](problems/201.bitwise-and-of-numbers-range.cpp) | 🟡 Medium | C++ |
 | [204](https://leetcode.com/problems/count-primes/) | [Count Primes](problems/204.count-primes.cpp) | 🟡 Medium | C++ |
