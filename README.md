@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1351 solved** — 🟢 424 Easy · 🟡 633 Medium · 🔴 292 Hard
+**1352 solved** — 🟢 424 Easy · 🟡 633 Medium · 🔴 293 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -800,6 +800,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2167](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [Minimum Time to Remove All Cars Containing Illegal Goods](problems/2167.minimum-time-to-remove-all-cars-containing-illegal-goods.cpp) | 🔴 Hard | C++ |
 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](problems/2169.count-operations-to-obtain-zero.cpp) | 🟢 Easy | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
+| [2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Minimum Time to Finish the Race](problems/2188.minimum-time-to-finish-the-race.cpp) | 🔴 Hard | C++ |
 | [2191](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [Sort the Jumbled Numbers](problems/2191.sort-the-jumbled-numbers.cpp) | 🟡 Medium | C++ |
 | [2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Cells in a Range on an Excel Sheet](problems/2194.cells-in-a-range-on-an-excel-sheet.cpp) | 🟢 Easy | C++ |
 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](problems/2196.create-binary-tree-from-descriptions.cpp) | 🟡 Medium | C++ |
