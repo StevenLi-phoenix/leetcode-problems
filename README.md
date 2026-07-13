@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1527 solved** — 🟢 463 Easy · 🟡 721 Medium · 🔴 341 Hard
+**1528 solved** — 🟢 463 Easy · 🟡 722 Medium · 🔴 341 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -535,6 +535,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](problems/1266.minimum-time-visiting-all-points.cpp) | 🟢 Easy | C++ |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Number of Ways to Stay in the Same Place After Some Steps](problems/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.cpp) | 🔴 Hard | C++ |
 | [1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Find Winner on a Tic Tac Toe Game](problems/1275.find-winner-on-a-tic-tac-toe-game.cpp) | 🟢 Easy | C++ |
+| [1276](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [Number of Burgers with No Waste of Ingredients](problems/1276.number-of-burgers-with-no-waste-of-ingredients.cpp) | 🟡 Medium | C++ |
 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Count Square Submatrices with All Ones](problems/1277.count-square-submatrices-with-all-ones.cpp) | 🟡 Medium | C++ |
 | [1278](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Palindrome Partitioning III](problems/1278.palindrome-partitioning-iii.cpp) | 🔴 Hard | C++ |
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Group the People Given the Group Size They Belong To](problems/1282.group-the-people-given-the-group-size-they-belong-to.cpp) | 🟡 Medium | C++ |
