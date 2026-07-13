@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1427 solved** — 🟢 442 Easy · 🟡 672 Medium · 🔴 311 Hard
+**1428 solved** — 🟢 442 Easy · 🟡 673 Medium · 🔴 311 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -297,6 +297,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [664](https://leetcode.com/problems/strange-printer/) | [Strange Printer](problems/664.strange-printer.cpp) | 🔴 Hard | C++ |
 | [667](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Beautiful Arrangement II](problems/667.beautiful-arrangement-ii.cpp) | 🟡 Medium | C++ |
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
+| [670](https://leetcode.com/problems/maximum-swap/) | [Maximum Swap](problems/670.maximum-swap.cpp) | 🟡 Medium | C++ |
 | [672](https://leetcode.com/problems/bulb-switcher-ii/) | [Bulb Switcher II](problems/672.bulb-switcher-ii.cpp) | 🟡 Medium | C++ |
 | [675](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Cut Off Trees for Golf Event](problems/675.cut-off-trees-for-golf-event.cpp) | 🔴 Hard | C++ |
 | [678](https://leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](problems/678.valid-parenthesis-string.cpp) | 🟡 Medium | C++ |
