@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1440 solved** — 🟢 444 Easy · 🟡 679 Medium · 🔴 315 Hard
+**1441 solved** — 🟢 444 Easy · 🟡 679 Medium · 🔴 316 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -753,6 +753,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1941](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [Check if All Characters Have Equal Number of Occurrences](problems/1941.check-if-all-characters-have-equal-number-of-occurrences.cpp) | 🟢 Easy | C++ |
 | [1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [Number of Visible People in a Queue](problems/1944.number-of-visible-people-in-a-queue.cpp) | 🔴 Hard | C++ |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](problems/1945.sum-of-digits-of-string-after-convert.cpp) | 🟢 Easy | C++ |
+| [1948](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Delete Duplicate Folders in System](problems/1948.delete-duplicate-folders-in-system.cpp) | 🔴 Hard | C++ |
 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](problems/1957.delete-characters-to-make-fancy-string.cpp) | 🟢 Easy | C++ |
 | [1958](https://leetcode.com/problems/check-if-move-is-legal/) | [Check if Move is Legal](problems/1958.check-if-move-is-legal.cpp) | 🟡 Medium | C++ |
 | [1959](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [Minimum Total Space Wasted With K Resizing Operations](problems/1959.minimum-total-space-wasted-with-k-resizing-operations.cpp) | 🟡 Medium | C++ |
