@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1451 solved** — 🟢 448 Easy · 🟡 683 Medium · 🔴 318 Hard
+**1452 solved** — 🟢 448 Easy · 🟡 683 Medium · 🔴 319 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1416,6 +1416,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3839](https://leetcode.com/problems/number-of-prefix-connected-groups/) | [Number of Prefix Connected Groups](problems/3839.number-of-prefix-connected-groups.cpp) | 🟡 Medium | C++ |
 | [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3841](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Palindromic Path Queries in a Tree](problems/3841.palindromic-path-queries-in-a-tree.cpp) | 🔴 Hard | C++ |
+| [3845](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | [Maximum Subarray XOR with Bounded Range](problems/3845.maximum-subarray-xor-with-bounded-range.cpp) | 🔴 Hard | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
