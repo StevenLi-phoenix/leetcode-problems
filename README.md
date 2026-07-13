@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1299 solved** — 🟢 411 Easy · 🟡 612 Medium · 🔴 276 Hard
+**1300 solved** — 🟢 411 Easy · 🟡 612 Medium · 🔴 277 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -541,6 +541,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Check If Array Pairs Are Divisible by k](problems/1497.check-if-array-pairs-are-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Can Make Arithmetic Progression From Sequence](problems/1502.can-make-arithmetic-progression-from-sequence.cpp) | 🟢 Easy | C++ |
 | [1504](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [Count Submatrices With All Ones](problems/1504.count-submatrices-with-all-ones.cpp) | 🟡 Medium | C++ |
+| [1505](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](problems/1505.minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.cpp) | 🔴 Hard | C++ |
 | [1507](https://leetcode.com/problems/reformat-date/) | [Reformat Date](problems/1507.reformat-date.py) | 🟢 Easy | Python |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | [Number of Good Pairs](problems/1512.number-of-good-pairs.cpp) | 🟢 Easy | C++ |
 | [1513](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Number of Substrings With Only 1s](problems/1513.number-of-substrings-with-only-1s.cpp) | 🟡 Medium | C++ |
