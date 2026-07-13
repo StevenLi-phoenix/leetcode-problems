@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1419 solved** — 🟢 441 Easy · 🟡 668 Medium · 🔴 308 Hard
+**1420 solved** — 🟢 441 Easy · 🟡 669 Medium · 🔴 308 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -528,6 +528,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [Minimum Number of Steps to Make Two Strings Anagram](problems/1347.minimum-number-of-steps-to-make-two-strings-anagram.cpp) | 🟡 Medium | C++ |
 | [1349](https://leetcode.com/problems/maximum-students-taking-exam/) | [Maximum Students Taking Exam](problems/1349.maximum-students-taking-exam.cpp) | 🔴 Hard | C++ |
 | [1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Count Negative Numbers in a Sorted Matrix](problems/1351.count-negative-numbers-in-a-sorted-matrix.cpp) | 🟢 Easy | C++ |
+| [1353](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Maximum Number of Events That Can Be Attended](problems/1353.maximum-number-of-events-that-can-be-attended.cpp) | 🟡 Medium | C++ |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](problems/1356.sort-integers-by-the-number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [1359](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Count All Valid Pickup and Delivery Options](problems/1359.count-all-valid-pickup-and-delivery-options.cpp) | 🔴 Hard | C++ |
 | [1360](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Number of Days Between Two Dates](problems/1360.number-of-days-between-two-dates.cpp) | 🟢 Easy | C++ |
