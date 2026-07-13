@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1277 solved** — 🟢 410 Easy · 🟡 595 Medium · 🔴 272 Hard
+**1278 solved** — 🟢 410 Easy · 🟡 595 Medium · 🔴 273 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1037,6 +1037,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
+| [3209](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | [Number of Subarrays With AND Value of K](problems/3209.number-of-subarrays-with-and-value-of-k.cpp) | 🔴 Hard | C++ |
 | [3210](https://leetcode.com/problems/find-the-encrypted-string/) | [Find the Encrypted String](problems/3210.find-the-encrypted-string.cpp) | 🟢 Easy | C++ |
 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](problems/3212.count-submatrices-with-equal-frequency-of-x-and-y.cpp) | 🟡 Medium | C++ |
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
