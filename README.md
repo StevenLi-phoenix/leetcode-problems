@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1301 solved** — 🟢 412 Easy · 🟡 612 Medium · 🔴 277 Hard
+**1302 solved** — 🟢 412 Easy · 🟡 612 Medium · 🔴 278 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -854,6 +854,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2453](https://leetcode.com/problems/destroy-sequential-targets/) | [Destroy Sequential Targets](problems/2453.destroy-sequential-targets.cpp) | 🟡 Medium | C++ |
 | [2455](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [Average Value of Even Numbers That Are Divisible by Three](problems/2455.average-value-of-even-numbers-that-are-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [2456](https://leetcode.com/problems/most-popular-video-creator/) | [Most Popular Video Creator](problems/2456.most-popular-video-creator.cpp) | 🟡 Medium | C++ |
+| [2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [Height of Binary Tree After Subtree Removal Queries](problems/2458.height-of-binary-tree-after-subtree-removal-queries.cpp) | 🔴 Hard | C++ |
 | [2460](https://leetcode.com/problems/apply-operations-to-an-array/) | [Apply Operations to an Array](problems/2460.apply-operations-to-an-array.cpp) | 🟢 Easy | C++ |
 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](problems/2463.minimum-total-distance-traveled.cpp) | 🔴 Hard | C++ |
 | [2475](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [Number of Unequal Triplets in Array](problems/2475.number-of-unequal-triplets-in-array.cpp) | 🟢 Easy | C++ |
