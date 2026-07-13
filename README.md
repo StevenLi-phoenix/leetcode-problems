@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1317 solved** — 🟢 412 Easy · 🟡 619 Medium · 🔴 286 Hard
+**1318 solved** — 🟢 412 Easy · 🟡 619 Medium · 🔴 287 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -283,6 +283,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [667](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Beautiful Arrangement II](problems/667.beautiful-arrangement-ii.cpp) | 🟡 Medium | C++ |
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [672](https://leetcode.com/problems/bulb-switcher-ii/) | [Bulb Switcher II](problems/672.bulb-switcher-ii.cpp) | 🟡 Medium | C++ |
+| [675](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Cut Off Trees for Golf Event](problems/675.cut-off-trees-for-golf-event.cpp) | 🔴 Hard | C++ |
 | [678](https://leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](problems/678.valid-parenthesis-string.cpp) | 🟡 Medium | C++ |
 | [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](problems/680.valid-palindrome-ii.cpp) | 🟢 Easy | C++ |
 | [682](https://leetcode.com/problems/baseball-game/) | [Baseball Game](problems/682.baseball-game.cpp) | 🟢 Easy | C++ |
