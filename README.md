@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1478 solved** — 🟢 450 Easy · 🟡 697 Medium · 🔴 329 Hard
+**1479 solved** — 🟢 450 Easy · 🟡 698 Medium · 🔴 329 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -354,6 +354,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Minimum Distance Between BST Nodes](problems/783.minimum-distance-between-bst-nodes.cpp) | 🟢 Easy | C++ |
 | [784](https://leetcode.com/problems/letter-case-permutation/) | [Letter Case Permutation](problems/784.letter-case-permutation.cpp) | 🟡 Medium | C++ |
 | [786](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [K-th Smallest Prime Fraction](problems/786.k-th-smallest-prime-fraction.cpp) | 🟡 Medium | C++ |
+| [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Cheapest Flights Within K Stops](problems/787.cheapest-flights-within-k-stops.cpp) | 🟡 Medium | C++ |
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
 | [789](https://leetcode.com/problems/escape-the-ghosts/) | [Escape The Ghosts](problems/789.escape-the-ghosts.cpp) | 🟡 Medium | C++ |
 | [791](https://leetcode.com/problems/custom-sort-string/) | [Custom Sort String](problems/791.custom-sort-string.cpp) | 🟡 Medium | C++ |
