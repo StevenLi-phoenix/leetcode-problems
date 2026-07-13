@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1502 solved** — 🟢 457 Easy · 🟡 709 Medium · 🔴 334 Hard
+**1503 solved** — 🟢 458 Easy · 🟡 709 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -421,6 +421,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [919](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Complete Binary Tree Inserter](problems/919.complete-binary-tree-inserter.cpp) | 🟡 Medium | C++ |
 | [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Sort Array By Parity II](problems/922.sort-array-by-parity-ii.cpp) | 🟢 Easy | C++ |
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
+| [925](https://leetcode.com/problems/long-pressed-name/) | [Long Pressed Name](problems/925.long-pressed-name.cpp) | 🟢 Easy | C++ |
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Data in Log Files](problems/937.reorder-data-in-log-files.cpp) | 🟡 Medium | C++ |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | [Minimum Area Rectangle](problems/939.minimum-area-rectangle.cpp) | 🟡 Medium | C++ |
 | [942](https://leetcode.com/problems/di-string-match/) | [DI String Match](problems/942.di-string-match.cpp) | 🟢 Easy | C++ |
