@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1382 solved** — 🟢 430 Easy · 🟡 650 Medium · 🔴 300 Hard
+**1383 solved** — 🟢 430 Easy · 🟡 651 Medium · 🔴 300 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -397,6 +397,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Reveal Cards In Increasing Order](problems/950.reveal-cards-in-increasing-order.cpp) | 🟡 Medium | C++ |
 | [952](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Largest Component Size by Common Factor](problems/952.largest-component-size-by-common-factor.cpp) | 🔴 Hard | C++ |
 | [953](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Verifying an Alien Dictionary](problems/953.verifying-an-alien-dictionary.cpp) | 🟢 Easy | C++ |
+| [954](https://leetcode.com/problems/array-of-doubled-pairs/) | [Array of Doubled Pairs](problems/954.array-of-doubled-pairs.cpp) | 🟡 Medium | C++ |
 | [955](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Delete Columns to Make Sorted II](problems/955.delete-columns-to-make-sorted-ii.cpp) | 🟡 Medium | C++ |
 | [958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Check Completeness of a Binary Tree](problems/958.check-completeness-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [959](https://leetcode.com/problems/regions-cut-by-slashes/) | [Regions Cut By Slashes](problems/959.regions-cut-by-slashes.cpp) | 🟡 Medium | C++ |
