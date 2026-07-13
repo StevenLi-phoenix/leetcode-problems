@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1391 solved** — 🟢 433 Easy · 🟡 654 Medium · 🔴 302 Hard
+**1392 solved** — 🟢 433 Easy · 🟡 655 Medium · 🔴 302 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1271,6 +1271,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3637](https://leetcode.com/problems/trionic-array-i/) | [Trionic Array I](problems/3637.trionic-array-i.cpp) | 🟢 Easy | C++ |
 | [3640](https://leetcode.com/problems/trionic-array-ii/) | [Trionic Array II](problems/3640.trionic-array-ii.cpp) | 🔴 Hard | C++ |
 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](problems/3643.flip-square-submatrix-vertically.cpp) | 🟢 Easy | C++ |
+| [3649](https://leetcode.com/problems/number-of-perfect-pairs/) | [Number of Perfect Pairs](problems/3649.number-of-perfect-pairs.cpp) | 🟡 Medium | C++ |
 | [3650](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | [Minimum Cost Path with Edge Reversals](problems/3650.minimum-cost-path-with-edge-reversals.cpp) | 🟡 Medium | C++ |
 | [3651](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | [Minimum Cost Path with Teleportations](problems/3651.minimum-cost-path-with-teleportations.cpp) | 🔴 Hard | C++ |
 | [3652](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) | [Best Time to Buy and Sell Stock using Strategy](problems/3652.best-time-to-buy-and-sell-stock-using-strategy.cpp) | 🟡 Medium | C++ |
