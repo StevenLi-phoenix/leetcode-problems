@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1285 solved** — 🟢 410 Easy · 🟡 601 Medium · 🔴 274 Hard
+**1286 solved** — 🟢 410 Easy · 🟡 601 Medium · 🔴 275 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -295,6 +295,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [726](https://leetcode.com/problems/number-of-atoms/) | [Number of Atoms](problems/726.number-of-atoms.cpp) | 🔴 Hard | C++ |
 | [729](https://leetcode.com/problems/my-calendar-i/) | [My Calendar I](problems/729.my-calendar-i.cpp) | 🟡 Medium | C++ |
 | [731](https://leetcode.com/problems/my-calendar-ii/) | [My Calendar II](problems/731.my-calendar-ii.cpp) | 🟡 Medium | C++ |
+| [736](https://leetcode.com/problems/parse-lisp-expression/) | [Parse Lisp Expression](problems/736.parse-lisp-expression.cpp) | 🔴 Hard | C++ |
 | [741](https://leetcode.com/problems/cherry-pickup/) | [Cherry Pickup](problems/741.cherry-pickup.cpp) | 🔴 Hard | C++ |
 | [743](https://leetcode.com/problems/network-delay-time/) | [Network Delay Time](problems/743.network-delay-time.cpp) | 🟡 Medium | C++ |
 | [744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Find Smallest Letter Greater Than Target](problems/744.find-smallest-letter-greater-than-target.cpp) | 🟢 Easy | C++ |
