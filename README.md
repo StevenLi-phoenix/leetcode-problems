@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1512 solved** — 🟢 460 Easy · 🟡 714 Medium · 🔴 336 Hard
+**1513 solved** — 🟢 461 Easy · 🟡 714 Medium · 🔴 336 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1371,6 +1371,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3618](https://leetcode.com/problems/split-array-by-prime-indices/) | [Split Array by Prime Indices](problems/3618.split-array-by-prime-indices.cpp) | 🟡 Medium | C++ |
 | [3619](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Count Islands With Total Value Divisible by K](problems/3619.count-islands-with-total-value-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [3621](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [Number of Integers With Popcount-Depth Equal to K I](problems/3621.number-of-integers-with-popcount-depth-equal-to-k-i.cpp) | 🔴 Hard | C++ |
+| [3622](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [Check Divisibility by Digit Sum and Product](problems/3622.check-divisibility-by-digit-sum-and-product.cpp) | 🟢 Easy | C++ |
 | [3624](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii/) | [Number of Integers With Popcount-Depth Equal to K II](problems/3624.number-of-integers-with-popcount-depth-equal-to-k-ii.cpp) | 🔴 Hard | C++ |
 | [3626](https://leetcode.com/problems/find-stores-with-inventory-imbalance/) | [Find Stores with Inventory Imbalance](problems/3626.find-stores-with-inventory-imbalance.sql) | 🟡 Medium | mysql |
 | [3628](https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/) | [Maximum Number of Subsequences After One Inserting](problems/3628.maximum-number-of-subsequences-after-one-inserting.cpp) | 🟡 Medium | C++ |
