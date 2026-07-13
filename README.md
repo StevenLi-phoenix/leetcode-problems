@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1510 solved** — 🟢 460 Easy · 🟡 713 Medium · 🔴 335 Hard
+**1511 solved** — 🟢 460 Easy · 🟡 714 Medium · 🔴 335 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1407,6 +1407,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3690](https://leetcode.com/problems/split-and-merge-array-transformation/) | [Split and Merge Array Transformation](problems/3690.split-and-merge-array-transformation.cpp) | 🟡 Medium | C++ |
 | [3691](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Maximum Total Subarray Value II](problems/3691.maximum-total-subarray-value-ii.cpp) | 🔴 Hard | C++ |
 | [3692](https://leetcode.com/problems/majority-frequency-characters/) | [Majority Frequency Characters](problems/3692.majority-frequency-characters.cpp) | 🟢 Easy | C++ |
+| [3693](https://leetcode.com/problems/climbing-stairs-ii/) | [Climbing Stairs II](problems/3693.climbing-stairs-ii.cpp) | 🟡 Medium | C++ |
 | [3697](https://leetcode.com/problems/compute-decimal-representation/) | [Compute Decimal Representation](problems/3697.compute-decimal-representation.cpp) | 🟢 Easy | C++ |
 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](problems/3699.number-of-zigzag-arrays-i.cpp) | 🔴 Hard | C++ |
 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](problems/3700.number-of-zigzag-arrays-ii.cpp) | 🔴 Hard | C++ |
