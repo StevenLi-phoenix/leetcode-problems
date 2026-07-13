@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1276 solved** — 🟢 410 Easy · 🟡 594 Medium · 🔴 272 Hard
+**1277 solved** — 🟢 410 Easy · 🟡 595 Medium · 🔴 272 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -383,6 +383,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [976](https://leetcode.com/problems/largest-perimeter-triangle/) | [Largest Perimeter Triangle](problems/976.largest-perimeter-triangle.cpp) | 🟢 Easy | C++ |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](problems/977.squares-of-a-sorted-array.cpp) | 🟢 Easy | C++ |
 | [979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Distribute Coins in Binary Tree](problems/979.distribute-coins-in-binary-tree.cpp) | 🟡 Medium | C++ |
+| [981](https://leetcode.com/problems/time-based-key-value-store/) | [Time Based Key-Value Store](problems/981.time-based-key-value-store.cpp) | 🟡 Medium | C++ |
 | [988](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Smallest String Starting From Leaf](problems/988.smallest-string-starting-from-leaf.cpp) | 🟡 Medium | C++ |
 | [990](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Satisfiability of Equality Equations](problems/990.satisfiability-of-equality-equations.cpp) | 🟡 Medium | C++ |
 | [992](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Subarrays with K Different Integers](problems/992.subarrays-with-k-different-integers.cpp) | 🔴 Hard | C++ |
