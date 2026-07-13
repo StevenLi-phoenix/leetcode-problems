@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1475 solved** — 🟢 449 Easy · 🟡 695 Medium · 🔴 329 Hard
+**1476 solved** — 🟢 449 Easy · 🟡 696 Medium · 🔴 329 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -254,6 +254,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [504](https://leetcode.com/problems/base-7/) | [Base 7](problems/504.base-7.cpp) | 🟢 Easy | C++ |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](problems/515.find-largest-value-in-each-tree-row.cpp) | 🟡 Medium | C++ |
+| [518](https://leetcode.com/problems/coin-change-ii/) | [Coin Change II](problems/518.coin-change-ii.cpp) | 🟡 Medium | C++ |
 | [520](https://leetcode.com/problems/detect-capital/) | [Detect Capital](problems/520.detect-capital.cpp) | 🟢 Easy | C++ |
 | [523](https://leetcode.com/problems/continuous-subarray-sum/) | [Continuous Subarray Sum](problems/523.continuous-subarray-sum.cpp) | 🟡 Medium | C++ |
 | [524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Longest Word in Dictionary through Deleting](problems/524.longest-word-in-dictionary-through-deleting.cpp) | 🟡 Medium | C++ |
