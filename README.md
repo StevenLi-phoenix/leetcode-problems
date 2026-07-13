@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1316 solved** — 🟢 412 Easy · 🟡 619 Medium · 🔴 285 Hard
+**1317 solved** — 🟢 412 Easy · 🟡 619 Medium · 🔴 286 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -529,6 +529,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](problems/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp) | 🟡 Medium | C++ |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](problems/1422.maximum-score-after-splitting-a-string.cpp) | 🟢 Easy | C++ |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](problems/1425.constrained-subsequence-sum.cpp) | 🔴 Hard | C++ |
+| [1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Number of Ways to Wear Different Hats to Each Other](problems/1434.number-of-ways-to-wear-different-hats-to-each-other.cpp) | 🔴 Hard | C++ |
 | [1436](https://leetcode.com/problems/destination-city/) | [Destination City](problems/1436.destination-city.cpp) | 🟢 Easy | C++ |
 | [1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](problems/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | 🟡 Medium | C++ |
 | [1442](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](problems/1442.count-triplets-that-can-form-two-arrays-of-equal-xor.cpp) | 🟡 Medium | C++ |
