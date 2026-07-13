@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1441 solved** — 🟢 444 Easy · 🟡 679 Medium · 🔴 316 Hard
+**1442 solved** — 🟢 445 Easy · 🟡 679 Medium · 🔴 316 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1418,6 +1418,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3875](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Construct Uniform Parity Array I](problems/3875.construct-uniform-parity-array-i.cpp) | 🟢 Easy | C++ |
 | [3877](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | [Minimum Removals to Achieve Target XOR](problems/3877.minimum-removals-to-achieve-target-xor.cpp) | 🟡 Medium | C++ |
 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](problems/3882.minimum-xor-path-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [3884](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [First Matching Character From Both Ends](problems/3884.first-matching-character-from-both-ends.cpp) | 🟢 Easy | C++ |
 | [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
 | [3891](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Minimum Increase to Maximize Special Indices](problems/3891.minimum-increase-to-maximize-special-indices.cpp) | 🟡 Medium | C++ |
 | [3894](https://leetcode.com/problems/traffic-signal-color/) | [Traffic Signal Color](problems/3894.traffic-signal-color.cpp) | 🟢 Easy | C++ |
