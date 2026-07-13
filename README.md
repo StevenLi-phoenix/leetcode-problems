@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1470 solved** — 🟢 448 Easy · 🟡 692 Medium · 🔴 328 Hard
+**1471 solved** — 🟢 448 Easy · 🟡 693 Medium · 🔴 328 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -468,6 +468,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
 | [1070](https://leetcode.com/problems/product-sales-analysis-iii/) | [Product Sales Analysis III](problems/1070.product-sales-analysis-iii.sql) | 🟡 Medium | mysql |
 | [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Greatest Common Divisor of Strings](problems/1071.greatest-common-divisor-of-strings.cpp) | 🟢 Easy | C++ |
+| [1073](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [Adding Two Negabinary Numbers](problems/1073.adding-two-negabinary-numbers.cpp) | 🟡 Medium | C++ |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [Insufficient Nodes in Root to Leaf Paths](problems/1080.insufficient-nodes-in-root-to-leaf-paths.cpp) | 🟡 Medium | C++ |
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Duplicate Zeros](problems/1089.duplicate-zeros.cpp) | 🟢 Easy | C++ |
