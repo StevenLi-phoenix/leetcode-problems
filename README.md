@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1311 solved** — 🟢 412 Easy · 🟡 616 Medium · 🔴 283 Hard
+**1312 solved** — 🟢 412 Easy · 🟡 616 Medium · 🔴 284 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -431,6 +431,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [Insufficient Nodes in Root to Leaf Paths](problems/1080.insufficient-nodes-in-root-to-leaf-paths.cpp) | 🟡 Medium | C++ |
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Duplicate Zeros](problems/1089.duplicate-zeros.cpp) | 🟢 Easy | C++ |
+| [1092](https://leetcode.com/problems/shortest-common-supersequence/) | [Shortest Common Supersequence ](problems/1092.shortest-common-supersequence.cpp) | 🔴 Hard | C++ |
 | [1093](https://leetcode.com/problems/statistics-from-a-large-sample/) | [Statistics from a Large Sample](problems/1093.statistics-from-a-large-sample.cpp) | 🟡 Medium | C++ |
 | [1094](https://leetcode.com/problems/car-pooling/) | [Car Pooling](problems/1094.car-pooling.cpp) | 🟡 Medium | C++ |
 | [1095](https://leetcode.com/problems/find-in-mountain-array/) | [Find in Mountain Array](problems/1095.find-in-mountain-array.cpp) | 🔴 Hard | C++ |
