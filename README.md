@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1408 solved** — 🟢 437 Easy · 🟡 663 Medium · 🔴 306 Hard
+**1409 solved** — 🟢 437 Easy · 🟡 664 Medium · 🔴 306 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -557,6 +557,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1414](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](problems/1414.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.cpp) | 🟡 Medium | C++ |
 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](problems/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp) | 🟡 Medium | C++ |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](problems/1422.maximum-score-after-splitting-a-string.cpp) | 🟢 Easy | C++ |
+| [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum Points You Can Obtain from Cards](problems/1423.maximum-points-you-can-obtain-from-cards.cpp) | 🟡 Medium | C++ |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](problems/1425.constrained-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Number of Ways to Wear Different Hats to Each Other](problems/1434.number-of-ways-to-wear-different-hats-to-each-other.cpp) | 🔴 Hard | C++ |
 | [1436](https://leetcode.com/problems/destination-city/) | [Destination City](problems/1436.destination-city.cpp) | 🟢 Easy | C++ |
