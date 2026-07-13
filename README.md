@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1417 solved** — 🟢 441 Easy · 🟡 667 Medium · 🔴 307 Hard
+**1418 solved** — 🟢 441 Easy · 🟡 667 Medium · 🔴 308 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1373,6 +1373,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3816](https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/) | [Lexicographically Smallest String After Deleting Duplicate Characters](problems/3816.lexicographically-smallest-string-after-deleting-duplicate-characters.cpp) | 🔴 Hard | C++ |
 | [3819](https://leetcode.com/problems/rotate-non-negative-elements/) | [Rotate Non Negative Elements](problems/3819.rotate-non-negative-elements.cpp) | 🟡 Medium | C++ |
 | [3820](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/) | [Pythagorean Distance Nodes in a Tree](problems/3820.pythagorean-distance-nodes-in-a-tree.cpp) | 🟡 Medium | C++ |
+| [3821](https://leetcode.com/problems/find-nth-smallest-integer-with-k-one-bits/) | [Find Nth Smallest Integer With K One Bits](problems/3821.find-nth-smallest-integer-with-k-one-bits.cpp) | 🔴 Hard | C++ |
 | [3823](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Reverse Letters Then Special Characters in a String](problems/3823.reverse-letters-then-special-characters-in-a-string.cpp) | 🟢 Easy | C++ |
 | [3824](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | [Minimum K to Reduce Array Within Limit](problems/3824.minimum-k-to-reduce-array-within-limit.cpp) | 🟡 Medium | C++ |
 | [3825](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](problems/3825.longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.cpp) | 🟡 Medium | C++ |
