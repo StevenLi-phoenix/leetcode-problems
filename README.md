@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1271 solved** — 🟢 410 Easy · 🟡 592 Medium · 🔴 269 Hard
+**1272 solved** — 🟢 410 Easy · 🟡 592 Medium · 🔴 270 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1231,6 +1231,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3804](https://leetcode.com/problems/number-of-centered-subarrays/) | [Number of Centered Subarrays](problems/3804.number-of-centered-subarrays.cpp) | 🟡 Medium | C++ |
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
+| [3816](https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/) | [Lexicographically Smallest String After Deleting Duplicate Characters](problems/3816.lexicographically-smallest-string-after-deleting-duplicate-characters.cpp) | 🔴 Hard | C++ |
 | [3819](https://leetcode.com/problems/rotate-non-negative-elements/) | [Rotate Non Negative Elements](problems/3819.rotate-non-negative-elements.cpp) | 🟡 Medium | C++ |
 | [3820](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/) | [Pythagorean Distance Nodes in a Tree](problems/3820.pythagorean-distance-nodes-in-a-tree.cpp) | 🟡 Medium | C++ |
 | [3823](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Reverse Letters Then Special Characters in a String](problems/3823.reverse-letters-then-special-characters-in-a-string.cpp) | 🟢 Easy | C++ |
