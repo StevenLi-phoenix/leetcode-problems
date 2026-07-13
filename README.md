@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1495 solved** — 🟢 456 Easy · 🟡 703 Medium · 🔴 334 Hard
+**1496 solved** — 🟢 456 Easy · 🟡 704 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -115,6 +115,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](problems/125.valid-palindrome.cpp) | 🟢 Easy | C++ |
 | [126](https://leetcode.com/problems/word-ladder-ii/) | [Word Ladder II](problems/126.word-ladder-ii.cpp) | 🔴 Hard | C++ |
 | [127](https://leetcode.com/problems/word-ladder/) | [Word Ladder](problems/127.word-ladder.cpp) | 🔴 Hard | C++ |
+| [128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest Consecutive Sequence](problems/128.longest-consecutive-sequence.cpp) | 🟡 Medium | C++ |
 | [130](https://leetcode.com/problems/surrounded-regions/) | [Surrounded Regions](problems/130.surrounded-regions.cpp) | 🟡 Medium | C++ |
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](problems/131.palindrome-partitioning.cpp) | 🟡 Medium | C++ |
 | [134](https://leetcode.com/problems/gas-station/) | [Gas Station](problems/134.gas-station.cpp) | 🟡 Medium | C++ |
