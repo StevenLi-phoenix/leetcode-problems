@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1308 solved** — 🟢 412 Easy · 🟡 614 Medium · 🔴 282 Hard
+**1309 solved** — 🟢 412 Easy · 🟡 615 Medium · 🔴 282 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -286,6 +286,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [682](https://leetcode.com/problems/baseball-game/) | [Baseball Game](problems/682.baseball-game.cpp) | 🟢 Easy | C++ |
 | [686](https://leetcode.com/problems/repeated-string-match/) | [Repeated String Match](problems/686.repeated-string-match.cpp) | 🟡 Medium | C++ |
 | [689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Maximum Sum of 3 Non-Overlapping Subarrays](problems/689.maximum-sum-of-3-non-overlapping-subarrays.cpp) | 🔴 Hard | C++ |
+| [690](https://leetcode.com/problems/employee-importance/) | [Employee Importance](problems/690.employee-importance.cpp) | 🟡 Medium | C++ |
 | [691](https://leetcode.com/problems/stickers-to-spell-word/) | [Stickers to Spell Word](problems/691.stickers-to-spell-word.cpp) | 🔴 Hard | C++ |
 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](problems/693.binary-number-with-alternating-bits.cpp) | 🟢 Easy | C++ |
 | [696](https://leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](problems/696.count-binary-substrings.cpp) | 🟢 Easy | C++ |
