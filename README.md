@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1514 solved** — 🟢 461 Easy · 🟡 715 Medium · 🔴 336 Hard
+**1515 solved** — 🟢 462 Easy · 🟡 715 Medium · 🔴 336 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -871,6 +871,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [A Number After a Double Reversal](problems/2119.a-number-after-a-double-reversal.cpp) | 🟢 Easy | C++ |
 | [2121](https://leetcode.com/problems/intervals-between-identical-elements/) | [Intervals Between Identical Elements](problems/2121.intervals-between-identical-elements.cpp) | 🟡 Medium | C++ |
 | [2122](https://leetcode.com/problems/recover-the-original-array/) | [Recover the Original Array](problems/2122.recover-the-original-array.cpp) | 🔴 Hard | C++ |
+| [2124](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Check if All A's Appears Before All B's](problems/2124.check-if-all-as-appears-before-all-bs.cpp) | 🟢 Easy | C++ |
 | [2126](https://leetcode.com/problems/destroying-asteroids/) | [Destroying Asteroids](problems/2126.destroying-asteroids.cpp) | 🟡 Medium | C++ |
 | [2127](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [Maximum Employees to Be Invited to a Meeting](problems/2127.maximum-employees-to-be-invited-to-a-meeting.cpp) | 🔴 Hard | C++ |
 | [2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Maximum Twin Sum of a Linked List](problems/2130.maximum-twin-sum-of-a-linked-list.cpp) | 🟡 Medium | C++ |
