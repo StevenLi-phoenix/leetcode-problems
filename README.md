@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1414 solved** — 🟢 438 Easy · 🟡 667 Medium · 🔴 307 Hard
+**1415 solved** — 🟢 439 Easy · 🟡 667 Medium · 🔴 307 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -364,6 +364,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [827](https://leetcode.com/problems/making-a-large-island/) | [Making A Large Island](problems/827.making-a-large-island.cpp) | 🔴 Hard | C++ |
 | [829](https://leetcode.com/problems/consecutive-numbers-sum/) | [Consecutive Numbers Sum](problems/829.consecutive-numbers-sum.cpp) | 🔴 Hard | C++ |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
+| [832](https://leetcode.com/problems/flipping-an-image/) | [Flipping an Image](problems/832.flipping-an-image.cpp) | 🟢 Easy | C++ |
 | [833](https://leetcode.com/problems/find-and-replace-in-string/) | [Find And Replace in String](problems/833.find-and-replace-in-string.cpp) | 🟡 Medium | C++ |
 | [836](https://leetcode.com/problems/rectangle-overlap/) | [Rectangle Overlap](problems/836.rectangle-overlap.cpp) | 🟢 Easy | C++ |
 | [837](https://leetcode.com/problems/new-21-game/) | [New 21 Game](problems/837.new-21-game.cpp) | 🟡 Medium | C++ |
