@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1389 solved** — 🟢 433 Easy · 🟡 652 Medium · 🔴 302 Hard
+**1390 solved** — 🟢 433 Easy · 🟡 653 Medium · 🔴 302 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -716,6 +716,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1895](https://leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](problems/1895.largest-magic-square.cpp) | 🟡 Medium | C++ |
 | [1898](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [Maximum Number of Removable Characters](problems/1898.maximum-number-of-removable-characters.cpp) | 🟡 Medium | C++ |
 | [1904](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [The Number of Full Rounds You Have Played](problems/1904.the-number-of-full-rounds-you-have-played.cpp) | 🟡 Medium | C++ |
+| [1905](https://leetcode.com/problems/count-sub-islands/) | [Count Sub Islands](problems/1905.count-sub-islands.cpp) | 🟡 Medium | C++ |
 | [1907](https://leetcode.com/problems/count-salary-categories/) | [Count Salary Categories](problems/1907.count-salary-categories.sql) | 🟡 Medium | mysql |
 | [1909](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [Remove One Element to Make the Array Strictly Increasing](problems/1909.remove-one-element-to-make-the-array-strictly-increasing.cpp) | 🟢 Easy | C++ |
 | [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Maximum Product Difference Between Two Pairs](problems/1913.maximum-product-difference-between-two-pairs.cpp) | 🟢 Easy | C++ |
