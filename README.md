@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1429 solved** — 🟢 442 Easy · 🟡 674 Medium · 🔴 311 Hard
+**1430 solved** — 🟢 443 Easy · 🟡 674 Medium · 🔴 311 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -342,6 +342,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [780](https://leetcode.com/problems/reaching-points/) | [Reaching Points](problems/780.reaching-points.cpp) | 🔴 Hard | C++ |
 | [781](https://leetcode.com/problems/rabbits-in-forest/) | [Rabbits in Forest](problems/781.rabbits-in-forest.cpp) | 🟡 Medium | C++ |
 | [782](https://leetcode.com/problems/transform-to-chessboard/) | [Transform to Chessboard](problems/782.transform-to-chessboard.cpp) | 🔴 Hard | C++ |
+| [783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Minimum Distance Between BST Nodes](problems/783.minimum-distance-between-bst-nodes.cpp) | 🟢 Easy | C++ |
 | [784](https://leetcode.com/problems/letter-case-permutation/) | [Letter Case Permutation](problems/784.letter-case-permutation.cpp) | 🟡 Medium | C++ |
 | [786](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [K-th Smallest Prime Fraction](problems/786.k-th-smallest-prime-fraction.cpp) | 🟡 Medium | C++ |
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
