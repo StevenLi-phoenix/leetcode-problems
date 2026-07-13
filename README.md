@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1553 solved** — 🟢 473 Easy · 🟡 735 Medium · 🔴 343 Hard
+**1554 solved** — 🟢 473 Easy · 🟡 736 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1519,6 +1519,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
 | [3850](https://leetcode.com/problems/count-sequences-to-k/) | [Count Sequences to K](problems/3850.count-sequences-to-k.cpp) | 🔴 Hard | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
+| [3857](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | [Minimum Cost to Split into Ones](problems/3857.minimum-cost-to-split-into-ones.cpp) | 🟡 Medium | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
 | [3864](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Minimum Cost to Partition a Binary String](problems/3864.minimum-cost-to-partition-a-binary-string.cpp) | 🔴 Hard | C++ |
 | [3866](https://leetcode.com/problems/first-unique-even-element/) | [First Unique Even Element](problems/3866.first-unique-even-element.cpp) | 🟢 Easy | C++ |
