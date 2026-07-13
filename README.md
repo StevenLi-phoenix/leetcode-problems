@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1541 solved** — 🟢 467 Easy · 🟡 730 Medium · 🔴 342 Hard
+**1542 solved** — 🟢 468 Easy · 🟡 730 Medium · 🔴 342 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -310,6 +310,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [636](https://leetcode.com/problems/exclusive-time-of-functions/) | [Exclusive Time of Functions](problems/636.exclusive-time-of-functions.cpp) | 🟡 Medium | C++ |
 | [638](https://leetcode.com/problems/shopping-offers/) | [Shopping Offers](problems/638.shopping-offers.cpp) | 🟡 Medium | C++ |
 | [641](https://leetcode.com/problems/design-circular-deque/) | [Design Circular Deque](problems/641.design-circular-deque.cpp) | 🟡 Medium | C++ |
+| [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](problems/643.maximum-average-subarray-i.cpp) | 🟢 Easy | C++ |
 | [645](https://leetcode.com/problems/set-mismatch/) | [Set Mismatch](problems/645.set-mismatch.cpp) | 🟢 Easy | C++ |
 | [646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Maximum Length of Pair Chain](problems/646.maximum-length-of-pair-chain.cpp) | 🟡 Medium | C++ |
 | [654](https://leetcode.com/problems/maximum-binary-tree/) | [Maximum Binary Tree](problems/654.maximum-binary-tree.cpp) | 🟡 Medium | C++ |
