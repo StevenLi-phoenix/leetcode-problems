@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1517 solved** — 🟢 463 Easy · 🟡 716 Medium · 🔴 336 Hard
+**1518 solved** — 🟢 463 Easy · 🟡 717 Medium · 🔴 336 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -751,6 +751,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1835](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [Find XOR Sum of All Pairs Bitwise AND](problems/1835.find-xor-sum-of-all-pairs-bitwise-and.cpp) | 🔴 Hard | C++ |
 | [1837](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Sum of Digits in Base K](problems/1837.sum-of-digits-in-base-k.cpp) | 🟢 Easy | C++ |
 | [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](problems/1838.frequency-of-the-most-frequent-element.cpp) | 🟡 Medium | C++ |
+| [1839](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Longest Substring Of All Vowels in Order](problems/1839.longest-substring-of-all-vowels-in-order.cpp) | 🟡 Medium | C++ |
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
 | [1850](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](problems/1850.minimum-adjacent-swaps-to-reach-the-kth-smallest-number.cpp) | 🟡 Medium | C++ |
