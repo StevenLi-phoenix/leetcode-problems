@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1410 solved** — 🟢 437 Easy · 🟡 665 Medium · 🔴 306 Hard
+**1411 solved** — 🟢 437 Easy · 🟡 666 Medium · 🔴 306 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -353,6 +353,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [807](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Max Increase to Keep City Skyline](problems/807.max-increase-to-keep-city-skyline.cpp) | 🟡 Medium | C++ |
 | [810](https://leetcode.com/problems/chalkboard-xor-game/) | [Chalkboard XOR Game](problems/810.chalkboard-xor-game.cpp) | 🔴 Hard | C++ |
 | [812](https://leetcode.com/problems/largest-triangle-area/) | [Largest Triangle Area](problems/812.largest-triangle-area.cpp) | 🟢 Easy | C++ |
+| [813](https://leetcode.com/problems/largest-sum-of-averages/) | [Largest Sum of Averages](problems/813.largest-sum-of-averages.cpp) | 🟡 Medium | C++ |
 | [814](https://leetcode.com/problems/binary-tree-pruning/) | [Binary Tree Pruning](problems/814.binary-tree-pruning.cpp) | 🟡 Medium | C++ |
 | [815](https://leetcode.com/problems/bus-routes/) | [Bus Routes](problems/815.bus-routes.cpp) | 🔴 Hard | C++ |
 | [817](https://leetcode.com/problems/linked-list-components/) | [Linked List Components](problems/817.linked-list-components.cpp) | 🟡 Medium | C++ |
