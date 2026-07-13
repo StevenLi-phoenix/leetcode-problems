@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1515 solved** — 🟢 462 Easy · 🟡 715 Medium · 🔴 336 Hard
+**1516 solved** — 🟢 463 Easy · 🟡 715 Medium · 🔴 336 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1438,6 +1438,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3745](https://leetcode.com/problems/maximize-expression-of-three-elements/) | [Maximize Expression of Three Elements](problems/3745.maximize-expression-of-three-elements.cpp) | 🟢 Easy | C++ |
 | [3747](https://leetcode.com/problems/count-distinct-integers-after-removing-zeros/) | [Count Distinct Integers After Removing Zeros](problems/3747.count-distinct-integers-after-removing-zeros.cpp) | 🟡 Medium | C++ |
 | [3748](https://leetcode.com/problems/count-stable-subarrays/) | [Count Stable Subarrays](problems/3748.count-stable-subarrays.cpp) | 🔴 Hard | C++ |
+| [3750](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [Minimum Number of Flips to Reverse Binary String](problems/3750.minimum-number-of-flips-to-reverse-binary-string.cpp) | 🟢 Easy | C++ |
 | [3751](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Total Waviness of Numbers in Range I](problems/3751.total-waviness-of-numbers-in-range-i.cpp) | 🟡 Medium | C++ |
 | [3753](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Total Waviness of Numbers in Range II](problems/3753.total-waviness-of-numbers-in-range-ii.cpp) | 🔴 Hard | C++ |
 | [3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](problems/3761.minimum-absolute-distance-between-mirror-pairs.cpp) | 🟡 Medium | C++ |
