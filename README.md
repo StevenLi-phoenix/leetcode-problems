@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1444 solved** — 🟢 446 Easy · 🟡 680 Medium · 🔴 316 Hard
+**1445 solved** — 🟢 446 Easy · 🟡 680 Medium · 🔴 317 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1280,6 +1280,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3532](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Path Existence Queries in a Graph I](problems/3532.path-existence-queries-in-a-graph-i.cpp) | 🟡 Medium | C++ |
 | [3534](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Path Existence Queries in a Graph II](problems/3534.path-existence-queries-in-a-graph-ii.cpp) | 🔴 Hard | C++ |
 | [3536](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Maximum Product of Two Digits](problems/3536.maximum-product-of-two-digits.cpp) | 🟢 Easy | C++ |
+| [3539](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Find Sum of Array Product of Magical Sequences](problems/3539.find-sum-of-array-product-of-magical-sequences.cpp) | 🔴 Hard | C++ |
 | [3542](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | [Minimum Operations to Convert All Elements to Zero](problems/3542.minimum-operations-to-convert-all-elements-to-zero.cpp) | 🟡 Medium | C++ |
 | [3543](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Maximum Weighted K-Edge Path](problems/3543.maximum-weighted-k-edge-path.cpp) | 🟡 Medium | C++ |
 | [3544](https://leetcode.com/problems/subtree-inversion-sum/) | [Subtree Inversion Sum](problems/3544.subtree-inversion-sum.cpp) | 🔴 Hard | C++ |
