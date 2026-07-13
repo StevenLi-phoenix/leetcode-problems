@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1371 solved** — 🟢 428 Easy · 🟡 643 Medium · 🔴 298 Hard
+**1372 solved** — 🟢 428 Easy · 🟡 644 Medium · 🔴 298 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -910,6 +910,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](problems/2515.shortest-distance-to-target-string-in-a-circular-array.cpp) | 🟢 Easy | C++ |
 | [2520](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Count the Digits That Divide a Number](problems/2520.count-the-digits-that-divide-a-number.cpp) | 🟢 Easy | C++ |
 | [2521](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [Distinct Prime Factors of Product of Array](problems/2521.distinct-prime-factors-of-product-of-array.cpp) | 🟡 Medium | C++ |
+| [2523](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Closest Prime Numbers in Range](problems/2523.closest-prime-numbers-in-range.cpp) | 🟡 Medium | C++ |
 | [2525](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Categorize Box According to Criteria](problems/2525.categorize-box-according-to-criteria.cpp) | 🟢 Easy | C++ |
 | [2528](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](problems/2528.maximize-the-minimum-powered-city.cpp) | 🔴 Hard | C++ |
 | [2535](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Difference Between Element Sum and Digit Sum of an Array](problems/2535.difference-between-element-sum-and-digit-sum-of-an-array.cpp) | 🟢 Easy | C++ |
