@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1341 solved** — 🟢 423 Easy · 🟡 626 Medium · 🔴 290 Hard
+**1342 solved** — 🟢 424 Easy · 🟡 626 Medium · 🔴 290 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1291,6 +1291,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3784](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Minimum Deletion Cost to Make All Characters Equal](problems/3784.minimum-deletion-cost-to-make-all-characters-equal.cpp) | 🟡 Medium | C++ |
 | [3790](https://leetcode.com/problems/smallest-all-ones-multiple/) | [Smallest All-Ones Multiple](problems/3790.smallest-all-ones-multiple.cpp) | 🟡 Medium | C++ |
 | [3791](https://leetcode.com/problems/number-of-balanced-integers-in-a-range/) | [Number of Balanced Integers in a Range](problems/3791.number-of-balanced-integers-in-a-range.cpp) | 🔴 Hard | C++ |
+| [3793](https://leetcode.com/problems/find-users-with-high-token-usage/) | [Find Users with High Token Usage](problems/3793.find-users-with-high-token-usage.sql) | 🟢 Easy | mysql |
 | [3794](https://leetcode.com/problems/reverse-string-prefix/) | [Reverse String Prefix](problems/3794.reverse-string-prefix.cpp) | 🟢 Easy | C++ |
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
 | [3800](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Cost to Make Two Binary Strings Equal](problems/3800.minimum-cost-to-make-two-binary-strings-equal.cpp) | 🟡 Medium | C++ |
