@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1329 solved** — 🟢 418 Easy · 🟡 623 Medium · 🔴 288 Hard
+**1330 solved** — 🟢 418 Easy · 🟡 624 Medium · 🔴 288 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -247,6 +247,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [525](https://leetcode.com/problems/contiguous-array/) | [Contiguous Array](problems/525.contiguous-array.cpp) | 🟡 Medium | C++ |
 | [526](https://leetcode.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](problems/526.beautiful-arrangement.cpp) | 🟡 Medium | C++ |
 | [528](https://leetcode.com/problems/random-pick-with-weight/) | [Random Pick with Weight](problems/528.random-pick-with-weight.cpp) | 🟡 Medium | C++ |
+| [529](https://leetcode.com/problems/minesweeper/) | [Minesweeper](problems/529.minesweeper.cpp) | 🟡 Medium | C++ |
 | [535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Encode and Decode TinyURL](problems/535.encode-and-decode-tinyurl.cpp) | 🟡 Medium | C++ |
 | [537](https://leetcode.com/problems/complex-number-multiplication/) | [Complex Number Multiplication](problems/537.complex-number-multiplication.cpp) | 🟡 Medium | C++ |
 | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Single Element in a Sorted Array](problems/540.single-element-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
