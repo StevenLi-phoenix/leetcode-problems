@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1367 solved** — 🟢 427 Easy · 🟡 642 Medium · 🔴 296 Hard
+**1368 solved** — 🟢 427 Easy · 🟡 642 Medium · 🔴 297 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1105,6 +1105,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3185](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) | [Count Pairs That Form a Complete Day II](problems/3185.count-pairs-that-form-a-complete-day-ii.cpp) | 🟡 Medium | C++ |
 | [3187](https://leetcode.com/problems/peaks-in-array/) | [Peaks in Array](problems/3187.peaks-in-array.cpp) | 🔴 Hard | C++ |
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
+| [3193](https://leetcode.com/problems/count-the-number-of-inversions/) | [Count the Number of Inversions](problems/3193.count-the-number-of-inversions.cpp) | 🔴 Hard | C++ |
 | [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
