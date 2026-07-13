@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1442 solved** — 🟢 445 Easy · 🟡 679 Medium · 🔴 316 Hard
+**1443 solved** — 🟢 445 Easy · 🟡 680 Medium · 🔴 316 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1178,6 +1178,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
 | [3216](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [Lexicographically Smallest String After a Swap](problems/3216.lexicographically-smallest-string-after-a-swap.cpp) | 🟢 Easy | C++ |
 | [3218](https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/) | [Minimum Cost for Cutting Cake I](problems/3218.minimum-cost-for-cutting-cake-i.cpp) | 🟡 Medium | C++ |
+| [3220](https://leetcode.com/problems/odd-and-even-transactions/) | [Odd and Even Transactions](problems/3220.odd-and-even-transactions.sql) | 🟡 Medium | mysql |
 | [3224](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | [Minimum Array Changes to Make Differences Equal](problems/3224.minimum-array-changes-to-make-differences-equal.cpp) | 🟡 Medium | C++ |
 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](problems/3225.maximum-score-from-grid-operations.cpp) | 🔴 Hard | C++ |
 | [3226](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [Number of Bit Changes to Make Two Integers Equal](problems/3226.number-of-bit-changes-to-make-two-integers-equal.cpp) | 🟢 Easy | C++ |
