@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1322 solved** — 🟢 414 Easy · 🟡 621 Medium · 🔴 287 Hard
+**1323 solved** — 🟢 414 Easy · 🟡 621 Medium · 🔴 288 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -992,6 +992,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914.minimum-number-of-changes-to-make-binary-string-beautiful.cpp) | 🟡 Medium | C++ |
 | [2915](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/) | [Length of the Longest Subsequence That Sums to Target](problems/2915.length-of-the-longest-subsequence-that-sums-to-target.cpp) | 🟡 Medium | C++ |
 | [2917](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Find the K-or of an Array](problems/2917.find-the-k-or-of-an-array.cpp) | 🟢 Easy | C++ |
+| [2920](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/) | [Maximum Points After Collecting Coins From All Nodes](problems/2920.maximum-points-after-collecting-coins-from-all-nodes.cpp) | 🔴 Hard | C++ |
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
 | [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
