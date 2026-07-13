@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1474 solved** — 🟢 449 Easy · 🟡 695 Medium · 🔴 328 Hard
+**1475 solved** — 🟢 449 Easy · 🟡 695 Medium · 🔴 329 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1194,6 +1194,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [3193](https://leetcode.com/problems/count-the-number-of-inversions/) | [Count the Number of Inversions](problems/3193.count-the-number-of-inversions.cpp) | 🔴 Hard | C++ |
 | [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
+| [3197](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Find the Minimum Area to Cover All Ones II](problems/3197.find-the-minimum-area-to-cover-all-ones-ii.cpp) | 🔴 Hard | C++ |
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
 | [3202](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Find the Maximum Length of Valid Subsequence II](problems/3202.find-the-maximum-length-of-valid-subsequence-ii.cpp) | 🟡 Medium | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
