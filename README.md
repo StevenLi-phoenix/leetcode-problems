@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1415 solved** — 🟢 439 Easy · 🟡 667 Medium · 🔴 307 Hard
+**1416 solved** — 🟢 440 Easy · 🟡 667 Medium · 🔴 307 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1082,6 +1082,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](problems/2976.minimum-cost-to-convert-string-i.cpp) | 🟡 Medium | C++ |
 | [2977](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Cost to Convert String II](problems/2977.minimum-cost-to-convert-string-ii.cpp) | 🔴 Hard | C++ |
 | [2983](https://leetcode.com/problems/palindrome-rearrangement-queries/) | [Palindrome Rearrangement Queries](problems/2983.palindrome-rearrangement-queries.cpp) | 🔴 Hard | C++ |
+| [2996](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Smallest Missing Integer Greater Than Sequential Prefix Sum](problems/2996.smallest-missing-integer-greater-than-sequential-prefix-sum.cpp) | 🟢 Easy | C++ |
 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](problems/2999.count-the-number-of-powerful-integers.cpp) | 🔴 Hard | C++ |
 | [3002](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | [Maximum Size of a Set After Removals](problems/3002.maximum-size-of-a-set-after-removals.cpp) | 🟡 Medium | C++ |
 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Maximize the Number of Partitions After Operations](problems/3003.maximize-the-number-of-partitions-after-operations.cpp) | 🔴 Hard | C++ |
