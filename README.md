@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1476 solved** — 🟢 449 Easy · 🟡 696 Medium · 🔴 329 Hard
+**1477 solved** — 🟢 449 Easy · 🟡 697 Medium · 🔴 329 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1082,6 +1082,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2855](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [Minimum Right Shifts to Sort the Array](problems/2855.minimum-right-shifts-to-sort-the-array.cpp) | 🟢 Easy | C++ |
 | [2856](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Minimum Array Length After Pair Removals](problems/2856.minimum-array-length-after-pair-removals.cpp) | 🟡 Medium | C++ |
 | [2857](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/) | [Count Pairs of Points With Distance k](problems/2857.count-pairs-of-points-with-distance-k.cpp) | 🟡 Medium | C++ |
+| [2865](https://leetcode.com/problems/beautiful-towers-i/) | [Beautiful Towers I](problems/2865.beautiful-towers-i.cpp) | 🟡 Medium | C++ |
 | [2867](https://leetcode.com/problems/count-valid-paths-in-a-tree/) | [Count Valid Paths in a Tree](problems/2867.count-valid-paths-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2887](https://leetcode.com/problems/fill-missing-data/) | [Fill Missing Data](problems/2887.fill-missing-data.py) | 🟢 Easy | pythondata |
 | [2888](https://leetcode.com/problems/reshape-data-concatenate/) | [Reshape Data: Concatenate](problems/2888.reshape-data-concatenate.py) | 🟢 Easy | pythondata |
