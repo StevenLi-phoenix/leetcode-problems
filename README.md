@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1542 solved** — 🟢 468 Easy · 🟡 730 Medium · 🔴 342 Hard
+**1543 solved** — 🟢 468 Easy · 🟡 731 Medium · 🔴 342 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1011,6 +1011,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Remove Nodes From Linked List](problems/2487.remove-nodes-from-linked-list.cpp) | 🟡 Medium | C++ |
 | [2490](https://leetcode.com/problems/circular-sentence/) | [Circular Sentence](problems/2490.circular-sentence.cpp) | 🟢 Easy | C++ |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [Divide Players Into Teams of Equal Skill](problems/2491.divide-players-into-teams-of-equal-skill.cpp) | 🟡 Medium | C++ |
+| [2497](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | [Maximum Star Sum of a Graph](problems/2497.maximum-star-sum-of-a-graph.cpp) | 🟡 Medium | C++ |
 | [2499](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/) | [Minimum Total Cost to Make Arrays Unequal](problems/2499.minimum-total-cost-to-make-arrays-unequal.cpp) | 🔴 Hard | C++ |
 | [2500](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [Delete Greatest Value in Each Row](problems/2500.delete-greatest-value-in-each-row.cpp) | 🟢 Easy | C++ |
 | [2501](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [Longest Square Streak in an Array](problems/2501.longest-square-streak-in-an-array.cpp) | 🟡 Medium | C++ |
