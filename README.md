@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1338 solved** — 🟢 421 Easy · 🟡 625 Medium · 🔴 290 Hard
+**1339 solved** — 🟢 422 Easy · 🟡 625 Medium · 🔴 290 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -479,6 +479,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1260](https://leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](problems/1260.shift-2d-grid.cpp) | 🟢 Easy | C++ |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](problems/1266.minimum-time-visiting-all-points.cpp) | 🟢 Easy | C++ |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Number of Ways to Stay in the Same Place After Some Steps](problems/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.cpp) | 🔴 Hard | C++ |
+| [1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Find Winner on a Tic Tac Toe Game](problems/1275.find-winner-on-a-tic-tac-toe-game.cpp) | 🟢 Easy | C++ |
 | [1278](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Palindrome Partitioning III](problems/1278.palindrome-partitioning-iii.cpp) | 🔴 Hard | C++ |
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Group the People Given the Group Size They Belong To](problems/1282.group-the-people-given-the-group-size-they-belong-to.cpp) | 🟡 Medium | C++ |
 | [1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Find the Smallest Divisor Given a Threshold](problems/1283.find-the-smallest-divisor-given-a-threshold.cpp) | 🟡 Medium | C++ |
