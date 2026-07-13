@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1507 solved** — 🟢 459 Easy · 🟡 712 Medium · 🔴 334 Hard
+**1508 solved** — 🟢 460 Easy · 🟡 712 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -139,6 +139,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
+| [196](https://leetcode.com/problems/delete-duplicate-emails/) | [Delete Duplicate Emails](problems/196.delete-duplicate-emails.sql) | 🟢 Easy | mysql |
 | [197](https://leetcode.com/problems/rising-temperature/) | [Rising Temperature](problems/197.rising-temperature.sql) | 🟢 Easy | mysql |
 | [198](https://leetcode.com/problems/house-robber/) | [House Robber](problems/198.house-robber.cpp) | 🟡 Medium | C++ |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
