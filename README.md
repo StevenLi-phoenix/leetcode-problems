@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1383 solved** — 🟢 430 Easy · 🟡 651 Medium · 🔴 300 Hard
+**1384 solved** — 🟢 430 Easy · 🟡 652 Medium · 🔴 300 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -324,6 +324,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [761](https://leetcode.com/problems/special-binary-string/) | [Special Binary String](problems/761.special-binary-string.cpp) | 🔴 Hard | C++ |
 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](problems/762.prime-number-of-set-bits-in-binary-representation.cpp) | 🟢 Easy | C++ |
 | [766](https://leetcode.com/problems/toeplitz-matrix/) | [Toeplitz Matrix](problems/766.toeplitz-matrix.cpp) | 🟢 Easy | C++ |
+| [769](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Max Chunks To Make Sorted](problems/769.max-chunks-to-make-sorted.cpp) | 🟡 Medium | C++ |
 | [770](https://leetcode.com/problems/basic-calculator-iv/) | [Basic Calculator IV](problems/770.basic-calculator-iv.cpp) | 🔴 Hard | C++ |
 | [771](https://leetcode.com/problems/jewels-and-stones/) | [Jewels and Stones](problems/771.jewels-and-stones.cpp) | 🟢 Easy | C++ |
 | [773](https://leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](problems/773.sliding-puzzle.cpp) | 🔴 Hard | C++ |
