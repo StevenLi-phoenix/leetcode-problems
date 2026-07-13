@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1292 solved** — 🟢 411 Easy · 🟡 606 Medium · 🔴 275 Hard
+**1293 solved** — 🟢 411 Easy · 🟡 607 Medium · 🔴 275 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1155,6 +1155,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3543](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Maximum Weighted K-Edge Path](problems/3543.maximum-weighted-k-edge-path.cpp) | 🟡 Medium | C++ |
 | [3546](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Equal Sum Grid Partition I](problems/3546.equal-sum-grid-partition-i.cpp) | 🟡 Medium | C++ |
 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](problems/3548.equal-sum-grid-partition-ii.cpp) | 🔴 Hard | C++ |
+| [3556](https://leetcode.com/problems/sum-of-largest-prime-substrings/) | [Sum of Largest Prime Substrings](problems/3556.sum-of-largest-prime-substrings.cpp) | 🟡 Medium | C++ |
 | [3558](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Number of Ways to Assign Edge Weights I](problems/3558.number-of-ways-to-assign-edge-weights-i.cpp) | 🟡 Medium | C++ |
 | [3559](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [Number of Ways to Assign Edge Weights II](problems/3559.number-of-ways-to-assign-edge-weights-ii.cpp) | 🔴 Hard | C++ |
 | [3561](https://leetcode.com/problems/resulting-string-after-adjacent-removals/) | [Resulting String After Adjacent Removals](problems/3561.resulting-string-after-adjacent-removals.cpp) | 🟡 Medium | C++ |
