@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1280 solved** — 🟢 410 Easy · 🟡 597 Medium · 🔴 273 Hard
+**1281 solved** — 🟢 410 Easy · 🟡 598 Medium · 🔴 273 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -153,6 +153,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [262](https://leetcode.com/problems/trips-and-users/) | [Trips and Users](problems/262.trips-and-users.sql) | 🔴 Hard | mysql |
 | [263](https://leetcode.com/problems/ugly-number/) | [Ugly Number](problems/263.ugly-number.cpp) | 🟢 Easy | C++ |
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](problems/268.missing-number.cpp) | 🟢 Easy | C++ |
+| [279](https://leetcode.com/problems/perfect-squares/) | [Perfect Squares](problems/279.perfect-squares.cpp) | 🟡 Medium | C++ |
 | [282](https://leetcode.com/problems/expression-add-operators/) | [Expression Add Operators](problems/282.expression-add-operators.cpp) | 🔴 Hard | C++ |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](problems/283.move-zeroes.cpp) | 🟢 Easy | C++ |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](problems/287.find-the-duplicate-number.cpp) | 🟡 Medium | C++ |
