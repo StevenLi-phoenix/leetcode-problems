@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1406 solved** — 🟢 437 Easy · 🟡 662 Medium · 🔴 305 Hard
+**1407 solved** — 🟢 437 Easy · 🟡 663 Medium · 🔴 305 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -185,6 +185,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [357](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](problems/357.count-numbers-with-unique-digits.cpp) | 🟡 Medium | C++ |
 | [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Max Sum of Rectangle No Larger Than K](problems/363.max-sum-of-rectangle-no-larger-than-k.cpp) | 🔴 Hard | C++ |
 | [372](https://leetcode.com/problems/super-pow/) | [Super Pow](problems/372.super-pow.cpp) | 🟡 Medium | C++ |
+| [373](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Find K Pairs with Smallest Sums](problems/373.find-k-pairs-with-smallest-sums.cpp) | 🟡 Medium | C++ |
 | [375](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](problems/375.guess-number-higher-or-lower-ii.cpp) | 🟡 Medium | C++ |
 | [380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Insert Delete GetRandom O(1)](problems/380.insert-delete-getrandom-o1.cpp) | 🟡 Medium | C++ |
 | [382](https://leetcode.com/problems/linked-list-random-node/) | [Linked List Random Node](problems/382.linked-list-random-node.cpp) | 🟡 Medium | C++ |
