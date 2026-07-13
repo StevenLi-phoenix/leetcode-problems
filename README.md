@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1435 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 312 Hard
+**1436 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 313 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1245,6 +1245,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3451](https://leetcode.com/problems/find-invalid-ip-addresses/) | [Find Invalid IP Addresses](problems/3451.find-invalid-ip-addresses.sql) | 🔴 Hard | mysql |
 | [3453](https://leetcode.com/problems/separate-squares-i/) | [Separate Squares I](problems/3453.separate-squares-i.cpp) | 🟡 Medium | C++ |
 | [3454](https://leetcode.com/problems/separate-squares-ii/) | [Separate Squares II](problems/3454.separate-squares-ii.cpp) | 🔴 Hard | C++ |
+| [3455](https://leetcode.com/problems/shortest-matching-substring/) | [Shortest Matching Substring](problems/3455.shortest-matching-substring.cpp) | 🔴 Hard | C++ |
 | [3458](https://leetcode.com/problems/select-k-disjoint-special-substrings/) | [Select K Disjoint Special Substrings](problems/3458.select-k-disjoint-special-substrings.cpp) | 🟡 Medium | C++ |
 | [3464](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Maximize the Distance Between Points on a Square](problems/3464.maximize-the-distance-between-points-on-a-square.cpp) | 🔴 Hard | C++ |
 | [3467](https://leetcode.com/problems/transform-array-by-parity/) | [Transform Array by Parity](problems/3467.transform-array-by-parity.cpp) | 🟢 Easy | C++ |
