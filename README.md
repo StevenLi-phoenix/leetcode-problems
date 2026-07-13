@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1464 solved** — 🟢 448 Easy · 🟡 690 Medium · 🔴 324 Hard
+**1465 solved** — 🟢 448 Easy · 🟡 691 Medium · 🔴 324 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1028,6 +1028,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](problems/2678.number-of-senior-citizens.cpp) | 🟢 Easy | C++ |
 | [2681](https://leetcode.com/problems/power-of-heroes/) | [Power of Heroes](problems/2681.power-of-heroes.cpp) | 🔴 Hard | C++ |
+| [2683](https://leetcode.com/problems/neighboring-bitwise-xor/) | [Neighboring Bitwise XOR](problems/2683.neighboring-bitwise-xor.cpp) | 🟡 Medium | C++ |
 | [2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | [Maximum Number of Moves in a Grid](problems/2684.maximum-number-of-moves-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2694](https://leetcode.com/problems/event-emitter/) | [Event Emitter](problems/2694.event-emitter.js) | 🟡 Medium | JavaScript |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Minimum String Length After Removing Substrings](problems/2696.minimum-string-length-after-removing-substrings.cpp) | 🟢 Easy | C++ |
