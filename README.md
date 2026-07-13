@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1395 solved** — 🟢 435 Easy · 🟡 656 Medium · 🔴 302 Hard
+**1396 solved** — 🟢 435 Easy · 🟡 656 Medium · 🔴 303 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1232,6 +1232,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3516](https://leetcode.com/problems/find-closest-person/) | [Find Closest Person](problems/3516.find-closest-person.cpp) | 🟢 Easy | C++ |
 | [3521](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Find Product Recommendation Pairs](problems/3521.find-product-recommendation-pairs.sql) | 🟡 Medium | mysql |
 | [3524](https://leetcode.com/problems/find-x-value-of-array-i/) | [Find X Value of Array I](problems/3524.find-x-value-of-array-i.cpp) | 🟡 Medium | C++ |
+| [3530](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [Maximum Profit from Valid Topological Order in DAG](problems/3530.maximum-profit-from-valid-topological-order-in-dag.cpp) | 🔴 Hard | C++ |
 | [3531](https://leetcode.com/problems/count-covered-buildings/) | [Count Covered Buildings](problems/3531.count-covered-buildings.cpp) | 🟡 Medium | C++ |
 | [3532](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Path Existence Queries in a Graph I](problems/3532.path-existence-queries-in-a-graph-i.cpp) | 🟡 Medium | C++ |
 | [3534](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Path Existence Queries in a Graph II](problems/3534.path-existence-queries-in-a-graph-ii.cpp) | 🔴 Hard | C++ |
