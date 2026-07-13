@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1531 solved** — 🟢 465 Easy · 🟡 723 Medium · 🔴 341 Hard
+**1532 solved** — 🟢 466 Easy · 🟡 723 Medium · 🔴 341 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1127,6 +1127,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2865](https://leetcode.com/problems/beautiful-towers-i/) | [Beautiful Towers I](problems/2865.beautiful-towers-i.cpp) | 🟡 Medium | C++ |
 | [2867](https://leetcode.com/problems/count-valid-paths-in-a-tree/) | [Count Valid Paths in a Tree](problems/2867.count-valid-paths-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2879](https://leetcode.com/problems/display-the-first-three-rows/) | [Display the First Three Rows](problems/2879.display-the-first-three-rows.py) | 🟢 Easy | pythondata |
+| [2886](https://leetcode.com/problems/change-data-type/) | [Change Data Type](problems/2886.change-data-type.py) | 🟢 Easy | pythondata |
 | [2887](https://leetcode.com/problems/fill-missing-data/) | [Fill Missing Data](problems/2887.fill-missing-data.py) | 🟢 Easy | pythondata |
 | [2888](https://leetcode.com/problems/reshape-data-concatenate/) | [Reshape Data: Concatenate](problems/2888.reshape-data-concatenate.py) | 🟢 Easy | pythondata |
 | [2889](https://leetcode.com/problems/reshape-data-pivot/) | [Reshape Data: Pivot](problems/2889.reshape-data-pivot.py) | 🟢 Easy | pythondata |
