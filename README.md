@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1307 solved** — 🟢 412 Easy · 🟡 613 Medium · 🔴 282 Hard
+**1308 solved** — 🟢 412 Easy · 🟡 614 Medium · 🔴 282 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -240,6 +240,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [520](https://leetcode.com/problems/detect-capital/) | [Detect Capital](problems/520.detect-capital.cpp) | 🟢 Easy | C++ |
 | [523](https://leetcode.com/problems/continuous-subarray-sum/) | [Continuous Subarray Sum](problems/523.continuous-subarray-sum.cpp) | 🟡 Medium | C++ |
 | [524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Longest Word in Dictionary through Deleting](problems/524.longest-word-in-dictionary-through-deleting.cpp) | 🟡 Medium | C++ |
+| [525](https://leetcode.com/problems/contiguous-array/) | [Contiguous Array](problems/525.contiguous-array.cpp) | 🟡 Medium | C++ |
 | [526](https://leetcode.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](problems/526.beautiful-arrangement.cpp) | 🟡 Medium | C++ |
 | [528](https://leetcode.com/problems/random-pick-with-weight/) | [Random Pick with Weight](problems/528.random-pick-with-weight.cpp) | 🟡 Medium | C++ |
 | [535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Encode and Decode TinyURL](problems/535.encode-and-decode-tinyurl.cpp) | 🟡 Medium | C++ |
