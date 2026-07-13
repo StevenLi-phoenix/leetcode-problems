@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1545 solved** — 🟢 470 Easy · 🟡 731 Medium · 🔴 342 Hard
+**1546 solved** — 🟢 470 Easy · 🟡 731 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -687,6 +687,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1626](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Best Team With No Conflicts](problems/1626.best-team-with-no-conflicts.cpp) | 🟡 Medium | C++ |
 | [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
 | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](problems/1631.path-with-minimum-effort.cpp) | 🟡 Medium | C++ |
+| [1632](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Rank Transform of a Matrix](problems/1632.rank-transform-of-a-matrix.cpp) | 🔴 Hard | C++ |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Percentage of Users Attended a Contest](problems/1633.percentage-of-users-attended-a-contest.sql) | 🟢 Easy | mysql |
 | [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](problems/1636.sort-array-by-increasing-frequency.cpp) | 🟢 Easy | C++ |
 | [1638](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [Count Substrings That Differ by One Character](problems/1638.count-substrings-that-differ-by-one-character.cpp) | 🟡 Medium | C++ |
