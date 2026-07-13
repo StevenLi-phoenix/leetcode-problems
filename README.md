@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1349 solved** — 🟢 424 Easy · 🟡 632 Medium · 🔴 291 Hard
+**1350 solved** — 🟢 424 Easy · 🟡 632 Medium · 🔴 292 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -952,6 +952,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2666](https://leetcode.com/problems/allow-one-function-call/) | [Allow One Function Call](problems/2666.allow-one-function-call.js) | 🟢 Easy | JavaScript |
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](problems/2678.number-of-senior-citizens.cpp) | 🟢 Easy | C++ |
+| [2681](https://leetcode.com/problems/power-of-heroes/) | [Power of Heroes](problems/2681.power-of-heroes.cpp) | 🔴 Hard | C++ |
 | [2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | [Maximum Number of Moves in a Grid](problems/2684.maximum-number-of-moves-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Minimum String Length After Removing Substrings](problems/2696.minimum-string-length-after-removing-substrings.cpp) | 🟢 Easy | C++ |
 | [2697](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Lexicographically Smallest Palindrome](problems/2697.lexicographically-smallest-palindrome.cpp) | 🟢 Easy | C++ |
