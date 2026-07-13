@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1327 solved** — 🟢 417 Easy · 🟡 622 Medium · 🔴 288 Hard
+**1328 solved** — 🟢 417 Easy · 🟡 623 Medium · 🔴 288 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -457,6 +457,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1187](https://leetcode.com/problems/make-array-strictly-increasing/) | [Make Array Strictly Increasing](problems/1187.make-array-strictly-increasing.cpp) | 🔴 Hard | C++ |
 | [1189](https://leetcode.com/problems/maximum-number-of-balloons/) | [Maximum Number of Balloons](problems/1189.maximum-number-of-balloons.cpp) | 🟢 Easy | C++ |
 | [1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](problems/1190.reverse-substrings-between-each-pair-of-parentheses.cpp) | 🟡 Medium | C++ |
+| [1191](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [K-Concatenation Maximum Sum](problems/1191.k-concatenation-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1192](https://leetcode.com/problems/critical-connections-in-a-network/) | [Critical Connections in a Network](problems/1192.critical-connections-in-a-network.cpp) | 🔴 Hard | C++ |
 | [1200](https://leetcode.com/problems/minimum-absolute-difference/) | [Minimum Absolute Difference](problems/1200.minimum-absolute-difference.cpp) | 🟢 Easy | C++ |
 | [1203](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Sort Items by Groups Respecting Dependencies](problems/1203.sort-items-by-groups-respecting-dependencies.cpp) | 🔴 Hard | C++ |
