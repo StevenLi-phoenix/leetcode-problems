@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1288 solved** — 🟢 410 Easy · 🟡 603 Medium · 🔴 275 Hard
+**1289 solved** — 🟢 411 Easy · 🟡 603 Medium · 🔴 275 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -245,6 +245,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [558](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Logical OR of Two Binary Grids Represented as Quad-Trees](problems/558.logical-or-of-two-binary-grids-represented-as-quad-trees.cpp) | 🟡 Medium | C++ |
 | [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Maximum Depth of N-ary Tree](problems/559.maximum-depth-of-n-ary-tree.cpp) | 🟢 Easy | C++ |
 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](problems/560.subarray-sum-equals-k.cpp) | 🟡 Medium | C++ |
+| [561](https://leetcode.com/problems/array-partition/) | [Array Partition](problems/561.array-partition.cpp) | 🟢 Easy | C++ |
 | [565](https://leetcode.com/problems/array-nesting/) | [Array Nesting](problems/565.array-nesting.cpp) | 🟡 Medium | C++ |
 | [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](problems/567.permutation-in-string.cpp) | 🟡 Medium | C++ |
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](problems/572.subtree-of-another-tree.cpp) | 🟢 Easy | C++ |
