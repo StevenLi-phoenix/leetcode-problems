@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1400 solved** — 🟢 436 Easy · 🟡 658 Medium · 🔴 304 Hard
+**1401 solved** — 🟢 436 Easy · 🟡 659 Medium · 🔴 304 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -934,6 +934,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2525](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Categorize Box According to Criteria](problems/2525.categorize-box-according-to-criteria.cpp) | 🟢 Easy | C++ |
 | [2528](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](problems/2528.maximize-the-minimum-powered-city.cpp) | 🔴 Hard | C++ |
 | [2535](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Difference Between Element Sum and Digit Sum of an Array](problems/2535.difference-between-element-sum-and-digit-sum-of-an-array.cpp) | 🟢 Easy | C++ |
+| [2536](https://leetcode.com/problems/increment-submatrices-by-one/) | [Increment Submatrices by One](problems/2536.increment-submatrices-by-one.cpp) | 🟡 Medium | C++ |
 | [2538](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/) | [Difference Between Maximum and Minimum Price Sum](problems/2538.difference-between-maximum-and-minimum-price-sum.cpp) | 🔴 Hard | C++ |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | [Minimum Common Value](problems/2540.minimum-common-value.cpp) | 🟢 Easy | C++ |
 | [2542](https://leetcode.com/problems/maximum-subsequence-score/) | [Maximum Subsequence Score](problems/2542.maximum-subsequence-score.cpp) | 🟡 Medium | C++ |
