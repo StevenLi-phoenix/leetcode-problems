@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1315 solved** — 🟢 412 Easy · 🟡 618 Medium · 🔴 285 Hard
+**1316 solved** — 🟢 412 Easy · 🟡 619 Medium · 🔴 285 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -248,6 +248,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Single Element in a Sorted Array](problems/540.single-element-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [541](https://leetcode.com/problems/reverse-string-ii/) | [Reverse String II](problems/541.reverse-string-ii.cpp) | 🟢 Easy | C++ |
 | [547](https://leetcode.com/problems/number-of-provinces/) | [Number of Provinces](problems/547.number-of-provinces.cpp) | 🟡 Medium | C++ |
+| [556](https://leetcode.com/problems/next-greater-element-iii/) | [Next Greater Element III](problems/556.next-greater-element-iii.cpp) | 🟡 Medium | C++ |
 | [558](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Logical OR of Two Binary Grids Represented as Quad-Trees](problems/558.logical-or-of-two-binary-grids-represented-as-quad-trees.cpp) | 🟡 Medium | C++ |
 | [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Maximum Depth of N-ary Tree](problems/559.maximum-depth-of-n-ary-tree.cpp) | 🟢 Easy | C++ |
 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](problems/560.subarray-sum-equals-k.cpp) | 🟡 Medium | C++ |
