@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1300 solved** — 🟢 411 Easy · 🟡 612 Medium · 🔴 277 Hard
+**1301 solved** — 🟢 412 Easy · 🟡 612 Medium · 🔴 277 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -122,6 +122,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [149](https://leetcode.com/problems/max-points-on-a-line/) | [Max Points on a Line](problems/149.max-points-on-a-line.cpp) | 🔴 Hard | C++ |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](problems/153.find-minimum-in-rotated-sorted-array.cpp) | 🟡 Medium | C++ |
 | [154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Find Minimum in Rotated Sorted Array II](problems/154.find-minimum-in-rotated-sorted-array-ii.cpp) | 🔴 Hard | C++ |
+| [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of Two Linked Lists](problems/160.intersection-of-two-linked-lists.cpp) | 🟢 Easy | C++ |
 | [162](https://leetcode.com/problems/find-peak-element/) | [Find Peak Element](problems/162.find-peak-element.cpp) | 🟡 Medium | C++ |
 | [165](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](problems/165.compare-version-numbers.cpp) | 🟡 Medium | C++ |
 | [166](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Fraction to Recurring Decimal](problems/166.fraction-to-recurring-decimal.cpp) | 🟡 Medium | C++ |
