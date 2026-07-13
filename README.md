@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1353 solved** — 🟢 424 Easy · 🟡 634 Medium · 🔴 293 Hard
+**1354 solved** — 🟢 424 Easy · 🟡 635 Medium · 🔴 293 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1023,6 +1023,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2953](https://leetcode.com/problems/count-complete-substrings/) | [Count Complete Substrings](problems/2953.count-complete-substrings.cpp) | 🔴 Hard | C++ |
 | [2954](https://leetcode.com/problems/count-the-number-of-infection-sequences/) | [Count the Number of Infection Sequences](problems/2954.count-the-number-of-infection-sequences.cpp) | 🔴 Hard | C++ |
 | [2956](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [Find Common Elements Between Two Arrays](problems/2956.find-common-elements-between-two-arrays.cpp) | 🟢 Easy | C++ |
+| [2957](https://leetcode.com/problems/remove-adjacent-almost-equal-characters/) | [Remove Adjacent Almost-Equal Characters](problems/2957.remove-adjacent-almost-equal-characters.cpp) | 🟡 Medium | C++ |
 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](problems/2958.length-of-longest-subarray-with-at-most-k-frequency.cpp) | 🟡 Medium | C++ |
 | [2959](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Number of Possible Sets of Closing Branches](problems/2959.number-of-possible-sets-of-closing-branches.cpp) | 🔴 Hard | C++ |
 | [2960](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Count Tested Devices After Test Operations](problems/2960.count-tested-devices-after-test-operations.cpp) | 🟢 Easy | C++ |
