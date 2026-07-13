@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1375 solved** — 🟢 428 Easy · 🟡 647 Medium · 🔴 298 Hard
+**1376 solved** — 🟢 428 Easy · 🟡 648 Medium · 🔴 298 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1354,6 +1354,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3877](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | [Minimum Removals to Achieve Target XOR](problems/3877.minimum-removals-to-achieve-target-xor.cpp) | 🟡 Medium | C++ |
 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](problems/3882.minimum-xor-path-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
+| [3891](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Minimum Increase to Maximize Special Indices](problems/3891.minimum-increase-to-maximize-special-indices.cpp) | 🟡 Medium | C++ |
 | [3894](https://leetcode.com/problems/traffic-signal-color/) | [Traffic Signal Color](problems/3894.traffic-signal-color.cpp) | 🟢 Easy | C++ |
 | [3895](https://leetcode.com/problems/count-digit-appearances/) | [Count Digit Appearances](problems/3895.count-digit-appearances.cpp) | 🟡 Medium | C++ |
 | [3896](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Minimum Operations to Transform Array into Alternating Prime](problems/3896.minimum-operations-to-transform-array-into-alternating-prime.cpp) | 🟡 Medium | C++ |
