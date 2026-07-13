@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1421 solved** — 🟢 441 Easy · 🟡 670 Medium · 🔴 308 Hard
+**1422 solved** — 🟢 441 Easy · 🟡 670 Medium · 🔴 309 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -951,6 +951,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2542](https://leetcode.com/problems/maximum-subsequence-score/) | [Maximum Subsequence Score](problems/2542.maximum-subsequence-score.cpp) | 🟡 Medium | C++ |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | [Check if Point Is Reachable](problems/2543.check-if-point-is-reachable.cpp) | 🔴 Hard | C++ |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Count Distinct Numbers on Board](problems/2549.count-distinct-numbers-on-board.cpp) | 🟢 Easy | C++ |
+| [2551](https://leetcode.com/problems/put-marbles-in-bags/) | [Put Marbles in Bags](problems/2551.put-marbles-in-bags.cpp) | 🔴 Hard | C++ |
 | [2552](https://leetcode.com/problems/count-increasing-quadruplets/) | [Count Increasing Quadruplets](problems/2552.count-increasing-quadruplets.cpp) | 🔴 Hard | C++ |
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2555](https://leetcode.com/problems/maximize-win-from-two-segments/) | [Maximize Win From Two Segments](problems/2555.maximize-win-from-two-segments.cpp) | 🟡 Medium | C++ |
