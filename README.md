@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1381 solved** — 🟢 430 Easy · 🟡 649 Medium · 🔴 300 Hard
+**1382 solved** — 🟢 430 Easy · 🟡 650 Medium · 🔴 300 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -563,6 +563,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1471](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [The k Strongest Values in an Array](problems/1471.the-k-strongest-values-in-an-array.cpp) | 🟡 Medium | C++ |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | [Subrectangle Queries](problems/1476.subrectangle-queries.cpp) | 🟡 Medium | C++ |
 | [1477](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Find Two Non-overlapping Sub-arrays Each With Target Sum](problems/1477.find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) | 🟡 Medium | C++ |
+| [1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [Least Number of Unique Integers after K Removals](problems/1481.least-number-of-unique-integers-after-k-removals.cpp) | 🟡 Medium | C++ |
 | [1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Kth Ancestor of a Tree Node](problems/1483.kth-ancestor-of-a-tree-node.cpp) | 🔴 Hard | C++ |
 | [1486](https://leetcode.com/problems/xor-operation-in-an-array/) | [XOR Operation in an Array](problems/1486.xor-operation-in-an-array.cpp) | 🟢 Easy | C++ |
 | [1492](https://leetcode.com/problems/the-kth-factor-of-n/) | [The kth Factor of n](problems/1492.the-kth-factor-of-n.py) | 🟡 Medium | Python |
