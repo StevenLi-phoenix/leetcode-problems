@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1539 solved** — 🟢 467 Easy · 🟡 728 Medium · 🔴 342 Hard
+**1540 solved** — 🟢 467 Easy · 🟡 729 Medium · 🔴 342 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1288,6 +1288,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3302](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Find the Lexicographically Smallest Valid Sequence](problems/3302.find-the-lexicographically-smallest-valid-sequence.cpp) | 🟡 Medium | C++ |
 | [3303](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Find the Occurrence of First Almost Equal Substring](problems/3303.find-the-occurrence-of-first-almost-equal-substring.cpp) | 🔴 Hard | C++ |
 | [3305](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | [Count of Substrings Containing Every Vowel and K Consonants I](problems/3305.count-of-substrings-containing-every-vowel-and-k-consonants-i.cpp) | 🟡 Medium | C++ |
+| [3310](https://leetcode.com/problems/remove-methods-from-project/) | [Remove Methods From Project](problems/3310.remove-methods-from-project.cpp) | 🟡 Medium | C++ |
 | [3312](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Sorted GCD Pair Queries](problems/3312.sorted-gcd-pair-queries.cpp) | 🔴 Hard | C++ |
 | [3314](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Construct the Minimum Bitwise Array I](problems/3314.construct-the-minimum-bitwise-array-i.cpp) | 🟢 Easy | C++ |
 | [3315](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | [Construct the Minimum Bitwise Array II](problems/3315.construct-the-minimum-bitwise-array-ii.cpp) | 🟡 Medium | C++ |
