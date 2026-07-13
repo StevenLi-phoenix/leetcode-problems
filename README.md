@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1535 solved** — 🟢 466 Easy · 🟡 725 Medium · 🔴 342 Hard
+**1536 solved** — 🟢 466 Easy · 🟡 726 Medium · 🔴 342 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -802,6 +802,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1936](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Add Minimum Number of Rungs](problems/1936.add-minimum-number-of-rungs.cpp) | 🟡 Medium | C++ |
 | [1938](https://leetcode.com/problems/maximum-genetic-difference-query/) | [Maximum Genetic Difference Query](problems/1938.maximum-genetic-difference-query.cpp) | 🔴 Hard | C++ |
 | [1941](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [Check if All Characters Have Equal Number of Occurrences](problems/1941.check-if-all-characters-have-equal-number-of-occurrences.cpp) | 🟢 Easy | C++ |
+| [1943](https://leetcode.com/problems/describe-the-painting/) | [Describe the Painting](problems/1943.describe-the-painting.cpp) | 🟡 Medium | C++ |
 | [1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [Number of Visible People in a Queue](problems/1944.number-of-visible-people-in-a-queue.cpp) | 🔴 Hard | C++ |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](problems/1945.sum-of-digits-of-string-after-convert.cpp) | 🟢 Easy | C++ |
 | [1948](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Delete Duplicate Folders in System](problems/1948.delete-duplicate-folders-in-system.cpp) | 🔴 Hard | C++ |
