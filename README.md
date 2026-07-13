@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1310 solved** — 🟢 412 Easy · 🟡 616 Medium · 🔴 282 Hard
+**1311 solved** — 🟢 412 Easy · 🟡 616 Medium · 🔴 283 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -278,6 +278,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [654](https://leetcode.com/problems/maximum-binary-tree/) | [Maximum Binary Tree](problems/654.maximum-binary-tree.cpp) | 🟡 Medium | C++ |
 | [657](https://leetcode.com/problems/robot-return-to-origin/) | [Robot Return to Origin](problems/657.robot-return-to-origin.cpp) | 🟢 Easy | C++ |
 | [661](https://leetcode.com/problems/image-smoother/) | [Image Smoother](problems/661.image-smoother.cpp) | 🟢 Easy | C++ |
+| [664](https://leetcode.com/problems/strange-printer/) | [Strange Printer](problems/664.strange-printer.cpp) | 🔴 Hard | C++ |
 | [667](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Beautiful Arrangement II](problems/667.beautiful-arrangement-ii.cpp) | 🟡 Medium | C++ |
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [672](https://leetcode.com/problems/bulb-switcher-ii/) | [Bulb Switcher II](problems/672.bulb-switcher-ii.cpp) | 🟡 Medium | C++ |
