@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1330 solved** — 🟢 418 Easy · 🟡 624 Medium · 🔴 288 Hard
+**1331 solved** — 🟢 418 Easy · 🟡 624 Medium · 🔴 288 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1336,3 +1336,4 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3954](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Sum of Compatible Numbers in Range I](problems/3954.sum-of-compatible-numbers-in-range-i.cpp) | 🟢 Easy | C++ |
 | [3955](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | [Valid Binary Strings With Cost Limit](problems/3955.valid-binary-strings-with-cost-limit.cpp) | 🟡 Medium | C++ |
 | [3959](https://leetcode.com/problems/check-good-integer/) | [Check Good Integer](problems/3959.check-good-integer.cpp) | 🟢 Easy | C++ |
+| [3989](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [Maximum Consistent Columns in a Grid](problems/3989.maximum-consistent-columns-in-a-grid.cpp) | — | C++ |
