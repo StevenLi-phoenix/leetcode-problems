@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1265 solved** — 🟢 409 Easy · 🟡 588 Medium · 🔴 268 Hard
+**1266 solved** — 🟢 409 Easy · 🟡 588 Medium · 🔴 269 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -566,6 +566,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](problems/1636.sort-array-by-increasing-frequency.cpp) | 🟢 Easy | C++ |
 | [1640](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Check Array Formation Through Concatenation](problems/1640.check-array-formation-through-concatenation.cpp) | 🟢 Easy | C++ |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Count Sorted Vowel Strings](problems/1641.count-sorted-vowel-strings.cpp) | 🟡 Medium | C++ |
+| [1643](https://leetcode.com/problems/kth-smallest-instructions/) | [Kth Smallest Instructions](problems/1643.kth-smallest-instructions.cpp) | 🔴 Hard | C++ |
 | [1646](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Get Maximum in Generated Array](problems/1646.get-maximum-in-generated-array.cpp) | 🟢 Easy | C++ |
 | [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Create Sorted Array through Instructions](problems/1649.create-sorted-array-through-instructions.cpp) | 🔴 Hard | C++ |
 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](problems/1653.minimum-deletions-to-make-string-balanced.cpp) | 🟡 Medium | C++ |
