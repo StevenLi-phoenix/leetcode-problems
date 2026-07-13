@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1446 solved** — 🟢 446 Easy · 🟡 680 Medium · 🔴 318 Hard
+**1447 solved** — 🟢 446 Easy · 🟡 681 Medium · 🔴 318 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -362,6 +362,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [813](https://leetcode.com/problems/largest-sum-of-averages/) | [Largest Sum of Averages](problems/813.largest-sum-of-averages.cpp) | 🟡 Medium | C++ |
 | [814](https://leetcode.com/problems/binary-tree-pruning/) | [Binary Tree Pruning](problems/814.binary-tree-pruning.cpp) | 🟡 Medium | C++ |
 | [815](https://leetcode.com/problems/bus-routes/) | [Bus Routes](problems/815.bus-routes.cpp) | 🔴 Hard | C++ |
+| [816](https://leetcode.com/problems/ambiguous-coordinates/) | [Ambiguous Coordinates](problems/816.ambiguous-coordinates.cpp) | 🟡 Medium | C++ |
 | [817](https://leetcode.com/problems/linked-list-components/) | [Linked List Components](problems/817.linked-list-components.cpp) | 🟡 Medium | C++ |
 | [820](https://leetcode.com/problems/short-encoding-of-words/) | [Short Encoding of Words](problems/820.short-encoding-of-words.cpp) | 🟡 Medium | C++ |
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Shortest Distance to a Character](problems/821.shortest-distance-to-a-character.cpp) | 🟢 Easy | C++ |
