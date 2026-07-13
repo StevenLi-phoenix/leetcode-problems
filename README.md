@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1304 solved** — 🟢 412 Easy · 🟡 613 Medium · 🔴 279 Hard
+**1305 solved** — 🟢 412 Easy · 🟡 613 Medium · 🔴 280 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -580,6 +580,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Minimum One Bit Operations to Make Integers Zero](problems/1611.minimum-one-bit-operations-to-make-integers-zero.cpp) | 🔴 Hard | C++ |
 | [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](problems/1614.maximum-nesting-depth-of-the-parentheses.cpp) | 🟢 Easy | C++ |
 | [1616](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [Split Two Strings to Make Palindrome](problems/1616.split-two-strings-to-make-palindrome.cpp) | 🟡 Medium | C++ |
+| [1617](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [Count Subtrees With Max Distance Between Cities](problems/1617.count-subtrees-with-max-distance-between-cities.cpp) | 🔴 Hard | C++ |
 | [1622](https://leetcode.com/problems/fancy-sequence/) | [Fancy Sequence](problems/1622.fancy-sequence.cpp) | 🔴 Hard | C++ |
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](problems/1624.largest-substring-between-two-equal-characters.cpp) | 🟢 Easy | C++ |
 | [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
