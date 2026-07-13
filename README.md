@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1520 solved** — 🟢 463 Easy · 🟡 719 Medium · 🔴 336 Hard
+**1521 solved** — 🟢 463 Easy · 🟡 720 Medium · 🔴 336 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -489,6 +489,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [Insufficient Nodes in Root to Leaf Paths](problems/1080.insufficient-nodes-in-root-to-leaf-paths.cpp) | 🟡 Medium | C++ |
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Duplicate Zeros](problems/1089.duplicate-zeros.cpp) | 🟢 Easy | C++ |
+| [1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Shortest Path in Binary Matrix](problems/1091.shortest-path-in-binary-matrix.cpp) | 🟡 Medium | C++ |
 | [1092](https://leetcode.com/problems/shortest-common-supersequence/) | [Shortest Common Supersequence ](problems/1092.shortest-common-supersequence.cpp) | 🔴 Hard | C++ |
 | [1093](https://leetcode.com/problems/statistics-from-a-large-sample/) | [Statistics from a Large Sample](problems/1093.statistics-from-a-large-sample.cpp) | 🟡 Medium | C++ |
 | [1094](https://leetcode.com/problems/car-pooling/) | [Car Pooling](problems/1094.car-pooling.cpp) | 🟡 Medium | C++ |
