@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1264 solved** — 🟢 408 Easy · 🟡 588 Medium · 🔴 268 Hard
+**1265 solved** — 🟢 409 Easy · 🟡 588 Medium · 🔴 268 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1227,6 +1227,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
 | [3819](https://leetcode.com/problems/rotate-non-negative-elements/) | [Rotate Non Negative Elements](problems/3819.rotate-non-negative-elements.cpp) | 🟡 Medium | C++ |
 | [3820](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/) | [Pythagorean Distance Nodes in a Tree](problems/3820.pythagorean-distance-nodes-in-a-tree.cpp) | 🟡 Medium | C++ |
+| [3823](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Reverse Letters Then Special Characters in a String](problems/3823.reverse-letters-then-special-characters-in-a-string.cpp) | 🟢 Easy | C++ |
 | [3824](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | [Minimum K to Reduce Array Within Limit](problems/3824.minimum-k-to-reduce-array-within-limit.cpp) | 🟡 Medium | C++ |
 | [3825](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](problems/3825.longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.cpp) | 🟡 Medium | C++ |
 | [3830](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | [Longest Alternating Subarray After Removing At Most One Element](problems/3830.longest-alternating-subarray-after-removing-at-most-one-element.cpp) | 🔴 Hard | C++ |
