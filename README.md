@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1363 solved** — 🟢 426 Easy · 🟡 639 Medium · 🔴 296 Hard
+**1364 solved** — 🟢 426 Easy · 🟡 640 Medium · 🔴 296 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1312,6 +1312,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3791](https://leetcode.com/problems/number-of-balanced-integers-in-a-range/) | [Number of Balanced Integers in a Range](problems/3791.number-of-balanced-integers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3793](https://leetcode.com/problems/find-users-with-high-token-usage/) | [Find Users with High Token Usage](problems/3793.find-users-with-high-token-usage.sql) | 🟢 Easy | mysql |
 | [3794](https://leetcode.com/problems/reverse-string-prefix/) | [Reverse String Prefix](problems/3794.reverse-string-prefix.cpp) | 🟢 Easy | C++ |
+| [3796](https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence/) | [Find Maximum Value in a Constrained Sequence](problems/3796.find-maximum-value-in-a-constrained-sequence.cpp) | 🟡 Medium | C++ |
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
 | [3800](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Cost to Make Two Binary Strings Equal](problems/3800.minimum-cost-to-make-two-binary-strings-equal.cpp) | 🟡 Medium | C++ |
 | [3801](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | [Minimum Cost to Merge Sorted Lists](problems/3801.minimum-cost-to-merge-sorted-lists.cpp) | 🔴 Hard | C++ |
