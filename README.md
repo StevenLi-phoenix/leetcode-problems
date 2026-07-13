@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1516 solved** — 🟢 463 Easy · 🟡 715 Medium · 🔴 336 Hard
+**1517 solved** — 🟢 463 Easy · 🟡 716 Medium · 🔴 336 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1001,6 +1001,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2506](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [Count Pairs Of Similar Strings](problems/2506.count-pairs-of-similar-strings.cpp) | 🟢 Easy | C++ |
 | [2507](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Smallest Value After Replacing With Sum of Prime Factors](problems/2507.smallest-value-after-replacing-with-sum-of-prime-factors.cpp) | 🟡 Medium | C++ |
 | [2511](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [Maximum Enemy Forts That Can Be Captured](problems/2511.maximum-enemy-forts-that-can-be-captured.cpp) | 🟢 Easy | C++ |
+| [2513](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Minimize the Maximum of Two Arrays](problems/2513.minimize-the-maximum-of-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](problems/2515.shortest-distance-to-target-string-in-a-circular-array.cpp) | 🟢 Easy | C++ |
 | [2518](https://leetcode.com/problems/number-of-great-partitions/) | [Number of Great Partitions](problems/2518.number-of-great-partitions.cpp) | 🔴 Hard | C++ |
 | [2520](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Count the Digits That Divide a Number](problems/2520.count-the-digits-that-divide-a-number.cpp) | 🟢 Easy | C++ |
