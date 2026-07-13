@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1487 solved** — 🟢 451 Easy · 🟡 702 Medium · 🔴 332 Hard
+**1488 solved** — 🟢 451 Easy · 🟡 702 Medium · 🔴 333 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -772,6 +772,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](problems/1930.unique-length-3-palindromic-subsequences.cpp) | 🟡 Medium | C++ |
 | [1931](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [Painting a Grid With Three Different Colors](problems/1931.painting-a-grid-with-three-different-colors.cpp) | 🔴 Hard | C++ |
 | [1936](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Add Minimum Number of Rungs](problems/1936.add-minimum-number-of-rungs.cpp) | 🟡 Medium | C++ |
+| [1938](https://leetcode.com/problems/maximum-genetic-difference-query/) | [Maximum Genetic Difference Query](problems/1938.maximum-genetic-difference-query.cpp) | 🔴 Hard | C++ |
 | [1941](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [Check if All Characters Have Equal Number of Occurrences](problems/1941.check-if-all-characters-have-equal-number-of-occurrences.cpp) | 🟢 Easy | C++ |
 | [1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [Number of Visible People in a Queue](problems/1944.number-of-visible-people-in-a-queue.cpp) | 🔴 Hard | C++ |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](problems/1945.sum-of-digits-of-string-after-convert.cpp) | 🟢 Easy | C++ |
