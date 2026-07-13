@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1453 solved** — 🟢 448 Easy · 🟡 683 Medium · 🔴 320 Hard
+**1454 solved** — 🟢 448 Easy · 🟡 684 Medium · 🔴 320 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1177,6 +1177,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3193](https://leetcode.com/problems/count-the-number-of-inversions/) | [Count the Number of Inversions](problems/3193.count-the-number-of-inversions.cpp) | 🔴 Hard | C++ |
 | [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
+| [3202](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Find the Maximum Length of Valid Subsequence II](problems/3202.find-the-maximum-length-of-valid-subsequence-ii.cpp) | 🟡 Medium | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
 | [3209](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | [Number of Subarrays With AND Value of K](problems/3209.number-of-subarrays-with-and-value-of-k.cpp) | 🔴 Hard | C++ |
