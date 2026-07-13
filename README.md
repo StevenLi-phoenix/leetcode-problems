@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1505 solved** — 🟢 459 Easy · 🟡 710 Medium · 🔴 334 Hard
+**1506 solved** — 🟢 459 Easy · 🟡 711 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -568,6 +568,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1362](https://leetcode.com/problems/closest-divisors/) | [Closest Divisors](problems/1362.closest-divisors.cpp) | 🟡 Medium | C++ |
 | [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](problems/1365.how-many-numbers-are-smaller-than-the-current-number.cpp) | 🟢 Easy | C++ |
 | [1366](https://leetcode.com/problems/rank-teams-by-votes/) | [Rank Teams by Votes](problems/1366.rank-teams-by-votes.cpp) | 🟡 Medium | C++ |
+| [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](problems/1367.linked-list-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](problems/1370.increasing-decreasing-string.cpp) | 🟢 Easy | C++ |
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Maximum Sum BST in Binary Tree](problems/1373.maximum-sum-bst-in-binary-tree.cpp) | 🔴 Hard | C++ |
