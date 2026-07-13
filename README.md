@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1458 solved** — 🟢 448 Easy · 🟡 686 Medium · 🔴 322 Hard
+**1459 solved** — 🟢 448 Easy · 🟡 687 Medium · 🔴 322 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -448,6 +448,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Capacity To Ship Packages Within D Days](problems/1011.capacity-to-ship-packages-within-d-days.cpp) | 🟡 Medium | C++ |
 | [1016](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Binary String With Substrings Representing 1 To N](problems/1016.binary-string-with-substrings-representing-1-to-n.cpp) | 🟡 Medium | C++ |
 | [1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Binary Prefix Divisible By 5](problems/1018.binary-prefix-divisible-by-5.cpp) | 🟢 Easy | C++ |
+| [1019](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Next Greater Node In Linked List](problems/1019.next-greater-node-in-linked-list.cpp) | 🟡 Medium | C++ |
 | [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | [Remove Outermost Parentheses](problems/1021.remove-outermost-parentheses.cpp) | 🟢 Easy | C++ |
 | [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Sum of Root To Leaf Binary Numbers](problems/1022.sum-of-root-to-leaf-binary-numbers.cpp) | 🟢 Easy | C++ |
 | [1023](https://leetcode.com/problems/camelcase-matching/) | [Camelcase Matching](problems/1023.camelcase-matching.cpp) | 🟡 Medium | C++ |
