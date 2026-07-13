@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1558 solved** — 🟢 475 Easy · 🟡 738 Medium · 🔴 343 Hard
+**1559 solved** — 🟢 475 Easy · 🟡 739 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -305,6 +305,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [607](https://leetcode.com/problems/sales-person/) | [Sales Person](problems/607.sales-person.sql) | 🟢 Easy | mysql |
 | [617](https://leetcode.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](problems/617.merge-two-binary-trees.cpp) | 🟢 Easy | C++ |
 | [619](https://leetcode.com/problems/biggest-single-number/) | [Biggest Single Number](problems/619.biggest-single-number.sql) | 🟢 Easy | mysql |
+| [623](https://leetcode.com/problems/add-one-row-to-tree/) | [Add One Row to Tree](problems/623.add-one-row-to-tree.cpp) | 🟡 Medium | C++ |
 | [628](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Product of Three Numbers](problems/628.maximum-product-of-three-numbers.cpp) | 🟢 Easy | C++ |
 | [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Smallest Range Covering Elements from K Lists](problems/632.smallest-range-covering-elements-from-k-lists.cpp) | 🔴 Hard | C++ |
 | [636](https://leetcode.com/problems/exclusive-time-of-functions/) | [Exclusive Time of Functions](problems/636.exclusive-time-of-functions.cpp) | 🟡 Medium | C++ |
