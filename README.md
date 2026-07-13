@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1552 solved** — 🟢 473 Easy · 🟡 734 Medium · 🔴 343 Hard
+**1553 solved** — 🟢 473 Easy · 🟡 735 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -688,6 +688,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](problems/1624.largest-substring-between-two-equal-characters.cpp) | 🟢 Easy | C++ |
 | [1626](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Best Team With No Conflicts](problems/1626.best-team-with-no-conflicts.cpp) | 🟡 Medium | C++ |
 | [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
+| [1630](https://leetcode.com/problems/arithmetic-subarrays/) | [Arithmetic Subarrays](problems/1630.arithmetic-subarrays.cpp) | 🟡 Medium | C++ |
 | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](problems/1631.path-with-minimum-effort.cpp) | 🟡 Medium | C++ |
 | [1632](https://leetcode.com/problems/rank-transform-of-a-matrix/) | [Rank Transform of a Matrix](problems/1632.rank-transform-of-a-matrix.cpp) | 🔴 Hard | C++ |
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Percentage of Users Attended a Contest](problems/1633.percentage-of-users-attended-a-contest.sql) | 🟢 Easy | mysql |
