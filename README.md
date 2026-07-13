@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1358 solved** — 🟢 424 Easy · 🟡 638 Medium · 🔴 294 Hard
+**1359 solved** — 🟢 424 Easy · 🟡 639 Medium · 🔴 294 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -577,6 +577,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1528](https://leetcode.com/problems/shuffle-string/) | [Shuffle String](problems/1528.shuffle-string.py) | 🟢 Easy | Python |
 | [1531](https://leetcode.com/problems/string-compression-ii/) | [String Compression II](problems/1531.string-compression-ii.cpp) | 🔴 Hard | C++ |
 | [1534](https://leetcode.com/problems/count-good-triplets/) | [Count Good Triplets](problems/1534.count-good-triplets.cpp) | 🟢 Easy | C++ |
+| [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | [Find the Winner of an Array Game](problems/1535.find-the-winner-of-an-array-game.cpp) | 🟡 Medium | C++ |
 | [1536](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Minimum Swaps to Arrange a Binary Grid](problems/1536.minimum-swaps-to-arrange-a-binary-grid.cpp) | 🟡 Medium | C++ |
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](problems/1545.find-kth-bit-in-nth-binary-string.cpp) | 🟡 Medium | C++ |
 | [1546](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problems/1546.maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.cpp) | 🟡 Medium | C++ |
