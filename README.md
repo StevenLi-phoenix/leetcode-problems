@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1549 solved** — 🟢 472 Easy · 🟡 732 Medium · 🔴 343 Hard
+**1550 solved** — 🟢 472 Easy · 🟡 733 Medium · 🔴 343 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1360,6 +1360,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3488](https://leetcode.com/problems/closest-equal-element-queries/) | [Closest Equal Element Queries](problems/3488.closest-equal-element-queries.cpp) | 🟡 Medium | C++ |
 | [3492](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [Maximum Containers on a Ship](problems/3492.maximum-containers-on-a-ship.cpp) | 🟢 Easy | C++ |
 | [3493](https://leetcode.com/problems/properties-graph/) | [Properties Graph](problems/3493.properties-graph.cpp) | 🟡 Medium | C++ |
+| [3497](https://leetcode.com/problems/analyze-subscription-conversion/) | [Analyze Subscription Conversion ](problems/3497.analyze-subscription-conversion.sql) | 🟡 Medium | mysql |
 | [3500](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [Minimum Cost to Divide Array Into Subarrays](problems/3500.minimum-cost-to-divide-array-into-subarrays.cpp) | 🔴 Hard | C++ |
 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](problems/3501.maximize-active-section-with-trade-ii.cpp) | 🔴 Hard | C++ |
 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](problems/3507.minimum-pair-removal-to-sort-array-i.cpp) | 🟢 Easy | C++ |
