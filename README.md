@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1492 solved** — 🟢 453 Easy · 🟡 703 Medium · 🔴 334 Hard
+**1493 solved** — 🟢 454 Easy · 🟡 703 Medium · 🔴 334 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -254,6 +254,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [502](https://leetcode.com/problems/ipo/) | [IPO](problems/502.ipo.cpp) | 🔴 Hard | C++ |
 | [504](https://leetcode.com/problems/base-7/) | [Base 7](problems/504.base-7.cpp) | 🟢 Easy | C++ |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
+| [511](https://leetcode.com/problems/game-play-analysis-i/) | [Game Play Analysis I](problems/511.game-play-analysis-i.sql) | 🟢 Easy | mysql |
 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](problems/515.find-largest-value-in-each-tree-row.cpp) | 🟡 Medium | C++ |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Longest Palindromic Subsequence](problems/516.longest-palindromic-subsequence.cpp) | 🟡 Medium | C++ |
 | [518](https://leetcode.com/problems/coin-change-ii/) | [Coin Change II](problems/518.coin-change-ii.cpp) | 🟡 Medium | C++ |
