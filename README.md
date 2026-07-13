@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1537 solved** — 🟢 466 Easy · 🟡 727 Medium · 🔴 342 Hard
+**1538 solved** — 🟢 467 Easy · 🟡 727 Medium · 🔴 342 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1222,6 +1222,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3113](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | [Find the Number of Subarrays Where Boundary Elements Are Maximum](problems/3113.find-the-number-of-subarrays-where-boundary-elements-are-maximum.cpp) | 🔴 Hard | C++ |
 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](problems/3120.count-the-number-of-special-characters-i.cpp) | 🟢 Easy | C++ |
 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Count the Number of Special Characters II](problems/3121.count-the-number-of-special-characters-ii.cpp) | 🟡 Medium | C++ |
+| [3127](https://leetcode.com/problems/make-a-square-with-the-same-color/) | [Make a Square with the Same Color](problems/3127.make-a-square-with-the-same-color.cpp) | 🟢 Easy | C++ |
 | [3129](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Find All Possible Stable Binary Arrays I](problems/3129.find-all-possible-stable-binary-arrays-i.cpp) | 🟡 Medium | C++ |
 | [3130](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [Find All Possible Stable Binary Arrays II](problems/3130.find-all-possible-stable-binary-arrays-ii.cpp) | 🔴 Hard | C++ |
 | [3131](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [Find the Integer Added to Array I](problems/3131.find-the-integer-added-to-array-i.cpp) | 🟢 Easy | C++ |
