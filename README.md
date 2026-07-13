@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1456 solved** — 🟢 448 Easy · 🟡 685 Medium · 🔴 321 Hard
+**1457 solved** — 🟢 448 Easy · 🟡 685 Medium · 🔴 322 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1422,6 +1422,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3841](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Palindromic Path Queries in a Tree](problems/3841.palindromic-path-queries-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [3845](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | [Maximum Subarray XOR with Bounded Range](problems/3845.maximum-subarray-xor-with-bounded-range.cpp) | 🔴 Hard | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
+| [3850](https://leetcode.com/problems/count-sequences-to-k/) | [Count Sequences to K](problems/3850.count-sequences-to-k.cpp) | 🔴 Hard | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
 | [3864](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Minimum Cost to Partition a Binary String](problems/3864.minimum-cost-to-partition-a-binary-string.cpp) | 🔴 Hard | C++ |
