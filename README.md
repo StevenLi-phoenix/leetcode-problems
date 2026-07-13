@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1433 solved** — 🟢 444 Easy · 🟡 676 Medium · 🔴 311 Hard
+**1434 solved** — 🟢 444 Easy · 🟡 677 Medium · 🔴 311 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -309,6 +309,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [690](https://leetcode.com/problems/employee-importance/) | [Employee Importance](problems/690.employee-importance.cpp) | 🟡 Medium | C++ |
 | [691](https://leetcode.com/problems/stickers-to-spell-word/) | [Stickers to Spell Word](problems/691.stickers-to-spell-word.cpp) | 🔴 Hard | C++ |
 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](problems/693.binary-number-with-alternating-bits.cpp) | 🟢 Easy | C++ |
+| [695](https://leetcode.com/problems/max-area-of-island/) | [Max Area of Island](problems/695.max-area-of-island.cpp) | 🟡 Medium | C++ |
 | [696](https://leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](problems/696.count-binary-substrings.cpp) | 🟢 Easy | C++ |
 | [699](https://leetcode.com/problems/falling-squares/) | [Falling Squares](problems/699.falling-squares.cpp) | 🔴 Hard | C++ |
 | [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in a Binary Search Tree](problems/700.search-in-a-binary-search-tree.cpp) | 🟢 Easy | C++ |
