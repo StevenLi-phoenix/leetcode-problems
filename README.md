@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1560 solved** — 🟢 475 Easy · 🟡 739 Medium · 🔴 344 Hard
+**1561 solved** — 🟢 476 Easy · 🟡 739 Medium · 🔴 344 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -283,6 +283,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [553](https://leetcode.com/problems/optimal-division/) | [Optimal Division](problems/553.optimal-division.cpp) | 🟡 Medium | C++ |
 | [554](https://leetcode.com/problems/brick-wall/) | [Brick Wall](problems/554.brick-wall.cpp) | 🟡 Medium | C++ |
 | [556](https://leetcode.com/problems/next-greater-element-iii/) | [Next Greater Element III](problems/556.next-greater-element-iii.cpp) | 🟡 Medium | C++ |
+| [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](problems/557.reverse-words-in-a-string-iii.cpp) | 🟢 Easy | C++ |
 | [558](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Logical OR of Two Binary Grids Represented as Quad-Trees](problems/558.logical-or-of-two-binary-grids-represented-as-quad-trees.cpp) | 🟡 Medium | C++ |
 | [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Maximum Depth of N-ary Tree](problems/559.maximum-depth-of-n-ary-tree.cpp) | 🟢 Easy | C++ |
 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](problems/560.subarray-sum-equals-k.cpp) | 🟡 Medium | C++ |
