@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1336 solved** — 🟢 420 Easy · 🟡 624 Medium · 🔴 290 Hard
+**1337 solved** — 🟢 420 Easy · 🟡 625 Medium · 🔴 290 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -593,6 +593,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1603](https://leetcode.com/problems/design-parking-system/) | [Design Parking System](problems/1603.design-parking-system.cpp) | 🟢 Easy | C++ |
 | [1604](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](problems/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.cpp) | 🟡 Medium | C++ |
 | [1605](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [Find Valid Matrix Given Row and Column Sums](problems/1605.find-valid-matrix-given-row-and-column-sums.cpp) | 🟡 Medium | C++ |
+| [1609](https://leetcode.com/problems/even-odd-tree/) | [Even Odd Tree](problems/1609.even-odd-tree.cpp) | 🟡 Medium | C++ |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Minimum One Bit Operations to Make Integers Zero](problems/1611.minimum-one-bit-operations-to-make-integers-zero.cpp) | 🔴 Hard | C++ |
 | [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](problems/1614.maximum-nesting-depth-of-the-parentheses.cpp) | 🟢 Easy | C++ |
 | [1616](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [Split Two Strings to Make Palindrome](problems/1616.split-two-strings-to-make-palindrome.cpp) | 🟡 Medium | C++ |
