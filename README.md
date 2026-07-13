@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1291 solved** — 🟢 411 Easy · 🟡 605 Medium · 🔴 275 Hard
+**1292 solved** — 🟢 411 Easy · 🟡 606 Medium · 🔴 275 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -452,6 +452,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1219](https://leetcode.com/problems/path-with-maximum-gold/) | [Path with Maximum Gold](problems/1219.path-with-maximum-gold.cpp) | 🟡 Medium | C++ |
 | [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Split a String in Balanced Strings](problems/1221.split-a-string-in-balanced-strings.cpp) | 🟢 Easy | C++ |
 | [1226](https://leetcode.com/problems/the-dining-philosophers/) | [The Dining Philosophers](problems/1226.the-dining-philosophers.cpp) | 🟡 Medium | C++ |
+| [1227](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Airplane Seat Assignment Probability](problems/1227.airplane-seat-assignment-probability.cpp) | 🟡 Medium | C++ |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](problems/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | 🟡 Medium | C++ |
 | [1240](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [Tiling a Rectangle with the Fewest Squares](problems/1240.tiling-a-rectangle-with-the-fewest-squares.cpp) | 🔴 Hard | C++ |
 | [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](problems/1249.minimum-remove-to-make-valid-parentheses.cpp) | 🟡 Medium | C++ |
