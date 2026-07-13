@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1312 solved** — 🟢 412 Easy · 🟡 616 Medium · 🔴 284 Hard
+**1313 solved** — 🟢 412 Easy · 🟡 617 Medium · 🔴 284 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1017,6 +1017,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3010](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Divide an Array Into Subarrays With Minimum Cost I](problems/3010.divide-an-array-into-subarrays-with-minimum-cost-i.cpp) | 🟢 Easy | C++ |
 | [3013](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [Divide an Array Into Subarrays With Minimum Cost II](problems/3013.divide-an-array-into-subarrays-with-minimum-cost-ii.cpp) | 🔴 Hard | C++ |
 | [3014](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Minimum Number of Pushes to Type Word I](problems/3014.minimum-number-of-pushes-to-type-word-i.cpp) | 🟢 Easy | C++ |
+| [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](problems/3016.minimum-number-of-pushes-to-type-word-ii.cpp) | 🟡 Medium | C++ |
 | [3019](https://leetcode.com/problems/number-of-changing-keys/) | [Number of Changing Keys](problems/3019.number-of-changing-keys.cpp) | 🟢 Easy | C++ |
 | [3027](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Find the Number of Ways to Place People II](problems/3027.find-the-number-of-ways-to-place-people-ii.cpp) | 🔴 Hard | C++ |
 | [3028](https://leetcode.com/problems/ant-on-the-boundary/) | [Ant on the Boundary](problems/3028.ant-on-the-boundary.cpp) | 🟢 Easy | C++ |
