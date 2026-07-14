@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1633 solved** — 🟢 494 Easy · 🟡 776 Medium · 🔴 361 Hard
+**1634 solved** — 🟢 494 Easy · 🟡 777 Medium · 🔴 361 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1614,6 +1614,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3896](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Minimum Operations to Transform Array into Alternating Prime](problems/3896.minimum-operations-to-transform-array-into-alternating-prime.cpp) | 🟡 Medium | C++ |
 | [3897](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [Maximum Value of Concatenated Binary Segments](problems/3897.maximum-value-of-concatenated-binary-segments.cpp) | 🔴 Hard | C++ |
 | [3903](https://leetcode.com/problems/smallest-stable-index-i/) | [Smallest Stable Index I](problems/3903.smallest-stable-index-i.cpp) | 🟢 Easy | C++ |
+| [3904](https://leetcode.com/problems/smallest-stable-index-ii/) | [Smallest Stable Index II](problems/3904.smallest-stable-index-ii.cpp) | 🟡 Medium | C++ |
 | [3908](https://leetcode.com/problems/valid-digit-number/) | [Valid Digit Number](problems/3908.valid-digit-number.cpp) | 🟢 Easy | C++ |
 | [3909](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Compare Sums of Bitonic Parts](problems/3909.compare-sums-of-bitonic-parts.cpp) | 🟡 Medium | C++ |
 | [3910](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Count Connected Subgraphs with Even Node Sum](problems/3910.count-connected-subgraphs-with-even-node-sum.cpp) | 🔴 Hard | C++ |
