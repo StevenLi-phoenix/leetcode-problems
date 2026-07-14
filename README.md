@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1669 solved** — 🟢 506 Easy · 🟡 793 Medium · 🔴 368 Hard
+**1670 solved** — 🟢 507 Easy · 🟡 793 Medium · 🔴 368 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -189,6 +189,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Count of Smaller Numbers After Self](problems/315.count-of-smaller-numbers-after-self.cpp) | 🔴 Hard | C++ |
 | [319](https://leetcode.com/problems/bulb-switcher/) | [Bulb Switcher](problems/319.bulb-switcher.cpp) | 🟡 Medium | C++ |
 | [322](https://leetcode.com/problems/coin-change/) | [Coin Change](problems/322.coin-change.cpp) | 🟡 Medium | C++ |
+| [326](https://leetcode.com/problems/power-of-three/) | [Power of Three](problems/326.power-of-three.cpp) | 🟢 Easy | C++ |
 | [327](https://leetcode.com/problems/count-of-range-sum/) | [Count of Range Sum](problems/327.count-of-range-sum.cpp) | 🔴 Hard | C++ |
 | [328](https://leetcode.com/problems/odd-even-linked-list/) | [Odd Even Linked List](problems/328.odd-even-linked-list.cpp) | 🟡 Medium | C++ |
 | [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Longest Increasing Path in a Matrix](problems/329.longest-increasing-path-in-a-matrix.cpp) | 🔴 Hard | C++ |
