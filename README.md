@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1654 solved** — 🟢 501 Easy · 🟡 786 Medium · 🔴 365 Hard
+**1655 solved** — 🟢 502 Easy · 🟡 786 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1013,6 +1013,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2325](https://leetcode.com/problems/decode-the-message/) | [Decode the Message](problems/2325.decode-the-message.cpp) | 🟢 Easy | C++ |
 | [2326](https://leetcode.com/problems/spiral-matrix-iv/) | [Spiral Matrix IV](problems/2326.spiral-matrix-iv.cpp) | 🟡 Medium | C++ |
 | [2328](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | [Number of Increasing Paths in a Grid](problems/2328.number-of-increasing-paths-in-a-grid.cpp) | 🔴 Hard | C++ |
+| [2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [Evaluate Boolean Binary Tree](problems/2331.evaluate-boolean-binary-tree.cpp) | 🟢 Easy | C++ |
 | [2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [The Latest Time to Catch a Bus](problems/2332.the-latest-time-to-catch-a-bus.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
 | [2341](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Maximum Number of Pairs in Array](problems/2341.maximum-number-of-pairs-in-array.cpp) | 🟢 Easy | C++ |
