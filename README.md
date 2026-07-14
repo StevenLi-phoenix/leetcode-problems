@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1743 solved** — 🟢 524 Easy · 🟡 835 Medium · 🔴 382 Hard
+**1744 solved** — 🟢 524 Easy · 🟡 836 Medium · 🔴 382 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1211,6 +1211,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
 | [2660](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [Determine the Winner of a Bowling Game](problems/2660.determine-the-winner-of-a-bowling-game.cpp) | 🟢 Easy | C++ |
+| [2661](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [First Completely Painted Row or Column](problems/2661.first-completely-painted-row-or-column.cpp) | 🟡 Medium | C++ |
 | [2663](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [Lexicographically Smallest Beautiful String](problems/2663.lexicographically-smallest-beautiful-string.cpp) | 🔴 Hard | C++ |
 | [2666](https://leetcode.com/problems/allow-one-function-call/) | [Allow One Function Call](problems/2666.allow-one-function-call.js) | 🟢 Easy | JavaScript |
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
