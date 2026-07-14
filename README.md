@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1576 solved** — 🟢 481 Easy · 🟡 748 Medium · 🔴 345 Hard
+**1577 solved** — 🟢 481 Easy · 🟡 749 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -397,6 +397,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
 | [832](https://leetcode.com/problems/flipping-an-image/) | [Flipping an Image](problems/832.flipping-an-image.cpp) | 🟢 Easy | C++ |
 | [833](https://leetcode.com/problems/find-and-replace-in-string/) | [Find And Replace in String](problems/833.find-and-replace-in-string.cpp) | 🟡 Medium | C++ |
+| [835](https://leetcode.com/problems/image-overlap/) | [Image Overlap](problems/835.image-overlap.cpp) | 🟡 Medium | C++ |
 | [836](https://leetcode.com/problems/rectangle-overlap/) | [Rectangle Overlap](problems/836.rectangle-overlap.cpp) | 🟢 Easy | C++ |
 | [837](https://leetcode.com/problems/new-21-game/) | [New 21 Game](problems/837.new-21-game.cpp) | 🟡 Medium | C++ |
 | [839](https://leetcode.com/problems/similar-string-groups/) | [Similar String Groups](problems/839.similar-string-groups.cpp) | 🔴 Hard | C++ |
