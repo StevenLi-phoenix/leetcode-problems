@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1732 solved** — 🟢 522 Easy · 🟡 828 Medium · 🔴 380 Hard
+**1733 solved** — 🟢 523 Easy · 🟡 828 Medium · 🔴 380 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1566,6 +1566,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3600](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](problems/3600.maximize-spanning-tree-stability-with-upgrades.cpp) | 🔴 Hard | C++ |
 | [3602](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Hexadecimal and Hexatrigesimal Conversion](problems/3602.hexadecimal-and-hexatrigesimal-conversion.cpp) | 🟢 Easy | C++ |
 | [3603](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/) | [Minimum Cost Path with Alternating Directions II](problems/3603.minimum-cost-path-with-alternating-directions-ii.cpp) | 🟡 Medium | C++ |
+| [3606](https://leetcode.com/problems/coupon-code-validator/) | [Coupon Code Validator](problems/3606.coupon-code-validator.cpp) | 🟢 Easy | C++ |
 | [3607](https://leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](problems/3607.power-grid-maintenance.cpp) | 🟡 Medium | C++ |
 | [3608](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | [Minimum Time for K Connected Components](problems/3608.minimum-time-for-k-connected-components.cpp) | 🟡 Medium | C++ |
 | [3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Process String with Special Operations I](problems/3612.process-string-with-special-operations-i.cpp) | 🟡 Medium | C++ |
