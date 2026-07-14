@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1657 solved** — 🟢 502 Easy · 🟡 788 Medium · 🔴 365 Hard
+**1658 solved** — 🟢 502 Easy · 🟡 789 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -239,6 +239,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [Arithmetic Slices II - Subsequence](problems/446.arithmetic-slices-ii-subsequence.cpp) | 🔴 Hard | C++ |
 | [447](https://leetcode.com/problems/number-of-boomerangs/) | [Number of Boomerangs](problems/447.number-of-boomerangs.cpp) | 🟡 Medium | C++ |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Find All Numbers Disappeared in an Array](problems/448.find-all-numbers-disappeared-in-an-array.cpp) | 🟢 Easy | C++ |
+| [449](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Serialize and Deserialize BST](problems/449.serialize-and-deserialize-bst.cpp) | 🟡 Medium | C++ |
 | [450](https://leetcode.com/problems/delete-node-in-a-bst/) | [Delete Node in a BST](problems/450.delete-node-in-a-bst.cpp) | 🟡 Medium | C++ |
 | [451](https://leetcode.com/problems/sort-characters-by-frequency/) | [Sort Characters By Frequency](problems/451.sort-characters-by-frequency.cpp) | 🟡 Medium | C++ |
 | [452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Minimum Number of Arrows to Burst Balloons](problems/452.minimum-number-of-arrows-to-burst-balloons.cpp) | 🟡 Medium | C++ |
