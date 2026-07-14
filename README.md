@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1582 solved** — 🟢 482 Easy · 🟡 751 Medium · 🔴 347 Hard
+**1583 solved** — 🟢 482 Easy · 🟡 751 Medium · 🔴 348 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1095,6 +1095,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Convert an Array Into a 2D Array With Conditions](problems/2610.convert-an-array-into-a-2d-array-with-conditions.cpp) | 🟡 Medium | C++ |
 | [2611](https://leetcode.com/problems/mice-and-cheese/) | [Mice and Cheese](problems/2611.mice-and-cheese.cpp) | 🟡 Medium | C++ |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | [Sum of Distances](problems/2615.sum-of-distances.cpp) | 🟡 Medium | C++ |
+| [2617](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [Minimum Number of Visited Cells in a Grid](problems/2617.minimum-number-of-visited-cells-in-a-grid.cpp) | 🔴 Hard | C++ |
 | [2621](https://leetcode.com/problems/sleep/) | [Sleep](problems/2621.sleep.js) | 🟢 Easy | JavaScript |
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
 | [2623](https://leetcode.com/problems/memoize/) | [Memoize](problems/2623.memoize.js) | 🟡 Medium | JavaScript |
