@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1606 solved** — 🟢 491 Easy · 🟡 762 Medium · 🔴 351 Hard
+**1607 solved** — 🟢 492 Easy · 🟡 762 Medium · 🔴 351 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -147,6 +147,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [198](https://leetcode.com/problems/house-robber/) | [House Robber](problems/198.house-robber.cpp) | 🟡 Medium | C++ |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
 | [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Bitwise AND of Numbers Range](problems/201.bitwise-and-of-numbers-range.cpp) | 🟡 Medium | C++ |
+| [202](https://leetcode.com/problems/happy-number/) | [Happy Number](problems/202.happy-number.cpp) | 🟢 Easy | C++ |
 | [204](https://leetcode.com/problems/count-primes/) | [Count Primes](problems/204.count-primes.cpp) | 🟡 Medium | C++ |
 | [205](https://leetcode.com/problems/isomorphic-strings/) | [Isomorphic Strings](problems/205.isomorphic-strings.cpp) | 🟢 Easy | C++ |
 | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](problems/206.reverse-linked-list.cpp) | 🟢 Easy | C++ |
