@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1630 solved** — 🟢 494 Easy · 🟡 773 Medium · 🔴 361 Hard
+**1631 solved** — 🟢 494 Easy · 🟡 774 Medium · 🔴 361 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1316,6 +1316,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3151](https://leetcode.com/problems/special-array-i/) | [Special Array I](problems/3151.special-array-i.cpp) | 🟢 Easy | C++ |
 | [3152](https://leetcode.com/problems/special-array-ii/) | [Special Array II](problems/3152.special-array-ii.cpp) | 🟡 Medium | C++ |
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
+| [3164](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) | [Find the Number of Good Pairs II](problems/3164.find-the-number-of-good-pairs-ii.cpp) | 🟡 Medium | C++ |
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
 | [3174](https://leetcode.com/problems/clear-digits/) | [Clear Digits](problems/3174.clear-digits.cpp) | 🟢 Easy | C++ |
 | [3175](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Find The First Player to win K Games in a Row](problems/3175.find-the-first-player-to-win-k-games-in-a-row.cpp) | 🟡 Medium | C++ |
