@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1568 solved** — 🟢 478 Easy · 🟡 743 Medium · 🔴 345 Hard
+**1569 solved** — 🟢 478 Easy · 🟡 744 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -572,6 +572,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Remove Palindromic Subsequences](problems/1332.remove-palindromic-subsequences.cpp) | 🟢 Easy | C++ |
 | [1333](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [Filter Restaurants by Vegan-Friendly, Price and Distance](problems/1333.filter-restaurants-by-vegan-friendly-price-and-distance.cpp) | 🟡 Medium | C++ |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [The K Weakest Rows in a Matrix](problems/1337.the-k-weakest-rows-in-a-matrix.cpp) | 🟢 Easy | C++ |
+| [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Reduce Array Size to The Half](problems/1338.reduce-array-size-to-the-half.cpp) | 🟡 Medium | C++ |
 | [1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Maximum Product of Splitted Binary Tree](problems/1339.maximum-product-of-splitted-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1340](https://leetcode.com/problems/jump-game-v/) | [Jump Game V](problems/1340.jump-game-v.cpp) | 🔴 Hard | C++ |
 | [1341](https://leetcode.com/problems/movie-rating/) | [Movie Rating](problems/1341.movie-rating.sql) | 🟡 Medium | mysql |
