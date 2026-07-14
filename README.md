@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1571 solved** — 🟢 479 Easy · 🟡 745 Medium · 🔴 345 Hard
+**1572 solved** — 🟢 479 Easy · 🟡 746 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -413,6 +413,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [867](https://leetcode.com/problems/transpose-matrix/) | [Transpose Matrix](problems/867.transpose-matrix.cpp) | 🟢 Easy | C++ |
 | [868](https://leetcode.com/problems/binary-gap/) | [Binary Gap](problems/868.binary-gap.cpp) | 🟢 Easy | C++ |
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | [Reordered Power of 2](problems/869.reordered-power-of-2.cpp) | 🟡 Medium | C++ |
+| [870](https://leetcode.com/problems/advantage-shuffle/) | [Advantage Shuffle](problems/870.advantage-shuffle.cpp) | 🟡 Medium | C++ |
 | [872](https://leetcode.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](problems/872.leaf-similar-trees.cpp) | 🟢 Easy | C++ |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](problems/874.walking-robot-simulation.cpp) | 🟡 Medium | C++ |
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
