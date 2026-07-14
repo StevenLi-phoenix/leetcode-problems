@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1706 solved** — 🟢 520 Easy · 🟡 809 Medium · 🔴 375 Hard
+**1707 solved** — 🟢 520 Easy · 🟡 810 Medium · 🔴 375 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1220,6 +1220,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2749](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [Minimum Operations to Make the Integer Zero](problems/2749.minimum-operations-to-make-the-integer-zero.cpp) | 🟡 Medium | C++ |
 | [2751](https://leetcode.com/problems/robot-collisions/) | [Robot Collisions](problems/2751.robot-collisions.cpp) | 🔴 Hard | C++ |
 | [2760](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [Longest Even Odd Subarray With Threshold](problems/2760.longest-even-odd-subarray-with-threshold.cpp) | 🟢 Easy | C++ |
+| [2766](https://leetcode.com/problems/relocate-marbles/) | [Relocate Marbles](problems/2766.relocate-marbles.cpp) | 🟡 Medium | C++ |
 | [2767](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) | [Partition String Into Minimum Beautiful Substrings](problems/2767.partition-string-into-minimum-beautiful-substrings.cpp) | 🟡 Medium | C++ |
 | [2769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find the Maximum Achievable Number](problems/2769.find-the-maximum-achievable-number.cpp) | 🟢 Easy | C++ |
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
