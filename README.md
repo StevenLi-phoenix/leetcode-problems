@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1772 solved** — 🟢 526 Easy · 🟡 854 Medium · 🔴 390 Hard
+**1773 solved** — 🟢 526 Easy · 🟡 855 Medium · 🔴 390 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -566,6 +566,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](problems/1110.delete-nodes-and-return-forest.cpp) | 🟡 Medium | C++ |
 | [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Maximum Nesting Depth of Two Valid Parentheses Strings](problems/1111.maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) | 🟡 Medium | C++ |
 | [1114](https://leetcode.com/problems/print-in-order/) | [Print in Order](problems/1114.print-in-order.cpp) | 🟢 Easy | C++ |
+| [1117](https://leetcode.com/problems/building-h2o/) | [Building H2O](problems/1117.building-h2o.cpp) | 🟡 Medium | C++ |
 | [1125](https://leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](problems/1125.smallest-sufficient-team.cpp) | 🔴 Hard | C++ |
 | [1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Minimum Cost Tree From Leaf Values](problems/1130.minimum-cost-tree-from-leaf-values.cpp) | 🟡 Medium | C++ |
 | [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
