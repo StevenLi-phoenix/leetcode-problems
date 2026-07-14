@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1826 solved** — 🟢 528 Easy · 🟡 903 Medium · 🔴 393 Hard
+**1827 solved** — 🟢 528 Easy · 🟡 904 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -376,6 +376,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Maximum Length of Repeated Subarray](problems/718.maximum-length-of-repeated-subarray.cpp) | 🟡 Medium | C++ |
 | [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Longest Word in Dictionary](problems/720.longest-word-in-dictionary.cpp) | 🟡 Medium | C++ |
+| [721](https://leetcode.com/problems/accounts-merge/) | [Accounts Merge](problems/721.accounts-merge.cpp) | 🟡 Medium | C++ |
 | [722](https://leetcode.com/problems/remove-comments/) | [Remove Comments](problems/722.remove-comments.cpp) | 🟡 Medium | C++ |
 | [724](https://leetcode.com/problems/find-pivot-index/) | [Find Pivot Index](problems/724.find-pivot-index.cpp) | 🟢 Easy | C++ |
 | [725](https://leetcode.com/problems/split-linked-list-in-parts/) | [Split Linked List in Parts](problems/725.split-linked-list-in-parts.cpp) | 🟡 Medium | C++ |
