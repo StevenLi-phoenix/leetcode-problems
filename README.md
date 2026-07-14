@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1578 solved** — 🟢 481 Easy · 🟡 749 Medium · 🔴 346 Hard
+**1579 solved** — 🟢 481 Easy · 🟡 750 Medium · 🔴 346 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -395,6 +395,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [827](https://leetcode.com/problems/making-a-large-island/) | [Making A Large Island](problems/827.making-a-large-island.cpp) | 🔴 Hard | C++ |
 | [829](https://leetcode.com/problems/consecutive-numbers-sum/) | [Consecutive Numbers Sum](problems/829.consecutive-numbers-sum.cpp) | 🔴 Hard | C++ |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
+| [831](https://leetcode.com/problems/masking-personal-information/) | [Masking Personal Information](problems/831.masking-personal-information.cpp) | 🟡 Medium | C++ |
 | [832](https://leetcode.com/problems/flipping-an-image/) | [Flipping an Image](problems/832.flipping-an-image.cpp) | 🟢 Easy | C++ |
 | [833](https://leetcode.com/problems/find-and-replace-in-string/) | [Find And Replace in String](problems/833.find-and-replace-in-string.cpp) | 🟡 Medium | C++ |
 | [835](https://leetcode.com/problems/image-overlap/) | [Image Overlap](problems/835.image-overlap.cpp) | 🟡 Medium | C++ |
