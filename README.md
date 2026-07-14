@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1585 solved** — 🟢 484 Easy · 🟡 751 Medium · 🔴 348 Hard
+**1586 solved** — 🟢 484 Easy · 🟡 752 Medium · 🔴 348 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1210,6 +1210,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2960](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Count Tested Devices After Test Operations](problems/2960.count-tested-devices-after-test-operations.cpp) | 🟢 Easy | C++ |
 | [2963](https://leetcode.com/problems/count-the-number-of-good-partitions/) | [Count the Number of Good Partitions](problems/2963.count-the-number-of-good-partitions.cpp) | 🔴 Hard | C++ |
 | [2965](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Find Missing and Repeated Values](problems/2965.find-missing-and-repeated-values.cpp) | 🟢 Easy | C++ |
+| [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](problems/2966.divide-array-into-arrays-with-max-difference.cpp) | 🟡 Medium | C++ |
 | [2968](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/) | [Apply Operations to Maximize Frequency Score](problems/2968.apply-operations-to-maximize-frequency-score.cpp) | 🔴 Hard | C++ |
 | [2974](https://leetcode.com/problems/minimum-number-game/) | [Minimum Number Game](problems/2974.minimum-number-game.cpp) | 🟢 Easy | C++ |
 | [2975](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | [Maximum Square Area by Removing Fences From a Field](problems/2975.maximum-square-area-by-removing-fences-from-a-field.cpp) | 🟡 Medium | C++ |
