@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1859 solved** — 🟢 528 Easy · 🟡 936 Medium · 🔴 393 Hard
+**1860 solved** — 🟢 528 Easy · 🟡 937 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -777,6 +777,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1552](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Magnetic Force Between Two Balls](problems/1552.magnetic-force-between-two-balls.cpp) | 🟡 Medium | C++ |
 | [1553](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Minimum Number of Days to Eat N Oranges](problems/1553.minimum-number-of-days-to-eat-n-oranges.cpp) | 🔴 Hard | C++ |
 | [1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Minimum Number of Vertices to Reach All Nodes](problems/1557.minimum-number-of-vertices-to-reach-all-nodes.cpp) | 🟡 Medium | C++ |
+| [1558](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | [Minimum Numbers of Function Calls to Make Target Array](problems/1558.minimum-numbers-of-function-calls-to-make-target-array.cpp) | 🟡 Medium | C++ |
 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](problems/1559.detect-cycles-in-2d-grid.cpp) | 🟡 Medium | C++ |
 | [1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [Most Visited Sector in  a Circular Track](problems/1560.most-visited-sector-in-a-circular-track.cpp) | 🟢 Easy | C++ |
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Maximum Number of Coins You Can Get](problems/1561.maximum-number-of-coins-you-can-get.cpp) | 🟡 Medium | C++ |
