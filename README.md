@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1569 solved** — 🟢 478 Easy · 🟡 744 Medium · 🔴 345 Hard
+**1570 solved** — 🟢 478 Easy · 🟡 745 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -926,6 +926,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2171](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [Removing Minimum Number of Magic Beans](problems/2171.removing-minimum-number-of-magic-beans.cpp) | 🟡 Medium | C++ |
 | [2172](https://leetcode.com/problems/maximum-and-sum-of-array/) | [Maximum AND Sum of Array](problems/2172.maximum-and-sum-of-array.cpp) | 🔴 Hard | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
+| [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [Minimum Number of Steps to Make Two Strings Anagram II](problems/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.cpp) | 🟡 Medium | C++ |
 | [2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Minimum Time to Finish the Race](problems/2188.minimum-time-to-finish-the-race.cpp) | 🔴 Hard | C++ |
 | [2191](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [Sort the Jumbled Numbers](problems/2191.sort-the-jumbled-numbers.cpp) | 🟡 Medium | C++ |
 | [2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Cells in a Range on an Excel Sheet](problems/2194.cells-in-a-range-on-an-excel-sheet.cpp) | 🟢 Easy | C++ |
