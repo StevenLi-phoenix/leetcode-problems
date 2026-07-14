@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1683 solved** — 🟢 511 Easy · 🟡 798 Medium · 🔴 372 Hard
+**1684 solved** — 🟢 512 Easy · 🟡 798 Medium · 🔴 372 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -838,6 +838,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1864](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [Minimum Number of Swaps to Make the Binary String Alternating](problems/1864.minimum-number-of-swaps-to-make-the-binary-string-alternating.cpp) | 🟡 Medium | C++ |
 | [1869](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Longer Contiguous Segments of Ones than Zeros](problems/1869.longer-contiguous-segments-of-ones-than-zeros.cpp) | 🟢 Easy | C++ |
 | [1871](https://leetcode.com/problems/jump-game-vii/) | [Jump Game VII](problems/1871.jump-game-vii.cpp) | 🟡 Medium | C++ |
+| [1873](https://leetcode.com/problems/calculate-special-bonus/) | [Calculate Special Bonus](problems/1873.calculate-special-bonus.sql) | 🟢 Easy | mysql |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](problems/1877.minimize-maximum-pair-sum-in-array.cpp) | 🟡 Medium | C++ |
 | [1878](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Get Biggest Three Rhombus Sums in a Grid](problems/1878.get-biggest-three-rhombus-sums-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [1880](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Check if Word Equals Summation of Two Words](problems/1880.check-if-word-equals-summation-of-two-words.cpp) | 🟢 Easy | C++ |
