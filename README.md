@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1862 solved** — 🟢 528 Easy · 🟡 939 Medium · 🔴 393 Hard
+**1863 solved** — 🟢 528 Easy · 🟡 940 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -723,6 +723,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1414](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](problems/1414.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.cpp) | 🟡 Medium | C++ |
 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](problems/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp) | 🟡 Medium | C++ |
 | [1416](https://leetcode.com/problems/restore-the-array/) | [Restore The Array](problems/1416.restore-the-array.cpp) | 🔴 Hard | C++ |
+| [1419](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [Minimum Number of Frogs Croaking](problems/1419.minimum-number-of-frogs-croaking.cpp) | 🟡 Medium | C++ |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](problems/1422.maximum-score-after-splitting-a-string.cpp) | 🟢 Easy | C++ |
 | [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum Points You Can Obtain from Cards](problems/1423.maximum-points-you-can-obtain-from-cards.cpp) | 🟡 Medium | C++ |
 | [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | [Diagonal Traverse II](problems/1424.diagonal-traverse-ii.cpp) | 🟡 Medium | C++ |
