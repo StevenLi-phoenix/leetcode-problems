@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1756 solved** — 🟢 526 Easy · 🟡 841 Medium · 🔴 387 Hard
+**1757 solved** — 🟢 526 Easy · 🟡 842 Medium · 🔴 387 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1346,6 +1346,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2983](https://leetcode.com/problems/palindrome-rearrangement-queries/) | [Palindrome Rearrangement Queries](problems/2983.palindrome-rearrangement-queries.cpp) | 🔴 Hard | C++ |
 | [2996](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Smallest Missing Integer Greater Than Sequential Prefix Sum](problems/2996.smallest-missing-integer-greater-than-sequential-prefix-sum.cpp) | 🟢 Easy | C++ |
 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](problems/2999.count-the-number-of-powerful-integers.cpp) | 🔴 Hard | C++ |
+| [3001](https://leetcode.com/problems/minimum-moves-to-capture-the-queen/) | [Minimum Moves to Capture The Queen](problems/3001.minimum-moves-to-capture-the-queen.cpp) | 🟡 Medium | C++ |
 | [3002](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | [Maximum Size of a Set After Removals](problems/3002.maximum-size-of-a-set-after-removals.cpp) | 🟡 Medium | C++ |
 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Maximize the Number of Partitions After Operations](problems/3003.maximize-the-number-of-partitions-after-operations.cpp) | 🔴 Hard | C++ |
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Count Elements With Maximum Frequency](problems/3005.count-elements-with-maximum-frequency.cpp) | 🟢 Easy | C++ |
