@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1783 solved** — 🟢 528 Easy · 🟡 860 Medium · 🔴 393 Hard
+**1784 solved** — 🟢 528 Easy · 🟡 861 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1568,6 +1568,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3492](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [Maximum Containers on a Ship](problems/3492.maximum-containers-on-a-ship.cpp) | 🟢 Easy | C++ |
 | [3493](https://leetcode.com/problems/properties-graph/) | [Properties Graph](problems/3493.properties-graph.cpp) | 🟡 Medium | C++ |
 | [3497](https://leetcode.com/problems/analyze-subscription-conversion/) | [Analyze Subscription Conversion ](problems/3497.analyze-subscription-conversion.sql) | 🟡 Medium | mysql |
+| [3499](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | [Maximize Active Section with Trade I](problems/3499.maximize-active-section-with-trade-i.cpp) | 🟡 Medium | C++ |
 | [3500](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [Minimum Cost to Divide Array Into Subarrays](problems/3500.minimum-cost-to-divide-array-into-subarrays.cpp) | 🔴 Hard | C++ |
 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](problems/3501.maximize-active-section-with-trade-ii.cpp) | 🔴 Hard | C++ |
 | [3504](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | [Longest Palindrome After Substring Concatenation II](problems/3504.longest-palindrome-after-substring-concatenation-ii.cpp) | 🔴 Hard | C++ |
