@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1850 solved** — 🟢 528 Easy · 🟡 927 Medium · 🔴 393 Hard
+**1851 solved** — 🟢 528 Easy · 🟡 928 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -589,6 +589,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](problems/1110.delete-nodes-and-return-forest.cpp) | 🟡 Medium | C++ |
 | [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Maximum Nesting Depth of Two Valid Parentheses Strings](problems/1111.maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) | 🟡 Medium | C++ |
 | [1114](https://leetcode.com/problems/print-in-order/) | [Print in Order](problems/1114.print-in-order.cpp) | 🟢 Easy | C++ |
+| [1115](https://leetcode.com/problems/print-foobar-alternately/) | [Print FooBar Alternately](problems/1115.print-foobar-alternately.cpp) | 🟡 Medium | C++ |
 | [1117](https://leetcode.com/problems/building-h2o/) | [Building H2O](problems/1117.building-h2o.cpp) | 🟡 Medium | C++ |
 | [1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](problems/1123.lowest-common-ancestor-of-deepest-leaves.cpp) | 🟡 Medium | C++ |
 | [1125](https://leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](problems/1125.smallest-sufficient-team.cpp) | 🔴 Hard | C++ |
