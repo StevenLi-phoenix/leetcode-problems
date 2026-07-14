@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1782 solved** — 🟢 528 Easy · 🟡 859 Medium · 🔴 393 Hard
+**1783 solved** — 🟢 528 Easy · 🟡 860 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1114,6 +1114,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2384](https://leetcode.com/problems/largest-palindromic-number/) | [Largest Palindromic Number](problems/2384.largest-palindromic-number.cpp) | 🟡 Medium | C++ |
 | [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Amount of Time for Binary Tree to Be Infected](problems/2385.amount-of-time-for-binary-tree-to-be-infected.cpp) | 🟡 Medium | C++ |
 | [2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Longest Subsequence With Limited Sum](problems/2389.longest-subsequence-with-limited-sum.cpp) | 🟢 Easy | C++ |
+| [2390](https://leetcode.com/problems/removing-stars-from-a-string/) | [Removing Stars From a String](problems/2390.removing-stars-from-a-string.cpp) | 🟡 Medium | C++ |
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [Minimum Amount of Time to Collect Garbage](problems/2391.minimum-amount-of-time-to-collect-garbage.cpp) | 🟡 Medium | C++ |
 | [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
 | [2401](https://leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](problems/2401.longest-nice-subarray.cpp) | 🟡 Medium | C++ |
