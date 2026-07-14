@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1586 solved** — 🟢 484 Easy · 🟡 752 Medium · 🔴 348 Hard
+**1587 solved** — 🟢 485 Easy · 🟡 752 Medium · 🔴 348 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -989,6 +989,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2344](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [Minimum Deletions to Make Array Divisible](problems/2344.minimum-deletions-to-make-array-divisible.cpp) | 🔴 Hard | C++ |
 | [2347](https://leetcode.com/problems/best-poker-hand/) | [Best Poker Hand](problems/2347.best-poker-hand.cpp) | 🟢 Easy | C++ |
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
+| [2351](https://leetcode.com/problems/first-letter-to-appear-twice/) | [First Letter to Appear Twice](problems/2351.first-letter-to-appear-twice.cpp) | 🟢 Easy | C++ |
 | [2352](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Equal Row and Column Pairs](problems/2352.equal-row-and-column-pairs.cpp) | 🟡 Medium | C++ |
 | [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [Number of Unique Subjects Taught by Each Teacher](problems/2356.number-of-unique-subjects-taught-by-each-teacher.sql) | 🟢 Easy | mysql |
 | [2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Make Array Zero by Subtracting Equal Amounts](problems/2357.make-array-zero-by-subtracting-equal-amounts.cpp) | 🟢 Easy | C++ |
