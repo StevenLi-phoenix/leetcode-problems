@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1684 solved** — 🟢 512 Easy · 🟡 798 Medium · 🔴 372 Hard
+**1685 solved** — 🟢 512 Easy · 🟡 799 Medium · 🔴 372 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1039,6 +1039,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2352](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Equal Row and Column Pairs](problems/2352.equal-row-and-column-pairs.cpp) | 🟡 Medium | C++ |
 | [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [Number of Unique Subjects Taught by Each Teacher](problems/2356.number-of-unique-subjects-taught-by-each-teacher.sql) | 🟢 Easy | mysql |
 | [2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Make Array Zero by Subtracting Equal Amounts](problems/2357.make-array-zero-by-subtracting-equal-amounts.cpp) | 🟢 Easy | C++ |
+| [2358](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/) | [Maximum Number of Groups Entering a Competition](problems/2358.maximum-number-of-groups-entering-a-competition.cpp) | 🟡 Medium | C++ |
 | [2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | [Find Closest Node to Given Two Nodes](problems/2359.find-closest-node-to-given-two-nodes.cpp) | 🟡 Medium | C++ |
 | [2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Longest Cycle in a Graph](problems/2360.longest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2363](https://leetcode.com/problems/merge-similar-items/) | [Merge Similar Items](problems/2363.merge-similar-items.cpp) | 🟢 Easy | C++ |
