@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1742 solved** — 🟢 523 Easy · 🟡 835 Medium · 🔴 382 Hard
+**1743 solved** — 🟢 524 Easy · 🟡 835 Medium · 🔴 382 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -610,6 +610,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Find Numbers with Even Number of Digits](problems/1295.find-numbers-with-even-number-of-digits.cpp) | 🟢 Easy | C++ |
 | [1297](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Maximum Number of Occurrences of a Substring](problems/1297.maximum-number-of-occurrences-of-a-substring.cpp) | 🟡 Medium | C++ |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | [Deepest Leaves Sum](problems/1302.deepest-leaves-sum.cpp) | 🟡 Medium | C++ |
+| [1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Find N Unique Integers Sum up to Zero](problems/1304.find-n-unique-integers-sum-up-to-zero.cpp) | 🟢 Easy | C++ |
 | [1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [All Elements in Two Binary Search Trees](problems/1305.all-elements-in-two-binary-search-trees.cpp) | 🟡 Medium | C++ |
 | [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](problems/1306.jump-game-iii.cpp) | 🟡 Medium | C++ |
 | [1307](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [Verbal Arithmetic Puzzle](problems/1307.verbal-arithmetic-puzzle.cpp) | 🔴 Hard | C++ |
