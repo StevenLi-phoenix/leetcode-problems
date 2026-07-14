@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1803 solved** — 🟢 528 Easy · 🟡 880 Medium · 🔴 393 Hard
+**1804 solved** — 🟢 528 Easy · 🟡 881 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1464,6 +1464,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3186](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | [Maximum Total Damage With Spell Casting](problems/3186.maximum-total-damage-with-spell-casting.cpp) | 🟡 Medium | C++ |
 | [3187](https://leetcode.com/problems/peaks-in-array/) | [Peaks in Array](problems/3187.peaks-in-array.cpp) | 🔴 Hard | C++ |
 | [3190](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [Find Minimum Operations to Make All Elements Divisible by Three](problems/3190.find-minimum-operations-to-make-all-elements-divisible-by-three.cpp) | 🟢 Easy | C++ |
+| [3192](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/) | [Minimum Operations to Make Binary Array Elements Equal to One II](problems/3192.minimum-operations-to-make-binary-array-elements-equal-to-one-ii.cpp) | 🟡 Medium | C++ |
 | [3193](https://leetcode.com/problems/count-the-number-of-inversions/) | [Count the Number of Inversions](problems/3193.count-the-number-of-inversions.cpp) | 🔴 Hard | C++ |
 | [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
 | [3197](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Find the Minimum Area to Cover All Ones II](problems/3197.find-the-minimum-area-to-cover-all-ones-ii.cpp) | 🔴 Hard | C++ |
