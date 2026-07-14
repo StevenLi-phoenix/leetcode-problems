@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1650 solved** — 🟢 499 Easy · 🟡 784 Medium · 🔴 365 Hard
+**1651 solved** — 🟢 500 Easy · 🟡 784 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1533,6 +1533,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3681](https://leetcode.com/problems/maximum-xor-of-subsequences/) | [Maximum XOR of Subsequences](problems/3681.maximum-xor-of-subsequences.cpp) | 🔴 Hard | C++ |
 | [3684](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | [Maximize Sum of At Most K Distinct Elements](problems/3684.maximize-sum-of-at-most-k-distinct-elements.cpp) | 🟢 Easy | C++ |
 | [3685](https://leetcode.com/problems/subsequence-sum-after-capping-elements/) | [Subsequence Sum After Capping Elements](problems/3685.subsequence-sum-after-capping-elements.cpp) | 🟡 Medium | C++ |
+| [3688](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [Bitwise OR of Even Numbers in an Array](problems/3688.bitwise-or-of-even-numbers-in-an-array.cpp) | 🟢 Easy | C++ |
 | [3689](https://leetcode.com/problems/maximum-total-subarray-value-i/) | [Maximum Total Subarray Value I](problems/3689.maximum-total-subarray-value-i.cpp) | 🟡 Medium | C++ |
 | [3690](https://leetcode.com/problems/split-and-merge-array-transformation/) | [Split and Merge Array Transformation](problems/3690.split-and-merge-array-transformation.cpp) | 🟡 Medium | C++ |
 | [3691](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [Maximum Total Subarray Value II](problems/3691.maximum-total-subarray-value-ii.cpp) | 🔴 Hard | C++ |
