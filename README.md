@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1786 solved** — 🟢 528 Easy · 🟡 863 Medium · 🔴 393 Hard
+**1787 solved** — 🟢 528 Easy · 🟡 864 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1342,6 +1342,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
 | [2935](https://leetcode.com/problems/maximum-strong-pair-xor-ii/) | [Maximum Strong Pair XOR II](problems/2935.maximum-strong-pair-xor-ii.cpp) | 🔴 Hard | C++ |
 | [2937](https://leetcode.com/problems/make-three-strings-equal/) | [Make Three Strings Equal](problems/2937.make-three-strings-equal.cpp) | 🟢 Easy | C++ |
+| [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | [Separate Black and White Balls](problems/2938.separate-black-and-white-balls.cpp) | 🟡 Medium | C++ |
 | [2939](https://leetcode.com/problems/maximum-xor-product/) | [Maximum Xor Product](problems/2939.maximum-xor-product.cpp) | 🟡 Medium | C++ |
 | [2942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](problems/2942.find-words-containing-character.cpp) | 🟢 Easy | C++ |
 | [2943](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](problems/2943.maximize-area-of-square-hole-in-grid.cpp) | 🟡 Medium | C++ |
