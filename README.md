@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1697 solved** — 🟢 517 Easy · 🟡 804 Medium · 🔴 374 Hard
+**1698 solved** — 🟢 518 Easy · 🟡 804 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -167,6 +167,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](problems/238.product-of-array-except-self.cpp) | 🟡 Medium | C++ |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | [Sliding Window Maximum](problems/239.sliding-window-maximum.cpp) | 🔴 Hard | C++ |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](problems/240.search-a-2d-matrix-ii.cpp) | 🟡 Medium | C++ |
+| [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](problems/242.valid-anagram.cpp) | 🟢 Easy | C++ |
 | [257](https://leetcode.com/problems/binary-tree-paths/) | [Binary Tree Paths](problems/257.binary-tree-paths.cpp) | 🟢 Easy | C++ |
 | [258](https://leetcode.com/problems/add-digits/) | [Add Digits](problems/258.add-digits.cpp) | 🟢 Easy | C++ |
 | [262](https://leetcode.com/problems/trips-and-users/) | [Trips and Users](problems/262.trips-and-users.sql) | 🔴 Hard | mysql |

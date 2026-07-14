@@ -1,0 +1,12 @@
+// @leetcode id=242 questionId=242 slug=valid-anagram lang=cpp site=leetcode.com title="Valid Anagram"
+class Solution {
+public:
+    bool isAnagram(string s, string t) {
+        if (s.size() != t.size()) return false;
+        vector<int> count(26, 0);
+        for (char c : s) count[c - 'a']++;
+        for (char c : t) count[c - 'a']--;
+        for (int c : count) if (c != 0) return false;
+        return true;
+    }
+};
