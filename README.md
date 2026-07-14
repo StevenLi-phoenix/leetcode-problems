@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1644 solved** — 🟢 497 Easy · 🟡 781 Medium · 🔴 364 Hard
+**1645 solved** — 🟢 497 Easy · 🟡 782 Medium · 🔴 364 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -753,6 +753,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1702](https://leetcode.com/problems/maximum-binary-string-after-change/) | [Maximum Binary String After Change](problems/1702.maximum-binary-string-after-change.cpp) | 🟡 Medium | C++ |
 | [1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [Minimum Adjacent Swaps for K Consecutive Ones](problems/1703.minimum-adjacent-swaps-for-k-consecutive-ones.cpp) | 🔴 Hard | C++ |
 | [1705](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [Maximum Number of Eaten Apples](problems/1705.maximum-number-of-eaten-apples.cpp) | 🟡 Medium | C++ |
+| [1706](https://leetcode.com/problems/where-will-the-ball-fall/) | [Where Will the Ball Fall](problems/1706.where-will-the-ball-fall.cpp) | 🟡 Medium | C++ |
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Maximum Units on a Truck](problems/1710.maximum-units-on-a-truck.cpp) | 🟢 Easy | C++ |
 | [1712](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Ways to Split Array Into Three Subarrays](problems/1712.ways-to-split-array-into-three-subarrays.cpp) | 🟡 Medium | C++ |
 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](problems/1716.calculate-money-in-leetcode-bank.cpp) | 🟢 Easy | C++ |
