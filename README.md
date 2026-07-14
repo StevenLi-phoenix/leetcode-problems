@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1640 solved** — 🟢 496 Easy · 🟡 779 Medium · 🔴 363 Hard
+**1641 solved** — 🟢 497 Easy · 🟡 779 Medium · 🔴 363 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1292,6 +1292,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3081](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Replace Question Marks in String to Minimize Its Value](problems/3081.replace-question-marks-in-string-to-minimize-its-value.cpp) | 🟡 Medium | C++ |
 | [3082](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) | [Find the Sum of the Power of All Subsequences](problems/3082.find-the-sum-of-the-power-of-all-subsequences.cpp) | 🔴 Hard | C++ |
 | [3085](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) | [Minimum Deletions to Make String K-Special](problems/3085.minimum-deletions-to-make-string-k-special.cpp) | 🟡 Medium | C++ |
+| [3090](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [Maximum Length Substring With Two Occurrences](problems/3090.maximum-length-substring-with-two-occurrences.cpp) | 🟢 Easy | C++ |
 | [3091](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/) | [Apply Operations to Make Sum of Array Greater Than or Equal to k](problems/3091.apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3092](https://leetcode.com/problems/most-frequent-ids/) | [Most Frequent IDs](problems/3092.most-frequent-ids.cpp) | 🟡 Medium | C++ |
 | [3093](https://leetcode.com/problems/longest-common-suffix-queries/) | [Longest Common Suffix Queries](problems/3093.longest-common-suffix-queries.cpp) | 🔴 Hard | C++ |
