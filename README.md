@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1646 solved** — 🟢 497 Easy · 🟡 782 Medium · 🔴 365 Hard
+**1647 solved** — 🟢 498 Easy · 🟡 782 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -221,6 +221,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Convert a Number to Hexadecimal](problems/405.convert-a-number-to-hexadecimal.cpp) | 🟢 Easy | C++ |
 | [409](https://leetcode.com/problems/longest-palindrome/) | [Longest Palindrome](problems/409.longest-palindrome.cpp) | 🟢 Easy | C++ |
 | [412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](problems/412.fizz-buzz.cpp) | 🟢 Easy | C++ |
+| [415](https://leetcode.com/problems/add-strings/) | [Add Strings](problems/415.add-strings.cpp) | 🟢 Easy | C++ |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](problems/417.pacific-atlantic-water-flow.cpp) | 🟡 Medium | C++ |
 | [420](https://leetcode.com/problems/strong-password-checker/) | [Strong Password Checker](problems/420.strong-password-checker.cpp) | 🔴 Hard | C++ |
 | [421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Maximum XOR of Two Numbers in an Array](problems/421.maximum-xor-of-two-numbers-in-an-array.cpp) | 🟡 Medium | C++ |
