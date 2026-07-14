@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1663 solved** — 🟢 504 Easy · 🟡 790 Medium · 🔴 367 Hard
+**1664 solved** — 🟢 505 Easy · 🟡 790 Medium · 🔴 367 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -750,6 +750,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1675](https://leetcode.com/problems/minimize-deviation-in-array/) | [Minimize Deviation in Array](problems/1675.minimize-deviation-in-array.cpp) | 🔴 Hard | C++ |
 | [1678](https://leetcode.com/problems/goal-parser-interpretation/) | [Goal Parser Interpretation](problems/1678.goal-parser-interpretation.cpp) | 🟢 Easy | C++ |
 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](problems/1680.concatenation-of-consecutive-binary-numbers.cpp) | 🟡 Medium | C++ |
+| [1683](https://leetcode.com/problems/invalid-tweets/) | [Invalid Tweets](problems/1683.invalid-tweets.sql) | 🟢 Easy | mysql |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](problems/1689.partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1690](https://leetcode.com/problems/stone-game-vii/) | [Stone Game VII](problems/1690.stone-game-vii.cpp) | 🟡 Medium | C++ |
 | [1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Maximum Height by Stacking Cuboids ](problems/1691.maximum-height-by-stacking-cuboids.cpp) | 🔴 Hard | C++ |
