@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1588 solved** — 🟢 485 Easy · 🟡 753 Medium · 🔴 348 Hard
+**1589 solved** — 🟢 485 Easy · 🟡 753 Medium · 🔴 349 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1334,6 +1334,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3312](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Sorted GCD Pair Queries](problems/3312.sorted-gcd-pair-queries.cpp) | 🔴 Hard | C++ |
 | [3314](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Construct the Minimum Bitwise Array I](problems/3314.construct-the-minimum-bitwise-array-i.cpp) | 🟢 Easy | C++ |
 | [3315](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | [Construct the Minimum Bitwise Array II](problems/3315.construct-the-minimum-bitwise-array-ii.cpp) | 🟡 Medium | C++ |
+| [3317](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [Find the Number of Possible Ways for an Event](problems/3317.find-the-number-of-possible-ways-for-an-event.cpp) | 🔴 Hard | C++ |
 | [3318](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Find X-Sum of All K-Long Subarrays I](problems/3318.find-x-sum-of-all-k-long-subarrays-i.cpp) | 🟢 Easy | C++ |
 | [3321](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](problems/3321.find-x-sum-of-all-k-long-subarrays-ii.cpp) | 🔴 Hard | C++ |
 | [3324](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/) | [Find the Sequence of Strings Appeared on the Screen](problems/3324.find-the-sequence-of-strings-appeared-on-the-screen.cpp) | 🟡 Medium | C++ |
