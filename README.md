@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1673 solved** — 🟢 509 Easy · 🟡 794 Medium · 🔴 368 Hard
+**1674 solved** — 🟢 509 Easy · 🟡 794 Medium · 🔴 369 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -902,6 +902,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2019](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [The Score of Students Solving Math Expression](problems/2019.the-score-of-students-solving-math-expression.cpp) | 🔴 Hard | C++ |
 | [2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [Number of Pairs of Strings With Concatenation Equal to Target](problems/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.cpp) | 🟡 Medium | C++ |
 | [2024](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [Maximize the Confusion of an Exam](problems/2024.maximize-the-confusion-of-an-exam.cpp) | 🟡 Medium | C++ |
+| [2025](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/) | [Maximum Number of Ways to Partition an Array](problems/2025.maximum-number-of-ways-to-partition-an-array.cpp) | 🔴 Hard | C++ |
 | [2027](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Minimum Moves to Convert String](problems/2027.minimum-moves-to-convert-string.cpp) | 🟢 Easy | C++ |
 | [2028](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](problems/2028.find-missing-observations.cpp) | 🟡 Medium | C++ |
 | [2029](https://leetcode.com/problems/stone-game-ix/) | [Stone Game IX](problems/2029.stone-game-ix.cpp) | 🟡 Medium | C++ |
