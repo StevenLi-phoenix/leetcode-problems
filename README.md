@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1819 solved** — 🟢 528 Easy · 🟡 896 Medium · 🔴 393 Hard
+**1820 solved** — 🟢 528 Easy · 🟡 897 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -164,6 +164,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
 | [224](https://leetcode.com/problems/basic-calculator/) | [Basic Calculator](problems/224.basic-calculator.cpp) | 🔴 Hard | C++ |
 | [228](https://leetcode.com/problems/summary-ranges/) | [Summary Ranges](problems/228.summary-ranges.cpp) | 🟢 Easy | C++ |
+| [229](https://leetcode.com/problems/majority-element-ii/) | [Majority Element II](problems/229.majority-element-ii.cpp) | 🟡 Medium | C++ |
 | [234](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](problems/234.palindrome-linked-list.cpp) | 🟢 Easy | C++ |
 | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of a Binary Search Tree](problems/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](problems/237.delete-node-in-a-linked-list.cpp) | 🟡 Medium | C++ |
