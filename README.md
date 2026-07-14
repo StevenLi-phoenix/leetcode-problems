@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1792 solved** — 🟢 528 Easy · 🟡 869 Medium · 🔴 393 Hard
+**1793 solved** — 🟢 528 Easy · 🟡 870 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1052,6 +1052,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [Maximum Value of K Coins From Piles](problems/2218.maximum-value-of-k-coins-from-piles.cpp) | 🔴 Hard | C++ |
 | [2222](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [Number of Ways to Select Buildings](problems/2222.number-of-ways-to-select-buildings.cpp) | 🟡 Medium | C++ |
 | [2224](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [Minimum Number of Operations to Convert Time](problems/2224.minimum-number-of-operations-to-convert-time.cpp) | 🟢 Easy | C++ |
+| [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Find Players With Zero or One Losses](problems/2225.find-players-with-zero-or-one-losses.cpp) | 🟡 Medium | C++ |
 | [2231](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Largest Number After Digit Swaps by Parity](problems/2231.largest-number-after-digit-swaps-by-parity.cpp) | 🟢 Easy | C++ |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | [Root Equals Sum of Children](problems/2236.root-equals-sum-of-children.cpp) | 🟢 Easy | C++ |
 | [2239](https://leetcode.com/problems/find-closest-number-to-zero/) | [Find Closest Number to Zero](problems/2239.find-closest-number-to-zero.cpp) | 🟢 Easy | C++ |
