@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1593 solved** — 🟢 486 Easy · 🟡 756 Medium · 🔴 349 Hard
+**1594 solved** — 🟢 487 Easy · 🟡 756 Medium · 🔴 349 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -215,6 +215,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [401](https://leetcode.com/problems/binary-watch/) | [Binary Watch](problems/401.binary-watch.cpp) | 🟢 Easy | C++ |
 | [404](https://leetcode.com/problems/sum-of-left-leaves/) | [Sum of Left Leaves](problems/404.sum-of-left-leaves.cpp) | 🟢 Easy | C++ |
 | [405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Convert a Number to Hexadecimal](problems/405.convert-a-number-to-hexadecimal.cpp) | 🟢 Easy | C++ |
+| [409](https://leetcode.com/problems/longest-palindrome/) | [Longest Palindrome](problems/409.longest-palindrome.cpp) | 🟢 Easy | C++ |
 | [412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](problems/412.fizz-buzz.cpp) | 🟢 Easy | C++ |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](problems/417.pacific-atlantic-water-flow.cpp) | 🟡 Medium | C++ |
 | [420](https://leetcode.com/problems/strong-password-checker/) | [Strong Password Checker](problems/420.strong-password-checker.cpp) | 🔴 Hard | C++ |
