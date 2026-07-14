@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1780 solved** — 🟢 527 Easy · 🟡 859 Medium · 🔴 392 Hard
+**1781 solved** — 🟢 528 Easy · 🟡 859 Medium · 🔴 392 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -799,6 +799,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](problems/1689.partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1690](https://leetcode.com/problems/stone-game-vii/) | [Stone Game VII](problems/1690.stone-game-vii.cpp) | 🟡 Medium | C++ |
 | [1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Maximum Height by Stacking Cuboids ](problems/1691.maximum-height-by-stacking-cuboids.cpp) | 🔴 Hard | C++ |
+| [1694](https://leetcode.com/problems/reformat-phone-number/) | [Reformat Phone Number](problems/1694.reformat-phone-number.cpp) | 🟢 Easy | C++ |
 | [1695](https://leetcode.com/problems/maximum-erasure-value/) | [Maximum Erasure Value](problems/1695.maximum-erasure-value.cpp) | 🟡 Medium | C++ |
 | [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Number of Students Unable to Eat Lunch](problems/1700.number-of-students-unable-to-eat-lunch.cpp) | 🟢 Easy | C++ |
 | [1702](https://leetcode.com/problems/maximum-binary-string-after-change/) | [Maximum Binary String After Change](problems/1702.maximum-binary-string-after-change.cpp) | 🟡 Medium | C++ |
