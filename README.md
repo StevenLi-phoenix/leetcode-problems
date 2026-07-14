@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1714 solved** — 🟢 520 Easy · 🟡 816 Medium · 🔴 376 Hard
+**1715 solved** — 🟢 520 Easy · 🟡 817 Medium · 🔴 376 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -180,6 +180,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [279](https://leetcode.com/problems/perfect-squares/) | [Perfect Squares](problems/279.perfect-squares.cpp) | 🟡 Medium | C++ |
 | [282](https://leetcode.com/problems/expression-add-operators/) | [Expression Add Operators](problems/282.expression-add-operators.cpp) | 🔴 Hard | C++ |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](problems/283.move-zeroes.cpp) | 🟢 Easy | C++ |
+| [284](https://leetcode.com/problems/peeking-iterator/) | [Peeking Iterator](problems/284.peeking-iterator.cpp) | 🟡 Medium | C++ |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](problems/287.find-the-duplicate-number.cpp) | 🟡 Medium | C++ |
 | [289](https://leetcode.com/problems/game-of-life/) | [Game of Life](problems/289.game-of-life.cpp) | 🟡 Medium | C++ |
 | [292](https://leetcode.com/problems/nim-game/) | [Nim Game](problems/292.nim-game.cpp) | 🟢 Easy | C++ |
