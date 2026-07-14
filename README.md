@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1828 solved** — 🟢 528 Easy · 🟡 905 Medium · 🔴 393 Hard
+**1829 solved** — 🟢 528 Easy · 🟡 906 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -471,6 +471,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
 | [896](https://leetcode.com/problems/monotonic-array/) | [Monotonic Array](problems/896.monotonic-array.cpp) | 🟢 Easy | C++ |
 | [900](https://leetcode.com/problems/rle-iterator/) | [RLE Iterator](problems/900.rle-iterator.cpp) | 🟡 Medium | C++ |
+| [901](https://leetcode.com/problems/online-stock-span/) | [Online Stock Span](problems/901.online-stock-span.cpp) | 🟡 Medium | C++ |
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](problems/905.sort-array-by-parity.cpp) | 🟢 Easy | C++ |
 | [909](https://leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](problems/909.snakes-and-ladders.cpp) | 🟡 Medium | C++ |
 | [911](https://leetcode.com/problems/online-election/) | [Online Election](problems/911.online-election.cpp) | 🟡 Medium | C++ |
