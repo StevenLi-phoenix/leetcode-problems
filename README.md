@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1651 solved** — 🟢 500 Easy · 🟡 784 Medium · 🔴 365 Hard
+**1652 solved** — 🟢 500 Easy · 🟡 785 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1355,6 +1355,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3224](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | [Minimum Array Changes to Make Differences Equal](problems/3224.minimum-array-changes-to-make-differences-equal.cpp) | 🟡 Medium | C++ |
 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](problems/3225.maximum-score-from-grid-operations.cpp) | 🔴 Hard | C++ |
 | [3226](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [Number of Bit Changes to Make Two Integers Equal](problems/3226.number-of-bit-changes-to-make-two-integers-equal.cpp) | 🟢 Easy | C++ |
+| [3228](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Maximum Number of Operations to Move Ones to the End](problems/3228.maximum-number-of-operations-to-move-ones-to-the-end.cpp) | 🟡 Medium | C++ |
 | [3229](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Minimum Operations to Make Array Equal to Target](problems/3229.minimum-operations-to-make-array-equal-to-target.cpp) | 🔴 Hard | C++ |
 | [3235](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [Check if the Rectangle Corner Is Reachable](problems/3235.check-if-the-rectangle-corner-is-reachable.cpp) | 🔴 Hard | C++ |
 | [3241](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Time Taken to Mark All Nodes](problems/3241.time-taken-to-mark-all-nodes.cpp) | 🔴 Hard | C++ |
