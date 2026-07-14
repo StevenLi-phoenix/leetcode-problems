@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1622 solved** — 🟢 493 Easy · 🟡 770 Medium · 🔴 357 Hard
+**1623 solved** — 🟢 493 Easy · 🟡 770 Medium · 🔴 358 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1268,6 +1268,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3036](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | [Number of Subarrays That Match a Pattern II](problems/3036.number-of-subarrays-that-match-a-pattern-ii.cpp) | 🔴 Hard | C++ |
 | [3038](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [Maximum Number of Operations With the Same Score I](problems/3038.maximum-number-of-operations-with-the-same-score-i.cpp) | 🟢 Easy | C++ |
 | [3039](https://leetcode.com/problems/apply-operations-to-make-string-empty/) | [Apply Operations to Make String Empty](problems/3039.apply-operations-to-make-string-empty.cpp) | 🟡 Medium | C++ |
+| [3041](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [Maximize Consecutive Elements in an Array After Modification](problems/3041.maximize-consecutive-elements-in-an-array-after-modification.cpp) | 🔴 Hard | C++ |
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](problems/3043.find-the-length-of-the-longest-common-prefix.cpp) | 🟡 Medium | C++ |
 | [3044](https://leetcode.com/problems/most-frequent-prime/) | [Most Frequent Prime](problems/3044.most-frequent-prime.cpp) | 🟡 Medium | C++ |
 | [3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) | [Count Prefix and Suffix Pairs II](problems/3045.count-prefix-and-suffix-pairs-ii.cpp) | 🔴 Hard | C++ |
