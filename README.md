@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1628 solved** — 🟢 494 Easy · 🟡 773 Medium · 🔴 359 Hard
+**1629 solved** — 🟢 494 Easy · 🟡 773 Medium · 🔴 360 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -740,6 +740,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Minimum Number of Removals to Make Mountain Array](problems/1671.minimum-number-of-removals-to-make-mountain-array.cpp) | 🔴 Hard | C++ |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](problems/1672.richest-customer-wealth.cpp) | 🟢 Easy | C++ |
 | [1674](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Moves to Make Array Complementary](problems/1674.minimum-moves-to-make-array-complementary.cpp) | 🟡 Medium | C++ |
+| [1675](https://leetcode.com/problems/minimize-deviation-in-array/) | [Minimize Deviation in Array](problems/1675.minimize-deviation-in-array.cpp) | 🔴 Hard | C++ |
 | [1678](https://leetcode.com/problems/goal-parser-interpretation/) | [Goal Parser Interpretation](problems/1678.goal-parser-interpretation.cpp) | 🟢 Easy | C++ |
 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](problems/1680.concatenation-of-consecutive-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](problems/1689.partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | 🟡 Medium | C++ |
