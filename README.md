@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1832 solved** — 🟢 528 Easy · 🟡 909 Medium · 🔴 393 Hard
+**1833 solved** — 🟢 528 Easy · 🟡 910 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -395,6 +395,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [756](https://leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](problems/756.pyramid-transition-matrix.cpp) | 🟡 Medium | C++ |
 | [761](https://leetcode.com/problems/special-binary-string/) | [Special Binary String](problems/761.special-binary-string.cpp) | 🔴 Hard | C++ |
 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](problems/762.prime-number-of-set-bits-in-binary-representation.cpp) | 🟢 Easy | C++ |
+| [763](https://leetcode.com/problems/partition-labels/) | [Partition Labels](problems/763.partition-labels.cpp) | 🟡 Medium | C++ |
 | [765](https://leetcode.com/problems/couples-holding-hands/) | [Couples Holding Hands](problems/765.couples-holding-hands.cpp) | 🔴 Hard | C++ |
 | [766](https://leetcode.com/problems/toeplitz-matrix/) | [Toeplitz Matrix](problems/766.toeplitz-matrix.cpp) | 🟢 Easy | C++ |
 | [769](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Max Chunks To Make Sorted](problems/769.max-chunks-to-make-sorted.cpp) | 🟡 Medium | C++ |
