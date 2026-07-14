@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1623 solved** — 🟢 493 Easy · 🟡 770 Medium · 🔴 358 Hard
+**1624 solved** — 🟢 493 Easy · 🟡 771 Medium · 🔴 358 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -750,6 +750,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [Minimum Adjacent Swaps for K Consecutive Ones](problems/1703.minimum-adjacent-swaps-for-k-consecutive-ones.cpp) | 🔴 Hard | C++ |
 | [1705](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [Maximum Number of Eaten Apples](problems/1705.maximum-number-of-eaten-apples.cpp) | 🟡 Medium | C++ |
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Maximum Units on a Truck](problems/1710.maximum-units-on-a-truck.cpp) | 🟢 Easy | C++ |
+| [1712](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Ways to Split Array Into Three Subarrays](problems/1712.ways-to-split-array-into-three-subarrays.cpp) | 🟡 Medium | C++ |
 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](problems/1716.calculate-money-in-leetcode-bank.cpp) | 🟢 Easy | C++ |
 | [1718](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [Construct the Lexicographically Largest Valid Sequence](problems/1718.construct-the-lexicographically-largest-valid-sequence.cpp) | 🟡 Medium | C++ |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | [Decode XORed Array](problems/1720.decode-xored-array.cpp) | 🟢 Easy | C++ |
