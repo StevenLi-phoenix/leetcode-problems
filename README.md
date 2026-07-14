@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1804 solved** — 🟢 528 Easy · 🟡 881 Medium · 🔴 393 Hard
+**1805 solved** — 🟢 528 Easy · 🟡 882 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -350,6 +350,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [670](https://leetcode.com/problems/maximum-swap/) | [Maximum Swap](problems/670.maximum-swap.cpp) | 🟡 Medium | C++ |
 | [672](https://leetcode.com/problems/bulb-switcher-ii/) | [Bulb Switcher II](problems/672.bulb-switcher-ii.cpp) | 🟡 Medium | C++ |
 | [675](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Cut Off Trees for Golf Event](problems/675.cut-off-trees-for-golf-event.cpp) | 🔴 Hard | C++ |
+| [676](https://leetcode.com/problems/implement-magic-dictionary/) | [Implement Magic Dictionary](problems/676.implement-magic-dictionary.cpp) | 🟡 Medium | C++ |
 | [678](https://leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](problems/678.valid-parenthesis-string.cpp) | 🟡 Medium | C++ |
 | [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](problems/680.valid-palindrome-ii.cpp) | 🟢 Easy | C++ |
 | [682](https://leetcode.com/problems/baseball-game/) | [Baseball Game](problems/682.baseball-game.cpp) | 🟢 Easy | C++ |
