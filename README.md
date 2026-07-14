@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1845 solved** — 🟢 528 Easy · 🟡 922 Medium · 🔴 393 Hard
+**1846 solved** — 🟢 528 Easy · 🟡 923 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1701,6 +1701,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3655](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | [XOR After Range Multiplication Queries II](problems/3655.xor-after-range-multiplication-queries-ii.cpp) | 🔴 Hard | C++ |
 | [3657](https://leetcode.com/problems/find-loyal-customers/) | [Find Loyal Customers](problems/3657.find-loyal-customers.sql) | 🟡 Medium | mysql |
 | [3658](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [GCD of Odd and Even Sums](problems/3658.gcd-of-odd-and-even-sums.cpp) | 🟢 Easy | C++ |
+| [3659](https://leetcode.com/problems/partition-array-into-k-distinct-groups/) | [Partition Array Into K-Distinct Groups](problems/3659.partition-array-into-k-distinct-groups.cpp) | 🟡 Medium | C++ |
 | [3660](https://leetcode.com/problems/jump-game-ix/) | [Jump Game IX](problems/3660.jump-game-ix.cpp) | 🟡 Medium | C++ |
 | [3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Maximum Walls Destroyed by Robots](problems/3661.maximum-walls-destroyed-by-robots.cpp) | 🔴 Hard | C++ |
 | [3663](https://leetcode.com/problems/find-the-least-frequent-digit/) | [Find The Least Frequent Digit](problems/3663.find-the-least-frequent-digit.cpp) | 🟢 Easy | C++ |
