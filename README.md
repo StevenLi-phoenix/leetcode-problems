@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1655 solved** — 🟢 502 Easy · 🟡 786 Medium · 🔴 365 Hard
+**1656 solved** — 🟢 502 Easy · 🟡 787 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -469,6 +469,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [966](https://leetcode.com/problems/vowel-spellchecker/) | [Vowel Spellchecker](problems/966.vowel-spellchecker.cpp) | 🟡 Medium | C++ |
 | [967](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Numbers With Same Consecutive Differences](problems/967.numbers-with-same-consecutive-differences.cpp) | 🟡 Medium | C++ |
 | [968](https://leetcode.com/problems/binary-tree-cameras/) | [Binary Tree Cameras](problems/968.binary-tree-cameras.cpp) | 🔴 Hard | C++ |
+| [971](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Flip Binary Tree To Match Preorder Traversal](problems/971.flip-binary-tree-to-match-preorder-traversal.cpp) | 🟡 Medium | C++ |
 | [972](https://leetcode.com/problems/equal-rational-numbers/) | [Equal Rational Numbers](problems/972.equal-rational-numbers.cpp) | 🔴 Hard | C++ |
 | [973](https://leetcode.com/problems/k-closest-points-to-origin/) | [K Closest Points to Origin](problems/973.k-closest-points-to-origin.cpp) | 🟡 Medium | C++ |
 | [974](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [Subarray Sums Divisible by K](problems/974.subarray-sums-divisible-by-k.cpp) | 🟡 Medium | C++ |
