@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1648 solved** — 🟢 499 Easy · 🟡 782 Medium · 🔴 365 Hard
+**1649 solved** — 🟢 499 Easy · 🟡 783 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -781,6 +781,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](problems/1758.minimum-changes-to-make-alternating-binary-string.cpp) | 🟢 Easy | C++ |
 | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Minimum Limit of Balls in a Bag](problems/1760.minimum-limit-of-balls-in-a-bag.cpp) | 🟡 Medium | C++ |
 | [1763](https://leetcode.com/problems/longest-nice-substring/) | [Longest Nice Substring](problems/1763.longest-nice-substring.cpp) | 🟢 Easy | C++ |
+| [1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Form Array by Concatenating Subarrays of Another Array](problems/1764.form-array-by-concatenating-subarrays-of-another-array.cpp) | 🟡 Medium | C++ |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | [Merge Strings Alternately](problems/1768.merge-strings-alternately.cpp) | 🟢 Easy | C++ |
 | [1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [Equal Sum Arrays With Minimum Number of Operations](problems/1775.equal-sum-arrays-with-minimum-number-of-operations.cpp) | 🟡 Medium | C++ |
 | [1776](https://leetcode.com/problems/car-fleet-ii/) | [Car Fleet II](problems/1776.car-fleet-ii.cpp) | 🔴 Hard | C++ |
