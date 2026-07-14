@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1853 solved** — 🟢 528 Easy · 🟡 930 Medium · 🔴 393 Hard
+**1854 solved** — 🟢 528 Easy · 🟡 931 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -615,6 +615,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1202](https://leetcode.com/problems/smallest-string-with-swaps/) | [Smallest String With Swaps](problems/1202.smallest-string-with-swaps.cpp) | 🟡 Medium | C++ |
 | [1203](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Sort Items by Groups Respecting Dependencies](problems/1203.sort-items-by-groups-respecting-dependencies.cpp) | 🔴 Hard | C++ |
 | [1208](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [Get Equal Substrings Within Budget](problems/1208.get-equal-substrings-within-budget.cpp) | 🟡 Medium | C++ |
+| [1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Remove All Adjacent Duplicates in String II](problems/1209.remove-all-adjacent-duplicates-in-string-ii.cpp) | 🟡 Medium | C++ |
 | [1210](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [Minimum Moves to Reach Target with Rotations](problems/1210.minimum-moves-to-reach-target-with-rotations.cpp) | 🔴 Hard | C++ |
 | [1211](https://leetcode.com/problems/queries-quality-and-percentage/) | [Queries Quality and Percentage](problems/1211.queries-quality-and-percentage.sql) | 🟢 Easy | mysql |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Longest Arithmetic Subsequence of Given Difference](problems/1218.longest-arithmetic-subsequence-of-given-difference.cpp) | 🟡 Medium | C++ |
