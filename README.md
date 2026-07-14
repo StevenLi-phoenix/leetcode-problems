@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1652 solved** — 🟢 500 Easy · 🟡 785 Medium · 🔴 365 Hard
+**1653 solved** — 🟢 501 Easy · 🟡 785 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -754,6 +754,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Number of Students Unable to Eat Lunch](problems/1700.number-of-students-unable-to-eat-lunch.cpp) | 🟢 Easy | C++ |
 | [1702](https://leetcode.com/problems/maximum-binary-string-after-change/) | [Maximum Binary String After Change](problems/1702.maximum-binary-string-after-change.cpp) | 🟡 Medium | C++ |
 | [1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [Minimum Adjacent Swaps for K Consecutive Ones](problems/1703.minimum-adjacent-swaps-for-k-consecutive-ones.cpp) | 🔴 Hard | C++ |
+| [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Determine if String Halves Are Alike](problems/1704.determine-if-string-halves-are-alike.cpp) | 🟢 Easy | C++ |
 | [1705](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [Maximum Number of Eaten Apples](problems/1705.maximum-number-of-eaten-apples.cpp) | 🟡 Medium | C++ |
 | [1706](https://leetcode.com/problems/where-will-the-ball-fall/) | [Where Will the Ball Fall](problems/1706.where-will-the-ball-fall.cpp) | 🟡 Medium | C++ |
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Maximum Units on a Truck](problems/1710.maximum-units-on-a-truck.cpp) | 🟢 Easy | C++ |
