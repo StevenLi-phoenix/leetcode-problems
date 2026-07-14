@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1821 solved** — 🟢 528 Easy · 🟡 898 Medium · 🔴 393 Hard
+**1822 solved** — 🟢 528 Easy · 🟡 899 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1073,6 +1073,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2224](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [Minimum Number of Operations to Convert Time](problems/2224.minimum-number-of-operations-to-convert-time.cpp) | 🟢 Easy | C++ |
 | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Find Players With Zero or One Losses](problems/2225.find-players-with-zero-or-one-losses.cpp) | 🟡 Medium | C++ |
 | [2231](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Largest Number After Digit Swaps by Parity](problems/2231.largest-number-after-digit-swaps-by-parity.cpp) | 🟢 Easy | C++ |
+| [2232](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [Minimize Result by Adding Parentheses to Expression](problems/2232.minimize-result-by-adding-parentheses-to-expression.cpp) | 🟡 Medium | C++ |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | [Root Equals Sum of Children](problems/2236.root-equals-sum-of-children.cpp) | 🟢 Easy | C++ |
 | [2239](https://leetcode.com/problems/find-closest-number-to-zero/) | [Find Closest Number to Zero](problems/2239.find-closest-number-to-zero.cpp) | 🟢 Easy | C++ |
 | [2243](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Calculate Digit Sum of a String](problems/2243.calculate-digit-sum-of-a-string.cpp) | 🟢 Easy | C++ |
