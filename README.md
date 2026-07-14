@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1595 solved** — 🟢 488 Easy · 🟡 756 Medium · 🔴 349 Hard
+**1596 solved** — 🟢 488 Easy · 🟡 757 Medium · 🔴 349 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -631,6 +631,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1416](https://leetcode.com/problems/restore-the-array/) | [Restore The Array](problems/1416.restore-the-array.cpp) | 🔴 Hard | C++ |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](problems/1422.maximum-score-after-splitting-a-string.cpp) | 🟢 Easy | C++ |
 | [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum Points You Can Obtain from Cards](problems/1423.maximum-points-you-can-obtain-from-cards.cpp) | 🟡 Medium | C++ |
+| [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | [Diagonal Traverse II](problems/1424.diagonal-traverse-ii.cpp) | 🟡 Medium | C++ |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](problems/1425.constrained-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Number of Ways to Wear Different Hats to Each Other](problems/1434.number-of-ways-to-wear-different-hats-to-each-other.cpp) | 🔴 Hard | C++ |
 | [1436](https://leetcode.com/problems/destination-city/) | [Destination City](problems/1436.destination-city.cpp) | 🟢 Easy | C++ |
