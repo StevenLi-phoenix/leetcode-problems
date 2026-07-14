@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1675 solved** — 🟢 509 Easy · 🟡 794 Medium · 🔴 370 Hard
+**1676 solved** — 🟢 509 Easy · 🟡 795 Medium · 🔴 370 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -910,6 +910,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](problems/2033.minimum-operations-to-make-a-uni-value-grid.cpp) | 🟡 Medium | C++ |
 | [2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](problems/2037.minimum-number-of-moves-to-seat-everyone.cpp) | 🟢 Easy | C++ |
 | [2042](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Check if Numbers Are Ascending in a Sentence](problems/2042.check-if-numbers-are-ascending-in-a-sentence.cpp) | 🟢 Easy | C++ |
+| [2043](https://leetcode.com/problems/simple-bank-system/) | [Simple Bank System](problems/2043.simple-bank-system.cpp) | 🟡 Medium | C++ |
 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](problems/2044.count-number-of-maximum-bitwise-or-subsets.cpp) | 🟡 Medium | C++ |
 | [2047](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [Number of Valid Words in a Sentence](problems/2047.number-of-valid-words-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Next Greater Numerically Balanced Number](problems/2048.next-greater-numerically-balanced-number.cpp) | 🟡 Medium | C++ |
