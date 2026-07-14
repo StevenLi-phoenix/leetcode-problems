@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1852 solved** — 🟢 528 Easy · 🟡 929 Medium · 🔴 393 Hard
+**1853 solved** — 🟢 528 Easy · 🟡 930 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -159,6 +159,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [212](https://leetcode.com/problems/word-search-ii/) | [Word Search II](problems/212.word-search-ii.cpp) | 🔴 Hard | C++ |
 | [213](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](problems/213.house-robber-ii.cpp) | 🟡 Medium | C++ |
 | [214](https://leetcode.com/problems/shortest-palindrome/) | [Shortest Palindrome](problems/214.shortest-palindrome.cpp) | 🔴 Hard | C++ |
+| [216](https://leetcode.com/problems/combination-sum-iii/) | [Combination Sum III](problems/216.combination-sum-iii.cpp) | 🟡 Medium | C++ |
 | [218](https://leetcode.com/problems/the-skyline-problem/) | [The Skyline Problem](problems/218.the-skyline-problem.cpp) | 🔴 Hard | C++ |
 | [221](https://leetcode.com/problems/maximal-square/) | [Maximal Square](problems/221.maximal-square.cpp) | 🟡 Medium | C++ |
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
