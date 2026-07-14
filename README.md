@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1632 solved** — 🟢 494 Easy · 🟡 775 Medium · 🔴 361 Hard
+**1633 solved** — 🟢 494 Easy · 🟡 776 Medium · 🔴 361 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1460,6 +1460,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](problems/3548.equal-sum-grid-partition-ii.cpp) | 🔴 Hard | C++ |
 | [3553](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [Minimum Weighted Subgraph With the Required Paths II](problems/3553.minimum-weighted-subgraph-with-the-required-paths-ii.cpp) | 🔴 Hard | C++ |
 | [3556](https://leetcode.com/problems/sum-of-largest-prime-substrings/) | [Sum of Largest Prime Substrings](problems/3556.sum-of-largest-prime-substrings.cpp) | 🟡 Medium | C++ |
+| [3557](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/) | [Find Maximum Number of Non Intersecting Substrings](problems/3557.find-maximum-number-of-non-intersecting-substrings.cpp) | 🟡 Medium | C++ |
 | [3558](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Number of Ways to Assign Edge Weights I](problems/3558.number-of-ways-to-assign-edge-weights-i.cpp) | 🟡 Medium | C++ |
 | [3559](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [Number of Ways to Assign Edge Weights II](problems/3559.number-of-ways-to-assign-edge-weights-ii.cpp) | 🔴 Hard | C++ |
 | [3560](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [Find Minimum Log Transportation Cost](problems/3560.find-minimum-log-transportation-cost.cpp) | 🟢 Easy | C++ |
