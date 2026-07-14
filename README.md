@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1723 solved** — 🟢 522 Easy · 🟡 822 Medium · 🔴 377 Hard
+**1724 solved** — 🟢 522 Easy · 🟡 822 Medium · 🔴 378 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -828,6 +828,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Maximum Score of a Good Subarray](problems/1793.maximum-score-of-a-good-subarray.cpp) | 🔴 Hard | C++ |
 | [1796](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Second Largest Digit in a String](problems/1796.second-largest-digit-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1799](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Maximize Score After N Operations](problems/1799.maximize-score-after-n-operations.cpp) | 🔴 Hard | C++ |
+| [1803](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [Count Pairs With XOR in a Range](problems/1803.count-pairs-with-xor-in-a-range.cpp) | 🔴 Hard | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
 | [1815](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [Maximum Number of Groups Getting Fresh Donuts](problems/1815.maximum-number-of-groups-getting-fresh-donuts.cpp) | 🔴 Hard | C++ |
