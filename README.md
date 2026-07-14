@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1597 solved** — 🟢 488 Easy · 🟡 758 Medium · 🔴 349 Hard
+**1598 solved** — 🟢 488 Easy · 🟡 759 Medium · 🔴 349 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1091,6 +1091,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2587](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [Rearrange Array to Maximize Prefix Score](problems/2587.rearrange-array-to-maximize-prefix-score.cpp) | 🟡 Medium | C++ |
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
 | [2591](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [Distribute Money to Maximum Children](problems/2591.distribute-money-to-maximum-children.cpp) | 🟢 Easy | C++ |
+| [2594](https://leetcode.com/problems/minimum-time-to-repair-cars/) | [Minimum Time to Repair Cars](problems/2594.minimum-time-to-repair-cars.cpp) | 🟡 Medium | C++ |
 | [2596](https://leetcode.com/problems/check-knight-tour-configuration/) | [Check Knight Tour Configuration](problems/2596.check-knight-tour-configuration.cpp) | 🟡 Medium | C++ |
 | [2597](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | [The Number of Beautiful Subsets](problems/2597.the-number-of-beautiful-subsets.cpp) | 🟡 Medium | C++ |
 | [2598](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [Smallest Missing Non-negative Integer After Operations](problems/2598.smallest-missing-non-negative-integer-after-operations.cpp) | 🟡 Medium | C++ |
