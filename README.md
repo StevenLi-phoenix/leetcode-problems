@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1579 solved** — 🟢 481 Easy · 🟡 750 Medium · 🔴 346 Hard
+**1580 solved** — 🟢 482 Easy · 🟡 750 Medium · 🔴 346 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1112,6 +1112,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](problems/2678.number-of-senior-citizens.cpp) | 🟢 Easy | C++ |
 | [2679](https://leetcode.com/problems/sum-in-a-matrix/) | [Sum in a Matrix](problems/2679.sum-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [2681](https://leetcode.com/problems/power-of-heroes/) | [Power of Heroes](problems/2681.power-of-heroes.cpp) | 🔴 Hard | C++ |
+| [2682](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [Find the Losers of the Circular Game](problems/2682.find-the-losers-of-the-circular-game.cpp) | 🟢 Easy | C++ |
 | [2683](https://leetcode.com/problems/neighboring-bitwise-xor/) | [Neighboring Bitwise XOR](problems/2683.neighboring-bitwise-xor.cpp) | 🟡 Medium | C++ |
 | [2684](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | [Maximum Number of Moves in a Grid](problems/2684.maximum-number-of-moves-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2694](https://leetcode.com/problems/event-emitter/) | [Event Emitter](problems/2694.event-emitter.js) | 🟡 Medium | JavaScript |
