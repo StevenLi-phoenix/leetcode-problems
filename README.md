@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1625 solved** — 🟢 494 Easy · 🟡 771 Medium · 🔴 358 Hard
+**1626 solved** — 🟢 494 Easy · 🟡 772 Medium · 🔴 358 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -900,6 +900,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2056](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/) | [Number of Valid Move Combinations On Chessboard](problems/2056.number-of-valid-move-combinations-on-chessboard.cpp) | 🔴 Hard | C++ |
 | [2057](https://leetcode.com/problems/smallest-index-with-equal-value/) | [Smallest Index With Equal Value](problems/2057.smallest-index-with-equal-value.cpp) | 🟢 Easy | C++ |
 | [2060](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [Check if an Original String Exists Given Two Encoded Strings](problems/2060.check-if-an-original-string-exists-given-two-encoded-strings.cpp) | 🔴 Hard | C++ |
+| [2063](https://leetcode.com/problems/vowels-of-all-substrings/) | [Vowels of All Substrings](problems/2063.vowels-of-all-substrings.cpp) | 🟡 Medium | C++ |
 | [2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Minimized Maximum of Products Distributed to Any Store](problems/2064.minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 Medium | C++ |
 | [2069](https://leetcode.com/problems/walking-robot-simulation-ii/) | [Walking Robot Simulation II](problems/2069.walking-robot-simulation-ii.cpp) | 🟡 Medium | C++ |
 | [2070](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [Most Beautiful Item for Each Query](problems/2070.most-beautiful-item-for-each-query.cpp) | 🟡 Medium | C++ |
