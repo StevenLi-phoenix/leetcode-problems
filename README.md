@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1590 solved** — 🟢 485 Easy · 🟡 754 Medium · 🔴 349 Hard
+**1591 solved** — 🟢 485 Easy · 🟡 755 Medium · 🔴 349 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -375,6 +375,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
 | [789](https://leetcode.com/problems/escape-the-ghosts/) | [Escape The Ghosts](problems/789.escape-the-ghosts.cpp) | 🟡 Medium | C++ |
 | [791](https://leetcode.com/problems/custom-sort-string/) | [Custom Sort String](problems/791.custom-sort-string.cpp) | 🟡 Medium | C++ |
+| [795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Number of Subarrays with Bounded Maximum](problems/795.number-of-subarrays-with-bounded-maximum.cpp) | 🟡 Medium | C++ |
 | [796](https://leetcode.com/problems/rotate-string/) | [Rotate String](problems/796.rotate-string.cpp) | 🟢 Easy | C++ |
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/) | [All Paths From Source to Target](problems/797.all-paths-from-source-to-target.cpp) | 🟡 Medium | C++ |
 | [799](https://leetcode.com/problems/champagne-tower/) | [Champagne Tower](problems/799.champagne-tower.cpp) | 🟡 Medium | C++ |
