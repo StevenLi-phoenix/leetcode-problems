@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1818 solved** — 🟢 528 Easy · 🟡 895 Medium · 🔴 393 Hard
+**1819 solved** — 🟢 528 Easy · 🟡 896 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -497,6 +497,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [959](https://leetcode.com/problems/regions-cut-by-slashes/) | [Regions Cut By Slashes](problems/959.regions-cut-by-slashes.cpp) | 🟡 Medium | C++ |
 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](problems/960.delete-columns-to-make-sorted-iii.cpp) | 🔴 Hard | C++ |
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](problems/961.n-repeated-element-in-size-2n-array.cpp) | 🟢 Easy | C++ |
+| [963](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [Minimum Area Rectangle II](problems/963.minimum-area-rectangle-ii.cpp) | 🟡 Medium | C++ |
 | [964](https://leetcode.com/problems/least-operators-to-express-number/) | [Least Operators to Express Number](problems/964.least-operators-to-express-number.cpp) | 🔴 Hard | C++ |
 | [965](https://leetcode.com/problems/univalued-binary-tree/) | [Univalued Binary Tree](problems/965.univalued-binary-tree.cpp) | 🟢 Easy | C++ |
 | [966](https://leetcode.com/problems/vowel-spellchecker/) | [Vowel Spellchecker](problems/966.vowel-spellchecker.cpp) | 🟡 Medium | C++ |
