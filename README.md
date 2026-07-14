@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1813 solved** — 🟢 528 Easy · 🟡 890 Medium · 🔴 393 Hard
+**1814 solved** — 🟢 528 Easy · 🟡 891 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -705,6 +705,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](problems/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | 🟡 Medium | C++ |
 | [1439](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](problems/1439.find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.cpp) | 🔴 Hard | C++ |
 | [1442](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](problems/1442.count-triplets-that-can-form-two-arrays-of-equal-xor.cpp) | 🟡 Medium | C++ |
+| [1443](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [Minimum Time to Collect All Apples in a Tree](problems/1443.minimum-time-to-collect-all-apples-in-a-tree.cpp) | 🟡 Medium | C++ |
 | [1444](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Number of Ways of Cutting a Pizza](problems/1444.number-of-ways-of-cutting-a-pizza.cpp) | 🔴 Hard | C++ |
 | [1447](https://leetcode.com/problems/simplified-fractions/) | [Simplified Fractions](problems/1447.simplified-fractions.cpp) | 🟡 Medium | C++ |
 | [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Number of Students Doing Homework at a Given Time](problems/1450.number-of-students-doing-homework-at-a-given-time.cpp) | 🟢 Easy | C++ |
