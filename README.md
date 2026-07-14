@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1685 solved** — 🟢 512 Easy · 🟡 799 Medium · 🔴 372 Hard
+**1686 solved** — 🟢 512 Easy · 🟡 799 Medium · 🔴 373 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1130,6 +1130,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2566](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Maximum Difference by Remapping a Digit](problems/2566.maximum-difference-by-remapping-a-digit.cpp) | 🟢 Easy | C++ |
 | [2567](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](problems/2567.minimum-score-by-changing-two-elements.cpp) | 🟡 Medium | C++ |
 | [2568](https://leetcode.com/problems/minimum-impossible-or/) | [Minimum Impossible OR](problems/2568.minimum-impossible-or.cpp) | 🟡 Medium | C++ |
+| [2569](https://leetcode.com/problems/handling-sum-queries-after-update/) | [Handling Sum Queries After Update](problems/2569.handling-sum-queries-after-update.cpp) | 🔴 Hard | C++ |
 | [2570](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Merge Two 2D Arrays by Summing Values](problems/2570.merge-two-2d-arrays-by-summing-values.cpp) | 🟢 Easy | C++ |
 | [2572](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [Count the Number of Square-Free Subsets](problems/2572.count-the-number-of-square-free-subsets.cpp) | 🟡 Medium | C++ |
 | [2573](https://leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](problems/2573.find-the-string-with-lcp.cpp) | 🔴 Hard | C++ |
