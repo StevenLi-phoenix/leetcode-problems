@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1779 solved** — 🟢 527 Easy · 🟡 859 Medium · 🔴 391 Hard
+**1780 solved** — 🟢 527 Easy · 🟡 859 Medium · 🔴 392 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -992,6 +992,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Find Target Indices After Sorting Array](problems/2089.find-target-indices-after-sorting-array.cpp) | 🟢 Easy | C++ |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](problems/2092.find-all-people-with-secret.cpp) | 🔴 Hard | C++ |
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Delete the Middle Node of a Linked List](problems/2095.delete-the-middle-node-of-a-linked-list.cpp) | 🟡 Medium | C++ |
+| [2097](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Valid Arrangement of Pairs](problems/2097.valid-arrangement-of-pairs.cpp) | 🔴 Hard | C++ |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Find Subsequence of Length K With the Largest Sum](problems/2099.find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 Easy | C++ |
 | [2101](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Detonate the Maximum Bombs](problems/2101.detonate-the-maximum-bombs.cpp) | 🟡 Medium | C++ |
 | [2103](https://leetcode.com/problems/rings-and-rods/) | [Rings and Rods](problems/2103.rings-and-rods.cpp) | 🟢 Easy | C++ |
