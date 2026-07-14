@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1687 solved** — 🟢 512 Easy · 🟡 800 Medium · 🔴 373 Hard
+**1688 solved** — 🟢 513 Easy · 🟡 800 Medium · 🔴 373 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1261,6 +1261,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2917](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Find the K-or of an Array](problems/2917.find-the-k-or-of-an-array.cpp) | 🟢 Easy | C++ |
 | [2919](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | [Minimum Increment Operations to Make Array Beautiful](problems/2919.minimum-increment-operations-to-make-array-beautiful.cpp) | 🟡 Medium | C++ |
 | [2920](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/) | [Maximum Points After Collecting Coins From All Nodes](problems/2920.maximum-points-after-collecting-coins-from-all-nodes.cpp) | 🔴 Hard | C++ |
+| [2923](https://leetcode.com/problems/find-champion-i/) | [Find Champion I](problems/2923.find-champion-i.cpp) | 🟢 Easy | C++ |
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
 | [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
