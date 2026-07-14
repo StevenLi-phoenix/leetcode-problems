@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1659 solved** — 🟢 502 Easy · 🟡 789 Medium · 🔴 366 Hard
+**1660 solved** — 🟢 502 Easy · 🟡 790 Medium · 🔴 366 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1213,6 +1213,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2856](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Minimum Array Length After Pair Removals](problems/2856.minimum-array-length-after-pair-removals.cpp) | 🟡 Medium | C++ |
 | [2857](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/) | [Count Pairs of Points With Distance k](problems/2857.count-pairs-of-points-with-distance-k.cpp) | 🟡 Medium | C++ |
 | [2858](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [Minimum Edge Reversals So Every Node Is Reachable](problems/2858.minimum-edge-reversals-so-every-node-is-reachable.cpp) | 🔴 Hard | C++ |
+| [2861](https://leetcode.com/problems/maximum-number-of-alloys/) | [Maximum Number of Alloys](problems/2861.maximum-number-of-alloys.cpp) | 🟡 Medium | C++ |
 | [2865](https://leetcode.com/problems/beautiful-towers-i/) | [Beautiful Towers I](problems/2865.beautiful-towers-i.cpp) | 🟡 Medium | C++ |
 | [2867](https://leetcode.com/problems/count-valid-paths-in-a-tree/) | [Count Valid Paths in a Tree](problems/2867.count-valid-paths-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2873](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [Maximum Value of an Ordered Triplet I](problems/2873.maximum-value-of-an-ordered-triplet-i.cpp) | 🟢 Easy | C++ |
