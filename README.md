@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1670 solved** — 🟢 507 Easy · 🟡 793 Medium · 🔴 368 Hard
+**1671 solved** — 🟢 508 Easy · 🟡 793 Medium · 🔴 368 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -485,6 +485,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [982](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [Triples with Bitwise AND Equal To Zero](problems/982.triples-with-bitwise-and-equal-to-zero.cpp) | 🔴 Hard | C++ |
 | [987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Vertical Order Traversal of a Binary Tree](problems/987.vertical-order-traversal-of-a-binary-tree.cpp) | 🔴 Hard | C++ |
 | [988](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Smallest String Starting From Leaf](problems/988.smallest-string-starting-from-leaf.cpp) | 🟡 Medium | C++ |
+| [989](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Add to Array-Form of Integer](problems/989.add-to-array-form-of-integer.cpp) | 🟢 Easy | C++ |
 | [990](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Satisfiability of Equality Equations](problems/990.satisfiability-of-equality-equations.cpp) | 🟡 Medium | C++ |
 | [992](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Subarrays with K Different Integers](problems/992.subarrays-with-k-different-integers.cpp) | 🔴 Hard | C++ |
 | [993](https://leetcode.com/problems/cousins-in-binary-tree/) | [Cousins in Binary Tree](problems/993.cousins-in-binary-tree.cpp) | 🟢 Easy | C++ |
