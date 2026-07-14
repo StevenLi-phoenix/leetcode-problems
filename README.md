@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1746 solved** — 🟢 524 Easy · 🟡 838 Medium · 🔴 382 Hard
+**1747 solved** — 🟢 524 Easy · 🟡 838 Medium · 🔴 383 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1568,6 +1568,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
 | [3570](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Find Books with No Available Copies](problems/3570.find-books-with-no-available-copies.sql) | 🟢 Easy | mysql |
 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](problems/3573.best-time-to-buy-and-sell-stock-v.cpp) | 🟡 Medium | C++ |
+| [3575](https://leetcode.com/problems/maximum-good-subtree-score/) | [Maximum Good Subtree Score](problems/3575.maximum-good-subtree-score.cpp) | 🔴 Hard | C++ |
 | [3578](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Count Partitions With Max-Min Difference at Most K](problems/3578.count-partitions-with-max-min-difference-at-most-k.cpp) | 🟡 Medium | C++ |
 | [3580](https://leetcode.com/problems/find-consistently-improving-employees/) | [Find Consistently Improving Employees](problems/3580.find-consistently-improving-employees.sql) | 🟡 Medium | mysql |
 | [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
