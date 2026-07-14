@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1830 solved** — 🟢 528 Easy · 🟡 907 Medium · 🔴 393 Hard
+**1831 solved** — 🟢 528 Easy · 🟡 908 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -922,6 +922,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1893](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Check if All the Integers in a Range Are Covered](problems/1893.check-if-all-the-integers-in-a-range-are-covered.cpp) | 🟢 Easy | C++ |
 | [1895](https://leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](problems/1895.largest-magic-square.cpp) | 🟡 Medium | C++ |
 | [1898](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [Maximum Number of Removable Characters](problems/1898.maximum-number-of-removable-characters.cpp) | 🟡 Medium | C++ |
+| [1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [Merge Triplets to Form Target Triplet](problems/1899.merge-triplets-to-form-target-triplet.cpp) | 🟡 Medium | C++ |
 | [1904](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [The Number of Full Rounds You Have Played](problems/1904.the-number-of-full-rounds-you-have-played.cpp) | 🟡 Medium | C++ |
 | [1905](https://leetcode.com/problems/count-sub-islands/) | [Count Sub Islands](problems/1905.count-sub-islands.cpp) | 🟡 Medium | C++ |
 | [1906](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [Minimum Absolute Difference Queries](problems/1906.minimum-absolute-difference-queries.cpp) | 🟡 Medium | C++ |
