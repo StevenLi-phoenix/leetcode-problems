@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1695 solved** — 🟢 516 Easy · 🟡 803 Medium · 🔴 374 Hard
+**1696 solved** — 🟢 517 Easy · 🟡 803 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -507,6 +507,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Sum of Root To Leaf Binary Numbers](problems/1022.sum-of-root-to-leaf-binary-numbers.cpp) | 🟢 Easy | C++ |
 | [1023](https://leetcode.com/problems/camelcase-matching/) | [Camelcase Matching](problems/1023.camelcase-matching.cpp) | 🟡 Medium | C++ |
 | [1024](https://leetcode.com/problems/video-stitching/) | [Video Stitching](problems/1024.video-stitching.cpp) | 🟡 Medium | C++ |
+| [1025](https://leetcode.com/problems/divisor-game/) | [Divisor Game](problems/1025.divisor-game.cpp) | 🟢 Easy | C++ |
 | [1029](https://leetcode.com/problems/two-city-scheduling/) | [Two City Scheduling](problems/1029.two-city-scheduling.cpp) | 🟡 Medium | C++ |
 | [1030](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](problems/1030.matrix-cells-in-distance-order.cpp) | 🟢 Easy | C++ |
 | [1032](https://leetcode.com/problems/stream-of-characters/) | [Stream of Characters](problems/1032.stream-of-characters.cpp) | 🔴 Hard | C++ |
