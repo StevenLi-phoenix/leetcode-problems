@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1829 solved** — 🟢 528 Easy · 🟡 906 Medium · 🔴 393 Hard
+**1830 solved** — 🟢 528 Easy · 🟡 907 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -614,6 +614,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1227](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Airplane Seat Assignment Probability](problems/1227.airplane-seat-assignment-probability.cpp) | 🟡 Medium | C++ |
 | [1232](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Check If It Is a Straight Line](problems/1232.check-if-it-is-a-straight-line.cpp) | 🟢 Easy | C++ |
 | [1233](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Remove Sub-Folders from the Filesystem](problems/1233.remove-sub-folders-from-the-filesystem.cpp) | 🟡 Medium | C++ |
+| [1238](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [Circular Permutation in Binary Representation](problems/1238.circular-permutation-in-binary-representation.cpp) | 🟡 Medium | C++ |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](problems/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | 🟡 Medium | C++ |
 | [1240](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [Tiling a Rectangle with the Fewest Squares](problems/1240.tiling-a-rectangle-with-the-fewest-squares.cpp) | 🔴 Hard | C++ |
 | [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Count Number of Nice Subarrays](problems/1248.count-number-of-nice-subarrays.cpp) | 🟡 Medium | C++ |
