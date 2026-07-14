@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1619 solved** — 🟢 493 Easy · 🟡 769 Medium · 🔴 355 Hard
+**1620 solved** — 🟢 493 Easy · 🟡 769 Medium · 🔴 356 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1428,6 +1428,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3497](https://leetcode.com/problems/analyze-subscription-conversion/) | [Analyze Subscription Conversion ](problems/3497.analyze-subscription-conversion.sql) | 🟡 Medium | mysql |
 | [3500](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [Minimum Cost to Divide Array Into Subarrays](problems/3500.minimum-cost-to-divide-array-into-subarrays.cpp) | 🔴 Hard | C++ |
 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](problems/3501.maximize-active-section-with-trade-ii.cpp) | 🔴 Hard | C++ |
+| [3504](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | [Longest Palindrome After Substring Concatenation II](problems/3504.longest-palindrome-after-substring-concatenation-ii.cpp) | 🔴 Hard | C++ |
 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](problems/3507.minimum-pair-removal-to-sort-array-i.cpp) | 🟢 Easy | C++ |
 | [3509](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [Maximum Product of Subsequences With an Alternating Sum Equal to K](problems/3509.maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cpp) | 🔴 Hard | C++ |
 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](problems/3510.minimum-pair-removal-to-sort-array-ii.cpp) | 🔴 Hard | C++ |
