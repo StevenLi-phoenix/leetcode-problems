@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1596 solved** — 🟢 488 Easy · 🟡 757 Medium · 🔴 349 Hard
+**1597 solved** — 🟢 488 Easy · 🟡 758 Medium · 🔴 349 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1107,6 +1107,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2621](https://leetcode.com/problems/sleep/) | [Sleep](problems/2621.sleep.js) | 🟢 Easy | JavaScript |
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
 | [2623](https://leetcode.com/problems/memoize/) | [Memoize](problems/2623.memoize.js) | 🟡 Medium | JavaScript |
+| [2627](https://leetcode.com/problems/debounce/) | [Debounce](problems/2627.debounce.js) | 🟡 Medium | JavaScript |
 | [2629](https://leetcode.com/problems/function-composition/) | [Function Composition](problems/2629.function-composition.js) | 🟢 Easy | JavaScript |
 | [2631](https://leetcode.com/problems/group-by/) | [Group By](problems/2631.group-by.js) | 🟡 Medium | JavaScript |
 | [2634](https://leetcode.com/problems/filter-elements-from-array/) | [Filter Elements from Array](problems/2634.filter-elements-from-array.js) | 🟢 Easy | JavaScript |
