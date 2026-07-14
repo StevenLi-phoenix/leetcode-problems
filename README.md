@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1603 solved** — 🟢 490 Easy · 🟡 761 Medium · 🔴 350 Hard
+**1604 solved** — 🟢 490 Easy · 🟡 761 Medium · 🔴 351 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1275,6 +1275,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3108](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](problems/3108.minimum-cost-walk-in-weighted-graph.cpp) | 🔴 Hard | C++ |
 | [3110](https://leetcode.com/problems/score-of-a-string/) | [Score of a String](problems/3110.score-of-a-string.cpp) | 🟢 Easy | C++ |
 | [3113](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | [Find the Number of Subarrays Where Boundary Elements Are Maximum](problems/3113.find-the-number-of-subarrays-where-boundary-elements-are-maximum.cpp) | 🔴 Hard | C++ |
+| [3116](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Kth Smallest Amount With Single Denomination Combination](problems/3116.kth-smallest-amount-with-single-denomination-combination.cpp) | 🔴 Hard | C++ |
 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](problems/3120.count-the-number-of-special-characters-i.cpp) | 🟢 Easy | C++ |
 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Count the Number of Special Characters II](problems/3121.count-the-number-of-special-characters-ii.cpp) | 🟡 Medium | C++ |
 | [3127](https://leetcode.com/problems/make-a-square-with-the-same-color/) | [Make a Square with the Same Color](problems/3127.make-a-square-with-the-same-color.cpp) | 🟢 Easy | C++ |
