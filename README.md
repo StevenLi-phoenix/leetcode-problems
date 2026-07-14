@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1605 solved** — 🟢 490 Easy · 🟡 762 Medium · 🔴 351 Hard
+**1606 solved** — 🟢 491 Easy · 🟡 762 Medium · 🔴 351 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1092,6 +1092,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2574](https://leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](problems/2574.left-and-right-sum-differences.cpp) | 🟢 Easy | C++ |
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Kth Largest Sum in a Binary Tree](problems/2583.kth-largest-sum-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
+| [2586](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Count the Number of Vowel Strings in Range](problems/2586.count-the-number-of-vowel-strings-in-range.cpp) | 🟢 Easy | C++ |
 | [2587](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [Rearrange Array to Maximize Prefix Score](problems/2587.rearrange-array-to-maximize-prefix-score.cpp) | 🟡 Medium | C++ |
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
 | [2591](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [Distribute Money to Maximum Children](problems/2591.distribute-money-to-maximum-children.cpp) | 🟢 Easy | C++ |
