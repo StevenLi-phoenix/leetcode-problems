@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1641 solved** — 🟢 497 Easy · 🟡 779 Medium · 🔴 363 Hard
+**1642 solved** — 🟢 497 Easy · 🟡 780 Medium · 🔴 363 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1478,6 +1478,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3578](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Count Partitions With Max-Min Difference at Most K](problems/3578.count-partitions-with-max-min-difference-at-most-k.cpp) | 🟡 Medium | C++ |
 | [3580](https://leetcode.com/problems/find-consistently-improving-employees/) | [Find Consistently Improving Employees](problems/3580.find-consistently-improving-employees.sql) | 🟡 Medium | mysql |
 | [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
+| [3586](https://leetcode.com/problems/find-covid-recovery-patients/) | [Find COVID Recovery Patients](problems/3586.find-covid-recovery-patients.sql) | 🟡 Medium | mysql |
 | [3591](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Check if Any Element Has Prime Frequency](problems/3591.check-if-any-element-has-prime-frequency.cpp) | 🟢 Easy | C++ |
 | [3592](https://leetcode.com/problems/inverse-coin-change/) | [Inverse Coin Change](problems/3592.inverse-coin-change.cpp) | 🟡 Medium | C++ |
 | [3600](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](problems/3600.maximize-spanning-tree-stability-with-upgrades.cpp) | 🔴 Hard | C++ |
