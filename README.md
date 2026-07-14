@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1642 solved** — 🟢 497 Easy · 🟡 780 Medium · 🔴 363 Hard
+**1643 solved** — 🟢 497 Easy · 🟡 780 Medium · 🔴 364 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1617,6 +1617,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3884](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [First Matching Character From Both Ends](problems/3884.first-matching-character-from-both-ends.cpp) | 🟢 Easy | C++ |
 | [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
 | [3891](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Minimum Increase to Maximize Special Indices](problems/3891.minimum-increase-to-maximize-special-indices.cpp) | 🟡 Medium | C++ |
+| [3892](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Minimum Operations to Achieve At Least K Peaks](problems/3892.minimum-operations-to-achieve-at-least-k-peaks.cpp) | 🔴 Hard | C++ |
 | [3894](https://leetcode.com/problems/traffic-signal-color/) | [Traffic Signal Color](problems/3894.traffic-signal-color.cpp) | 🟢 Easy | C++ |
 | [3895](https://leetcode.com/problems/count-digit-appearances/) | [Count Digit Appearances](problems/3895.count-digit-appearances.cpp) | 🟡 Medium | C++ |
 | [3896](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Minimum Operations to Transform Array into Alternating Prime](problems/3896.minimum-operations-to-transform-array-into-alternating-prime.cpp) | 🟡 Medium | C++ |
