@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1796 solved** — 🟢 528 Easy · 🟡 873 Medium · 🔴 393 Hard
+**1797 solved** — 🟢 528 Easy · 🟡 874 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -138,6 +138,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [168](https://leetcode.com/problems/excel-sheet-column-title/) | [Excel Sheet Column Title](problems/168.excel-sheet-column-title.cpp) | 🟢 Easy | C++ |
 | [169](https://leetcode.com/problems/majority-element/) | [Majority Element](problems/169.majority-element.cpp) | 🟢 Easy | C++ |
 | [171](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](problems/171.excel-sheet-column-number.cpp) | 🟢 Easy | C++ |
+| [172](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Factorial Trailing Zeroes](problems/172.factorial-trailing-zeroes.cpp) | 🟡 Medium | C++ |
 | [173](https://leetcode.com/problems/binary-search-tree-iterator/) | [Binary Search Tree Iterator](problems/173.binary-search-tree-iterator.cpp) | 🟡 Medium | C++ |
 | [176](https://leetcode.com/problems/second-highest-salary/) | [Second Highest Salary](problems/176.second-highest-salary.sql) | 🟡 Medium | mysql |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
