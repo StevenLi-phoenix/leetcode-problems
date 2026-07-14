@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1800 solved** — 🟢 528 Easy · 🟡 877 Medium · 🔴 393 Hard
+**1801 solved** — 🟢 528 Easy · 🟡 878 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1040,6 +1040,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2166](https://leetcode.com/problems/design-bitset/) | [Design Bitset](problems/2166.design-bitset.cpp) | 🟡 Medium | C++ |
 | [2167](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/) | [Minimum Time to Remove All Cars Containing Illegal Goods](problems/2167.minimum-time-to-remove-all-cars-containing-illegal-goods.cpp) | 🔴 Hard | C++ |
 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](problems/2169.count-operations-to-obtain-zero.cpp) | 🟢 Easy | C++ |
+| [2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | [Minimum Operations to Make the Array Alternating](problems/2170.minimum-operations-to-make-the-array-alternating.cpp) | 🟡 Medium | C++ |
 | [2171](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [Removing Minimum Number of Magic Beans](problems/2171.removing-minimum-number-of-magic-beans.cpp) | 🟡 Medium | C++ |
 | [2172](https://leetcode.com/problems/maximum-and-sum-of-array/) | [Maximum AND Sum of Array](problems/2172.maximum-and-sum-of-array.cpp) | 🔴 Hard | C++ |
 | [2178](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Maximum Split of Positive Even Integers](problems/2178.maximum-split-of-positive-even-integers.cpp) | 🟡 Medium | C++ |
