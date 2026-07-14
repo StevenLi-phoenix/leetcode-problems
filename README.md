@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1798 solved** — 🟢 528 Easy · 🟡 875 Medium · 🔴 393 Hard
+**1799 solved** — 🟢 528 Easy · 🟡 876 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -609,6 +609,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](problems/1255.maximum-score-words-formed-by-letters.cpp) | 🔴 Hard | C++ |
 | [1260](https://leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](problems/1260.shift-2d-grid.cpp) | 🟢 Easy | C++ |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](problems/1266.minimum-time-visiting-all-points.cpp) | 🟢 Easy | C++ |
+| [1267](https://leetcode.com/problems/count-servers-that-communicate/) | [Count Servers that Communicate](problems/1267.count-servers-that-communicate.cpp) | 🟡 Medium | C++ |
 | [1268](https://leetcode.com/problems/search-suggestions-system/) | [Search Suggestions System](problems/1268.search-suggestions-system.cpp) | 🟡 Medium | C++ |
 | [1269](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [Number of Ways to Stay in the Same Place After Some Steps](problems/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.cpp) | 🔴 Hard | C++ |
 | [1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [Find Winner on a Tic Tac Toe Game](problems/1275.find-winner-on-a-tic-tac-toe-game.cpp) | 🟢 Easy | C++ |
