@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1587 solved** — 🟢 485 Easy · 🟡 752 Medium · 🔴 348 Hard
+**1588 solved** — 🟢 485 Easy · 🟡 753 Medium · 🔴 348 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1578,6 +1578,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3921](https://leetcode.com/problems/score-validator/) | [Score Validator](problems/3921.score-validator.cpp) | 🟢 Easy | C++ |
 | [3923](https://leetcode.com/problems/minimum-generations-to-target-point/) | [Minimum Generations to Target Point](problems/3923.minimum-generations-to-target-point.cpp) | 🟡 Medium | C++ |
 | [3925](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Concatenate Array With Reverse](problems/3925.concatenate-array-with-reverse.cpp) | 🟢 Easy | C++ |
+| [3926](https://leetcode.com/problems/count-valid-word-occurrences/) | [Count Valid Word Occurrences](problems/3926.count-valid-word-occurrences.cpp) | 🟡 Medium | C++ |
 | [3927](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | [Minimize Array Sum Using Divisible Replacements](problems/3927.minimize-array-sum-using-divisible-replacements.cpp) | 🟡 Medium | C++ |
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3932](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Count K-th Roots in a Range](problems/3932.count-k-th-roots-in-a-range.cpp) | 🟡 Medium | C++ |
