@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1843 solved** — 🟢 528 Easy · 🟡 920 Medium · 🔴 393 Hard
+**1844 solved** — 🟢 528 Easy · 🟡 921 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1140,6 +1140,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
 | [2351](https://leetcode.com/problems/first-letter-to-appear-twice/) | [First Letter to Appear Twice](problems/2351.first-letter-to-appear-twice.cpp) | 🟢 Easy | C++ |
 | [2352](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Equal Row and Column Pairs](problems/2352.equal-row-and-column-pairs.cpp) | 🟡 Medium | C++ |
+| [2353](https://leetcode.com/problems/design-a-food-rating-system/) | [Design a Food Rating System](problems/2353.design-a-food-rating-system.cpp) | 🟡 Medium | C++ |
 | [2354](https://leetcode.com/problems/number-of-excellent-pairs/) | [Number of Excellent Pairs](problems/2354.number-of-excellent-pairs.cpp) | 🔴 Hard | C++ |
 | [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [Number of Unique Subjects Taught by Each Teacher](problems/2356.number-of-unique-subjects-taught-by-each-teacher.sql) | 🟢 Easy | mysql |
 | [2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Make Array Zero by Subtracting Equal Amounts](problems/2357.make-array-zero-by-subtracting-equal-amounts.cpp) | 🟢 Easy | C++ |
