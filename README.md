@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1728 solved** — 🟢 522 Easy · 🟡 825 Medium · 🔴 379 Hard
+**1729 solved** — 🟢 522 Easy · 🟡 825 Medium · 🔴 380 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -637,6 +637,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1359](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Count All Valid Pickup and Delivery Options](problems/1359.count-all-valid-pickup-and-delivery-options.cpp) | 🔴 Hard | C++ |
 | [1360](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Number of Days Between Two Dates](problems/1360.number-of-days-between-two-dates.cpp) | 🟢 Easy | C++ |
 | [1362](https://leetcode.com/problems/closest-divisors/) | [Closest Divisors](problems/1362.closest-divisors.cpp) | 🟡 Medium | C++ |
+| [1363](https://leetcode.com/problems/largest-multiple-of-three/) | [Largest Multiple of Three](problems/1363.largest-multiple-of-three.cpp) | 🔴 Hard | C++ |
 | [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](problems/1365.how-many-numbers-are-smaller-than-the-current-number.cpp) | 🟢 Easy | C++ |
 | [1366](https://leetcode.com/problems/rank-teams-by-votes/) | [Rank Teams by Votes](problems/1366.rank-teams-by-votes.cpp) | 🟡 Medium | C++ |
 | [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](problems/1367.linked-list-in-binary-tree.cpp) | 🟡 Medium | C++ |
