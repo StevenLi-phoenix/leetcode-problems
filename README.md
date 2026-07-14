@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1807 solved** — 🟢 528 Easy · 🟡 884 Medium · 🔴 393 Hard
+**1808 solved** — 🟢 528 Easy · 🟡 885 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -887,6 +887,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Maximum Distance Between a Pair of Values](problems/1855.maximum-distance-between-a-pair-of-values.cpp) | 🟡 Medium | C++ |
 | [1856](https://leetcode.com/problems/maximum-subarray-min-product/) | [Maximum Subarray Min-Product](problems/1856.maximum-subarray-min-product.cpp) | 🟡 Medium | C++ |
 | [1857](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/) | [Largest Color Value in a Directed Graph](problems/1857.largest-color-value-in-a-directed-graph.cpp) | 🔴 Hard | C++ |
+| [1860](https://leetcode.com/problems/incremental-memory-leak/) | [Incremental Memory Leak](problems/1860.incremental-memory-leak.cpp) | 🟡 Medium | C++ |
 | [1861](https://leetcode.com/problems/rotating-the-box/) | [Rotating the Box](problems/1861.rotating-the-box.cpp) | 🟡 Medium | C++ |
 | [1862](https://leetcode.com/problems/sum-of-floored-pairs/) | [Sum of Floored Pairs](problems/1862.sum-of-floored-pairs.cpp) | 🔴 Hard | C++ |
 | [1863](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Sum of All Subset XOR Totals](problems/1863.sum-of-all-subset-xor-totals.cpp) | 🟢 Easy | C++ |
