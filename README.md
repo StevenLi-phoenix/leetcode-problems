@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1769 solved** — 🟢 526 Easy · 🟡 852 Medium · 🔴 389 Hard
+**1770 solved** — 🟢 526 Easy · 🟡 853 Medium · 🔴 389 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -982,6 +982,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2080](https://leetcode.com/problems/range-frequency-queries/) | [Range Frequency Queries](problems/2080.range-frequency-queries.cpp) | 🟡 Medium | C++ |
 | [2081](https://leetcode.com/problems/sum-of-k-mirror-numbers/) | [Sum of k-Mirror Numbers](problems/2081.sum-of-k-mirror-numbers.cpp) | 🔴 Hard | C++ |
 | [2085](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Count Common Words With One Occurrence](problems/2085.count-common-words-with-one-occurrence.cpp) | 🟢 Easy | C++ |
+| [2086](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | [Minimum Number of Food Buckets to Feed the Hamsters](problems/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.cpp) | 🟡 Medium | C++ |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | [Minimum Cost Homecoming of a Robot in a Grid](problems/2087.minimum-cost-homecoming-of-a-robot-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Find Target Indices After Sorting Array](problems/2089.find-target-indices-after-sorting-array.cpp) | 🟢 Easy | C++ |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](problems/2092.find-all-people-with-secret.cpp) | 🔴 Hard | C++ |
