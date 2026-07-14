@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1785 solved** — 🟢 528 Easy · 🟡 862 Medium · 🔴 393 Hard
+**1786 solved** — 🟢 528 Easy · 🟡 863 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -826,6 +826,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1745](https://leetcode.com/problems/palindrome-partitioning-iv/) | [Palindrome Partitioning IV](problems/1745.palindrome-partitioning-iv.cpp) | 🔴 Hard | C++ |
 | [1748](https://leetcode.com/problems/sum-of-unique-elements/) | [Sum of Unique Elements](problems/1748.sum-of-unique-elements.cpp) | 🟢 Easy | C++ |
 | [1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [Maximum Absolute Sum of Any Subarray](problems/1749.maximum-absolute-sum-of-any-subarray.cpp) | 🟡 Medium | C++ |
+| [1750](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [Minimum Length of String After Deleting Similar Ends](problems/1750.minimum-length-of-string-after-deleting-similar-ends.cpp) | 🟡 Medium | C++ |
 | [1751](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/) | [Maximum Number of Events That Can Be Attended II](problems/1751.maximum-number-of-events-that-can-be-attended-ii.cpp) | 🔴 Hard | C++ |
 | [1752](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [Check if Array Is Sorted and Rotated](problems/1752.check-if-array-is-sorted-and-rotated.cpp) | 🟢 Easy | C++ |
 | [1753](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [Maximum Score From Removing Stones](problems/1753.maximum-score-from-removing-stones.cpp) | 🟡 Medium | C++ |
