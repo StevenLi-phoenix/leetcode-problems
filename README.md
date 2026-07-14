@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1574 solved** — 🟢 480 Easy · 🟡 747 Medium · 🔴 345 Hard
+**1575 solved** — 🟢 480 Easy · 🟡 748 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -487,6 +487,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1032](https://leetcode.com/problems/stream-of-characters/) | [Stream of Characters](problems/1032.stream-of-characters.cpp) | 🔴 Hard | C++ |
 | [1033](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Moving Stones Until Consecutive](problems/1033.moving-stones-until-consecutive.cpp) | 🟡 Medium | C++ |
 | [1034](https://leetcode.com/problems/coloring-a-border/) | [Coloring A Border](problems/1034.coloring-a-border.cpp) | 🟡 Medium | C++ |
+| [1035](https://leetcode.com/problems/uncrossed-lines/) | [Uncrossed Lines](problems/1035.uncrossed-lines.cpp) | 🟡 Medium | C++ |
 | [1037](https://leetcode.com/problems/valid-boomerang/) | [Valid Boomerang](problems/1037.valid-boomerang.cpp) | 🟢 Easy | C++ |
 | [1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Binary Search Tree to Greater Sum Tree](problems/1038.binary-search-tree-to-greater-sum-tree.cpp) | 🟡 Medium | C++ |
 | [1040](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Moving Stones Until Consecutive II](problems/1040.moving-stones-until-consecutive-ii.cpp) | 🟡 Medium | C++ |
