@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1682 solved** — 🟢 510 Easy · 🟡 798 Medium · 🔴 372 Hard
+**1683 solved** — 🟢 511 Easy · 🟡 798 Medium · 🔴 372 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1040,6 +1040,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2357](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [Make Array Zero by Subtracting Equal Amounts](problems/2357.make-array-zero-by-subtracting-equal-amounts.cpp) | 🟢 Easy | C++ |
 | [2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | [Find Closest Node to Given Two Nodes](problems/2359.find-closest-node-to-given-two-nodes.cpp) | 🟡 Medium | C++ |
 | [2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Longest Cycle in a Graph](problems/2360.longest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
+| [2363](https://leetcode.com/problems/merge-similar-items/) | [Merge Similar Items](problems/2363.merge-similar-items.cpp) | 🟢 Easy | C++ |
 | [2368](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [Reachable Nodes With Restrictions](problems/2368.reachable-nodes-with-restrictions.cpp) | 🟡 Medium | C++ |
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
 | [2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [Largest Local Values in a Matrix](problems/2373.largest-local-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
