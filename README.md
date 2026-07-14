@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1771 solved** — 🟢 526 Easy · 🟡 853 Medium · 🔴 390 Hard
+**1772 solved** — 🟢 526 Easy · 🟡 854 Medium · 🔴 390 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1024,6 +1024,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2169](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [Count Operations to Obtain Zero](problems/2169.count-operations-to-obtain-zero.cpp) | 🟢 Easy | C++ |
 | [2171](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [Removing Minimum Number of Magic Beans](problems/2171.removing-minimum-number-of-magic-beans.cpp) | 🟡 Medium | C++ |
 | [2172](https://leetcode.com/problems/maximum-and-sum-of-array/) | [Maximum AND Sum of Array](problems/2172.maximum-and-sum-of-array.cpp) | 🔴 Hard | C++ |
+| [2178](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Maximum Split of Positive Even Integers](problems/2178.maximum-split-of-positive-even-integers.cpp) | 🟡 Medium | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [Minimum Number of Steps to Make Two Strings Anagram II](problems/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.cpp) | 🟡 Medium | C++ |
 | [2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Minimum Time to Finish the Race](problems/2188.minimum-time-to-finish-the-race.cpp) | 🔴 Hard | C++ |
