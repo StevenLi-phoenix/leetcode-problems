@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1614 solved** — 🟢 492 Easy · 🟡 766 Medium · 🔴 354 Hard
+**1615 solved** — 🟢 492 Easy · 🟡 767 Medium · 🔴 354 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -834,6 +834,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](problems/1921.eliminate-maximum-number-of-monsters.cpp) | 🟡 Medium | C++ |
 | [1922](https://leetcode.com/problems/count-good-numbers/) | [Count Good Numbers](problems/1922.count-good-numbers.cpp) | 🟡 Medium | C++ |
 | [1923](https://leetcode.com/problems/longest-common-subpath/) | [Longest Common Subpath](problems/1923.longest-common-subpath.cpp) | 🔴 Hard | C++ |
+| [1927](https://leetcode.com/problems/sum-game/) | [Sum Game](problems/1927.sum-game.cpp) | 🟡 Medium | C++ |
 | [1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [Minimum Cost to Reach Destination in Time](problems/1928.minimum-cost-to-reach-destination-in-time.cpp) | 🔴 Hard | C++ |
 | [1929](https://leetcode.com/problems/concatenation-of-array/) | [Concatenation of Array](problems/1929.concatenation-of-array.cpp) | 🟢 Easy | C++ |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](problems/1930.unique-length-3-palindromic-subsequences.cpp) | 🟡 Medium | C++ |
