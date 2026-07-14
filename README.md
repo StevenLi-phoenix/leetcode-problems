@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1790 solved** — 🟢 528 Easy · 🟡 867 Medium · 🔴 393 Hard
+**1791 solved** — 🟢 528 Easy · 🟡 868 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1119,6 +1119,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Longest Subsequence With Limited Sum](problems/2389.longest-subsequence-with-limited-sum.cpp) | 🟢 Easy | C++ |
 | [2390](https://leetcode.com/problems/removing-stars-from-a-string/) | [Removing Stars From a String](problems/2390.removing-stars-from-a-string.cpp) | 🟡 Medium | C++ |
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [Minimum Amount of Time to Collect Garbage](problems/2391.minimum-amount-of-time-to-collect-garbage.cpp) | 🟡 Medium | C++ |
+| [2396](https://leetcode.com/problems/strictly-palindromic-number/) | [Strictly Palindromic Number](problems/2396.strictly-palindromic-number.cpp) | 🟡 Medium | C++ |
 | [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
 | [2401](https://leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](problems/2401.longest-nice-subarray.cpp) | 🟡 Medium | C++ |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](problems/2402.meeting-rooms-iii.cpp) | 🔴 Hard | C++ |
