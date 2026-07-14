@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1612 solved** — 🟢 492 Easy · 🟡 766 Medium · 🔴 352 Hard
+**1613 solved** — 🟢 492 Easy · 🟡 766 Medium · 🔴 353 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -640,6 +640,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Number of Ways to Wear Different Hats to Each Other](problems/1434.number-of-ways-to-wear-different-hats-to-each-other.cpp) | 🔴 Hard | C++ |
 | [1436](https://leetcode.com/problems/destination-city/) | [Destination City](problems/1436.destination-city.cpp) | 🟢 Easy | C++ |
 | [1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](problems/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | 🟡 Medium | C++ |
+| [1439](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/) | [Find the Kth Smallest Sum of a Matrix With Sorted Rows](problems/1439.find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.cpp) | 🔴 Hard | C++ |
 | [1442](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](problems/1442.count-triplets-that-can-form-two-arrays-of-equal-xor.cpp) | 🟡 Medium | C++ |
 | [1444](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Number of Ways of Cutting a Pizza](problems/1444.number-of-ways-of-cutting-a-pizza.cpp) | 🔴 Hard | C++ |
 | [1447](https://leetcode.com/problems/simplified-fractions/) | [Simplified Fractions](problems/1447.simplified-fractions.cpp) | 🟡 Medium | C++ |
