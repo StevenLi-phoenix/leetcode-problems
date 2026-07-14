@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1854 solved** — 🟢 528 Easy · 🟡 931 Medium · 🔴 393 Hard
+**1855 solved** — 🟢 528 Easy · 🟡 932 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -344,6 +344,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](problems/643.maximum-average-subarray-i.cpp) | 🟢 Easy | C++ |
 | [645](https://leetcode.com/problems/set-mismatch/) | [Set Mismatch](problems/645.set-mismatch.cpp) | 🟢 Easy | C++ |
 | [646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Maximum Length of Pair Chain](problems/646.maximum-length-of-pair-chain.cpp) | 🟡 Medium | C++ |
+| [649](https://leetcode.com/problems/dota2-senate/) | [Dota2 Senate](problems/649.dota2-senate.cpp) | 🟡 Medium | C++ |
 | [654](https://leetcode.com/problems/maximum-binary-tree/) | [Maximum Binary Tree](problems/654.maximum-binary-tree.cpp) | 🟡 Medium | C++ |
 | [657](https://leetcode.com/problems/robot-return-to-origin/) | [Robot Return to Origin](problems/657.robot-return-to-origin.cpp) | 🟢 Easy | C++ |
 | [661](https://leetcode.com/problems/image-smoother/) | [Image Smoother](problems/661.image-smoother.cpp) | 🟢 Easy | C++ |
