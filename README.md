@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1812 solved** — 🟢 528 Easy · 🟡 889 Medium · 🔴 393 Hard
+**1813 solved** — 🟢 528 Easy · 🟡 890 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1202,6 +1202,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | [Check if Point Is Reachable](problems/2543.check-if-point-is-reachable.cpp) | 🔴 Hard | C++ |
 | [2544](https://leetcode.com/problems/alternating-digit-sum/) | [Alternating Digit Sum](problems/2544.alternating-digit-sum.cpp) | 🟢 Easy | C++ |
 | [2545](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [Sort the Students by Their Kth Score](problems/2545.sort-the-students-by-their-kth-score.cpp) | 🟡 Medium | C++ |
+| [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | [Apply Bitwise Operations to Make Strings Equal](problems/2546.apply-bitwise-operations-to-make-strings-equal.cpp) | 🟡 Medium | C++ |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Count Distinct Numbers on Board](problems/2549.count-distinct-numbers-on-board.cpp) | 🟢 Easy | C++ |
 | [2551](https://leetcode.com/problems/put-marbles-in-bags/) | [Put Marbles in Bags](problems/2551.put-marbles-in-bags.cpp) | 🔴 Hard | C++ |
 | [2552](https://leetcode.com/problems/count-increasing-quadruplets/) | [Count Increasing Quadruplets](problems/2552.count-increasing-quadruplets.cpp) | 🔴 Hard | C++ |
