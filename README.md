@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1864 solved** — 🟢 528 Easy · 🟡 941 Medium · 🔴 393 Hard
+**1865 solved** — 🟢 528 Easy · 🟡 942 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -216,6 +216,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [372](https://leetcode.com/problems/super-pow/) | [Super Pow](problems/372.super-pow.cpp) | 🟡 Medium | C++ |
 | [373](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Find K Pairs with Smallest Sums](problems/373.find-k-pairs-with-smallest-sums.cpp) | 🟡 Medium | C++ |
 | [375](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](problems/375.guess-number-higher-or-lower-ii.cpp) | 🟡 Medium | C++ |
+| [377](https://leetcode.com/problems/combination-sum-iv/) | [Combination Sum IV](problems/377.combination-sum-iv.cpp) | 🟡 Medium | C++ |
 | [378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Kth Smallest Element in a Sorted Matrix](problems/378.kth-smallest-element-in-a-sorted-matrix.cpp) | 🟡 Medium | C++ |
 | [380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Insert Delete GetRandom O(1)](problems/380.insert-delete-getrandom-o1.cpp) | 🟡 Medium | C++ |
 | [382](https://leetcode.com/problems/linked-list-random-node/) | [Linked List Random Node](problems/382.linked-list-random-node.cpp) | 🟡 Medium | C++ |
