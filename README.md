@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1615 solved** — 🟢 492 Easy · 🟡 767 Medium · 🔴 354 Hard
+**1616 solved** — 🟢 493 Easy · 🟡 767 Medium · 🔴 354 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -285,6 +285,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [537](https://leetcode.com/problems/complex-number-multiplication/) | [Complex Number Multiplication](problems/537.complex-number-multiplication.cpp) | 🟡 Medium | C++ |
 | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Single Element in a Sorted Array](problems/540.single-element-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [541](https://leetcode.com/problems/reverse-string-ii/) | [Reverse String II](problems/541.reverse-string-ii.cpp) | 🟢 Easy | C++ |
+| [543](https://leetcode.com/problems/diameter-of-binary-tree/) | [Diameter of Binary Tree](problems/543.diameter-of-binary-tree.cpp) | 🟢 Easy | C++ |
 | [547](https://leetcode.com/problems/number-of-provinces/) | [Number of Provinces](problems/547.number-of-provinces.cpp) | 🟡 Medium | C++ |
 | [552](https://leetcode.com/problems/student-attendance-record-ii/) | [Student Attendance Record II](problems/552.student-attendance-record-ii.cpp) | 🔴 Hard | C++ |
 | [553](https://leetcode.com/problems/optimal-division/) | [Optimal Division](problems/553.optimal-division.cpp) | 🟡 Medium | C++ |
