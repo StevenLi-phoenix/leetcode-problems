@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1863 solved** — 🟢 528 Easy · 🟡 940 Medium · 🔴 393 Hard
+**1864 solved** — 🟢 528 Easy · 🟡 941 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1263,6 +1263,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2568](https://leetcode.com/problems/minimum-impossible-or/) | [Minimum Impossible OR](problems/2568.minimum-impossible-or.cpp) | 🟡 Medium | C++ |
 | [2569](https://leetcode.com/problems/handling-sum-queries-after-update/) | [Handling Sum Queries After Update](problems/2569.handling-sum-queries-after-update.cpp) | 🔴 Hard | C++ |
 | [2570](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [Merge Two 2D Arrays by Summing Values](problems/2570.merge-two-2d-arrays-by-summing-values.cpp) | 🟢 Easy | C++ |
+| [2571](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/) | [Minimum Operations to Reduce an Integer to 0](problems/2571.minimum-operations-to-reduce-an-integer-to-0.cpp) | 🟡 Medium | C++ |
 | [2572](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [Count the Number of Square-Free Subsets](problems/2572.count-the-number-of-square-free-subsets.cpp) | 🟡 Medium | C++ |
 | [2573](https://leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](problems/2573.find-the-string-with-lcp.cpp) | 🔴 Hard | C++ |
 | [2574](https://leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](problems/2574.left-and-right-sum-differences.cpp) | 🟢 Easy | C++ |
