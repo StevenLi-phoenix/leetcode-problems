@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1621 solved** — 🟢 493 Easy · 🟡 769 Medium · 🔴 357 Hard
+**1622 solved** — 🟢 493 Easy · 🟡 770 Medium · 🔴 357 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1015,6 +1015,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2368](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [Reachable Nodes With Restrictions](problems/2368.reachable-nodes-with-restrictions.cpp) | 🟡 Medium | C++ |
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
 | [2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [Largest Local Values in a Matrix](problems/2373.largest-local-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
+| [2374](https://leetcode.com/problems/node-with-highest-edge-score/) | [Node With Highest Edge Score](problems/2374.node-with-highest-edge-score.cpp) | 🟡 Medium | C++ |
 | [2376](https://leetcode.com/problems/count-special-integers/) | [Count Special Integers](problems/2376.count-special-integers.cpp) | 🔴 Hard | C++ |
 | [2380](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Time Needed to Rearrange a Binary String](problems/2380.time-needed-to-rearrange-a-binary-string.cpp) | 🟡 Medium | C++ |
 | [2382](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [Maximum Segment Sum After Removals](problems/2382.maximum-segment-sum-after-removals.cpp) | 🔴 Hard | C++ |
