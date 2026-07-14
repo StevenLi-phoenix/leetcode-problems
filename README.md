@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1840 solved** — 🟢 528 Easy · 🟡 917 Medium · 🔴 393 Hard
+**1841 solved** — 🟢 528 Easy · 🟡 918 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1187,6 +1187,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2453](https://leetcode.com/problems/destroy-sequential-targets/) | [Destroy Sequential Targets](problems/2453.destroy-sequential-targets.cpp) | 🟡 Medium | C++ |
 | [2455](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [Average Value of Even Numbers That Are Divisible by Three](problems/2455.average-value-of-even-numbers-that-are-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [2456](https://leetcode.com/problems/most-popular-video-creator/) | [Most Popular Video Creator](problems/2456.most-popular-video-creator.cpp) | 🟡 Medium | C++ |
+| [2457](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [Minimum Addition to Make Integer Beautiful](problems/2457.minimum-addition-to-make-integer-beautiful.cpp) | 🟡 Medium | C++ |
 | [2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [Height of Binary Tree After Subtree Removal Queries](problems/2458.height-of-binary-tree-after-subtree-removal-queries.cpp) | 🔴 Hard | C++ |
 | [2460](https://leetcode.com/problems/apply-operations-to-an-array/) | [Apply Operations to an Array](problems/2460.apply-operations-to-an-array.cpp) | 🟢 Easy | C++ |
 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](problems/2463.minimum-total-distance-traveled.cpp) | 🔴 Hard | C++ |
