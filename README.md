@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1735 solved** — 🟢 523 Easy · 🟡 830 Medium · 🔴 380 Hard
+**1736 solved** — 🟢 523 Easy · 🟡 831 Medium · 🔴 380 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -773,6 +773,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1665](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Minimum Initial Energy to Finish Tasks](problems/1665.minimum-initial-energy-to-finish-tasks.cpp) | 🔴 Hard | C++ |
 | [1667](https://leetcode.com/problems/fix-names-in-a-table/) | [Fix Names in a Table](problems/1667.fix-names-in-a-table.sql) | 🟢 Easy | mysql |
 | [1668](https://leetcode.com/problems/maximum-repeating-substring/) | [Maximum Repeating Substring](problems/1668.maximum-repeating-substring.cpp) | 🟢 Easy | C++ |
+| [1669](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](problems/1669.merge-in-between-linked-lists.cpp) | 🟡 Medium | C++ |
 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Minimum Number of Removals to Make Mountain Array](problems/1671.minimum-number-of-removals-to-make-mountain-array.cpp) | 🔴 Hard | C++ |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](problems/1672.richest-customer-wealth.cpp) | 🟢 Easy | C++ |
 | [1674](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Moves to Make Array Complementary](problems/1674.minimum-moves-to-make-array-complementary.cpp) | 🟡 Medium | C++ |
