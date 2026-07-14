@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1833 solved** — 🟢 528 Easy · 🟡 910 Medium · 🔴 393 Hard
+**1834 solved** — 🟢 528 Easy · 🟡 911 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -881,6 +881,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
 | [1808](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | [Maximize Number of Nice Divisors](problems/1808.maximize-number-of-nice-divisors.cpp) | 🔴 Hard | C++ |
+| [1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [Count Nice Pairs in an Array](problems/1814.count-nice-pairs-in-an-array.cpp) | 🟡 Medium | C++ |
 | [1815](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [Maximum Number of Groups Getting Fresh Donuts](problems/1815.maximum-number-of-groups-getting-fresh-donuts.cpp) | 🔴 Hard | C++ |
 | [1816](https://leetcode.com/problems/truncate-sentence/) | [Truncate Sentence](problems/1816.truncate-sentence.cpp) | 🟢 Easy | C++ |
 | [1819](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [Number of Different Subsequences GCDs](problems/1819.number-of-different-subsequences-gcds.cpp) | 🔴 Hard | C++ |
