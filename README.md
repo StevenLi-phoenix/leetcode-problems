@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1842 solved** — 🟢 528 Easy · 🟡 919 Medium · 🔴 393 Hard
+**1843 solved** — 🟢 528 Easy · 🟡 920 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -442,6 +442,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [835](https://leetcode.com/problems/image-overlap/) | [Image Overlap](problems/835.image-overlap.cpp) | 🟡 Medium | C++ |
 | [836](https://leetcode.com/problems/rectangle-overlap/) | [Rectangle Overlap](problems/836.rectangle-overlap.cpp) | 🟢 Easy | C++ |
 | [837](https://leetcode.com/problems/new-21-game/) | [New 21 Game](problems/837.new-21-game.cpp) | 🟡 Medium | C++ |
+| [838](https://leetcode.com/problems/push-dominoes/) | [Push Dominoes](problems/838.push-dominoes.cpp) | 🟡 Medium | C++ |
 | [839](https://leetcode.com/problems/similar-string-groups/) | [Similar String Groups](problems/839.similar-string-groups.cpp) | 🔴 Hard | C++ |
 | [840](https://leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](problems/840.magic-squares-in-grid.cpp) | 🟡 Medium | C++ |
 | [841](https://leetcode.com/problems/keys-and-rooms/) | [Keys and Rooms](problems/841.keys-and-rooms.cpp) | 🟡 Medium | C++ |
