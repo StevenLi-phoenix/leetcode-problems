@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1729 solved** — 🟢 522 Easy · 🟡 825 Medium · 🔴 380 Hard
+**1730 solved** — 🟢 522 Easy · 🟡 826 Medium · 🔴 380 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1079,6 +1079,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2380](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Time Needed to Rearrange a Binary String](problems/2380.time-needed-to-rearrange-a-binary-string.cpp) | 🟡 Medium | C++ |
 | [2382](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [Maximum Segment Sum After Removals](problems/2382.maximum-segment-sum-after-removals.cpp) | 🔴 Hard | C++ |
 | [2384](https://leetcode.com/problems/largest-palindromic-number/) | [Largest Palindromic Number](problems/2384.largest-palindromic-number.cpp) | 🟡 Medium | C++ |
+| [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Amount of Time for Binary Tree to Be Infected](problems/2385.amount-of-time-for-binary-tree-to-be-infected.cpp) | 🟡 Medium | C++ |
 | [2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Longest Subsequence With Limited Sum](problems/2389.longest-subsequence-with-limited-sum.cpp) | 🟢 Easy | C++ |
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [Minimum Amount of Time to Collect Garbage](problems/2391.minimum-amount-of-time-to-collect-garbage.cpp) | 🟡 Medium | C++ |
 | [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
