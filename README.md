@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1709 solved** — 🟢 520 Easy · 🟡 811 Medium · 🔴 376 Hard
+**1710 solved** — 🟢 520 Easy · 🟡 812 Medium · 🔴 376 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -200,6 +200,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [335](https://leetcode.com/problems/self-crossing/) | [Self Crossing](problems/335.self-crossing.cpp) | 🔴 Hard | C++ |
 | [338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](problems/338.counting-bits.cpp) | 🟢 Easy | C++ |
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
+| [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](problems/347.top-k-frequent-elements.cpp) | 🟡 Medium | C++ |
 | [357](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](problems/357.count-numbers-with-unique-digits.cpp) | 🟡 Medium | C++ |
 | [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Max Sum of Rectangle No Larger Than K](problems/363.max-sum-of-rectangle-no-larger-than-k.cpp) | 🔴 Hard | C++ |
 | [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](problems/371.sum-of-two-integers.cpp) | 🟡 Medium | C++ |
