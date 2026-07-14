@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1808 solved** — 🟢 528 Easy · 🟡 885 Medium · 🔴 393 Hard
+**1809 solved** — 🟢 528 Easy · 🟡 886 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1719,6 +1719,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3751](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Total Waviness of Numbers in Range I](problems/3751.total-waviness-of-numbers-in-range-i.cpp) | 🟡 Medium | C++ |
 | [3752](https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/) | [Lexicographically Smallest Negated Permutation that Sums to Target](problems/3752.lexicographically-smallest-negated-permutation-that-sums-to-target.cpp) | 🟡 Medium | C++ |
 | [3753](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Total Waviness of Numbers in Range II](problems/3753.total-waviness-of-numbers-in-range-ii.cpp) | 🔴 Hard | C++ |
+| [3760](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | [Maximum Substrings With Distinct Start](problems/3760.maximum-substrings-with-distinct-start.cpp) | 🟡 Medium | C++ |
 | [3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](problems/3761.minimum-absolute-distance-between-mirror-pairs.cpp) | 🟡 Medium | C++ |
 | [3768](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Minimum Inversion Count in Subarrays of Fixed Length](problems/3768.minimum-inversion-count-in-subarrays-of-fixed-length.cpp) | 🔴 Hard | C++ |
 | [3769](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Sort Integers by Binary Reflection](problems/3769.sort-integers-by-binary-reflection.cpp) | 🟢 Easy | C++ |
