@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1661 solved** — 🟢 502 Easy · 🟡 790 Medium · 🔴 367 Hard
+**1662 solved** — 🟢 503 Easy · 🟡 790 Medium · 🔴 367 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1478,6 +1478,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3542](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | [Minimum Operations to Convert All Elements to Zero](problems/3542.minimum-operations-to-convert-all-elements-to-zero.cpp) | 🟡 Medium | C++ |
 | [3543](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Maximum Weighted K-Edge Path](problems/3543.maximum-weighted-k-edge-path.cpp) | 🟡 Medium | C++ |
 | [3544](https://leetcode.com/problems/subtree-inversion-sum/) | [Subtree Inversion Sum](problems/3544.subtree-inversion-sum.cpp) | 🔴 Hard | C++ |
+| [3545](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [Minimum Deletions for At Most K Distinct Characters](problems/3545.minimum-deletions-for-at-most-k-distinct-characters.cpp) | 🟢 Easy | C++ |
 | [3546](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Equal Sum Grid Partition I](problems/3546.equal-sum-grid-partition-i.cpp) | 🟡 Medium | C++ |
 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](problems/3548.equal-sum-grid-partition-ii.cpp) | 🔴 Hard | C++ |
 | [3553](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [Minimum Weighted Subgraph With the Required Paths II](problems/3553.minimum-weighted-subgraph-with-the-required-paths-ii.cpp) | 🔴 Hard | C++ |
