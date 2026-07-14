@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1627 solved** — 🟢 494 Easy · 🟡 772 Medium · 🔴 359 Hard
+**1628 solved** — 🟢 494 Easy · 🟡 773 Medium · 🔴 359 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -701,6 +701,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1585](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [Check If String Is Transformable With Substring Sort Operations](problems/1585.check-if-string-is-transformable-with-substring-sort-operations.cpp) | 🔴 Hard | C++ |
 | [1587](https://leetcode.com/problems/bank-account-summary-ii/) | [Bank Account Summary II](problems/1587.bank-account-summary-ii.sql) | 🟢 Easy | mysql |
 | [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Sum of All Odd Length Subarrays](problems/1588.sum-of-all-odd-length-subarrays.cpp) | 🟢 Easy | C++ |
+| [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](problems/1590.make-sum-divisible-by-p.cpp) | 🟡 Medium | C++ |
 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](problems/1593.split-a-string-into-the-max-number-of-unique-substrings.cpp) | 🟡 Medium | C++ |
 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](problems/1594.maximum-non-negative-product-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [1603](https://leetcode.com/problems/design-parking-system/) | [Design Parking System](problems/1603.design-parking-system.cpp) | 🟢 Easy | C++ |
