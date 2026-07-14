@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1844 solved** — 🟢 528 Easy · 🟡 921 Medium · 🔴 393 Hard
+**1845 solved** — 🟢 528 Easy · 🟡 922 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -392,6 +392,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [743](https://leetcode.com/problems/network-delay-time/) | [Network Delay Time](problems/743.network-delay-time.cpp) | 🟡 Medium | C++ |
 | [744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Find Smallest Letter Greater Than Target](problems/744.find-smallest-letter-greater-than-target.cpp) | 🟢 Easy | C++ |
 | [747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Largest Number At Least Twice of Others](problems/747.largest-number-at-least-twice-of-others.cpp) | 🟢 Easy | C++ |
+| [752](https://leetcode.com/problems/open-the-lock/) | [Open the Lock](problems/752.open-the-lock.cpp) | 🟡 Medium | C++ |
 | [756](https://leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](problems/756.pyramid-transition-matrix.cpp) | 🟡 Medium | C++ |
 | [761](https://leetcode.com/problems/special-binary-string/) | [Special Binary String](problems/761.special-binary-string.cpp) | 🔴 Hard | C++ |
 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](problems/762.prime-number-of-set-bits-in-binary-representation.cpp) | 🟢 Easy | C++ |
