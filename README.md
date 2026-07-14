@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1765 solved** — 🟢 526 Easy · 🟡 849 Medium · 🔴 388 Hard
+**1766 solved** — 🟢 526 Easy · 🟡 850 Medium · 🔴 388 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -370,6 +370,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Maximum Length of Repeated Subarray](problems/718.maximum-length-of-repeated-subarray.cpp) | 🟡 Medium | C++ |
 | [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Longest Word in Dictionary](problems/720.longest-word-in-dictionary.cpp) | 🟡 Medium | C++ |
+| [722](https://leetcode.com/problems/remove-comments/) | [Remove Comments](problems/722.remove-comments.cpp) | 🟡 Medium | C++ |
 | [724](https://leetcode.com/problems/find-pivot-index/) | [Find Pivot Index](problems/724.find-pivot-index.cpp) | 🟢 Easy | C++ |
 | [726](https://leetcode.com/problems/number-of-atoms/) | [Number of Atoms](problems/726.number-of-atoms.cpp) | 🔴 Hard | C++ |
 | [729](https://leetcode.com/problems/my-calendar-i/) | [My Calendar I](problems/729.my-calendar-i.cpp) | 🟡 Medium | C++ |
