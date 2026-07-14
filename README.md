@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1713 solved** — 🟢 520 Easy · 🟡 815 Medium · 🔴 376 Hard
+**1714 solved** — 🟢 520 Easy · 🟡 816 Medium · 🔴 376 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -635,6 +635,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1366](https://leetcode.com/problems/rank-teams-by-votes/) | [Rank Teams by Votes](problems/1366.rank-teams-by-votes.cpp) | 🟡 Medium | C++ |
 | [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](problems/1367.linked-list-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](problems/1370.increasing-decreasing-string.cpp) | 🟢 Easy | C++ |
+| [1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Find the Longest Substring Containing Vowels in Even Counts](problems/1371.find-the-longest-substring-containing-vowels-in-even-counts.cpp) | 🟡 Medium | C++ |
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Maximum Sum BST in Binary Tree](problems/1373.maximum-sum-bst-in-binary-tree.cpp) | 🔴 Hard | C++ |
 | [1375](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [Number of Times Binary String Is Prefix-Aligned](problems/1375.number-of-times-binary-string-is-prefix-aligned.cpp) | 🟡 Medium | C++ |
