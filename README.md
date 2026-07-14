@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1716 solved** — 🟢 520 Easy · 🟡 818 Medium · 🔴 376 Hard
+**1717 solved** — 🟢 520 Easy · 🟡 819 Medium · 🔴 376 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -126,6 +126,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](problems/141.linked-list-cycle.cpp) | 🟢 Easy | C++ |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](problems/142.linked-list-cycle-ii.cpp) | 🟡 Medium | C++ |
 | [145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](problems/145.binary-tree-postorder-traversal.cpp) | 🟢 Easy | C++ |
+| [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache](problems/146.lru-cache.cpp) | 🟡 Medium | C++ |
 | [148](https://leetcode.com/problems/sort-list/) | [Sort List](problems/148.sort-list.cpp) | 🟡 Medium | C++ |
 | [149](https://leetcode.com/problems/max-points-on-a-line/) | [Max Points on a Line](problems/149.max-points-on-a-line.cpp) | 🔴 Hard | C++ |
 | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Find Minimum in Rotated Sorted Array](problems/153.find-minimum-in-rotated-sorted-array.cpp) | 🟡 Medium | C++ |
