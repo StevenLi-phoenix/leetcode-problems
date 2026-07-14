@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1797 solved** — 🟢 528 Easy · 🟡 874 Medium · 🔴 393 Hard
+**1798 solved** — 🟢 528 Easy · 🟡 875 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1268,6 +1268,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | [Extra Characters in a String](problems/2707.extra-characters-in-a-string.cpp) | 🟡 Medium | C++ |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Greatest Common Divisor Traversal](problems/2709.greatest-common-divisor-traversal.cpp) | 🔴 Hard | C++ |
 | [2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Remove Trailing Zeros From a String](problems/2710.remove-trailing-zeros-from-a-string.cpp) | 🟢 Easy | C++ |
+| [2711](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [Difference of Number of Distinct Values on Diagonals](problems/2711.difference-of-number-of-distinct-values-on-diagonals.cpp) | 🟡 Medium | C++ |
 | [2712](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | [Minimum Cost to Make All Characters Equal](problems/2712.minimum-cost-to-make-all-characters-equal.cpp) | 🟡 Medium | C++ |
 | [2715](https://leetcode.com/problems/timeout-cancellation/) | [Timeout Cancellation](problems/2715.timeout-cancellation.js) | 🟢 Easy | JavaScript |
 | [2717](https://leetcode.com/problems/semi-ordered-permutation/) | [Semi-Ordered Permutation](problems/2717.semi-ordered-permutation.cpp) | 🟢 Easy | C++ |
