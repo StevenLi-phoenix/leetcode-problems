@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1626 solved** — 🟢 494 Easy · 🟡 772 Medium · 🔴 358 Hard
+**1627 solved** — 🟢 494 Easy · 🟡 772 Medium · 🔴 359 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1445,6 +1445,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3530](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [Maximum Profit from Valid Topological Order in DAG](problems/3530.maximum-profit-from-valid-topological-order-in-dag.cpp) | 🔴 Hard | C++ |
 | [3531](https://leetcode.com/problems/count-covered-buildings/) | [Count Covered Buildings](problems/3531.count-covered-buildings.cpp) | 🟡 Medium | C++ |
 | [3532](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Path Existence Queries in a Graph I](problems/3532.path-existence-queries-in-a-graph-i.cpp) | 🟡 Medium | C++ |
+| [3533](https://leetcode.com/problems/concatenated-divisibility/) | [Concatenated Divisibility](problems/3533.concatenated-divisibility.cpp) | 🔴 Hard | C++ |
 | [3534](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Path Existence Queries in a Graph II](problems/3534.path-existence-queries-in-a-graph-ii.cpp) | 🔴 Hard | C++ |
 | [3536](https://leetcode.com/problems/maximum-product-of-two-digits/) | [Maximum Product of Two Digits](problems/3536.maximum-product-of-two-digits.cpp) | 🟢 Easy | C++ |
 | [3539](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Find Sum of Array Product of Magical Sequences](problems/3539.find-sum-of-array-product-of-magical-sequences.cpp) | 🔴 Hard | C++ |
