@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1668 solved** — 🟢 506 Easy · 🟡 792 Medium · 🔴 368 Hard
+**1669 solved** — 🟢 506 Easy · 🟡 793 Medium · 🔴 368 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -543,6 +543,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1146](https://leetcode.com/problems/snapshot-array/) | [Snapshot Array](problems/1146.snapshot-array.cpp) | 🟡 Medium | C++ |
 | [1147](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Longest Chunked Palindrome Decomposition](problems/1147.longest-chunked-palindrome-decomposition.cpp) | 🔴 Hard | C++ |
 | [1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](problems/1161.maximum-level-sum-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
+| [1169](https://leetcode.com/problems/invalid-transactions/) | [Invalid Transactions](problems/1169.invalid-transactions.cpp) | 🟡 Medium | C++ |
 | [1170](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Compare Strings by Frequency of the Smallest Character](problems/1170.compare-strings-by-frequency-of-the-smallest-character.cpp) | 🟡 Medium | C++ |
 | [1187](https://leetcode.com/problems/make-array-strictly-increasing/) | [Make Array Strictly Increasing](problems/1187.make-array-strictly-increasing.cpp) | 🔴 Hard | C++ |
 | [1189](https://leetcode.com/problems/maximum-number-of-balloons/) | [Maximum Number of Balloons](problems/1189.maximum-number-of-balloons.cpp) | 🟢 Easy | C++ |
