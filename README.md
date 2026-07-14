@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1794 solved** — 🟢 528 Easy · 🟡 871 Medium · 🔴 393 Hard
+**1795 solved** — 🟢 528 Easy · 🟡 872 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -351,6 +351,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [678](https://leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](problems/678.valid-parenthesis-string.cpp) | 🟡 Medium | C++ |
 | [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](problems/680.valid-palindrome-ii.cpp) | 🟢 Easy | C++ |
 | [682](https://leetcode.com/problems/baseball-game/) | [Baseball Game](problems/682.baseball-game.cpp) | 🟢 Easy | C++ |
+| [684](https://leetcode.com/problems/redundant-connection/) | [Redundant Connection](problems/684.redundant-connection.cpp) | 🟡 Medium | C++ |
 | [685](https://leetcode.com/problems/redundant-connection-ii/) | [Redundant Connection II](problems/685.redundant-connection-ii.cpp) | 🔴 Hard | C++ |
 | [686](https://leetcode.com/problems/repeated-string-match/) | [Repeated String Match](problems/686.repeated-string-match.cpp) | 🟡 Medium | C++ |
 | [689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Maximum Sum of 3 Non-Overlapping Subarrays](problems/689.maximum-sum-of-3-non-overlapping-subarrays.cpp) | 🔴 Hard | C++ |
