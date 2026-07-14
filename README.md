@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1645 solved** — 🟢 497 Easy · 🟡 782 Medium · 🔴 364 Hard
+**1646 solved** — 🟢 497 Easy · 🟡 782 Medium · 🔴 365 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -688,6 +688,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1542](https://leetcode.com/problems/find-longest-awesome-substring/) | [Find Longest Awesome Substring](problems/1542.find-longest-awesome-substring.cpp) | 🔴 Hard | C++ |
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](problems/1545.find-kth-bit-in-nth-binary-string.cpp) | 🟡 Medium | C++ |
 | [1546](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problems/1546.maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.cpp) | 🟡 Medium | C++ |
+| [1547](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Minimum Cost to Cut a Stick](problems/1547.minimum-cost-to-cut-a-stick.cpp) | 🔴 Hard | C++ |
 | [1553](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Minimum Number of Days to Eat N Oranges](problems/1553.minimum-number-of-days-to-eat-n-oranges.cpp) | 🔴 Hard | C++ |
 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](problems/1559.detect-cycles-in-2d-grid.cpp) | 🟡 Medium | C++ |
 | [1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [Most Visited Sector in  a Circular Track](problems/1560.most-visited-sector-in-a-circular-track.cpp) | 🟢 Easy | C++ |
