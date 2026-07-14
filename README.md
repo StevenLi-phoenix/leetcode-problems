@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1583 solved** — 🟢 482 Easy · 🟡 751 Medium · 🔴 348 Hard
+**1584 solved** — 🟢 483 Easy · 🟡 751 Medium · 🔴 348 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -737,6 +737,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [Minimum Adjacent Swaps for K Consecutive Ones](problems/1703.minimum-adjacent-swaps-for-k-consecutive-ones.cpp) | 🔴 Hard | C++ |
 | [1705](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [Maximum Number of Eaten Apples](problems/1705.maximum-number-of-eaten-apples.cpp) | 🟡 Medium | C++ |
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Maximum Units on a Truck](problems/1710.maximum-units-on-a-truck.cpp) | 🟢 Easy | C++ |
+| [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](problems/1716.calculate-money-in-leetcode-bank.cpp) | 🟢 Easy | C++ |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | [Decode XORed Array](problems/1720.decode-xored-array.cpp) | 🟢 Easy | C++ |
 | [1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Swapping Nodes in a Linked List](problems/1721.swapping-nodes-in-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Minimize Hamming Distance After Swap Operations](problems/1722.minimize-hamming-distance-after-swap-operations.cpp) | 🟡 Medium | C++ |
