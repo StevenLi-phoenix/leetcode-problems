@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1607 solved** — 🟢 492 Easy · 🟡 762 Medium · 🔴 351 Hard
+**1608 solved** — 🟢 492 Easy · 🟡 763 Medium · 🔴 351 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -792,6 +792,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1824](https://leetcode.com/problems/minimum-sideway-jumps/) | [Minimum Sideway Jumps](problems/1824.minimum-sideway-jumps.cpp) | 🟡 Medium | C++ |
 | [1825](https://leetcode.com/problems/finding-mk-average/) | [Finding MK Average](problems/1825.finding-mk-average.cpp) | 🔴 Hard | C++ |
 | [1827](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Minimum Operations to Make the Array Increasing](problems/1827.minimum-operations-to-make-the-array-increasing.cpp) | 🟢 Easy | C++ |
+| [1828](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [Queries on Number of Points Inside a Circle](problems/1828.queries-on-number-of-points-inside-a-circle.cpp) | 🟡 Medium | C++ |
 | [1833](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](problems/1833.maximum-ice-cream-bars.cpp) | 🟡 Medium | C++ |
 | [1835](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [Find XOR Sum of All Pairs Bitwise AND](problems/1835.find-xor-sum-of-all-pairs-bitwise-and.cpp) | 🔴 Hard | C++ |
 | [1837](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Sum of Digits in Base K](problems/1837.sum-of-digits-in-base-k.cpp) | 🟢 Easy | C++ |
