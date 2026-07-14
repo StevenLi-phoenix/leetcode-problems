@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1722 solved** — 🟢 522 Easy · 🟡 821 Medium · 🔴 377 Hard
+**1723 solved** — 🟢 522 Easy · 🟡 822 Medium · 🔴 377 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1700,6 +1700,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3895](https://leetcode.com/problems/count-digit-appearances/) | [Count Digit Appearances](problems/3895.count-digit-appearances.cpp) | 🟡 Medium | C++ |
 | [3896](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Minimum Operations to Transform Array into Alternating Prime](problems/3896.minimum-operations-to-transform-array-into-alternating-prime.cpp) | 🟡 Medium | C++ |
 | [3897](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [Maximum Value of Concatenated Binary Segments](problems/3897.maximum-value-of-concatenated-binary-segments.cpp) | 🔴 Hard | C++ |
+| [3899](https://leetcode.com/problems/angles-of-a-triangle/) | [Angles of a Triangle](problems/3899.angles-of-a-triangle.cpp) | 🟡 Medium | C++ |
 | [3903](https://leetcode.com/problems/smallest-stable-index-i/) | [Smallest Stable Index I](problems/3903.smallest-stable-index-i.cpp) | 🟢 Easy | C++ |
 | [3904](https://leetcode.com/problems/smallest-stable-index-ii/) | [Smallest Stable Index II](problems/3904.smallest-stable-index-ii.cpp) | 🟡 Medium | C++ |
 | [3908](https://leetcode.com/problems/valid-digit-number/) | [Valid Digit Number](problems/3908.valid-digit-number.cpp) | 🟢 Easy | C++ |
