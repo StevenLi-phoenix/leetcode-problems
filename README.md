@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1814 solved** — 🟢 528 Easy · 🟡 891 Medium · 🔴 393 Hard
+**1815 solved** — 🟢 528 Easy · 🟡 892 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -578,6 +578,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1125](https://leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](problems/1125.smallest-sufficient-team.cpp) | 🔴 Hard | C++ |
 | [1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Minimum Cost Tree From Leaf Values](problems/1130.minimum-cost-tree-from-leaf-values.cpp) | 🟡 Medium | C++ |
 | [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
+| [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Longest Common Subsequence](problems/1143.longest-common-subsequence.cpp) | 🟡 Medium | C++ |
 | [1144](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [Decrease Elements To Make Array Zigzag](problems/1144.decrease-elements-to-make-array-zigzag.cpp) | 🟡 Medium | C++ |
 | [1145](https://leetcode.com/problems/binary-tree-coloring-game/) | [Binary Tree Coloring Game](problems/1145.binary-tree-coloring-game.cpp) | 🟡 Medium | C++ |
 | [1146](https://leetcode.com/problems/snapshot-array/) | [Snapshot Array](problems/1146.snapshot-array.cpp) | 🟡 Medium | C++ |
