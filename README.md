@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1752 solved** — 🟢 526 Easy · 🟡 839 Medium · 🔴 385 Hard
+**1753 solved** — 🟢 526 Easy · 🟡 839 Medium · 🔴 386 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -372,6 +372,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [724](https://leetcode.com/problems/find-pivot-index/) | [Find Pivot Index](problems/724.find-pivot-index.cpp) | 🟢 Easy | C++ |
 | [726](https://leetcode.com/problems/number-of-atoms/) | [Number of Atoms](problems/726.number-of-atoms.cpp) | 🔴 Hard | C++ |
 | [729](https://leetcode.com/problems/my-calendar-i/) | [My Calendar I](problems/729.my-calendar-i.cpp) | 🟡 Medium | C++ |
+| [730](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [Count Different Palindromic Subsequences](problems/730.count-different-palindromic-subsequences.cpp) | 🔴 Hard | C++ |
 | [731](https://leetcode.com/problems/my-calendar-ii/) | [My Calendar II](problems/731.my-calendar-ii.cpp) | 🟡 Medium | C++ |
 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](problems/735.asteroid-collision.cpp) | 🟡 Medium | C++ |
 | [736](https://leetcode.com/problems/parse-lisp-expression/) | [Parse Lisp Expression](problems/736.parse-lisp-expression.cpp) | 🔴 Hard | C++ |
