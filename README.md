@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1737 solved** — 🟢 523 Easy · 🟡 832 Medium · 🔴 380 Hard
+**1738 solved** — 🟢 523 Easy · 🟡 832 Medium · 🔴 381 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1504,6 +1504,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3438](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [Find Valid Pair of Adjacent Digits in String](problems/3438.find-valid-pair-of-adjacent-digits-in-string.cpp) | 🟢 Easy | C++ |
 | [3439](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Reschedule Meetings for Maximum Free Time I](problems/3439.reschedule-meetings-for-maximum-free-time-i.cpp) | 🟡 Medium | C++ |
 | [3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Maximum Difference Between Even and Odd Frequency I](problems/3442.maximum-difference-between-even-and-odd-frequency-i.cpp) | 🟢 Easy | C++ |
+| [3444](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/) | [Minimum Increments for Target Multiples in an Array](problems/3444.minimum-increments-for-target-multiples-in-an-array.cpp) | 🔴 Hard | C++ |
 | [3445](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](problems/3445.maximum-difference-between-even-and-odd-frequency-ii.cpp) | 🔴 Hard | C++ |
 | [3451](https://leetcode.com/problems/find-invalid-ip-addresses/) | [Find Invalid IP Addresses](problems/3451.find-invalid-ip-addresses.sql) | 🔴 Hard | mysql |
 | [3453](https://leetcode.com/problems/separate-squares-i/) | [Separate Squares I](problems/3453.separate-squares-i.cpp) | 🟡 Medium | C++ |
