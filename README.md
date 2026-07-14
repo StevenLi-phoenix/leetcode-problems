@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1831 solved** — 🟢 528 Easy · 🟡 908 Medium · 🔴 393 Hard
+**1832 solved** — 🟢 528 Easy · 🟡 909 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1319,6 +1319,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2767](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) | [Partition String Into Minimum Beautiful Substrings](problems/2767.partition-string-into-minimum-beautiful-substrings.cpp) | 🟡 Medium | C++ |
 | [2769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find the Maximum Achievable Number](problems/2769.find-the-maximum-achievable-number.cpp) | 🟢 Easy | C++ |
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
+| [2771](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Longest Non-decreasing Subarray From Two Arrays](problems/2771.longest-non-decreasing-subarray-from-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
 | [2788](https://leetcode.com/problems/split-strings-by-separator/) | [Split Strings by Separator](problems/2788.split-strings-by-separator.cpp) | 🟢 Easy | C++ |
