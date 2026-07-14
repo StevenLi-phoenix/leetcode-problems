@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1618 solved** — 🟢 493 Easy · 🟡 769 Medium · 🔴 354 Hard
+**1619 solved** — 🟢 493 Easy · 🟡 769 Medium · 🔴 355 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -474,6 +474,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](problems/977.squares-of-a-sorted-array.cpp) | 🟢 Easy | C++ |
 | [979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Distribute Coins in Binary Tree](problems/979.distribute-coins-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [981](https://leetcode.com/problems/time-based-key-value-store/) | [Time Based Key-Value Store](problems/981.time-based-key-value-store.cpp) | 🟡 Medium | C++ |
+| [982](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [Triples with Bitwise AND Equal To Zero](problems/982.triples-with-bitwise-and-equal-to-zero.cpp) | 🔴 Hard | C++ |
 | [987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Vertical Order Traversal of a Binary Tree](problems/987.vertical-order-traversal-of-a-binary-tree.cpp) | 🔴 Hard | C++ |
 | [988](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Smallest String Starting From Leaf](problems/988.smallest-string-starting-from-leaf.cpp) | 🟡 Medium | C++ |
 | [990](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [Satisfiability of Equality Equations](problems/990.satisfiability-of-equality-equations.cpp) | 🟡 Medium | C++ |
