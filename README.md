@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1721 solved** — 🟢 521 Easy · 🟡 821 Medium · 🔴 377 Hard
+**1722 solved** — 🟢 522 Easy · 🟡 821 Medium · 🔴 377 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -932,6 +932,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2027](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Minimum Moves to Convert String](problems/2027.minimum-moves-to-convert-string.cpp) | 🟢 Easy | C++ |
 | [2028](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](problems/2028.find-missing-observations.cpp) | 🟡 Medium | C++ |
 | [2029](https://leetcode.com/problems/stone-game-ix/) | [Stone Game IX](problems/2029.stone-game-ix.cpp) | 🟡 Medium | C++ |
+| [2032](https://leetcode.com/problems/two-out-of-three/) | [Two Out of Three](problems/2032.two-out-of-three.cpp) | 🟢 Easy | C++ |
 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](problems/2033.minimum-operations-to-make-a-uni-value-grid.cpp) | 🟡 Medium | C++ |
 | [2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](problems/2037.minimum-number-of-moves-to-seat-everyone.cpp) | 🟢 Easy | C++ |
 | [2042](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Check if Numbers Are Ascending in a Sentence](problems/2042.check-if-numbers-are-ascending-in-a-sentence.cpp) | 🟢 Easy | C++ |
