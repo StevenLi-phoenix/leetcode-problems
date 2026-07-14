@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1602 solved** — 🟢 489 Easy · 🟡 761 Medium · 🔴 350 Hard
+**1603 solved** — 🟢 490 Easy · 🟡 761 Medium · 🔴 350 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1367,6 +1367,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3367](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [Maximize Sum of Weights after Edge Removals](problems/3367.maximize-sum-of-weights-after-edge-removals.cpp) | 🔴 Hard | C++ |
 | [3371](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | [Identify the Largest Outlier in an Array](problems/3371.identify-the-largest-outlier-in-an-array.cpp) | 🟡 Medium | C++ |
 | [3373](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](problems/3373.maximize-the-number-of-target-nodes-after-connecting-trees-ii.cpp) | 🔴 Hard | C++ |
+| [3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Minimum Operations to Make Array Values Equal to K](problems/3375.minimum-operations-to-make-array-values-equal-to-k.cpp) | 🟢 Easy | C++ |
 | [3377](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) | [Digit Operations to Make Two Integers Equal](problems/3377.digit-operations-to-make-two-integers-equal.cpp) | 🟡 Medium | C++ |
 | [3378](https://leetcode.com/problems/count-connected-components-in-lcm-graph/) | [Count Connected Components in LCM Graph](problems/3378.count-connected-components-in-lcm-graph.cpp) | 🔴 Hard | C++ |
 | [3379](https://leetcode.com/problems/transformed-array/) | [Transformed Array](problems/3379.transformed-array.cpp) | 🟢 Easy | C++ |
