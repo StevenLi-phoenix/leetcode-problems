@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1717 solved** — 🟢 520 Easy · 🟡 819 Medium · 🔴 376 Hard
+**1718 solved** — 🟢 521 Easy · 🟡 819 Medium · 🔴 376 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -530,6 +530,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1041](https://leetcode.com/problems/robot-bounded-in-circle/) | [Robot Bounded In Circle](problems/1041.robot-bounded-in-circle.cpp) | 🟡 Medium | C++ |
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](problems/1043.partition-array-for-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1045](https://leetcode.com/problems/customers-who-bought-all-products/) | [Customers Who Bought All Products](problems/1045.customers-who-bought-all-products.sql) | 🟡 Medium | mysql |
+| [1046](https://leetcode.com/problems/last-stone-weight/) | [Last Stone Weight](problems/1046.last-stone-weight.cpp) | 🟢 Easy | C++ |
 | [1048](https://leetcode.com/problems/longest-string-chain/) | [Longest String Chain](problems/1048.longest-string-chain.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
 | [1054](https://leetcode.com/problems/distant-barcodes/) | [Distant Barcodes](problems/1054.distant-barcodes.cpp) | 🟡 Medium | C++ |
