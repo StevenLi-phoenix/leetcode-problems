@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1763 solved** — 🟢 526 Easy · 🟡 848 Medium · 🔴 387 Hard
+**1764 solved** — 🟢 526 Easy · 🟡 848 Medium · 🔴 388 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1047,6 +1047,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Remove Digit From Number to Maximize Result](problems/2259.remove-digit-from-number-to-maximize-result.cpp) | 🟢 Easy | C++ |
 | [2260](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Minimum Consecutive Cards to Pick Up](problems/2260.minimum-consecutive-cards-to-pick-up.cpp) | 🟡 Medium | C++ |
 | [2261](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [K Divisible Elements Subarrays](problems/2261.k-divisible-elements-subarrays.cpp) | 🟡 Medium | C++ |
+| [2262](https://leetcode.com/problems/total-appeal-of-a-string/) | [Total Appeal of A String](problems/2262.total-appeal-of-a-string.cpp) | 🔴 Hard | C++ |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Largest 3-Same-Digit Number in String](problems/2264.largest-3-same-digit-number-in-string.cpp) | 🟢 Easy | C++ |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Count Nodes Equal to Average of Subtree](problems/2265.count-nodes-equal-to-average-of-subtree.cpp) | 🟡 Medium | C++ |
 | [2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [ Check if There Is a Valid Parentheses String Path](problems/2267.check-if-there-is-a-valid-parentheses-string-path.cpp) | 🔴 Hard | C++ |
