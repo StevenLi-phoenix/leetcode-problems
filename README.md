@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1572 solved** — 🟢 479 Easy · 🟡 746 Medium · 🔴 345 Hard
+**1573 solved** — 🟢 479 Easy · 🟡 747 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1219,6 +1219,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3015](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/) | [Count the Number of Houses at a Certain Distance I](problems/3015.count-the-number-of-houses-at-a-certain-distance-i.cpp) | 🟡 Medium | C++ |
 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](problems/3016.minimum-number-of-pushes-to-type-word-ii.cpp) | 🟡 Medium | C++ |
 | [3019](https://leetcode.com/problems/number-of-changing-keys/) | [Number of Changing Keys](problems/3019.number-of-changing-keys.cpp) | 🟢 Easy | C++ |
+| [3025](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Find the Number of Ways to Place People I](problems/3025.find-the-number-of-ways-to-place-people-i.cpp) | 🟡 Medium | C++ |
 | [3027](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Find the Number of Ways to Place People II](problems/3027.find-the-number-of-ways-to-place-people-ii.cpp) | 🔴 Hard | C++ |
 | [3028](https://leetcode.com/problems/ant-on-the-boundary/) | [Ant on the Boundary](problems/3028.ant-on-the-boundary.cpp) | 🟢 Easy | C++ |
 | [3034](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | [Number of Subarrays That Match a Pattern I](problems/3034.number-of-subarrays-that-match-a-pattern-i.cpp) | 🟡 Medium | C++ |
