@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1696 solved** — 🟢 517 Easy · 🟡 803 Medium · 🔴 374 Hard
+**1697 solved** — 🟢 517 Easy · 🟡 804 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -635,6 +635,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](problems/1380.lucky-numbers-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](problems/1382.balance-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [1385](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Find the Distance Value Between Two Arrays](problems/1385.find-the-distance-value-between-two-arrays.cpp) | 🟢 Easy | C++ |
+| [1387](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Sort Integers by The Power Value](problems/1387.sort-integers-by-the-power-value.cpp) | 🟡 Medium | C++ |
 | [1389](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Create Target Array in the Given Order](problems/1389.create-target-array-in-the-given-order.cpp) | 🟢 Easy | C++ |
 | [1390](https://leetcode.com/problems/four-divisors/) | [Four Divisors](problems/1390.four-divisors.cpp) | 🟡 Medium | C++ |
 | [1391](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Check if There is a Valid Path in a Grid](problems/1391.check-if-there-is-a-valid-path-in-a-grid.cpp) | 🟡 Medium | C++ |
