@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1688 solved** — 🟢 513 Easy · 🟡 800 Medium · 🔴 373 Hard
+**1689 solved** — 🟢 513 Easy · 🟡 800 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1655,6 +1655,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3867](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Sum of GCD of Formed Pairs](problems/3867.sum-of-gcd-of-formed-pairs.cpp) | 🟡 Medium | C++ |
 | [3869](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | [Count Fancy Numbers in a Range](problems/3869.count-fancy-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3870](https://leetcode.com/problems/count-commas-in-range/) | [Count Commas in Range](problems/3870.count-commas-in-range.cpp) | 🟢 Easy | C++ |
+| [3873](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | [Maximum Points Activated with One Addition](problems/3873.maximum-points-activated-with-one-addition.cpp) | 🔴 Hard | C++ |
 | [3875](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Construct Uniform Parity Array I](problems/3875.construct-uniform-parity-array-i.cpp) | 🟢 Easy | C++ |
 | [3877](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | [Minimum Removals to Achieve Target XOR](problems/3877.minimum-removals-to-achieve-target-xor.cpp) | 🟡 Medium | C++ |
 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](problems/3882.minimum-xor-path-in-a-grid.cpp) | 🟡 Medium | C++ |
