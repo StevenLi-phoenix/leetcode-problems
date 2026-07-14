@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1836 solved** — 🟢 528 Easy · 🟡 913 Medium · 🔴 393 Hard
+**1837 solved** — 🟢 528 Easy · 🟡 914 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1091,6 +1091,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2243](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Calculate Digit Sum of a String](problems/2243.calculate-digit-sum-of-a-string.cpp) | 🟢 Easy | C++ |
 | [2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [Longest Path With Different Adjacent Characters](problems/2246.longest-path-with-different-adjacent-characters.cpp) | 🔴 Hard | C++ |
 | [2248](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [Intersection of Multiple Arrays](problems/2248.intersection-of-multiple-arrays.cpp) | 🟢 Easy | C++ |
+| [2249](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | [Count Lattice Points Inside a Circle](problems/2249.count-lattice-points-inside-a-circle.cpp) | 🟡 Medium | C++ |
 | [2250](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | [Count Number of Rectangles Containing Each Point](problems/2250.count-number-of-rectangles-containing-each-point.cpp) | 🟡 Medium | C++ |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Number of Flowers in Full Bloom](problems/2251.number-of-flowers-in-full-bloom.cpp) | 🔴 Hard | C++ |
 | [2256](https://leetcode.com/problems/minimum-average-difference/) | [Minimum Average Difference](problems/2256.minimum-average-difference.cpp) | 🟡 Medium | C++ |
