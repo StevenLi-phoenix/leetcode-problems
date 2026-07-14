@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1715 solved** — 🟢 520 Easy · 🟡 817 Medium · 🔴 376 Hard
+**1716 solved** — 🟢 520 Easy · 🟡 818 Medium · 🔴 376 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -600,6 +600,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1292](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problems/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp) | 🟡 Medium | C++ |
 | [1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Shortest Path in a Grid with Obstacles Elimination](problems/1293.shortest-path-in-a-grid-with-obstacles-elimination.cpp) | 🔴 Hard | C++ |
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Find Numbers with Even Number of Digits](problems/1295.find-numbers-with-even-number-of-digits.cpp) | 🟢 Easy | C++ |
+| [1297](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Maximum Number of Occurrences of a Substring](problems/1297.maximum-number-of-occurrences-of-a-substring.cpp) | 🟡 Medium | C++ |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | [Deepest Leaves Sum](problems/1302.deepest-leaves-sum.cpp) | 🟡 Medium | C++ |
 | [1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [All Elements in Two Binary Search Trees](problems/1305.all-elements-in-two-binary-search-trees.cpp) | 🟡 Medium | C++ |
 | [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](problems/1306.jump-game-iii.cpp) | 🟡 Medium | C++ |
