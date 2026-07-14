@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1700 solved** — 🟢 519 Easy · 🟡 805 Medium · 🔴 374 Hard
+**1701 solved** — 🟢 519 Easy · 🟡 806 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -861,6 +861,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1906](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [Minimum Absolute Difference Queries](problems/1906.minimum-absolute-difference-queries.cpp) | 🟡 Medium | C++ |
 | [1907](https://leetcode.com/problems/count-salary-categories/) | [Count Salary Categories](problems/1907.count-salary-categories.sql) | 🟡 Medium | mysql |
 | [1909](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [Remove One Element to Make the Array Strictly Increasing](problems/1909.remove-one-element-to-make-the-array-strictly-increasing.cpp) | 🟢 Easy | C++ |
+| [1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [Remove All Occurrences of a Substring](problems/1910.remove-all-occurrences-of-a-substring.cpp) | 🟡 Medium | C++ |
 | [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Maximum Product Difference Between Two Pairs](problems/1913.maximum-product-difference-between-two-pairs.cpp) | 🟢 Easy | C++ |
 | [1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](problems/1914.cyclically-rotating-a-grid.cpp) | 🟡 Medium | C++ |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](problems/1921.eliminate-maximum-number-of-monsters.cpp) | 🟡 Medium | C++ |
