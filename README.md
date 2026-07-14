@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1851 solved** — 🟢 528 Easy · 🟡 928 Medium · 🔴 393 Hard
+**1852 solved** — 🟢 528 Easy · 🟡 929 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -523,6 +523,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [981](https://leetcode.com/problems/time-based-key-value-store/) | [Time Based Key-Value Store](problems/981.time-based-key-value-store.cpp) | 🟡 Medium | C++ |
 | [982](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [Triples with Bitwise AND Equal To Zero](problems/982.triples-with-bitwise-and-equal-to-zero.cpp) | 🔴 Hard | C++ |
 | [983](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Minimum Cost For Tickets](problems/983.minimum-cost-for-tickets.cpp) | 🟡 Medium | C++ |
+| [984](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [String Without AAA or BBB](problems/984.string-without-aaa-or-bbb.cpp) | 🟡 Medium | C++ |
 | [985](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Sum of Even Numbers After Queries](problems/985.sum-of-even-numbers-after-queries.cpp) | 🟡 Medium | C++ |
 | [987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Vertical Order Traversal of a Binary Tree](problems/987.vertical-order-traversal-of-a-binary-tree.cpp) | 🔴 Hard | C++ |
 | [988](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Smallest String Starting From Leaf](problems/988.smallest-string-starting-from-leaf.cpp) | 🟡 Medium | C++ |
