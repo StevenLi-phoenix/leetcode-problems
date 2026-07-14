@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1565 solved** — 🟢 477 Easy · 🟡 741 Medium · 🔴 345 Hard
+**1566 solved** — 🟢 478 Easy · 🟡 741 Medium · 🔴 345 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -170,6 +170,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](problems/268.missing-number.cpp) | 🟢 Easy | C++ |
 | [273](https://leetcode.com/problems/integer-to-english-words/) | [Integer to English Words](problems/273.integer-to-english-words.cpp) | 🔴 Hard | C++ |
 | [274](https://leetcode.com/problems/h-index/) | [H-Index](problems/274.h-index.cpp) | 🟡 Medium | C++ |
+| [278](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](problems/278.first-bad-version.cpp) | 🟢 Easy | C++ |
 | [279](https://leetcode.com/problems/perfect-squares/) | [Perfect Squares](problems/279.perfect-squares.cpp) | 🟡 Medium | C++ |
 | [282](https://leetcode.com/problems/expression-add-operators/) | [Expression Add Operators](problems/282.expression-add-operators.cpp) | 🔴 Hard | C++ |
 | [283](https://leetcode.com/problems/move-zeroes/) | [Move Zeroes](problems/283.move-zeroes.cpp) | 🟢 Easy | C++ |
