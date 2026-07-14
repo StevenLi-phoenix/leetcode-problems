@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1692 solved** — 🟢 515 Easy · 🟡 801 Medium · 🔴 374 Hard
+**1693 solved** — 🟢 516 Easy · 🟡 801 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1454,6 +1454,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3403](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Find the Lexicographically Largest String From the Box I](problems/3403.find-the-lexicographically-largest-string-from-the-box-i.cpp) | 🟡 Medium | C++ |
 | [3404](https://leetcode.com/problems/count-special-subsequences/) | [Count Special Subsequences](problems/3404.count-special-subsequences.cpp) | 🟡 Medium | C++ |
 | [3405](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Count the Number of Arrays with K Matching Adjacent Elements](problems/3405.count-the-number-of-arrays-with-k-matching-adjacent-elements.cpp) | 🔴 Hard | C++ |
+| [3407](https://leetcode.com/problems/substring-matching-pattern/) | [Substring Matching Pattern](problems/3407.substring-matching-pattern.cpp) | 🟢 Easy | C++ |
 | [3411](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Maximum Subarray With Equal Products](problems/3411.maximum-subarray-with-equal-products.cpp) | 🟢 Easy | C++ |
 | [3412](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [Find Mirror Score of a String](problems/3412.find-mirror-score-of-a-string.cpp) | 🟡 Medium | C++ |
 | [3417](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Zigzag Grid Traversal With Skip](problems/3417.zigzag-grid-traversal-with-skip.cpp) | 🟢 Easy | C++ |
