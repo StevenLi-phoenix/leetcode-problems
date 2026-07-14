@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1580 solved** — 🟢 482 Easy · 🟡 750 Medium · 🔴 346 Hard
+**1581 solved** — 🟢 482 Easy · 🟡 750 Medium · 🔴 347 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -251,6 +251,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [475](https://leetcode.com/problems/heaters/) | [Heaters](problems/475.heaters.cpp) | 🟡 Medium | C++ |
 | [477](https://leetcode.com/problems/total-hamming-distance/) | [Total Hamming Distance](problems/477.total-hamming-distance.cpp) | 🟡 Medium | C++ |
 | [481](https://leetcode.com/problems/magical-string/) | [Magical String](problems/481.magical-string.cpp) | 🟡 Medium | C++ |
+| [483](https://leetcode.com/problems/smallest-good-base/) | [Smallest Good Base](problems/483.smallest-good-base.cpp) | 🔴 Hard | C++ |
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
 | [486](https://leetcode.com/problems/predict-the-winner/) | [Predict the Winner](problems/486.predict-the-winner.cpp) | 🟡 Medium | C++ |
 | [491](https://leetcode.com/problems/non-decreasing-subsequences/) | [Non-decreasing Subsequences](problems/491.non-decreasing-subsequences.cpp) | 🟡 Medium | C++ |
