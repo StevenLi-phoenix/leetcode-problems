@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1611 solved** — 🟢 492 Easy · 🟡 765 Medium · 🔴 352 Hard
+**1612 solved** — 🟢 492 Easy · 🟡 766 Medium · 🔴 352 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -955,6 +955,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [Count Artifacts That Can Be Extracted](problems/2201.count-artifacts-that-can-be-extracted.cpp) | 🟡 Medium | C++ |
 | [2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Minimum Operations to Halve Array Sum](problems/2208.minimum-operations-to-halve-array-sum.cpp) | 🟡 Medium | C++ |
 | [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Find the Difference of Two Arrays](problems/2215.find-the-difference-of-two-arrays.cpp) | 🟢 Easy | C++ |
+| [2217](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | [Find Palindrome With Fixed Length](problems/2217.find-palindrome-with-fixed-length.cpp) | 🟡 Medium | C++ |
 | [2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [Maximum Value of K Coins From Piles](problems/2218.maximum-value-of-k-coins-from-piles.cpp) | 🔴 Hard | C++ |
 | [2222](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [Number of Ways to Select Buildings](problems/2222.number-of-ways-to-select-buildings.cpp) | 🟡 Medium | C++ |
 | [2224](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [Minimum Number of Operations to Convert Time](problems/2224.minimum-number-of-operations-to-convert-time.cpp) | 🟢 Easy | C++ |
