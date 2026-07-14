@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1689 solved** — 🟢 513 Easy · 🟡 800 Medium · 🔴 374 Hard
+**1690 solved** — 🟢 514 Easy · 🟡 800 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1410,6 +1410,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3300](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Minimum Element After Replacement With Digit Sum](problems/3300.minimum-element-after-replacement-with-digit-sum.cpp) | 🟢 Easy | C++ |
 | [3302](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Find the Lexicographically Smallest Valid Sequence](problems/3302.find-the-lexicographically-smallest-valid-sequence.cpp) | 🟡 Medium | C++ |
 | [3303](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Find the Occurrence of First Almost Equal Substring](problems/3303.find-the-occurrence-of-first-almost-equal-substring.cpp) | 🔴 Hard | C++ |
+| [3304](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Find the K-th Character in String Game I](problems/3304.find-the-k-th-character-in-string-game-i.cpp) | 🟢 Easy | C++ |
 | [3305](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | [Count of Substrings Containing Every Vowel and K Consonants I](problems/3305.count-of-substrings-containing-every-vowel-and-k-consonants-i.cpp) | 🟡 Medium | C++ |
 | [3310](https://leetcode.com/problems/remove-methods-from-project/) | [Remove Methods From Project](problems/3310.remove-methods-from-project.cpp) | 🟡 Medium | C++ |
 | [3312](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Sorted GCD Pair Queries](problems/3312.sorted-gcd-pair-queries.cpp) | 🔴 Hard | C++ |
