@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1629 solved** — 🟢 494 Easy · 🟡 773 Medium · 🔴 360 Hard
+**1630 solved** — 🟢 494 Easy · 🟡 773 Medium · 🔴 361 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1581,6 +1581,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3823](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [Reverse Letters Then Special Characters in a String](problems/3823.reverse-letters-then-special-characters-in-a-string.cpp) | 🟢 Easy | C++ |
 | [3824](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | [Minimum K to Reduce Array Within Limit](problems/3824.minimum-k-to-reduce-array-within-limit.cpp) | 🟡 Medium | C++ |
 | [3825](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](problems/3825.longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.cpp) | 🟡 Medium | C++ |
+| [3826](https://leetcode.com/problems/minimum-partition-score/) | [Minimum Partition Score](problems/3826.minimum-partition-score.cpp) | 🔴 Hard | C++ |
 | [3830](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | [Longest Alternating Subarray After Removing At Most One Element](problems/3830.longest-alternating-subarray-after-removing-at-most-one-element.cpp) | 🔴 Hard | C++ |
 | [3835](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | [Count Subarrays With Cost Less Than or Equal to K](problems/3835.count-subarrays-with-cost-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3836](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Maximum Score Using Exactly K Pairs](problems/3836.maximum-score-using-exactly-k-pairs.cpp) | 🔴 Hard | C++ |
