@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1677 solved** — 🟢 509 Easy · 🟡 795 Medium · 🔴 371 Hard
+**1678 solved** — 🟢 509 Easy · 🟡 796 Medium · 🔴 371 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -453,6 +453,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
 | [925](https://leetcode.com/problems/long-pressed-name/) | [Long Pressed Name](problems/925.long-pressed-name.cpp) | 🟢 Easy | C++ |
 | [933](https://leetcode.com/problems/number-of-recent-calls/) | [Number of Recent Calls](problems/933.number-of-recent-calls.cpp) | 🟢 Easy | C++ |
+| [934](https://leetcode.com/problems/shortest-bridge/) | [Shortest Bridge](problems/934.shortest-bridge.cpp) | 🟡 Medium | C++ |
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Data in Log Files](problems/937.reorder-data-in-log-files.cpp) | 🟡 Medium | C++ |
 | [938](https://leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](problems/938.range-sum-of-bst.cpp) | 🟢 Easy | C++ |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | [Minimum Area Rectangle](problems/939.minimum-area-rectangle.cpp) | 🟡 Medium | C++ |
