@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1643 solved** — 🟢 497 Easy · 🟡 780 Medium · 🔴 364 Hard
+**1644 solved** — 🟢 497 Easy · 🟡 781 Medium · 🔴 364 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -454,6 +454,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](problems/944.delete-columns-to-make-sorted.cpp) | 🟢 Easy | C++ |
 | [949](https://leetcode.com/problems/largest-time-for-given-digits/) | [Largest Time for Given Digits](problems/949.largest-time-for-given-digits.cpp) | 🟡 Medium | C++ |
 | [950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Reveal Cards In Increasing Order](problems/950.reveal-cards-in-increasing-order.cpp) | 🟡 Medium | C++ |
+| [951](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Flip Equivalent Binary Trees](problems/951.flip-equivalent-binary-trees.cpp) | 🟡 Medium | C++ |
 | [952](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Largest Component Size by Common Factor](problems/952.largest-component-size-by-common-factor.cpp) | 🔴 Hard | C++ |
 | [953](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Verifying an Alien Dictionary](problems/953.verifying-an-alien-dictionary.cpp) | 🟢 Easy | C++ |
 | [954](https://leetcode.com/problems/array-of-doubled-pairs/) | [Array of Doubled Pairs](problems/954.array-of-doubled-pairs.cpp) | 🟡 Medium | C++ |
