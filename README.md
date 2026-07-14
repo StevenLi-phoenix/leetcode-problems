@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1701 solved** — 🟢 519 Easy · 🟡 806 Medium · 🔴 374 Hard
+**1702 solved** — 🟢 519 Easy · 🟡 807 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -896,6 +896,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1986](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) | [Minimum Number of Work Sessions to Finish the Tasks](problems/1986.minimum-number-of-work-sessions-to-finish-the-tasks.cpp) | 🟡 Medium | C++ |
 | [1987](https://leetcode.com/problems/number-of-unique-good-subsequences/) | [Number of Unique Good Subsequences](problems/1987.number-of-unique-good-subsequences.cpp) | 🔴 Hard | C++ |
 | [1991](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Find the Middle Index in Array](problems/1991.find-the-middle-index-in-array.cpp) | 🟢 Easy | C++ |
+| [1992](https://leetcode.com/problems/find-all-groups-of-farmland/) | [Find All Groups of Farmland](problems/1992.find-all-groups-of-farmland.cpp) | 🟡 Medium | C++ |
 | [1993](https://leetcode.com/problems/operations-on-tree/) | [Operations on Tree](problems/1993.operations-on-tree.cpp) | 🟡 Medium | C++ |
 | [1994](https://leetcode.com/problems/the-number-of-good-subsets/) | [The Number of Good Subsets](problems/1994.the-number-of-good-subsets.cpp) | 🔴 Hard | C++ |
 | [1995](https://leetcode.com/problems/count-special-quadruplets/) | [Count Special Quadruplets](problems/1995.count-special-quadruplets.cpp) | 🟢 Easy | C++ |
