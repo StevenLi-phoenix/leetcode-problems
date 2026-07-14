@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1581 solved** — 🟢 482 Easy · 🟡 750 Medium · 🔴 347 Hard
+**1582 solved** — 🟢 482 Easy · 🟡 751 Medium · 🔴 347 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -855,6 +855,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [The Number of Weak Characters in the Game](problems/1996.the-number-of-weak-characters-in-the-game.cpp) | 🟡 Medium | C++ |
 | [1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [First Day Where You Have Been in All the Rooms](problems/1997.first-day-where-you-have-been-in-all-the-rooms.cpp) | 🟡 Medium | C++ |
 | [1998](https://leetcode.com/problems/gcd-sort-of-an-array/) | [GCD Sort of an Array](problems/1998.gcd-sort-of-an-array.cpp) | 🔴 Hard | C++ |
+| [2001](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Number of Pairs of Interchangeable Rectangles](problems/2001.number-of-pairs-of-interchangeable-rectangles.cpp) | 🟡 Medium | C++ |
 | [2003](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [Smallest Missing Genetic Value in Each Subtree](problems/2003.smallest-missing-genetic-value-in-each-subtree.cpp) | 🔴 Hard | C++ |
 | [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Maximum Earnings From Taxi](problems/2008.maximum-earnings-from-taxi.cpp) | 🟡 Medium | C++ |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Minimum Number of Operations to Make Array Continuous](problems/2009.minimum-number-of-operations-to-make-array-continuous.cpp) | 🔴 Hard | C++ |
