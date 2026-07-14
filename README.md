@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1748 solved** — 🟢 524 Easy · 🟡 839 Medium · 🔴 383 Hard
+**1749 solved** — 🟢 524 Easy · 🟡 839 Medium · 🔴 384 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1202,6 +1202,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2624](https://leetcode.com/problems/snail-traversal/) | [Snail Traversal](problems/2624.snail-traversal.js) | 🟡 Medium | JavaScript |
 | [2627](https://leetcode.com/problems/debounce/) | [Debounce](problems/2627.debounce.js) | 🟡 Medium | JavaScript |
 | [2629](https://leetcode.com/problems/function-composition/) | [Function Composition](problems/2629.function-composition.js) | 🟢 Easy | JavaScript |
+| [2630](https://leetcode.com/problems/memoize-ii/) | [Memoize II](problems/2630.memoize-ii.js) | 🔴 Hard | JavaScript |
 | [2631](https://leetcode.com/problems/group-by/) | [Group By](problems/2631.group-by.js) | 🟡 Medium | JavaScript |
 | [2634](https://leetcode.com/problems/filter-elements-from-array/) | [Filter Elements from Array](problems/2634.filter-elements-from-array.js) | 🟢 Easy | JavaScript |
 | [2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Apply Transform Over Each Element in Array](problems/2635.apply-transform-over-each-element-in-array.js) | 🟢 Easy | JavaScript |
