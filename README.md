@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1761 solved** — 🟢 526 Easy · 🟡 846 Medium · 🔴 387 Hard
+**1762 solved** — 🟢 526 Easy · 🟡 847 Medium · 🔴 387 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -513,6 +513,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [998](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Maximum Binary Tree II](problems/998.maximum-binary-tree-ii.cpp) | 🟡 Medium | C++ |
 | [1002](https://leetcode.com/problems/find-common-characters/) | [Find Common Characters](problems/1002.find-common-characters.cpp) | 🟢 Easy | C++ |
 | [1006](https://leetcode.com/problems/clumsy-factorial/) | [Clumsy Factorial](problems/1006.clumsy-factorial.cpp) | 🟡 Medium | C++ |
+| [1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Construct Binary Search Tree from Preorder Traversal](problems/1008.construct-binary-search-tree-from-preorder-traversal.cpp) | 🟡 Medium | C++ |
 | [1009](https://leetcode.com/problems/complement-of-base-10-integer/) | [Complement of Base 10 Integer](problems/1009.complement-of-base-10-integer.cpp) | 🟢 Easy | C++ |
 | [1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Pairs of Songs With Total Durations Divisible by 60](problems/1010.pairs-of-songs-with-total-durations-divisible-by-60.cpp) | 🟡 Medium | C++ |
 | [1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Capacity To Ship Packages Within D Days](problems/1011.capacity-to-ship-packages-within-d-days.cpp) | 🟡 Medium | C++ |
