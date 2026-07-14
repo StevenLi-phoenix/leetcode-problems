@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1793 solved** — 🟢 528 Easy · 🟡 870 Medium · 🔴 393 Hard
+**1794 solved** — 🟢 528 Easy · 🟡 871 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -742,6 +742,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Minimum Number of Vertices to Reach All Nodes](problems/1557.minimum-number-of-vertices-to-reach-all-nodes.cpp) | 🟡 Medium | C++ |
 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](problems/1559.detect-cycles-in-2d-grid.cpp) | 🟡 Medium | C++ |
 | [1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [Most Visited Sector in  a Circular Track](problems/1560.most-visited-sector-in-a-circular-track.cpp) | 🟢 Easy | C++ |
+| [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Maximum Number of Coins You Can Get](problems/1561.maximum-number-of-coins-you-can-get.cpp) | 🟡 Medium | C++ |
 | [1566](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](problems/1566.detect-pattern-of-length-m-repeated-k-or-more-times.cpp) | 🟢 Easy | C++ |
 | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](problems/1569.number-of-ways-to-reorder-array-to-get-same-bst.cpp) | 🔴 Hard | C++ |
 | [1572](https://leetcode.com/problems/matrix-diagonal-sum/) | [Matrix Diagonal Sum](problems/1572.matrix-diagonal-sum.cpp) | 🟢 Easy | C++ |
