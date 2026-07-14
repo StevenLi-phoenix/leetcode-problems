@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1639 solved** — 🟢 495 Easy · 🟡 779 Medium · 🔴 363 Hard
+**1640 solved** — 🟢 496 Easy · 🟡 779 Medium · 🔴 363 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1270,6 +1270,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3015](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/) | [Count the Number of Houses at a Certain Distance I](problems/3015.count-the-number-of-houses-at-a-certain-distance-i.cpp) | 🟡 Medium | C++ |
 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](problems/3016.minimum-number-of-pushes-to-type-word-ii.cpp) | 🟡 Medium | C++ |
 | [3019](https://leetcode.com/problems/number-of-changing-keys/) | [Number of Changing Keys](problems/3019.number-of-changing-keys.cpp) | 🟢 Easy | C++ |
+| [3024](https://leetcode.com/problems/type-of-triangle/) | [Type of Triangle](problems/3024.type-of-triangle.cpp) | 🟢 Easy | C++ |
 | [3025](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Find the Number of Ways to Place People I](problems/3025.find-the-number-of-ways-to-place-people-i.cpp) | 🟡 Medium | C++ |
 | [3027](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Find the Number of Ways to Place People II](problems/3027.find-the-number-of-ways-to-place-people-ii.cpp) | 🔴 Hard | C++ |
 | [3028](https://leetcode.com/problems/ant-on-the-boundary/) | [Ant on the Boundary](problems/3028.ant-on-the-boundary.cpp) | 🟢 Easy | C++ |
