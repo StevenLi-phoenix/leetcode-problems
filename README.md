@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1699 solved** — 🟢 519 Easy · 🟡 804 Medium · 🔴 374 Hard
+**1700 solved** — 🟢 519 Easy · 🟡 805 Medium · 🔴 374 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -424,6 +424,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [841](https://leetcode.com/problems/keys-and-rooms/) | [Keys and Rooms](problems/841.keys-and-rooms.cpp) | 🟡 Medium | C++ |
 | [843](https://leetcode.com/problems/guess-the-word/) | [Guess the Word](problems/843.guess-the-word.cpp) | 🔴 Hard | C++ |
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](problems/844.backspace-string-compare.cpp) | 🟢 Easy | C++ |
+| [846](https://leetcode.com/problems/hand-of-straights/) | [Hand of Straights](problems/846.hand-of-straights.cpp) | 🟡 Medium | C++ |
 | [847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [Shortest Path Visiting All Nodes](problems/847.shortest-path-visiting-all-nodes.cpp) | 🔴 Hard | C++ |
 | [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Peak Index in a Mountain Array](problems/852.peak-index-in-a-mountain-array.cpp) | 🟡 Medium | C++ |
 | [853](https://leetcode.com/problems/car-fleet/) | [Car Fleet](problems/853.car-fleet.cpp) | 🟡 Medium | C++ |
