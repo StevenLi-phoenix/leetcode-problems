@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1705 solved** — 🟢 520 Easy · 🟡 808 Medium · 🔴 375 Hard
+**1706 solved** — 🟢 520 Easy · 🟡 809 Medium · 🔴 375 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -877,6 +877,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1937](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Maximum Number of Points with Cost](problems/1937.maximum-number-of-points-with-cost.cpp) | 🟡 Medium | C++ |
 | [1938](https://leetcode.com/problems/maximum-genetic-difference-query/) | [Maximum Genetic Difference Query](problems/1938.maximum-genetic-difference-query.cpp) | 🔴 Hard | C++ |
 | [1941](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [Check if All Characters Have Equal Number of Occurrences](problems/1941.check-if-all-characters-have-equal-number-of-occurrences.cpp) | 🟢 Easy | C++ |
+| [1942](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [The Number of the Smallest Unoccupied Chair](problems/1942.the-number-of-the-smallest-unoccupied-chair.cpp) | 🟡 Medium | C++ |
 | [1943](https://leetcode.com/problems/describe-the-painting/) | [Describe the Painting](problems/1943.describe-the-painting.cpp) | 🟡 Medium | C++ |
 | [1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [Number of Visible People in a Queue](problems/1944.number-of-visible-people-in-a-queue.cpp) | 🔴 Hard | C++ |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](problems/1945.sum-of-digits-of-string-after-convert.cpp) | 🟢 Easy | C++ |
