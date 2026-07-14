@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1784 solved** — 🟢 528 Easy · 🟡 861 Medium · 🔴 393 Hard
+**1785 solved** — 🟢 528 Easy · 🟡 862 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1703,6 +1703,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3769](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Sort Integers by Binary Reflection](problems/3769.sort-integers-by-binary-reflection.cpp) | 🟢 Easy | C++ |
 | [3770](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Largest Prime from Consecutive Prime Sum](problems/3770.largest-prime-from-consecutive-prime-sum.cpp) | 🟡 Medium | C++ |
 | [3774](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Absolute Difference Between Maximum and Minimum K Elements](problems/3774.absolute-difference-between-maximum-and-minimum-k-elements.cpp) | 🟢 Easy | C++ |
+| [3775](https://leetcode.com/problems/reverse-words-with-same-vowel-count/) | [Reverse Words With Same Vowel Count](problems/3775.reverse-words-with-same-vowel-count.cpp) | 🟡 Medium | C++ |
 | [3780](https://leetcode.com/problems/maximum-sum-of-three-numbers-divisible-by-three/) | [Maximum Sum of Three Numbers Divisible by Three](problems/3780.maximum-sum-of-three-numbers-divisible-by-three.cpp) | 🟡 Medium | C++ |
 | [3781](https://leetcode.com/problems/maximum-score-after-binary-swaps/) | [Maximum Score After Binary Swaps](problems/3781.maximum-score-after-binary-swaps.cpp) | 🟡 Medium | C++ |
 | [3782](https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations/) | [Last Remaining Integer After Alternating Deletion Operations](problems/3782.last-remaining-integer-after-alternating-deletion-operations.cpp) | 🔴 Hard | C++ |
