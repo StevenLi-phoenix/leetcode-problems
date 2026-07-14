@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1816 solved** — 🟢 528 Easy · 🟡 893 Medium · 🔴 393 Hard
+**1817 solved** — 🟢 528 Easy · 🟡 894 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1770,6 +1770,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3841](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Palindromic Path Queries in a Tree](problems/3841.palindromic-path-queries-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [3845](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | [Maximum Subarray XOR with Bounded Range](problems/3845.maximum-subarray-xor-with-bounded-range.cpp) | 🔴 Hard | C++ |
+| [3847](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | [Find the Score Difference in a Game](problems/3847.find-the-score-difference-in-a-game.cpp) | 🟡 Medium | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
 | [3850](https://leetcode.com/problems/count-sequences-to-k/) | [Count Sequences to K](problems/3850.count-sequences-to-k.cpp) | 🔴 Hard | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
