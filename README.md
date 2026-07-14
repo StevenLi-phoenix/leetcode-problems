@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1823 solved** — 🟢 528 Easy · 🟡 900 Medium · 🔴 393 Hard
+**1824 solved** — 🟢 528 Easy · 🟡 901 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -774,6 +774,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](problems/1590.make-sum-divisible-by-p.cpp) | 🟡 Medium | C++ |
 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](problems/1593.split-a-string-into-the-max-number-of-unique-substrings.cpp) | 🟡 Medium | C++ |
 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](problems/1594.maximum-non-negative-product-in-a-matrix.cpp) | 🟡 Medium | C++ |
+| [1599](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [Maximum Profit of Operating a Centennial Wheel](problems/1599.maximum-profit-of-operating-a-centennial-wheel.cpp) | 🟡 Medium | C++ |
 | [1603](https://leetcode.com/problems/design-parking-system/) | [Design Parking System](problems/1603.design-parking-system.cpp) | 🟢 Easy | C++ |
 | [1604](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](problems/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.cpp) | 🟡 Medium | C++ |
 | [1605](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [Find Valid Matrix Given Row and Column Sums](problems/1605.find-valid-matrix-given-row-and-column-sums.cpp) | 🟡 Medium | C++ |
