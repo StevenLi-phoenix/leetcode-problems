@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1750 solved** — 🟢 525 Easy · 🟡 839 Medium · 🔴 384 Hard
+**1751 solved** — 🟢 526 Easy · 🟡 839 Medium · 🔴 384 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1285,6 +1285,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2879](https://leetcode.com/problems/display-the-first-three-rows/) | [Display the First Three Rows](problems/2879.display-the-first-three-rows.py) | 🟢 Easy | pythondata |
 | [2881](https://leetcode.com/problems/create-a-new-column/) | [Create a New Column](problems/2881.create-a-new-column.py) | 🟢 Easy | pythondata |
 | [2882](https://leetcode.com/problems/drop-duplicate-rows/) | [Drop Duplicate Rows](problems/2882.drop-duplicate-rows.py) | 🟢 Easy | pythondata |
+| [2883](https://leetcode.com/problems/drop-missing-data/) | [Drop Missing Data](problems/2883.drop-missing-data.py) | 🟢 Easy | pythondata |
 | [2884](https://leetcode.com/problems/modify-columns/) | [Modify Columns](problems/2884.modify-columns.py) | 🟢 Easy | pythondata |
 | [2886](https://leetcode.com/problems/change-data-type/) | [Change Data Type](problems/2886.change-data-type.py) | 🟢 Easy | pythondata |
 | [2887](https://leetcode.com/problems/fill-missing-data/) | [Fill Missing Data](problems/2887.fill-missing-data.py) | 🟢 Easy | pythondata |
