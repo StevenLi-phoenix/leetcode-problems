@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1749 solved** — 🟢 524 Easy · 🟡 839 Medium · 🔴 384 Hard
+**1750 solved** — 🟢 525 Easy · 🟡 839 Medium · 🔴 384 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -450,6 +450,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
 | [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](problems/878.nth-magical-number.cpp) | 🔴 Hard | C++ |
 | [880](https://leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](problems/880.decoded-string-at-index.cpp) | 🟡 Medium | C++ |
+| [883](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Projection Area of 3D Shapes](problems/883.projection-area-of-3d-shapes.cpp) | 🟢 Easy | C++ |
 | [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](problems/884.uncommon-words-from-two-sentences.cpp) | 🟢 Easy | C++ |
 | [886](https://leetcode.com/problems/possible-bipartition/) | [Possible Bipartition](problems/886.possible-bipartition.cpp) | 🟡 Medium | C++ |
 | [888](https://leetcode.com/problems/fair-candy-swap/) | [Fair Candy Swap](problems/888.fair-candy-swap.cpp) | 🟢 Easy | C++ |
