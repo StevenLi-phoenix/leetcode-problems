@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2091 solved** — 🟢 528 Easy · 🟡 1164 Medium · 🔴 393 Hard
+**2092 solved** — 🟢 528 Easy · 🟡 1165 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1063,6 +1063,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](problems/1921.eliminate-maximum-number-of-monsters.cpp) | 🟡 Medium | C++ |
 | [1922](https://leetcode.com/problems/count-good-numbers/) | [Count Good Numbers](problems/1922.count-good-numbers.cpp) | 🟡 Medium | C++ |
 | [1923](https://leetcode.com/problems/longest-common-subpath/) | [Longest Common Subpath](problems/1923.longest-common-subpath.cpp) | 🔴 Hard | C++ |
+| [1926](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [Nearest Exit from Entrance in Maze](problems/1926.nearest-exit-from-entrance-in-maze.cpp) | 🟡 Medium | C++ |
 | [1927](https://leetcode.com/problems/sum-game/) | [Sum Game](problems/1927.sum-game.cpp) | 🟡 Medium | C++ |
 | [1928](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/) | [Minimum Cost to Reach Destination in Time](problems/1928.minimum-cost-to-reach-destination-in-time.cpp) | 🔴 Hard | C++ |
 | [1929](https://leetcode.com/problems/concatenation-of-array/) | [Concatenation of Array](problems/1929.concatenation-of-array.cpp) | 🟢 Easy | C++ |
