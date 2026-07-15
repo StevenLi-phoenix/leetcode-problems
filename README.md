@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2130 solved** — 🟢 528 Easy · 🟡 1202 Medium · 🔴 393 Hard
+**2131 solved** — 🟢 528 Easy · 🟡 1203 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -924,6 +924,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1643](https://leetcode.com/problems/kth-smallest-instructions/) | [Kth Smallest Instructions](problems/1643.kth-smallest-instructions.cpp) | 🔴 Hard | C++ |
 | [1646](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Get Maximum in Generated Array](problems/1646.get-maximum-in-generated-array.cpp) | 🟢 Easy | C++ |
 | [1647](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Minimum Deletions to Make Character Frequencies Unique](problems/1647.minimum-deletions-to-make-character-frequencies-unique.cpp) | 🟡 Medium | C++ |
+| [1648](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [Sell Diminishing-Valued Colored Balls](problems/1648.sell-diminishing-valued-colored-balls.cpp) | 🟡 Medium | C++ |
 | [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Create Sorted Array through Instructions](problems/1649.create-sorted-array-through-instructions.cpp) | 🔴 Hard | C++ |
 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](problems/1653.minimum-deletions-to-make-string-balanced.cpp) | 🟡 Medium | C++ |
 | [1654](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Minimum Jumps to Reach Home](problems/1654.minimum-jumps-to-reach-home.cpp) | 🟡 Medium | C++ |
