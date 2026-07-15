@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2022 solved** — 🟢 528 Easy · 🟡 1096 Medium · 🔴 393 Hard
+**2023 solved** — 🟢 528 Easy · 🟡 1097 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -705,6 +705,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Group the People Given the Group Size They Belong To](problems/1282.group-the-people-given-the-group-size-they-belong-to.cpp) | 🟡 Medium | C++ |
 | [1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Find the Smallest Divisor Given a Threshold](problems/1283.find-the-smallest-divisor-given-a-threshold.cpp) | 🟡 Medium | C++ |
 | [1284](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](problems/1284.minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.cpp) | 🔴 Hard | C++ |
+| [1286](https://leetcode.com/problems/iterator-for-combination/) | [Iterator for Combination](problems/1286.iterator-for-combination.cpp) | 🟡 Medium | C++ |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Element Appearing More Than 25% In Sorted Array](problems/1287.element-appearing-more-than-25-in-sorted-array.cpp) | 🟢 Easy | C++ |
 | [1291](https://leetcode.com/problems/sequential-digits/) | [Sequential Digits](problems/1291.sequential-digits.cpp) | 🟡 Medium | C++ |
 | [1292](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problems/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp) | 🟡 Medium | C++ |
