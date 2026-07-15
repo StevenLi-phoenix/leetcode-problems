@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1920 solved** — 🟢 528 Easy · 🟡 996 Medium · 🔴 393 Hard
+**1921 solved** — 🟢 528 Easy · 🟡 997 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -160,6 +160,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [206](https://leetcode.com/problems/reverse-linked-list/) | [Reverse Linked List](problems/206.reverse-linked-list.cpp) | 🟢 Easy | C++ |
 | [207](https://leetcode.com/problems/course-schedule/) | [Course Schedule](problems/207.course-schedule.cpp) | 🟡 Medium | C++ |
 | [208](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Implement Trie (Prefix Tree)](problems/208.implement-trie-prefix-tree.cpp) | 🟡 Medium | C++ |
+| [209](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Minimum Size Subarray Sum](problems/209.minimum-size-subarray-sum.cpp) | 🟡 Medium | C++ |
 | [212](https://leetcode.com/problems/word-search-ii/) | [Word Search II](problems/212.word-search-ii.cpp) | 🔴 Hard | C++ |
 | [213](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](problems/213.house-robber-ii.cpp) | 🟡 Medium | C++ |
 | [214](https://leetcode.com/problems/shortest-palindrome/) | [Shortest Palindrome](problems/214.shortest-palindrome.cpp) | 🔴 Hard | C++ |
