@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2087 solved** — 🟢 528 Easy · 🟡 1160 Medium · 🔴 393 Hard
+**2088 solved** — 🟢 528 Easy · 🟡 1161 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1373,6 +1373,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2521](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [Distinct Prime Factors of Product of Array](problems/2521.distinct-prime-factors-of-product-of-array.cpp) | 🟡 Medium | C++ |
 | [2523](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Closest Prime Numbers in Range](problems/2523.closest-prime-numbers-in-range.cpp) | 🟡 Medium | C++ |
 | [2525](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Categorize Box According to Criteria](problems/2525.categorize-box-according-to-criteria.cpp) | 🟢 Easy | C++ |
+| [2527](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Find Xor-Beauty of Array](problems/2527.find-xor-beauty-of-array.cpp) | 🟡 Medium | C++ |
 | [2528](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](problems/2528.maximize-the-minimum-powered-city.cpp) | 🔴 Hard | C++ |
 | [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Maximal Score After Applying K Operations](problems/2530.maximal-score-after-applying-k-operations.cpp) | 🟡 Medium | C++ |
 | [2535](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Difference Between Element Sum and Digit Sum of an Array](problems/2535.difference-between-element-sum-and-digit-sum-of-an-array.cpp) | 🟢 Easy | C++ |
