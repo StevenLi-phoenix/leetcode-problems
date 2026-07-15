@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2054 solved** — 🟢 528 Easy · 🟡 1127 Medium · 🔴 393 Hard
+**2055 solved** — 🟢 528 Easy · 🟡 1128 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1477,6 +1477,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2761](https://leetcode.com/problems/prime-pairs-with-target-sum/) | [Prime Pairs With Target Sum](problems/2761.prime-pairs-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [2766](https://leetcode.com/problems/relocate-marbles/) | [Relocate Marbles](problems/2766.relocate-marbles.cpp) | 🟡 Medium | C++ |
 | [2767](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) | [Partition String Into Minimum Beautiful Substrings](problems/2767.partition-string-into-minimum-beautiful-substrings.cpp) | 🟡 Medium | C++ |
+| [2768](https://leetcode.com/problems/number-of-black-blocks/) | [Number of Black Blocks](problems/2768.number-of-black-blocks.cpp) | 🟡 Medium | C++ |
 | [2769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find the Maximum Achievable Number](problems/2769.find-the-maximum-achievable-number.cpp) | 🟢 Easy | C++ |
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
 | [2771](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Longest Non-decreasing Subarray From Two Arrays](problems/2771.longest-non-decreasing-subarray-from-two-arrays.cpp) | 🟡 Medium | C++ |
