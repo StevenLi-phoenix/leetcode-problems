@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2086 solved** — 🟢 528 Easy · 🟡 1159 Medium · 🔴 393 Hard
+**2087 solved** — 🟢 528 Easy · 🟡 1160 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -501,6 +501,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [839](https://leetcode.com/problems/similar-string-groups/) | [Similar String Groups](problems/839.similar-string-groups.cpp) | 🔴 Hard | C++ |
 | [840](https://leetcode.com/problems/magic-squares-in-grid/) | [Magic Squares In Grid](problems/840.magic-squares-in-grid.cpp) | 🟡 Medium | C++ |
 | [841](https://leetcode.com/problems/keys-and-rooms/) | [Keys and Rooms](problems/841.keys-and-rooms.cpp) | 🟡 Medium | C++ |
+| [842](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Split Array into Fibonacci Sequence](problems/842.split-array-into-fibonacci-sequence.cpp) | 🟡 Medium | C++ |
 | [843](https://leetcode.com/problems/guess-the-word/) | [Guess the Word](problems/843.guess-the-word.cpp) | 🔴 Hard | C++ |
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](problems/844.backspace-string-compare.cpp) | 🟢 Easy | C++ |
 | [846](https://leetcode.com/problems/hand-of-straights/) | [Hand of Straights](problems/846.hand-of-straights.cpp) | 🟡 Medium | C++ |
