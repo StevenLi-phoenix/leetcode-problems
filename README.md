@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2166 solved** — 🟢 528 Easy · 🟡 1238 Medium · 🔴 393 Hard
+**2167 solved** — 🟢 528 Easy · 🟡 1239 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1674,6 +1674,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3025](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Find the Number of Ways to Place People I](problems/3025.find-the-number-of-ways-to-place-people-i.cpp) | 🟡 Medium | C++ |
 | [3027](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Find the Number of Ways to Place People II](problems/3027.find-the-number-of-ways-to-place-people-ii.cpp) | 🔴 Hard | C++ |
 | [3028](https://leetcode.com/problems/ant-on-the-boundary/) | [Ant on the Boundary](problems/3028.ant-on-the-boundary.cpp) | 🟢 Easy | C++ |
+| [3030](https://leetcode.com/problems/find-the-grid-of-region-average/) | [Find the Grid of Region Average](problems/3030.find-the-grid-of-region-average.cpp) | 🟡 Medium | C++ |
 | [3034](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | [Number of Subarrays That Match a Pattern I](problems/3034.number-of-subarrays-that-match-a-pattern-i.cpp) | 🟡 Medium | C++ |
 | [3035](https://leetcode.com/problems/maximum-palindromes-after-operations/) | [Maximum Palindromes After Operations](problems/3035.maximum-palindromes-after-operations.cpp) | 🟡 Medium | C++ |
 | [3036](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | [Number of Subarrays That Match a Pattern II](problems/3036.number-of-subarrays-that-match-a-pattern-ii.cpp) | 🔴 Hard | C++ |
