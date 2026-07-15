@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1898 solved** — 🟢 528 Easy · 🟡 975 Medium · 🔴 393 Hard
+**1899 solved** — 🟢 528 Easy · 🟡 976 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -760,6 +760,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Number of Students Doing Homework at a Given Time](problems/1450.number-of-students-doing-homework-at-a-given-time.cpp) | 🟢 Easy | C++ |
 | [1451](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Rearrange Words in a Sentence](problems/1451.rearrange-words-in-a-sentence.cpp) | 🟡 Medium | C++ |
 | [1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Maximum Number of Vowels in a Substring of Given Length](problems/1456.maximum-number-of-vowels-in-a-substring-of-given-length.py) | 🟡 Medium | Python |
+| [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [Pseudo-Palindromic Paths in a Binary Tree](problems/1457.pseudo-palindromic-paths-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](problems/1458.max-dot-product-of-two-subsequences.cpp) | 🔴 Hard | C++ |
 | [1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Make Two Arrays Equal by Reversing Subarrays](problems/1460.make-two-arrays-equal-by-reversing-subarrays.cpp) | 🟢 Easy | C++ |
 | [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Check If a String Contains All Binary Codes of Size K](problems/1461.check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | 🟡 Medium | C++ |
