@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2036 solved** — 🟢 528 Easy · 🟡 1109 Medium · 🔴 393 Hard
+**2037 solved** — 🟢 528 Easy · 🟡 1110 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1290,6 +1290,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2409](https://leetcode.com/problems/count-days-spent-together/) | [Count Days Spent Together](problems/2409.count-days-spent-together.cpp) | 🟢 Easy | C++ |
 | [2413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](problems/2413.smallest-even-multiple.cpp) | 🟢 Easy | C++ |
 | [2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Length of the Longest Alphabetical Continuous Substring](problems/2414.length-of-the-longest-alphabetical-continuous-substring.cpp) | 🟡 Medium | C++ |
+| [2415](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [Reverse Odd Levels of Binary Tree](problems/2415.reverse-odd-levels-of-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
 | [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Longest Subarray With Maximum Bitwise AND](problems/2419.longest-subarray-with-maximum-bitwise-and.cpp) | 🟡 Medium | C++ |
 | [2423](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [Remove Letter To Equalize Frequency](problems/2423.remove-letter-to-equalize-frequency.cpp) | 🟢 Easy | C++ |
