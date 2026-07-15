@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2012 solved** — 🟢 528 Easy · 🟡 1086 Medium · 🔴 393 Hard
+**2013 solved** — 🟢 528 Easy · 🟡 1087 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1254,6 +1254,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Longest Cycle in a Graph](problems/2360.longest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2363](https://leetcode.com/problems/merge-similar-items/) | [Merge Similar Items](problems/2363.merge-similar-items.cpp) | 🟢 Easy | C++ |
 | [2368](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [Reachable Nodes With Restrictions](problems/2368.reachable-nodes-with-restrictions.cpp) | 🟡 Medium | C++ |
+| [2369](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [Check if There is a Valid Partition For The Array](problems/2369.check-if-there-is-a-valid-partition-for-the-array.cpp) | 🟡 Medium | C++ |
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
 | [2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [Largest Local Values in a Matrix](problems/2373.largest-local-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [2374](https://leetcode.com/problems/node-with-highest-edge-score/) | [Node With Highest Edge Score](problems/2374.node-with-highest-edge-score.cpp) | 🟡 Medium | C++ |
