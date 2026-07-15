@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2103 solved** — 🟢 528 Easy · 🟡 1175 Medium · 🔴 393 Hard
+**2104 solved** — 🟢 528 Easy · 🟡 1176 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1350,6 +1350,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](problems/2463.minimum-total-distance-traveled.cpp) | 🔴 Hard | C++ |
 | [2466](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Count Ways To Build Good Strings](problems/2466.count-ways-to-build-good-strings.cpp) | 🟡 Medium | C++ |
 | [2470](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | [Number of Subarrays With LCM Equal to K](problems/2470.number-of-subarrays-with-lcm-equal-to-k.cpp) | 🟡 Medium | C++ |
+| [2471](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [Minimum Number of Operations to Sort a Binary Tree by Level](problems/2471.minimum-number-of-operations-to-sort-a-binary-tree-by-level.cpp) | 🟡 Medium | C++ |
 | [2472](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Maximum Number of Non-overlapping Palindrome Substrings](problems/2472.maximum-number-of-non-overlapping-palindrome-substrings.cpp) | 🔴 Hard | C++ |
 | [2475](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [Number of Unequal Triplets in Array](problems/2475.number-of-unequal-triplets-in-array.cpp) | 🟢 Easy | C++ |
 | [2476](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | [Closest Nodes Queries in a Binary Search Tree](problems/2476.closest-nodes-queries-in-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
