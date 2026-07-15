@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2000 solved** — 🟢 528 Easy · 🟡 1074 Medium · 🔴 393 Hard
+**2001 solved** — 🟢 528 Easy · 🟡 1075 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1432,6 +1432,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2723](https://leetcode.com/problems/add-two-promises/) | [Add Two Promises](problems/2723.add-two-promises.js) | 🟢 Easy | JavaScript |
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2726](https://leetcode.com/problems/calculator-with-method-chaining/) | [Calculator with Method Chaining](problems/2726.calculator-with-method-chaining.js) | 🟢 Easy | JavaScript |
+| [2730](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [Find the Longest Semi-Repetitive Substring](problems/2730.find-the-longest-semi-repetitive-substring.cpp) | 🟡 Medium | C++ |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
 | [2736](https://leetcode.com/problems/maximum-sum-queries/) | [Maximum Sum Queries](problems/2736.maximum-sum-queries.cpp) | 🔴 Hard | C++ |
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
