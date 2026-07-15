@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1927 solved** — 🟢 528 Easy · 🟡 1003 Medium · 🔴 393 Hard
+**1928 solved** — 🟢 528 Easy · 🟡 1004 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -623,6 +623,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](problems/1123.lowest-common-ancestor-of-deepest-leaves.cpp) | 🟡 Medium | C++ |
 | [1125](https://leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](problems/1125.smallest-sufficient-team.cpp) | 🔴 Hard | C++ |
 | [1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Minimum Cost Tree From Leaf Values](problems/1130.minimum-cost-tree-from-leaf-values.cpp) | 🟡 Medium | C++ |
+| [1131](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [Maximum of Absolute Value Expression](problems/1131.maximum-of-absolute-value-expression.cpp) | 🟡 Medium | C++ |
 | [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Longest Common Subsequence](problems/1143.longest-common-subsequence.cpp) | 🟡 Medium | C++ |
 | [1144](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [Decrease Elements To Make Array Zigzag](problems/1144.decrease-elements-to-make-array-zigzag.cpp) | 🟡 Medium | C++ |
