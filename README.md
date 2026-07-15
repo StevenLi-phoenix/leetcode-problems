@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2046 solved** — 🟢 528 Easy · 🟡 1119 Medium · 🔴 393 Hard
+**2047 solved** — 🟢 528 Easy · 🟡 1120 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1521,6 +1521,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2889](https://leetcode.com/problems/reshape-data-pivot/) | [Reshape Data: Pivot](problems/2889.reshape-data-pivot.py) | 🟢 Easy | pythondata |
 | [2890](https://leetcode.com/problems/reshape-data-melt/) | [Reshape Data: Melt](problems/2890.reshape-data-melt.py) | 🟢 Easy | pythondata |
 | [2891](https://leetcode.com/problems/method-chaining/) | [Method Chaining](problems/2891.method-chaining.py) | 🟢 Easy | pythondata |
+| [2896](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/) | [Apply Operations to Make Two Strings Equal](problems/2896.apply-operations-to-make-two-strings-equal.cpp) | 🟡 Medium | C++ |
 | [2897](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Apply Operations on Array to Maximize Sum of Squares](problems/2897.apply-operations-on-array-to-maximize-sum-of-squares.cpp) | 🔴 Hard | C++ |
 | [2899](https://leetcode.com/problems/last-visited-integers/) | [Last Visited Integers](problems/2899.last-visited-integers.cpp) | 🟢 Easy | C++ |
 | [2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [Longest Unequal Adjacent Groups Subsequence I](problems/2900.longest-unequal-adjacent-groups-subsequence-i.cpp) | 🟢 Easy | C++ |
