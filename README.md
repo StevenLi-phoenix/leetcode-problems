@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2041 solved** — 🟢 528 Easy · 🟡 1114 Medium · 🔴 393 Hard
+**2042 solved** — 🟢 528 Easy · 🟡 1115 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -93,6 +93,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [85](https://leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](problems/85.maximal-rectangle.cpp) | 🔴 Hard | C++ |
 | [87](https://leetcode.com/problems/scramble-string/) | [Scramble String](problems/87.scramble-string.cpp) | 🔴 Hard | C++ |
 | [89](https://leetcode.com/problems/gray-code/) | [Gray Code](problems/89.gray-code.cpp) | 🟡 Medium | C++ |
+| [90](https://leetcode.com/problems/subsets-ii/) | [Subsets II](problems/90.subsets-ii.cpp) | 🟡 Medium | C++ |
 | [93](https://leetcode.com/problems/restore-ip-addresses/) | [Restore IP Addresses](problems/93.restore-ip-addresses.cpp) | 🟡 Medium | C++ |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](problems/94.binary-tree-inorder-traversal.cpp) | 🟢 Easy | C++ |
 | [97](https://leetcode.com/problems/interleaving-string/) | [Interleaving String](problems/97.interleaving-string.cpp) | 🟡 Medium | C++ |
