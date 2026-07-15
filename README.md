@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1886 solved** — 🟢 528 Easy · 🟡 963 Medium · 🔴 393 Hard
+**1887 solved** — 🟢 528 Easy · 🟡 964 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -179,6 +179,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](problems/242.valid-anagram.cpp) | 🟢 Easy | C++ |
 | [257](https://leetcode.com/problems/binary-tree-paths/) | [Binary Tree Paths](problems/257.binary-tree-paths.cpp) | 🟢 Easy | C++ |
 | [258](https://leetcode.com/problems/add-digits/) | [Add Digits](problems/258.add-digits.cpp) | 🟢 Easy | C++ |
+| [260](https://leetcode.com/problems/single-number-iii/) | [Single Number III](problems/260.single-number-iii.cpp) | 🟡 Medium | C++ |
 | [262](https://leetcode.com/problems/trips-and-users/) | [Trips and Users](problems/262.trips-and-users.sql) | 🔴 Hard | mysql |
 | [263](https://leetcode.com/problems/ugly-number/) | [Ugly Number](problems/263.ugly-number.cpp) | 🟢 Easy | C++ |
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](problems/268.missing-number.cpp) | 🟢 Easy | C++ |
