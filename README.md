@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1976 solved** — 🟢 528 Easy · 🟡 1051 Medium · 🔴 393 Hard
+**1977 solved** — 🟢 528 Easy · 🟡 1052 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1121,6 +1121,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2104](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Sum of Subarray Ranges](problems/2104.sum-of-subarray-ranges.cpp) | 🟡 Medium | C++ |
 | [2105](https://leetcode.com/problems/watering-plants-ii/) | [Watering Plants II](problems/2105.watering-plants-ii.cpp) | 🟡 Medium | C++ |
 | [2108](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [Find First Palindromic String in the Array](problems/2108.find-first-palindromic-string-in-the-array.cpp) | 🟢 Easy | C++ |
+| [2109](https://leetcode.com/problems/adding-spaces-to-a-string/) | [Adding Spaces to a String](problems/2109.adding-spaces-to-a-string.cpp) | 🟡 Medium | C++ |
 | [2110](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Number of Smooth Descent Periods of a Stock](problems/2110.number-of-smooth-descent-periods-of-a-stock.cpp) | 🟡 Medium | C++ |
 | [2111](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [Minimum Operations to Make the Array K-Increasing](problems/2111.minimum-operations-to-make-the-array-k-increasing.cpp) | 🔴 Hard | C++ |
 | [2114](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Maximum Number of Words Found in Sentences](problems/2114.maximum-number-of-words-found-in-sentences.cpp) | 🟢 Easy | C++ |
