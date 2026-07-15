@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1988 solved** — 🟢 528 Easy · 🟡 1063 Medium · 🔴 393 Hard
+**1989 solved** — 🟢 528 Easy · 🟡 1064 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -593,6 +593,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1027](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Longest Arithmetic Subsequence](problems/1027.longest-arithmetic-subsequence.cpp) | 🟡 Medium | C++ |
 | [1029](https://leetcode.com/problems/two-city-scheduling/) | [Two City Scheduling](problems/1029.two-city-scheduling.cpp) | 🟡 Medium | C++ |
 | [1030](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](problems/1030.matrix-cells-in-distance-order.cpp) | 🟢 Easy | C++ |
+| [1031](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Maximum Sum of Two Non-Overlapping Subarrays](problems/1031.maximum-sum-of-two-non-overlapping-subarrays.cpp) | 🟡 Medium | C++ |
 | [1032](https://leetcode.com/problems/stream-of-characters/) | [Stream of Characters](problems/1032.stream-of-characters.cpp) | 🔴 Hard | C++ |
 | [1033](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Moving Stones Until Consecutive](problems/1033.moving-stones-until-consecutive.cpp) | 🟡 Medium | C++ |
 | [1034](https://leetcode.com/problems/coloring-a-border/) | [Coloring A Border](problems/1034.coloring-a-border.cpp) | 🟡 Medium | C++ |
