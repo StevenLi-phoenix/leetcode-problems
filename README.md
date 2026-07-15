@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1995 solved** — 🟢 528 Easy · 🟡 1070 Medium · 🔴 393 Hard
+**1996 solved** — 🟢 528 Easy · 🟡 1071 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1216,6 +1216,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](problems/2300.successful-pairs-of-spells-and-potions.cpp) | 🟡 Medium | C++ |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [Calculate Amount Paid in Taxes](problems/2303.calculate-amount-paid-in-taxes.cpp) | 🟢 Easy | C++ |
 | [2304](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [Minimum Path Cost in a Grid](problems/2304.minimum-path-cost-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [2305](https://leetcode.com/problems/fair-distribution-of-cookies/) | [Fair Distribution of Cookies](problems/2305.fair-distribution-of-cookies.cpp) | 🟡 Medium | C++ |
 | [2309](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Greatest English Letter in Upper and Lower Case](problems/2309.greatest-english-letter-in-upper-and-lower-case.cpp) | 🟢 Easy | C++ |
 | [2311](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [Longest Binary Subsequence Less Than or Equal to K](problems/2311.longest-binary-subsequence-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [2312](https://leetcode.com/problems/selling-pieces-of-wood/) | [Selling Pieces of Wood](problems/2312.selling-pieces-of-wood.cpp) | 🔴 Hard | C++ |
