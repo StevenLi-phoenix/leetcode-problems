@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2034 solved** — 🟢 528 Easy · 🟡 1108 Medium · 🔴 393 Hard
+**2035 solved** — 🟢 528 Easy · 🟡 1109 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -466,6 +466,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [806](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Number of Lines To Write String](problems/806.number-of-lines-to-write-string.cpp) | 🟢 Easy | C++ |
 | [807](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Max Increase to Keep City Skyline](problems/807.max-increase-to-keep-city-skyline.cpp) | 🟡 Medium | C++ |
 | [808](https://leetcode.com/problems/soup-servings/) | [Soup Servings](problems/808.soup-servings.cpp) | 🟡 Medium | C++ |
+| [809](https://leetcode.com/problems/expressive-words/) | [Expressive Words](problems/809.expressive-words.cpp) | 🟡 Medium | C++ |
 | [810](https://leetcode.com/problems/chalkboard-xor-game/) | [Chalkboard XOR Game](problems/810.chalkboard-xor-game.cpp) | 🔴 Hard | C++ |
 | [812](https://leetcode.com/problems/largest-triangle-area/) | [Largest Triangle Area](problems/812.largest-triangle-area.cpp) | 🟢 Easy | C++ |
 | [813](https://leetcode.com/problems/largest-sum-of-averages/) | [Largest Sum of Averages](problems/813.largest-sum-of-averages.cpp) | 🟡 Medium | C++ |
