@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2001 solved** — 🟢 528 Easy · 🟡 1075 Medium · 🔴 393 Hard
+**2002 solved** — 🟢 528 Easy · 🟡 1076 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -248,6 +248,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [398](https://leetcode.com/problems/random-pick-index/) | [Random Pick Index](problems/398.random-pick-index.cpp) | 🟡 Medium | C++ |
 | [399](https://leetcode.com/problems/evaluate-division/) | [Evaluate Division](problems/399.evaluate-division.cpp) | 🟡 Medium | C++ |
 | [401](https://leetcode.com/problems/binary-watch/) | [Binary Watch](problems/401.binary-watch.cpp) | 🟢 Easy | C++ |
+| [402](https://leetcode.com/problems/remove-k-digits/) | [Remove K Digits](problems/402.remove-k-digits.cpp) | 🟡 Medium | C++ |
 | [403](https://leetcode.com/problems/frog-jump/) | [Frog Jump](problems/403.frog-jump.cpp) | 🔴 Hard | C++ |
 | [404](https://leetcode.com/problems/sum-of-left-leaves/) | [Sum of Left Leaves](problems/404.sum-of-left-leaves.cpp) | 🟢 Easy | C++ |
 | [405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Convert a Number to Hexadecimal](problems/405.convert-a-number-to-hexadecimal.cpp) | 🟢 Easy | C++ |
