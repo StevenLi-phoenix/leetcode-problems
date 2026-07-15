@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1908 solved** — 🟢 528 Easy · 🟡 985 Medium · 🔴 393 Hard
+**1909 solved** — 🟢 528 Easy · 🟡 986 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1410,6 +1410,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2839](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Check if Strings Can be Made Equal With Operations I](problems/2839.check-if-strings-can-be-made-equal-with-operations-i.cpp) | 🟢 Easy | C++ |
 | [2840](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Check if Strings Can be Made Equal With Operations II](problems/2840.check-if-strings-can-be-made-equal-with-operations-ii.cpp) | 🟡 Medium | C++ |
 | [2843](https://leetcode.com/problems/count-symmetric-integers/) | [  Count Symmetric Integers](problems/2843.count-symmetric-integers.cpp) | 🟢 Easy | C++ |
+| [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [Determine if a Cell Is Reachable at a Given Time](problems/2849.determine-if-a-cell-is-reachable-at-a-given-time.cpp) | 🟡 Medium | C++ |
 | [2855](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [Minimum Right Shifts to Sort the Array](problems/2855.minimum-right-shifts-to-sort-the-array.cpp) | 🟢 Easy | C++ |
 | [2856](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Minimum Array Length After Pair Removals](problems/2856.minimum-array-length-after-pair-removals.cpp) | 🟡 Medium | C++ |
 | [2857](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/) | [Count Pairs of Points With Distance k](problems/2857.count-pairs-of-points-with-distance-k.cpp) | 🟡 Medium | C++ |
