@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1876 solved** — 🟢 528 Easy · 🟡 953 Medium · 🔴 393 Hard
+**1877 solved** — 🟢 528 Easy · 🟡 954 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -122,6 +122,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](problems/131.palindrome-partitioning.cpp) | 🟡 Medium | C++ |
 | [134](https://leetcode.com/problems/gas-station/) | [Gas Station](problems/134.gas-station.cpp) | 🟡 Medium | C++ |
 | [136](https://leetcode.com/problems/single-number/) | [Single Number](problems/136.single-number.cpp) | 🟢 Easy | C++ |
+| [137](https://leetcode.com/problems/single-number-ii/) | [Single Number II](problems/137.single-number-ii.cpp) | 🟡 Medium | C++ |
 | [140](https://leetcode.com/problems/word-break-ii/) | [Word Break II](problems/140.word-break-ii.cpp) | 🔴 Hard | C++ |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](problems/141.linked-list-cycle.cpp) | 🟢 Easy | C++ |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](problems/142.linked-list-cycle-ii.cpp) | 🟡 Medium | C++ |
