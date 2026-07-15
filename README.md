@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2136 solved** — 🟢 528 Easy · 🟡 1208 Medium · 🔴 393 Hard
+**2137 solved** — 🟢 528 Easy · 🟡 1209 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1854,6 +1854,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3462](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/) | [Maximum Sum With at Most K Elements](problems/3462.maximum-sum-with-at-most-k-elements.cpp) | 🟡 Medium | C++ |
 | [3464](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Maximize the Distance Between Points on a Square](problems/3464.maximize-the-distance-between-points-on-a-square.cpp) | 🔴 Hard | C++ |
 | [3467](https://leetcode.com/problems/transform-array-by-parity/) | [Transform Array by Parity](problems/3467.transform-array-by-parity.cpp) | 🟢 Easy | C++ |
+| [3468](https://leetcode.com/problems/find-the-number-of-copy-arrays/) | [Find the Number of Copy Arrays](problems/3468.find-the-number-of-copy-arrays.cpp) | 🟡 Medium | C++ |
 | [3469](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | [Find Minimum Cost to Remove Array Elements](problems/3469.find-minimum-cost-to-remove-array-elements.cpp) | 🟡 Medium | C++ |
 | [3470](https://leetcode.com/problems/permutations-iv/) | [Permutations IV](problems/3470.permutations-iv.cpp) | 🔴 Hard | C++ |
 | [3472](https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/) | [Longest Palindromic Subsequence After at Most K Operations](problems/3472.longest-palindromic-subsequence-after-at-most-k-operations.cpp) | 🟡 Medium | C++ |
