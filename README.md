@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1960 solved** — 🟢 528 Easy · 🟡 1036 Medium · 🔴 393 Hard
+**1961 solved** — 🟢 528 Easy · 🟡 1037 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -777,6 +777,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum Points You Can Obtain from Cards](problems/1423.maximum-points-you-can-obtain-from-cards.cpp) | 🟡 Medium | C++ |
 | [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | [Diagonal Traverse II](problems/1424.diagonal-traverse-ii.cpp) | 🟡 Medium | C++ |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](problems/1425.constrained-subsequence-sum.cpp) | 🔴 Hard | C++ |
+| [1432](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [Max Difference You Can Get From Changing an Integer](problems/1432.max-difference-you-can-get-from-changing-an-integer.cpp) | 🟡 Medium | C++ |
 | [1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Number of Ways to Wear Different Hats to Each Other](problems/1434.number-of-ways-to-wear-different-hats-to-each-other.cpp) | 🔴 Hard | C++ |
 | [1436](https://leetcode.com/problems/destination-city/) | [Destination City](problems/1436.destination-city.cpp) | 🟢 Easy | C++ |
 | [1438](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](problems/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.cpp) | 🟡 Medium | C++ |
