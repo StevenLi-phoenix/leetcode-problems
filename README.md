@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2050 solved** — 🟢 528 Easy · 🟡 1123 Medium · 🔴 393 Hard
+**2051 solved** — 🟢 528 Easy · 🟡 1124 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1445,6 +1445,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2697](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Lexicographically Smallest Palindrome](problems/2697.lexicographically-smallest-palindrome.cpp) | 🟢 Easy | C++ |
 | [2698](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Find the Punishment Number of an Integer](problems/2698.find-the-punishment-number-of-an-integer.cpp) | 🟡 Medium | C++ |
 | [2704](https://leetcode.com/problems/to-be-or-not-to-be/) | [To Be Or Not To Be](problems/2704.to-be-or-not-to-be.js) | 🟢 Easy | JavaScript |
+| [2705](https://leetcode.com/problems/compact-object/) | [Compact Object](problems/2705.compact-object.js) | 🟡 Medium | JavaScript |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | [Buy Two Chocolates](problems/2706.buy-two-chocolates.cpp) | 🟢 Easy | C++ |
 | [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | [Extra Characters in a String](problems/2707.extra-characters-in-a-string.cpp) | 🟡 Medium | C++ |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Greatest Common Divisor Traversal](problems/2709.greatest-common-divisor-traversal.cpp) | 🔴 Hard | C++ |
