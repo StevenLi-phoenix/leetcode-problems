@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2039 solved** — 🟢 528 Easy · 🟡 1112 Medium · 🔴 393 Hard
+**2040 solved** — 🟢 528 Easy · 🟡 1113 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1776,6 +1776,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3454](https://leetcode.com/problems/separate-squares-ii/) | [Separate Squares II](problems/3454.separate-squares-ii.cpp) | 🔴 Hard | C++ |
 | [3455](https://leetcode.com/problems/shortest-matching-substring/) | [Shortest Matching Substring](problems/3455.shortest-matching-substring.cpp) | 🔴 Hard | C++ |
 | [3458](https://leetcode.com/problems/select-k-disjoint-special-substrings/) | [Select K Disjoint Special Substrings](problems/3458.select-k-disjoint-special-substrings.cpp) | 🟡 Medium | C++ |
+| [3462](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/) | [Maximum Sum With at Most K Elements](problems/3462.maximum-sum-with-at-most-k-elements.cpp) | 🟡 Medium | C++ |
 | [3464](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Maximize the Distance Between Points on a Square](problems/3464.maximize-the-distance-between-points-on-a-square.cpp) | 🔴 Hard | C++ |
 | [3467](https://leetcode.com/problems/transform-array-by-parity/) | [Transform Array by Parity](problems/3467.transform-array-by-parity.cpp) | 🟢 Easy | C++ |
 | [3470](https://leetcode.com/problems/permutations-iv/) | [Permutations IV](problems/3470.permutations-iv.cpp) | 🔴 Hard | C++ |
