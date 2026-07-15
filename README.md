@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1940 solved** — 🟢 528 Easy · 🟡 1016 Medium · 🔴 393 Hard
+**1941 solved** — 🟢 528 Easy · 🟡 1017 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1248,6 +1248,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2423](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [Remove Letter To Equalize Frequency](problems/2423.remove-letter-to-equalize-frequency.cpp) | 🟢 Easy | C++ |
 | [2424](https://leetcode.com/problems/longest-uploaded-prefix/) | [Longest Uploaded Prefix](problems/2424.longest-uploaded-prefix.cpp) | 🟡 Medium | C++ |
 | [2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Bitwise XOR of All Pairings](problems/2425.bitwise-xor-of-all-pairings.cpp) | 🟡 Medium | C++ |
+| [2428](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Maximum Sum of an Hourglass](problems/2428.maximum-sum-of-an-hourglass.cpp) | 🟡 Medium | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
 | [2430](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [Maximum Deletions on a String](problems/2430.maximum-deletions-on-a-string.cpp) | 🔴 Hard | C++ |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Find The Original Array of Prefix Xor](problems/2433.find-the-original-array-of-prefix-xor.cpp) | 🟡 Medium | C++ |
