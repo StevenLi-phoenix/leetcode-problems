@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2088 solved** — 🟢 528 Easy · 🟡 1161 Medium · 🔴 393 Hard
+**2089 solved** — 🟢 528 Easy · 🟡 1162 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -129,6 +129,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [136](https://leetcode.com/problems/single-number/) | [Single Number](problems/136.single-number.cpp) | 🟢 Easy | C++ |
 | [137](https://leetcode.com/problems/single-number-ii/) | [Single Number II](problems/137.single-number-ii.cpp) | 🟡 Medium | C++ |
 | [138](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](problems/138.copy-list-with-random-pointer.cpp) | 🟡 Medium | C++ |
+| [139](https://leetcode.com/problems/word-break/) | [Word Break](problems/139.word-break.cpp) | 🟡 Medium | C++ |
 | [140](https://leetcode.com/problems/word-break-ii/) | [Word Break II](problems/140.word-break-ii.cpp) | 🔴 Hard | C++ |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](problems/141.linked-list-cycle.cpp) | 🟢 Easy | C++ |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](problems/142.linked-list-cycle-ii.cpp) | 🟡 Medium | C++ |
