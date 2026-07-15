@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1959 solved** — 🟢 528 Easy · 🟡 1035 Medium · 🔴 393 Hard
+**1960 solved** — 🟢 528 Easy · 🟡 1036 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1736,6 +1736,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3499](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | [Maximize Active Section with Trade I](problems/3499.maximize-active-section-with-trade-i.cpp) | 🟡 Medium | C++ |
 | [3500](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [Minimum Cost to Divide Array Into Subarrays](problems/3500.minimum-cost-to-divide-array-into-subarrays.cpp) | 🔴 Hard | C++ |
 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](problems/3501.maximize-active-section-with-trade-ii.cpp) | 🔴 Hard | C++ |
+| [3503](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i/) | [Longest Palindrome After Substring Concatenation I](problems/3503.longest-palindrome-after-substring-concatenation-i.cpp) | 🟡 Medium | C++ |
 | [3504](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | [Longest Palindrome After Substring Concatenation II](problems/3504.longest-palindrome-after-substring-concatenation-ii.cpp) | 🔴 Hard | C++ |
 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](problems/3507.minimum-pair-removal-to-sort-array-i.cpp) | 🟢 Easy | C++ |
 | [3509](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [Maximum Product of Subsequences With an Alternating Sum Equal to K](problems/3509.maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cpp) | 🔴 Hard | C++ |
