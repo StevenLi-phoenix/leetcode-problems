@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2122 solved** — 🟢 528 Easy · 🟡 1194 Medium · 🔴 393 Hard
+**2123 solved** — 🟢 528 Easy · 🟡 1195 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2012,6 +2012,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3753](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Total Waviness of Numbers in Range II](problems/3753.total-waviness-of-numbers-in-range-ii.cpp) | 🔴 Hard | C++ |
 | [3760](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | [Maximum Substrings With Distinct Start](problems/3760.maximum-substrings-with-distinct-start.cpp) | 🟡 Medium | C++ |
 | [3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](problems/3761.minimum-absolute-distance-between-mirror-pairs.cpp) | 🟡 Medium | C++ |
+| [3765](https://leetcode.com/problems/complete-prime-number/) | [Complete Prime Number](problems/3765.complete-prime-number.cpp) | 🟡 Medium | C++ |
 | [3767](https://leetcode.com/problems/maximize-points-after-choosing-k-tasks/) | [Maximize Points After Choosing K Tasks](problems/3767.maximize-points-after-choosing-k-tasks.cpp) | 🟡 Medium | C++ |
 | [3768](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [Minimum Inversion Count in Subarrays of Fixed Length](problems/3768.minimum-inversion-count-in-subarrays-of-fixed-length.cpp) | 🔴 Hard | C++ |
 | [3769](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Sort Integers by Binary Reflection](problems/3769.sort-integers-by-binary-reflection.cpp) | 🟢 Easy | C++ |
