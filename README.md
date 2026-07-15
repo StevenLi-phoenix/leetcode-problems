@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2014 solved** — 🟢 528 Easy · 🟡 1088 Medium · 🔴 393 Hard
+**2015 solved** — 🟢 528 Easy · 🟡 1089 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -992,6 +992,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](problems/1838.frequency-of-the-most-frequent-element.cpp) | 🟡 Medium | C++ |
 | [1839](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Longest Substring Of All Vowels in Order](problems/1839.longest-substring-of-all-vowels-in-order.cpp) | 🟡 Medium | C++ |
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
+| [1845](https://leetcode.com/problems/seat-reservation-manager/) | [Seat Reservation Manager](problems/1845.seat-reservation-manager.cpp) | 🟡 Medium | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
 | [1850](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](problems/1850.minimum-adjacent-swaps-to-reach-the-kth-smallest-number.cpp) | 🟡 Medium | C++ |
 | [1854](https://leetcode.com/problems/maximum-population-year/) | [Maximum Population Year](problems/1854.maximum-population-year.cpp) | 🟢 Easy | C++ |
