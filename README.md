@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1968 solved** — 🟢 528 Easy · 🟡 1043 Medium · 🔴 393 Hard
+**1969 solved** — 🟢 528 Easy · 🟡 1044 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1381,6 +1381,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Apply Transform Over Each Element in Array](problems/2635.apply-transform-over-each-element-in-array.js) | 🟢 Easy | JavaScript |
 | [2639](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [Find the Width of Columns of a Grid](problems/2639.find-the-width-of-columns-of-a-grid.cpp) | 🟢 Easy | C++ |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Design Graph With Shortest Path Calculator](problems/2642.design-graph-with-shortest-path-calculator.cpp) | 🔴 Hard | C++ |
+| [2645](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [Minimum Additions to Make Valid String](problems/2645.minimum-additions-to-make-valid-string.cpp) | 🟡 Medium | C++ |
 | [2649](https://leetcode.com/problems/nested-array-generator/) | [Nested Array Generator](problems/2649.nested-array-generator.js) | 🟡 Medium | JavaScript |
 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp) | 🟡 Medium | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
