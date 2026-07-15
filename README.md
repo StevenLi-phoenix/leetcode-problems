@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1925 solved** — 🟢 528 Easy · 🟡 1001 Medium · 🔴 393 Hard
+**1926 solved** — 🟢 528 Easy · 🟡 1002 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1269,6 +1269,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Difference Between Ones and Zeros in Row and Column](problems/2482.difference-between-ones-and-zeros-in-row-and-column.cpp) | 🟡 Medium | C++ |
 | [2483](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](problems/2483.minimum-penalty-for-a-shop.cpp) | 🟡 Medium | C++ |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | [Count Palindromic Subsequences](problems/2484.count-palindromic-subsequences.cpp) | 🔴 Hard | C++ |
+| [2486](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [Append Characters to String to Make Subsequence](problems/2486.append-characters-to-string-to-make-subsequence.cpp) | 🟡 Medium | C++ |
 | [2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Remove Nodes From Linked List](problems/2487.remove-nodes-from-linked-list.cpp) | 🟡 Medium | C++ |
 | [2490](https://leetcode.com/problems/circular-sentence/) | [Circular Sentence](problems/2490.circular-sentence.cpp) | 🟢 Easy | C++ |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [Divide Players Into Teams of Equal Skill](problems/2491.divide-players-into-teams-of-equal-skill.cpp) | 🟡 Medium | C++ |
