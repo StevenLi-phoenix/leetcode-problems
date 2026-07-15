@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2147 solved** — 🟢 528 Easy · 🟡 1219 Medium · 🔴 393 Hard
+**2148 solved** — 🟢 528 Easy · 🟡 1220 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1418,6 +1418,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2551](https://leetcode.com/problems/put-marbles-in-bags/) | [Put Marbles in Bags](problems/2551.put-marbles-in-bags.cpp) | 🔴 Hard | C++ |
 | [2552](https://leetcode.com/problems/count-increasing-quadruplets/) | [Count Increasing Quadruplets](problems/2552.count-increasing-quadruplets.cpp) | 🔴 Hard | C++ |
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
+| [2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Maximum Number of Integers to Choose From a Range I](problems/2554.maximum-number-of-integers-to-choose-from-a-range-i.cpp) | 🟡 Medium | C++ |
 | [2555](https://leetcode.com/problems/maximize-win-from-two-segments/) | [Maximize Win From Two Segments](problems/2555.maximize-win-from-two-segments.cpp) | 🟡 Medium | C++ |
 | [2558](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Take Gifts From the Richest Pile](problems/2558.take-gifts-from-the-richest-pile.cpp) | 🟢 Easy | C++ |
 | [2559](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Count Vowel Strings in Ranges](problems/2559.count-vowel-strings-in-ranges.cpp) | 🟡 Medium | C++ |
