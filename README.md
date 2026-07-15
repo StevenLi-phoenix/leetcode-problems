@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1932 solved** — 🟢 528 Easy · 🟡 1008 Medium · 🔴 393 Hard
+**1933 solved** — 🟢 528 Easy · 🟡 1009 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -201,6 +201,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [299](https://leetcode.com/problems/bulls-and-cows/) | [Bulls and Cows](problems/299.bulls-and-cows.cpp) | 🟡 Medium | C++ |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](problems/300.longest-increasing-subsequence.cpp) | 🟡 Medium | C++ |
 | [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Range Sum Query 2D - Immutable](problems/304.range-sum-query-2d-immutable.cpp) | 🟡 Medium | C++ |
+| [306](https://leetcode.com/problems/additive-number/) | [Additive Number](problems/306.additive-number.cpp) | 🟡 Medium | C++ |
 | [307](https://leetcode.com/problems/range-sum-query-mutable/) | [Range Sum Query - Mutable](problems/307.range-sum-query-mutable.cpp) | 🟡 Medium | C++ |
 | [312](https://leetcode.com/problems/burst-balloons/) | [Burst Balloons](problems/312.burst-balloons.cpp) | 🔴 Hard | C++ |
 | [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Count of Smaller Numbers After Self](problems/315.count-of-smaller-numbers-after-self.cpp) | 🔴 Hard | C++ |
