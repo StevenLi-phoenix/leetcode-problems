@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2048 solved** — 🟢 528 Easy · 🟡 1121 Medium · 🔴 393 Hard
+**2049 solved** — 🟢 528 Easy · 🟡 1122 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1967,6 +1967,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3801](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | [Minimum Cost to Merge Sorted Lists](problems/3801.minimum-cost-to-merge-sorted-lists.cpp) | 🔴 Hard | C++ |
 | [3803](https://leetcode.com/problems/count-residue-prefixes/) | [Count Residue Prefixes](problems/3803.count-residue-prefixes.cpp) | 🟢 Easy | C++ |
 | [3804](https://leetcode.com/problems/number-of-centered-subarrays/) | [Number of Centered Subarrays](problems/3804.number-of-centered-subarrays.cpp) | 🟡 Medium | C++ |
+| [3805](https://leetcode.com/problems/count-caesar-cipher-pairs/) | [Count Caesar Cipher Pairs](problems/3805.count-caesar-cipher-pairs.cpp) | 🟡 Medium | C++ |
 | [3809](https://leetcode.com/problems/best-reachable-tower/) | [Best Reachable Tower](problems/3809.best-reachable-tower.cpp) | 🟡 Medium | C++ |
 | [3810](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | [Minimum Operations to Reach Target Array](problems/3810.minimum-operations-to-reach-target-array.cpp) | 🟡 Medium | C++ |
 | [3812](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | [Minimum Edge Toggles on a Tree](problems/3812.minimum-edge-toggles-on-a-tree.cpp) | 🔴 Hard | C++ |
