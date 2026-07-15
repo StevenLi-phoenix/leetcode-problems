@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2023 solved** — 🟢 528 Easy · 🟡 1097 Medium · 🔴 393 Hard
+**2024 solved** — 🟢 528 Easy · 🟡 1098 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1751,6 +1751,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3421](https://leetcode.com/problems/find-students-who-improved/) | [Find Students Who Improved](problems/3421.find-students-who-improved.sql) | 🟡 Medium | mysql |
 | [3425](https://leetcode.com/problems/longest-special-path/) | [Longest Special Path](problems/3425.longest-special-path.cpp) | 🔴 Hard | C++ |
 | [3427](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Sum of Variable Length Subarrays](problems/3427.sum-of-variable-length-subarrays.cpp) | 🟢 Easy | C++ |
+| [3429](https://leetcode.com/problems/paint-house-iv/) | [Paint House IV](problems/3429.paint-house-iv.cpp) | 🟡 Medium | C++ |
 | [3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Count Partitions with Even Sum Difference](problems/3432.count-partitions-with-even-sum-difference.cpp) | 🟢 Easy | C++ |
 | [3438](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [Find Valid Pair of Adjacent Digits in String](problems/3438.find-valid-pair-of-adjacent-digits-in-string.cpp) | 🟢 Easy | C++ |
 | [3439](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Reschedule Meetings for Maximum Free Time I](problems/3439.reschedule-meetings-for-maximum-free-time-i.cpp) | 🟡 Medium | C++ |
