@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2149 solved** — 🟢 528 Easy · 🟡 1221 Medium · 🔴 393 Hard
+**2150 solved** — 🟢 528 Easy · 🟡 1222 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2020,6 +2020,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3727](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Maximum Alternating Sum of Squares](problems/3727.maximum-alternating-sum-of-squares.cpp) | 🟡 Medium | C++ |
 | [3728](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | [Stable Subarrays With Equal Boundary and Interior Sum](problems/3728.stable-subarrays-with-equal-boundary-and-interior-sum.cpp) | 🟡 Medium | C++ |
 | [3729](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | [Count Distinct Subarrays Divisible by K in Sorted Array](problems/3729.count-distinct-subarrays-divisible-by-k-in-sorted-array.cpp) | 🔴 Hard | C++ |
+| [3732](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | [Maximum Product of Three Elements After One Replacement](problems/3732.maximum-product-of-three-elements-after-one-replacement.cpp) | 🟡 Medium | C++ |
 | [3733](https://leetcode.com/problems/minimum-time-to-complete-all-deliveries/) | [Minimum Time to Complete All Deliveries](problems/3733.minimum-time-to-complete-all-deliveries.cpp) | 🟡 Medium | C++ |
 | [3737](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Count Subarrays With Majority Element I](problems/3737.count-subarrays-with-majority-element-i.cpp) | 🟡 Medium | C++ |
 | [3738](https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | [Longest Non-Decreasing Subarray After Replacing at Most One Element](problems/3738.longest-non-decreasing-subarray-after-replacing-at-most-one-element.cpp) | 🟡 Medium | C++ |
