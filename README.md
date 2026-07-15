@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1967 solved** — 🟢 528 Easy · 🟡 1042 Medium · 🔴 393 Hard
+**1968 solved** — 🟢 528 Easy · 🟡 1043 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1675,6 +1675,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3343](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](problems/3343.count-number-of-balanced-permutations.cpp) | 🔴 Hard | C++ |
 | [3346](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Maximum Frequency of an Element After Performing Operations I](problems/3346.maximum-frequency-of-an-element-after-performing-operations-i.cpp) | 🟡 Medium | C++ |
 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](problems/3349.adjacent-increasing-subarrays-detection-i.cpp) | 🟢 Easy | C++ |
+| [3350](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | [Adjacent Increasing Subarrays Detection II](problems/3350.adjacent-increasing-subarrays-detection-ii.cpp) | 🟡 Medium | C++ |
 | [3352](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Count K-Reducible Numbers Less Than N](problems/3352.count-k-reducible-numbers-less-than-n.cpp) | 🔴 Hard | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
 | [3357](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Minimize the Maximum Adjacent Element Difference](problems/3357.minimize-the-maximum-adjacent-element-difference.cpp) | 🔴 Hard | C++ |
