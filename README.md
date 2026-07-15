@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2134 solved** — 🟢 528 Easy · 🟡 1206 Medium · 🔴 393 Hard
+**2135 solved** — 🟢 528 Easy · 🟡 1207 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1684,6 +1684,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3110](https://leetcode.com/problems/score-of-a-string/) | [Score of a String](problems/3110.score-of-a-string.cpp) | 🟢 Easy | C++ |
 | [3111](https://leetcode.com/problems/minimum-rectangles-to-cover-points/) | [Minimum Rectangles to Cover Points](problems/3111.minimum-rectangles-to-cover-points.cpp) | 🟡 Medium | C++ |
 | [3113](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | [Find the Number of Subarrays Where Boundary Elements Are Maximum](problems/3113.find-the-number-of-subarrays-where-boundary-elements-are-maximum.cpp) | 🔴 Hard | C++ |
+| [3115](https://leetcode.com/problems/maximum-prime-difference/) | [Maximum Prime Difference](problems/3115.maximum-prime-difference.cpp) | 🟡 Medium | C++ |
 | [3116](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Kth Smallest Amount With Single Denomination Combination](problems/3116.kth-smallest-amount-with-single-denomination-combination.cpp) | 🔴 Hard | C++ |
 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](problems/3120.count-the-number-of-special-characters-i.cpp) | 🟢 Easy | C++ |
 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Count the Number of Special Characters II](problems/3121.count-the-number-of-special-characters-ii.cpp) | 🟡 Medium | C++ |
