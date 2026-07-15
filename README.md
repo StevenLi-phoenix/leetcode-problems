@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2069 solved** — 🟢 528 Easy · 🟡 1142 Medium · 🔴 393 Hard
+**2070 solved** — 🟢 528 Easy · 🟡 1143 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1930,6 +1930,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3698](https://leetcode.com/problems/split-array-with-minimum-difference/) | [Split Array With Minimum Difference](problems/3698.split-array-with-minimum-difference.cpp) | 🟡 Medium | C++ |
 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](problems/3699.number-of-zigzag-arrays-i.cpp) | 🔴 Hard | C++ |
 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](problems/3700.number-of-zigzag-arrays-ii.cpp) | 🔴 Hard | C++ |
+| [3702](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [Longest Subsequence With Non-Zero Bitwise XOR](problems/3702.longest-subsequence-with-non-zero-bitwise-xor.cpp) | 🟡 Medium | C++ |
 | [3707](https://leetcode.com/problems/equal-score-substrings/) | [Equal Score Substrings](problems/3707.equal-score-substrings.cpp) | 🟢 Easy | C++ |
 | [3708](https://leetcode.com/problems/longest-fibonacci-subarray/) | [Longest Fibonacci Subarray](problems/3708.longest-fibonacci-subarray.cpp) | 🟡 Medium | C++ |
 | [3709](https://leetcode.com/problems/design-exam-scores-tracker/) | [Design Exam Scores Tracker](problems/3709.design-exam-scores-tracker.cpp) | 🟡 Medium | C++ |
