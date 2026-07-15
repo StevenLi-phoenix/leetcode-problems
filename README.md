@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2131 solved** — 🟢 528 Easy · 🟡 1203 Medium · 🔴 393 Hard
+**2132 solved** — 🟢 528 Easy · 🟡 1204 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -961,6 +961,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1711](https://leetcode.com/problems/count-good-meals/) | [Count Good Meals](problems/1711.count-good-meals.cpp) | 🟡 Medium | C++ |
 | [1712](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Ways to Split Array Into Three Subarrays](problems/1712.ways-to-split-array-into-three-subarrays.cpp) | 🟡 Medium | C++ |
 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](problems/1716.calculate-money-in-leetcode-bank.cpp) | 🟢 Easy | C++ |
+| [1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [Maximum Score From Removing Substrings](problems/1717.maximum-score-from-removing-substrings.cpp) | 🟡 Medium | C++ |
 | [1718](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [Construct the Lexicographically Largest Valid Sequence](problems/1718.construct-the-lexicographically-largest-valid-sequence.cpp) | 🟡 Medium | C++ |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | [Decode XORed Array](problems/1720.decode-xored-array.cpp) | 🟢 Easy | C++ |
 | [1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Swapping Nodes in a Linked List](problems/1721.swapping-nodes-in-a-linked-list.cpp) | 🟡 Medium | C++ |
