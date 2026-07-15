@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2028 solved** — 🟢 528 Easy · 🟡 1102 Medium · 🔴 393 Hard
+**2029 solved** — 🟢 528 Easy · 🟡 1103 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -846,6 +846,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](problems/1545.find-kth-bit-in-nth-binary-string.cpp) | 🟡 Medium | C++ |
 | [1546](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problems/1546.maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.cpp) | 🟡 Medium | C++ |
 | [1547](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Minimum Cost to Cut a Stick](problems/1547.minimum-cost-to-cut-a-stick.cpp) | 🔴 Hard | C++ |
+| [1551](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Minimum Operations to Make Array Equal](problems/1551.minimum-operations-to-make-array-equal.cpp) | 🟡 Medium | C++ |
 | [1552](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Magnetic Force Between Two Balls](problems/1552.magnetic-force-between-two-balls.cpp) | 🟡 Medium | C++ |
 | [1553](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Minimum Number of Days to Eat N Oranges](problems/1553.minimum-number-of-days-to-eat-n-oranges.cpp) | 🔴 Hard | C++ |
 | [1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Minimum Number of Vertices to Reach All Nodes](problems/1557.minimum-number-of-vertices-to-reach-all-nodes.cpp) | 🟡 Medium | C++ |
