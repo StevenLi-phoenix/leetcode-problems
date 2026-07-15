@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1991 solved** — 🟢 528 Easy · 🟡 1066 Medium · 🔴 393 Hard
+**1992 solved** — 🟢 528 Easy · 🟡 1067 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1280,6 +1280,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2440](https://leetcode.com/problems/create-components-with-same-value/) | [Create Components With Same Value](problems/2440.create-components-with-same-value.cpp) | 🔴 Hard | C++ |
 | [2441](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Largest Positive Integer That Exists With Its Negative](problems/2441.largest-positive-integer-that-exists-with-its-negative.cpp) | 🟢 Easy | C++ |
 | [2442](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Count Number of Distinct Integers After Reverse Operations](problems/2442.count-number-of-distinct-integers-after-reverse-operations.cpp) | 🟡 Medium | C++ |
+| [2443](https://leetcode.com/problems/sum-of-number-and-its-reverse/) | [Sum of Number and Its Reverse](problems/2443.sum-of-number-and-its-reverse.cpp) | 🟡 Medium | C++ |
 | [2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [Count Subarrays With Fixed Bounds](problems/2444.count-subarrays-with-fixed-bounds.cpp) | 🔴 Hard | C++ |
 | [2446](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [Determine if Two Events Have Conflict](problems/2446.determine-if-two-events-have-conflict.cpp) | 🟢 Easy | C++ |
 | [2447](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [Number of Subarrays With GCD Equal to K](problems/2447.number-of-subarrays-with-gcd-equal-to-k.cpp) | 🟡 Medium | C++ |
