@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2143 solved** — 🟢 528 Easy · 🟡 1215 Medium · 🔴 393 Hard
+**2144 solved** — 🟢 528 Easy · 🟡 1216 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -855,6 +855,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](problems/1493.longest-subarray-of-1s-after-deleting-one-element.cpp) | 🟡 Medium | C++ |
 | [1496](https://leetcode.com/problems/path-crossing/) | [Path Crossing](problems/1496.path-crossing.cpp) | 🟢 Easy | C++ |
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Check If Array Pairs Are Divisible by k](problems/1497.check-if-array-pairs-are-divisible-by-k.cpp) | 🟡 Medium | C++ |
+| [1498](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Number of Subsequences That Satisfy the Given Sum Condition](problems/1498.number-of-subsequences-that-satisfy-the-given-sum-condition.cpp) | 🟡 Medium | C++ |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Can Make Arithmetic Progression From Sequence](problems/1502.can-make-arithmetic-progression-from-sequence.cpp) | 🟢 Easy | C++ |
 | [1504](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [Count Submatrices With All Ones](problems/1504.count-submatrices-with-all-ones.cpp) | 🟡 Medium | C++ |
 | [1505](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](problems/1505.minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.cpp) | 🔴 Hard | C++ |
