@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2123 solved** — 🟢 528 Easy · 🟡 1195 Medium · 🔴 393 Hard
+**2124 solved** — 🟢 528 Easy · 🟡 1196 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1395,6 +1395,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2536](https://leetcode.com/problems/increment-submatrices-by-one/) | [Increment Submatrices by One](problems/2536.increment-submatrices-by-one.cpp) | 🟡 Medium | C++ |
 | [2538](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/) | [Difference Between Maximum and Minimum Price Sum](problems/2538.difference-between-maximum-and-minimum-price-sum.cpp) | 🔴 Hard | C++ |
 | [2540](https://leetcode.com/problems/minimum-common-value/) | [Minimum Common Value](problems/2540.minimum-common-value.cpp) | 🟢 Easy | C++ |
+| [2541](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | [Minimum Operations to Make Array Equal II](problems/2541.minimum-operations-to-make-array-equal-ii.cpp) | 🟡 Medium | C++ |
 | [2542](https://leetcode.com/problems/maximum-subsequence-score/) | [Maximum Subsequence Score](problems/2542.maximum-subsequence-score.cpp) | 🟡 Medium | C++ |
 | [2543](https://leetcode.com/problems/check-if-point-is-reachable/) | [Check if Point Is Reachable](problems/2543.check-if-point-is-reachable.cpp) | 🔴 Hard | C++ |
 | [2544](https://leetcode.com/problems/alternating-digit-sum/) | [Alternating Digit Sum](problems/2544.alternating-digit-sum.cpp) | 🟢 Easy | C++ |
