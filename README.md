@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1904 solved** — 🟢 528 Easy · 🟡 981 Medium · 🔴 393 Hard
+**1905 solved** — 🟢 528 Easy · 🟡 982 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -594,6 +594,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1073](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [Adding Two Negabinary Numbers](problems/1073.adding-two-negabinary-numbers.cpp) | 🟡 Medium | C++ |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
 | [1078](https://leetcode.com/problems/occurrences-after-bigram/) | [Occurrences After Bigram](problems/1078.occurrences-after-bigram.cpp) | 🟢 Easy | C++ |
+| [1079](https://leetcode.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](problems/1079.letter-tile-possibilities.cpp) | 🟡 Medium | C++ |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [Insufficient Nodes in Root to Leaf Paths](problems/1080.insufficient-nodes-in-root-to-leaf-paths.cpp) | 🟡 Medium | C++ |
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Duplicate Zeros](problems/1089.duplicate-zeros.cpp) | 🟢 Easy | C++ |
 | [1090](https://leetcode.com/problems/largest-values-from-labels/) | [Largest Values From Labels](problems/1090.largest-values-from-labels.cpp) | 🟡 Medium | C++ |
