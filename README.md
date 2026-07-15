@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2158 solved** — 🟢 528 Easy · 🟡 1230 Medium · 🔴 393 Hard
+**2159 solved** — 🟢 528 Easy · 🟡 1231 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -296,6 +296,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Minimum Number of Arrows to Burst Balloons](problems/452.minimum-number-of-arrows-to-burst-balloons.cpp) | 🟡 Medium | C++ |
 | [453](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Minimum Moves to Equal Array Elements](problems/453.minimum-moves-to-equal-array-elements.cpp) | 🟡 Medium | C++ |
 | [454](https://leetcode.com/problems/4sum-ii/) | [4Sum II](problems/454.4sum-ii.cpp) | 🟡 Medium | C++ |
+| [456](https://leetcode.com/problems/132-pattern/) | [132 Pattern](problems/456.132-pattern.cpp) | 🟡 Medium | C++ |
 | [457](https://leetcode.com/problems/circular-array-loop/) | [Circular Array Loop](problems/457.circular-array-loop.cpp) | 🟡 Medium | C++ |
 | [458](https://leetcode.com/problems/poor-pigs/) | [Poor Pigs](problems/458.poor-pigs.cpp) | 🔴 Hard | C++ |
 | [459](https://leetcode.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](problems/459.repeated-substring-pattern.cpp) | 🟢 Easy | C++ |
