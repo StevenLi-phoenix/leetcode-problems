@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1917 solved** — 🟢 528 Easy · 🟡 993 Medium · 🔴 393 Hard
+**1918 solved** — 🟢 528 Easy · 🟡 994 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1252,6 +1252,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2457](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [Minimum Addition to Make Integer Beautiful](problems/2457.minimum-addition-to-make-integer-beautiful.cpp) | 🟡 Medium | C++ |
 | [2458](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [Height of Binary Tree After Subtree Removal Queries](problems/2458.height-of-binary-tree-after-subtree-removal-queries.cpp) | 🔴 Hard | C++ |
 | [2460](https://leetcode.com/problems/apply-operations-to-an-array/) | [Apply Operations to an Array](problems/2460.apply-operations-to-an-array.cpp) | 🟢 Easy | C++ |
+| [2462](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [Total Cost to Hire K Workers](problems/2462.total-cost-to-hire-k-workers.cpp) | 🟡 Medium | C++ |
 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](problems/2463.minimum-total-distance-traveled.cpp) | 🔴 Hard | C++ |
 | [2466](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Count Ways To Build Good Strings](problems/2466.count-ways-to-build-good-strings.cpp) | 🟡 Medium | C++ |
 | [2470](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | [Number of Subarrays With LCM Equal to K](problems/2470.number-of-subarrays-with-lcm-equal-to-k.cpp) | 🟡 Medium | C++ |
