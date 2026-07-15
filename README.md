@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2056 solved** — 🟢 528 Easy · 🟡 1129 Medium · 🔴 393 Hard
+**2057 solved** — 🟢 528 Easy · 🟡 1130 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -152,6 +152,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [179](https://leetcode.com/problems/largest-number/) | [Largest Number](problems/179.largest-number.cpp) | 🟡 Medium | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
+| [187](https://leetcode.com/problems/repeated-dna-sequences/) | [Repeated DNA Sequences](problems/187.repeated-dna-sequences.cpp) | 🟡 Medium | C++ |
 | [189](https://leetcode.com/problems/rotate-array/) | [Rotate Array](problems/189.rotate-array.cpp) | 🟡 Medium | C++ |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
