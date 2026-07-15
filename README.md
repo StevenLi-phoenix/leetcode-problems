@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2026 solved** — 🟢 528 Easy · 🟡 1100 Medium · 🔴 393 Hard
+**2027 solved** — 🟢 528 Easy · 🟡 1101 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1820,6 +1820,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3562](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Maximum Profit from Trading Stocks with Discounts](problems/3562.maximum-profit-from-trading-stocks-with-discounts.cpp) | 🔴 Hard | C++ |
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
 | [3570](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Find Books with No Available Copies](problems/3570.find-books-with-no-available-copies.sql) | 🟢 Easy | mysql |
+| [3572](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](problems/3572.maximize-ysum-by-picking-a-triplet-of-distinct-xvalues.cpp) | 🟡 Medium | C++ |
 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](problems/3573.best-time-to-buy-and-sell-stock-v.cpp) | 🟡 Medium | C++ |
 | [3575](https://leetcode.com/problems/maximum-good-subtree-score/) | [Maximum Good Subtree Score](problems/3575.maximum-good-subtree-score.cpp) | 🔴 Hard | C++ |
 | [3578](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Count Partitions With Max-Min Difference at Most K](problems/3578.count-partitions-with-max-min-difference-at-most-k.cpp) | 🟡 Medium | C++ |
