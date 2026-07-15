@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1942 solved** — 🟢 528 Easy · 🟡 1018 Medium · 🔴 393 Hard
+**1943 solved** — 🟢 528 Easy · 🟡 1019 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1821,6 +1821,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](problems/3699.number-of-zigzag-arrays-i.cpp) | 🔴 Hard | C++ |
 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](problems/3700.number-of-zigzag-arrays-ii.cpp) | 🔴 Hard | C++ |
 | [3707](https://leetcode.com/problems/equal-score-substrings/) | [Equal Score Substrings](problems/3707.equal-score-substrings.cpp) | 🟢 Easy | C++ |
+| [3708](https://leetcode.com/problems/longest-fibonacci-subarray/) | [Longest Fibonacci Subarray](problems/3708.longest-fibonacci-subarray.cpp) | 🟡 Medium | C++ |
 | [3709](https://leetcode.com/problems/design-exam-scores-tracker/) | [Design Exam Scores Tracker](problems/3709.design-exam-scores-tracker.cpp) | 🟡 Medium | C++ |
 | [3713](https://leetcode.com/problems/longest-balanced-substring-i/) | [Longest Balanced Substring I](problems/3713.longest-balanced-substring-i.cpp) | 🟡 Medium | C++ |
 | [3714](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Longest Balanced Substring II](problems/3714.longest-balanced-substring-ii.cpp) | 🟡 Medium | C++ |
