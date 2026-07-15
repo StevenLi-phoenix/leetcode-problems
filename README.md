@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2115 solved** — 🟢 528 Easy · 🟡 1187 Medium · 🔴 393 Hard
+**2116 solved** — 🟢 528 Easy · 🟡 1188 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1042,6 +1042,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1878](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Get Biggest Three Rhombus Sums in a Grid](problems/1878.get-biggest-three-rhombus-sums-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [1880](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Check if Word Equals Summation of Two Words](problems/1880.check-if-word-equals-summation-of-two-words.cpp) | 🟢 Easy | C++ |
 | [1881](https://leetcode.com/problems/maximum-value-after-insertion/) | [Maximum Value after Insertion](problems/1881.maximum-value-after-insertion.cpp) | 🟡 Medium | C++ |
+| [1882](https://leetcode.com/problems/process-tasks-using-servers/) | [Process Tasks Using Servers](problems/1882.process-tasks-using-servers.cpp) | 🟡 Medium | C++ |
 | [1883](https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/) | [Minimum Skips to Arrive at Meeting On Time](problems/1883.minimum-skips-to-arrive-at-meeting-on-time.cpp) | 🔴 Hard | C++ |
 | [1884](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [Egg Drop With 2 Eggs and N Floors](problems/1884.egg-drop-with-2-eggs-and-n-floors.cpp) | 🟡 Medium | C++ |
 | [1886](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [Determine Whether Matrix Can Be Obtained By Rotation](problems/1886.determine-whether-matrix-can-be-obtained-by-rotation.cpp) | 🟢 Easy | C++ |
