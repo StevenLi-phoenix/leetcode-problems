@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1978 solved** — 🟢 528 Easy · 🟡 1053 Medium · 🔴 393 Hard
+**1979 solved** — 🟢 528 Easy · 🟡 1054 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1502,6 +1502,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
 | [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
+| [2934](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/) | [Minimum Operations to Maximize Last Elements in Arrays](problems/2934.minimum-operations-to-maximize-last-elements-in-arrays.cpp) | 🟡 Medium | C++ |
 | [2935](https://leetcode.com/problems/maximum-strong-pair-xor-ii/) | [Maximum Strong Pair XOR II](problems/2935.maximum-strong-pair-xor-ii.cpp) | 🔴 Hard | C++ |
 | [2937](https://leetcode.com/problems/make-three-strings-equal/) | [Make Three Strings Equal](problems/2937.make-three-strings-equal.cpp) | 🟢 Easy | C++ |
 | [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | [Separate Black and White Balls](problems/2938.separate-black-and-white-balls.cpp) | 🟡 Medium | C++ |
