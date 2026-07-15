@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1956 solved** — 🟢 528 Easy · 🟡 1032 Medium · 🔴 393 Hard
+**1957 solved** — 🟢 528 Easy · 🟡 1033 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -953,6 +953,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](problems/1792.maximum-average-pass-ratio.cpp) | 🟡 Medium | C++ |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Maximum Score of a Good Subarray](problems/1793.maximum-score-of-a-good-subarray.cpp) | 🔴 Hard | C++ |
 | [1796](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Second Largest Digit in a String](problems/1796.second-largest-digit-in-a-string.cpp) | 🟢 Easy | C++ |
+| [1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | [Maximum Number of Consecutive Values You Can Make](problems/1798.maximum-number-of-consecutive-values-you-can-make.cpp) | 🟡 Medium | C++ |
 | [1799](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Maximize Score After N Operations](problems/1799.maximize-score-after-n-operations.cpp) | 🔴 Hard | C++ |
 | [1803](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [Count Pairs With XOR in a Range](problems/1803.count-pairs-with-xor-in-a-range.cpp) | 🔴 Hard | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
