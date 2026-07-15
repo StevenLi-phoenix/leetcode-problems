@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1889 solved** — 🟢 528 Easy · 🟡 966 Medium · 🔴 393 Hard
+**1890 solved** — 🟢 528 Easy · 🟡 967 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -992,6 +992,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1943](https://leetcode.com/problems/describe-the-painting/) | [Describe the Painting](problems/1943.describe-the-painting.cpp) | 🟡 Medium | C++ |
 | [1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [Number of Visible People in a Queue](problems/1944.number-of-visible-people-in-a-queue.cpp) | 🔴 Hard | C++ |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](problems/1945.sum-of-digits-of-string-after-convert.cpp) | 🟢 Easy | C++ |
+| [1946](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Largest Number After Mutating Substring](problems/1946.largest-number-after-mutating-substring.cpp) | 🟡 Medium | C++ |
 | [1948](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Delete Duplicate Folders in System](problems/1948.delete-duplicate-folders-in-system.cpp) | 🔴 Hard | C++ |
 | [1953](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [Maximum Number of Weeks for Which You Can Work](problems/1953.maximum-number-of-weeks-for-which-you-can-work.cpp) | 🟡 Medium | C++ |
 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](problems/1957.delete-characters-to-make-fancy-string.cpp) | 🟢 Easy | C++ |
