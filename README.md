@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1989 solved** — 🟢 528 Easy · 🟡 1064 Medium · 🔴 393 Hard
+**1990 solved** — 🟢 528 Easy · 🟡 1065 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1423,6 +1423,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2717](https://leetcode.com/problems/semi-ordered-permutation/) | [Semi-Ordered Permutation](problems/2717.semi-ordered-permutation.cpp) | 🟢 Easy | C++ |
 | [2718](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [Sum of Matrix After Queries](problems/2718.sum-of-matrix-after-queries.cpp) | 🟡 Medium | C++ |
 | [2719](https://leetcode.com/problems/count-of-integers/) | [Count of Integers](problems/2719.count-of-integers.cpp) | 🔴 Hard | C++ |
+| [2722](https://leetcode.com/problems/join-two-arrays-by-id/) | [Join Two Arrays by ID](problems/2722.join-two-arrays-by-id.js) | 🟡 Medium | JavaScript |
 | [2723](https://leetcode.com/problems/add-two-promises/) | [Add Two Promises](problems/2723.add-two-promises.js) | 🟢 Easy | JavaScript |
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2726](https://leetcode.com/problems/calculator-with-method-chaining/) | [Calculator with Method Chaining](problems/2726.calculator-with-method-chaining.js) | 🟢 Easy | JavaScript |
