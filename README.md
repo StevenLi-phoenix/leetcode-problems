@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1873 solved** — 🟢 528 Easy · 🟡 950 Medium · 🔴 393 Hard
+**1874 solved** — 🟢 528 Easy · 🟡 951 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -168,6 +168,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [229](https://leetcode.com/problems/majority-element-ii/) | [Majority Element II](problems/229.majority-element-ii.cpp) | 🟡 Medium | C++ |
 | [234](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](problems/234.palindrome-linked-list.cpp) | 🟢 Easy | C++ |
 | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of a Binary Search Tree](problems/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
+| [236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Lowest Common Ancestor of a Binary Tree](problems/236.lowest-common-ancestor-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](problems/237.delete-node-in-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](problems/238.product-of-array-except-self.cpp) | 🟡 Medium | C++ |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | [Sliding Window Maximum](problems/239.sliding-window-maximum.cpp) | 🔴 Hard | C++ |
