@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1903 solved** — 🟢 528 Easy · 🟡 980 Medium · 🔴 393 Hard
+**1904 solved** — 🟢 528 Easy · 🟡 981 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1387,6 +1387,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2769](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Find the Maximum Achievable Number](problems/2769.find-the-maximum-achievable-number.cpp) | 🟢 Easy | C++ |
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
 | [2771](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Longest Non-decreasing Subarray From Two Arrays](problems/2771.longest-non-decreasing-subarray-from-two-arrays.cpp) | 🟡 Medium | C++ |
+| [2772](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | [Apply Operations to Make All Array Elements Equal to Zero](problems/2772.apply-operations-to-make-all-array-elements-equal-to-zero.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
 | [2787](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Ways to Express an Integer as Sum of Powers](problems/2787.ways-to-express-an-integer-as-sum-of-powers.cpp) | 🟡 Medium | C++ |
