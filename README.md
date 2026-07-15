@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2030 solved** — 🟢 528 Easy · 🟡 1104 Medium · 🔴 393 Hard
+**2031 solved** — 🟢 528 Easy · 🟡 1105 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -350,6 +350,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [576](https://leetcode.com/problems/out-of-boundary-paths/) | [Out of Boundary Paths](problems/576.out-of-boundary-paths.cpp) | 🟡 Medium | C++ |
 | [577](https://leetcode.com/problems/employee-bonus/) | [Employee Bonus](problems/577.employee-bonus.sql) | 🟢 Easy | mysql |
 | [581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Shortest Unsorted Continuous Subarray](problems/581.shortest-unsorted-continuous-subarray.cpp) | 🟡 Medium | C++ |
+| [583](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Delete Operation for Two Strings](problems/583.delete-operation-for-two-strings.cpp) | 🟡 Medium | C++ |
 | [584](https://leetcode.com/problems/find-customer-referee/) | [Find Customer Referee](problems/584.find-customer-referee.sql) | 🟢 Easy | mysql |
 | [587](https://leetcode.com/problems/erect-the-fence/) | [Erect the Fence](problems/587.erect-the-fence.cpp) | 🔴 Hard | C++ |
 | [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](problems/589.n-ary-tree-preorder-traversal.cpp) | 🟢 Easy | C++ |
