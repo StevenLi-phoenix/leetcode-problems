@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2089 solved** — 🟢 528 Easy · 🟡 1162 Medium · 🔴 393 Hard
+**2090 solved** — 🟢 528 Easy · 🟡 1163 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2028,6 +2028,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3839](https://leetcode.com/problems/number-of-prefix-connected-groups/) | [Number of Prefix Connected Groups](problems/3839.number-of-prefix-connected-groups.cpp) | 🟡 Medium | C++ |
 | [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3841](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Palindromic Path Queries in a Tree](problems/3841.palindromic-path-queries-in-a-tree.cpp) | 🔴 Hard | C++ |
+| [3844](https://leetcode.com/problems/longest-almost-palindromic-substring/) | [Longest Almost-Palindromic Substring](problems/3844.longest-almost-palindromic-substring.cpp) | 🟡 Medium | C++ |
 | [3845](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | [Maximum Subarray XOR with Bounded Range](problems/3845.maximum-subarray-xor-with-bounded-range.cpp) | 🔴 Hard | C++ |
 | [3847](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | [Find the Score Difference in a Game](problems/3847.find-the-score-difference-in-a-game.cpp) | 🟡 Medium | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
