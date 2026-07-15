@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1883 solved** — 🟢 528 Easy · 🟡 960 Medium · 🔴 393 Hard
+**1884 solved** — 🟢 528 Easy · 🟡 961 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -701,6 +701,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](problems/1356.sort-integers-by-the-number-of-1-bits.cpp) | 🟢 Easy | C++ |
 | [1359](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Count All Valid Pickup and Delivery Options](problems/1359.count-all-valid-pickup-and-delivery-options.cpp) | 🔴 Hard | C++ |
 | [1360](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Number of Days Between Two Dates](problems/1360.number-of-days-between-two-dates.cpp) | 🟢 Easy | C++ |
+| [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | [Validate Binary Tree Nodes](problems/1361.validate-binary-tree-nodes.cpp) | 🟡 Medium | C++ |
 | [1362](https://leetcode.com/problems/closest-divisors/) | [Closest Divisors](problems/1362.closest-divisors.cpp) | 🟡 Medium | C++ |
 | [1363](https://leetcode.com/problems/largest-multiple-of-three/) | [Largest Multiple of Three](problems/1363.largest-multiple-of-three.cpp) | 🔴 Hard | C++ |
 | [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](problems/1365.how-many-numbers-are-smaller-than-the-current-number.cpp) | 🟢 Easy | C++ |
