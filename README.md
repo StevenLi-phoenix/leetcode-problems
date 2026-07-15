@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1897 solved** — 🟢 528 Easy · 🟡 974 Medium · 🔴 393 Hard
+**1898 solved** — 🟢 528 Easy · 🟡 975 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -357,6 +357,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [649](https://leetcode.com/problems/dota2-senate/) | [Dota2 Senate](problems/649.dota2-senate.cpp) | 🟡 Medium | C++ |
 | [654](https://leetcode.com/problems/maximum-binary-tree/) | [Maximum Binary Tree](problems/654.maximum-binary-tree.cpp) | 🟡 Medium | C++ |
 | [657](https://leetcode.com/problems/robot-return-to-origin/) | [Robot Return to Origin](problems/657.robot-return-to-origin.cpp) | 🟢 Easy | C++ |
+| [659](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Split Array into Consecutive Subsequences](problems/659.split-array-into-consecutive-subsequences.cpp) | 🟡 Medium | C++ |
 | [661](https://leetcode.com/problems/image-smoother/) | [Image Smoother](problems/661.image-smoother.cpp) | 🟢 Easy | C++ |
 | [662](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Maximum Width of Binary Tree](problems/662.maximum-width-of-binary-tree.cpp) | 🟡 Medium | C++ |
 | [664](https://leetcode.com/problems/strange-printer/) | [Strange Printer](problems/664.strange-printer.cpp) | 🔴 Hard | C++ |
