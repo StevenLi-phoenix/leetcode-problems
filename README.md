@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1977 solved** — 🟢 528 Easy · 🟡 1052 Medium · 🔴 393 Hard
+**1978 solved** — 🟢 528 Easy · 🟡 1053 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -542,6 +542,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [959](https://leetcode.com/problems/regions-cut-by-slashes/) | [Regions Cut By Slashes](problems/959.regions-cut-by-slashes.cpp) | 🟡 Medium | C++ |
 | [960](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Delete Columns to Make Sorted III](problems/960.delete-columns-to-make-sorted-iii.cpp) | 🔴 Hard | C++ |
 | [961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [N-Repeated Element in Size 2N Array](problems/961.n-repeated-element-in-size-2n-array.cpp) | 🟢 Easy | C++ |
+| [962](https://leetcode.com/problems/maximum-width-ramp/) | [Maximum Width Ramp](problems/962.maximum-width-ramp.cpp) | 🟡 Medium | C++ |
 | [963](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [Minimum Area Rectangle II](problems/963.minimum-area-rectangle-ii.cpp) | 🟡 Medium | C++ |
 | [964](https://leetcode.com/problems/least-operators-to-express-number/) | [Least Operators to Express Number](problems/964.least-operators-to-express-number.cpp) | 🔴 Hard | C++ |
 | [965](https://leetcode.com/problems/univalued-binary-tree/) | [Univalued Binary Tree](problems/965.univalued-binary-tree.cpp) | 🟢 Easy | C++ |
