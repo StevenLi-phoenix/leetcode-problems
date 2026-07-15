@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1964 solved** — 🟢 528 Easy · 🟡 1040 Medium · 🔴 393 Hard
+**1965 solved** — 🟢 528 Easy · 🟡 1040 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1967,6 +1967,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3961](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | [Maximize Sum of Device Ratings](problems/3961.maximize-sum-of-device-ratings.cpp) | 🟡 Medium | C++ |
 | [3966](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Count Good Integers in a Range](problems/3966.count-good-integers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3969](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) | [Valid Subarrays With Matching Sum Digits I](problems/3969.valid-subarrays-with-matching-sum-digits-i.cpp) | 🟡 Medium | C++ |
+| [3974](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | [Maximum Total Sum of K Selected Elements](problems/3974.maximum-total-sum-of-k-selected-elements.cpp) | — | C++ |
 | [3979](https://leetcode.com/problems/maximum-valid-pair-sum/) | [Maximum Valid Pair Sum](problems/3979.maximum-valid-pair-sum.cpp) | — | C++ |
 | [3983](https://leetcode.com/problems/subsequence-after-one-replacement/) | [Subsequence After One Replacement](problems/3983.subsequence-after-one-replacement.cpp) | — | C++ |
 | [3989](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [Maximum Consistent Columns in a Grid](problems/3989.maximum-consistent-columns-in-a-grid.cpp) | — | C++ |
