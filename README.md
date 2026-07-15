@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2037 solved** — 🟢 528 Easy · 🟡 1110 Medium · 🔴 393 Hard
+**2038 solved** — 🟢 528 Easy · 🟡 1111 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1426,6 +1426,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
 | [2660](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [Determine the Winner of a Bowling Game](problems/2660.determine-the-winner-of-a-bowling-game.cpp) | 🟢 Easy | C++ |
 | [2661](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [First Completely Painted Row or Column](problems/2661.first-completely-painted-row-or-column.cpp) | 🟡 Medium | C++ |
+| [2662](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | [Minimum Cost of a Path With Special Roads](problems/2662.minimum-cost-of-a-path-with-special-roads.cpp) | 🟡 Medium | C++ |
 | [2663](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [Lexicographically Smallest Beautiful String](problems/2663.lexicographically-smallest-beautiful-string.cpp) | 🔴 Hard | C++ |
 | [2666](https://leetcode.com/problems/allow-one-function-call/) | [Allow One Function Call](problems/2666.allow-one-function-call.js) | 🟢 Easy | JavaScript |
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
