@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2035 solved** — 🟢 528 Easy · 🟡 1109 Medium · 🔴 393 Hard
+**2036 solved** — 🟢 528 Easy · 🟡 1109 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2040,4 +2040,5 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3975](https://leetcode.com/problems/filter-occupied-intervals/) | [Filter Occupied Intervals](problems/3975.filter-occupied-intervals.cpp) | — | C++ |
 | [3979](https://leetcode.com/problems/maximum-valid-pair-sum/) | [Maximum Valid Pair Sum](problems/3979.maximum-valid-pair-sum.cpp) | — | C++ |
 | [3983](https://leetcode.com/problems/subsequence-after-one-replacement/) | [Subsequence After One Replacement](problems/3983.subsequence-after-one-replacement.cpp) | — | C++ |
+| [3988](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/) | [Create Grid With Exactly K Paths I](problems/3988.create-grid-with-exactly-k-paths-i.cpp) | — | C++ |
 | [3989](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [Maximum Consistent Columns in a Grid](problems/3989.maximum-consistent-columns-in-a-grid.cpp) | — | C++ |
