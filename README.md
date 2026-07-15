@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2062 solved** — 🟢 528 Easy · 🟡 1135 Medium · 🔴 393 Hard
+**2063 solved** — 🟢 528 Easy · 🟡 1136 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1253,6 +1253,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2316](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [Count Unreachable Pairs of Nodes in an Undirected Graph](problems/2316.count-unreachable-pairs-of-nodes-in-an-undirected-graph.cpp) | 🟡 Medium | C++ |
 | [2317](https://leetcode.com/problems/maximum-xor-after-operations/) | [Maximum XOR After Operations ](problems/2317.maximum-xor-after-operations.cpp) | 🟡 Medium | C++ |
 | [2318](https://leetcode.com/problems/number-of-distinct-roll-sequences/) | [Number of Distinct Roll Sequences](problems/2318.number-of-distinct-roll-sequences.cpp) | 🔴 Hard | C++ |
+| [2320](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [Count Number of Ways to Place Houses](problems/2320.count-number-of-ways-to-place-houses.cpp) | 🟡 Medium | C++ |
 | [2321](https://leetcode.com/problems/maximum-score-of-spliced-array/) | [Maximum Score Of Spliced Array](problems/2321.maximum-score-of-spliced-array.cpp) | 🔴 Hard | C++ |
 | [2322](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/) | [Minimum Score After Removals on a Tree](problems/2322.minimum-score-after-removals-on-a-tree.cpp) | 🔴 Hard | C++ |
 | [2325](https://leetcode.com/problems/decode-the-message/) | [Decode the Message](problems/2325.decode-the-message.cpp) | 🟢 Easy | C++ |
