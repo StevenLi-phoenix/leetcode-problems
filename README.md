@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1919 solved** — 🟢 528 Easy · 🟡 995 Medium · 🔴 393 Hard
+**1920 solved** — 🟢 528 Easy · 🟡 996 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -864,6 +864,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Minimum Operations to Reduce X to Zero](problems/1658.minimum-operations-to-reduce-x-to-zero.cpp) | 🟡 Medium | C++ |
 | [1659](https://leetcode.com/problems/maximize-grid-happiness/) | [Maximize Grid Happiness](problems/1659.maximize-grid-happiness.cpp) | 🔴 Hard | C++ |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Check If Two String Arrays are Equivalent](problems/1662.check-if-two-string-arrays-are-equivalent.cpp) | 🟢 Easy | C++ |
+| [1663](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Smallest String With A Given Numeric Value](problems/1663.smallest-string-with-a-given-numeric-value.cpp) | 🟡 Medium | C++ |
 | [1665](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | [Minimum Initial Energy to Finish Tasks](problems/1665.minimum-initial-energy-to-finish-tasks.cpp) | 🔴 Hard | C++ |
 | [1667](https://leetcode.com/problems/fix-names-in-a-table/) | [Fix Names in a Table](problems/1667.fix-names-in-a-table.sql) | 🟢 Easy | mysql |
 | [1668](https://leetcode.com/problems/maximum-repeating-substring/) | [Maximum Repeating Substring](problems/1668.maximum-repeating-substring.cpp) | 🟢 Easy | C++ |
