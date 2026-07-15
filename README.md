@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1890 solved** — 🟢 528 Easy · 🟡 967 Medium · 🔴 393 Hard
+**1891 solved** — 🟢 528 Easy · 🟡 968 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1464,6 +1464,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2982](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii/) | [Find Longest Special Substring That Occurs Thrice II](problems/2982.find-longest-special-substring-that-occurs-thrice-ii.cpp) | 🟡 Medium | C++ |
 | [2983](https://leetcode.com/problems/palindrome-rearrangement-queries/) | [Palindrome Rearrangement Queries](problems/2983.palindrome-rearrangement-queries.cpp) | 🔴 Hard | C++ |
 | [2996](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [Smallest Missing Integer Greater Than Sequential Prefix Sum](problems/2996.smallest-missing-integer-greater-than-sequential-prefix-sum.cpp) | 🟢 Easy | C++ |
+| [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | [Minimum Number of Operations to Make Array XOR Equal to K](problems/2997.minimum-number-of-operations-to-make-array-xor-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](problems/2999.count-the-number-of-powerful-integers.cpp) | 🔴 Hard | C++ |
 | [3001](https://leetcode.com/problems/minimum-moves-to-capture-the-queen/) | [Minimum Moves to Capture The Queen](problems/3001.minimum-moves-to-capture-the-queen.cpp) | 🟡 Medium | C++ |
 | [3002](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | [Maximum Size of a Set After Removals](problems/3002.maximum-size-of-a-set-after-removals.cpp) | 🟡 Medium | C++ |
