@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1888 solved** — 🟢 528 Easy · 🟡 965 Medium · 🔴 393 Hard
+**1889 solved** — 🟢 528 Easy · 🟡 966 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -804,6 +804,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1566](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](problems/1566.detect-pattern-of-length-m-repeated-k-or-more-times.cpp) | 🟢 Easy | C++ |
 | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](problems/1569.number-of-ways-to-reorder-array-to-get-same-bst.cpp) | 🔴 Hard | C++ |
 | [1572](https://leetcode.com/problems/matrix-diagonal-sum/) | [Matrix Diagonal Sum](problems/1572.matrix-diagonal-sum.cpp) | 🟢 Easy | C++ |
+| [1573](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Number of Ways to Split a String](problems/1573.number-of-ways-to-split-a-string.cpp) | 🟡 Medium | C++ |
 | [1576](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [Replace All ?'s to Avoid Consecutive Repeating Characters](problems/1576.replace-all-s-to-avoid-consecutive-repeating-characters.cpp) | 🟢 Easy | C++ |
 | [1577](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](problems/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.cpp) | 🟡 Medium | C++ |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](problems/1578.minimum-time-to-make-rope-colorful.cpp) | 🟡 Medium | C++ |
