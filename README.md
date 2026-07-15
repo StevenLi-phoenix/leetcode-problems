@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2021 solved** — 🟢 528 Easy · 🟡 1095 Medium · 🔴 393 Hard
+**2022 solved** — 🟢 528 Easy · 🟡 1096 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1173,6 +1173,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2170](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | [Minimum Operations to Make the Array Alternating](problems/2170.minimum-operations-to-make-the-array-alternating.cpp) | 🟡 Medium | C++ |
 | [2171](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [Removing Minimum Number of Magic Beans](problems/2171.removing-minimum-number-of-magic-beans.cpp) | 🟡 Medium | C++ |
 | [2172](https://leetcode.com/problems/maximum-and-sum-of-array/) | [Maximum AND Sum of Array](problems/2172.maximum-and-sum-of-array.cpp) | 🔴 Hard | C++ |
+| [2177](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Find Three Consecutive Integers That Sum to a Given Number](problems/2177.find-three-consecutive-integers-that-sum-to-a-given-number.cpp) | 🟡 Medium | C++ |
 | [2178](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Maximum Split of Positive Even Integers](problems/2178.maximum-split-of-positive-even-integers.cpp) | 🟡 Medium | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [Minimum Number of Steps to Make Two Strings Anagram II](problems/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.cpp) | 🟡 Medium | C++ |
