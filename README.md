@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1895 solved** — 🟢 528 Easy · 🟡 972 Medium · 🔴 393 Hard
+**1896 solved** — 🟢 528 Easy · 🟡 973 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -246,6 +246,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [413](https://leetcode.com/problems/arithmetic-slices/) | [Arithmetic Slices](problems/413.arithmetic-slices.cpp) | 🟡 Medium | C++ |
 | [415](https://leetcode.com/problems/add-strings/) | [Add Strings](problems/415.add-strings.cpp) | 🟢 Easy | C++ |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](problems/417.pacific-atlantic-water-flow.cpp) | 🟡 Medium | C++ |
+| [419](https://leetcode.com/problems/battleships-in-a-board/) | [Battleships in a Board](problems/419.battleships-in-a-board.cpp) | 🟡 Medium | C++ |
 | [420](https://leetcode.com/problems/strong-password-checker/) | [Strong Password Checker](problems/420.strong-password-checker.cpp) | 🔴 Hard | C++ |
 | [421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Maximum XOR of Two Numbers in an Array](problems/421.maximum-xor-of-two-numbers-in-an-array.cpp) | 🟡 Medium | C++ |
 | [423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Reconstruct Original Digits from English](problems/423.reconstruct-original-digits-from-english.cpp) | 🟡 Medium | C++ |
