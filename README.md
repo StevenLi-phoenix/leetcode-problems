@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2094 solved** — 🟢 528 Easy · 🟡 1167 Medium · 🔴 393 Hard
+**2095 solved** — 🟢 528 Easy · 🟡 1168 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1069,6 +1069,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1929](https://leetcode.com/problems/concatenation-of-array/) | [Concatenation of Array](problems/1929.concatenation-of-array.cpp) | 🟢 Easy | C++ |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](problems/1930.unique-length-3-palindromic-subsequences.cpp) | 🟡 Medium | C++ |
 | [1931](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [Painting a Grid With Three Different Colors](problems/1931.painting-a-grid-with-three-different-colors.cpp) | 🔴 Hard | C++ |
+| [1934](https://leetcode.com/problems/confirmation-rate/) | [Confirmation Rate](problems/1934.confirmation-rate.sql) | 🟡 Medium | mysql |
 | [1936](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Add Minimum Number of Rungs](problems/1936.add-minimum-number-of-rungs.cpp) | 🟡 Medium | C++ |
 | [1937](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Maximum Number of Points with Cost](problems/1937.maximum-number-of-points-with-cost.cpp) | 🟡 Medium | C++ |
 | [1938](https://leetcode.com/problems/maximum-genetic-difference-query/) | [Maximum Genetic Difference Query](problems/1938.maximum-genetic-difference-query.cpp) | 🔴 Hard | C++ |
