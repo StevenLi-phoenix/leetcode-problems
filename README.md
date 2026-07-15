@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2027 solved** — 🟢 528 Easy · 🟡 1101 Medium · 🔴 393 Hard
+**2028 solved** — 🟢 528 Easy · 🟡 1102 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -747,6 +747,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1352](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [Product of the Last K Numbers](problems/1352.product-of-the-last-k-numbers.cpp) | 🟡 Medium | C++ |
 | [1353](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Maximum Number of Events That Can Be Attended](problems/1353.maximum-number-of-events-that-can-be-attended.cpp) | 🟡 Medium | C++ |
 | [1356](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](problems/1356.sort-integers-by-the-number-of-1-bits.cpp) | 🟢 Easy | C++ |
+| [1357](https://leetcode.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](problems/1357.apply-discount-every-n-orders.cpp) | 🟡 Medium | C++ |
 | [1359](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | [Count All Valid Pickup and Delivery Options](problems/1359.count-all-valid-pickup-and-delivery-options.cpp) | 🔴 Hard | C++ |
 | [1360](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Number of Days Between Two Dates](problems/1360.number-of-days-between-two-dates.cpp) | 🟢 Easy | C++ |
 | [1361](https://leetcode.com/problems/validate-binary-tree-nodes/) | [Validate Binary Tree Nodes](problems/1361.validate-binary-tree-nodes.cpp) | 🟡 Medium | C++ |
