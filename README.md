@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1866 solved** — 🟢 528 Easy · 🟡 943 Medium · 🔴 393 Hard
+**1867 solved** — 🟢 528 Easy · 🟡 944 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -712,6 +712,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1396](https://leetcode.com/problems/design-underground-system/) | [Design Underground System](problems/1396.design-underground-system.cpp) | 🟡 Medium | C++ |
 | [1397](https://leetcode.com/problems/find-all-good-strings/) | [Find All Good Strings](problems/1397.find-all-good-strings.cpp) | 🔴 Hard | C++ |
 | [1399](https://leetcode.com/problems/count-largest-group/) | [Count Largest Group](problems/1399.count-largest-group.cpp) | 🟢 Easy | C++ |
+| [1400](https://leetcode.com/problems/construct-k-palindrome-strings/) | [Construct K Palindrome Strings](problems/1400.construct-k-palindrome-strings.cpp) | 🟡 Medium | C++ |
 | [1402](https://leetcode.com/problems/reducing-dishes/) | [Reducing Dishes](problems/1402.reducing-dishes.cpp) | 🔴 Hard | C++ |
 | [1403](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Minimum Subsequence in Non-Increasing Order](problems/1403.minimum-subsequence-in-non-increasing-order.cpp) | 🟢 Easy | C++ |
 | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Number of Steps to Reduce a Number in Binary Representation to One](problems/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp) | 🟡 Medium | C++ |
