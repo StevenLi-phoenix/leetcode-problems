@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1992 solved** — 🟢 528 Easy · 🟡 1067 Medium · 🔴 393 Hard
+**1993 solved** — 🟢 528 Easy · 🟡 1068 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -147,6 +147,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [173](https://leetcode.com/problems/binary-search-tree-iterator/) | [Binary Search Tree Iterator](problems/173.binary-search-tree-iterator.cpp) | 🟡 Medium | C++ |
 | [176](https://leetcode.com/problems/second-highest-salary/) | [Second Highest Salary](problems/176.second-highest-salary.sql) | 🟡 Medium | mysql |
 | [177](https://leetcode.com/problems/nth-highest-salary/) | [Nth Highest Salary](problems/177.nth-highest-salary.sql) | 🟡 Medium | mysql |
+| [179](https://leetcode.com/problems/largest-number/) | [Largest Number](problems/179.largest-number.cpp) | 🟡 Medium | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
