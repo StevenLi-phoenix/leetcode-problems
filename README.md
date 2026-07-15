@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2010 solved** — 🟢 528 Easy · 🟡 1084 Medium · 🔴 393 Hard
+**2011 solved** — 🟢 528 Easy · 🟡 1085 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -140,6 +140,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [162](https://leetcode.com/problems/find-peak-element/) | [Find Peak Element](problems/162.find-peak-element.cpp) | 🟡 Medium | C++ |
 | [165](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](problems/165.compare-version-numbers.cpp) | 🟡 Medium | C++ |
 | [166](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Fraction to Recurring Decimal](problems/166.fraction-to-recurring-decimal.cpp) | 🟡 Medium | C++ |
+| [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II - Input Array Is Sorted](problems/167.two-sum-ii-input-array-is-sorted.cpp) | 🟡 Medium | C++ |
 | [168](https://leetcode.com/problems/excel-sheet-column-title/) | [Excel Sheet Column Title](problems/168.excel-sheet-column-title.cpp) | 🟢 Easy | C++ |
 | [169](https://leetcode.com/problems/majority-element/) | [Majority Element](problems/169.majority-element.cpp) | 🟢 Easy | C++ |
 | [171](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](problems/171.excel-sheet-column-number.cpp) | 🟢 Easy | C++ |
