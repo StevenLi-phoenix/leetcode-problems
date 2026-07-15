@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1887 solved** — 🟢 528 Easy · 🟡 964 Medium · 🔴 393 Hard
+**1888 solved** — 🟢 528 Easy · 🟡 965 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -845,6 +845,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Create Sorted Array through Instructions](problems/1649.create-sorted-array-through-instructions.cpp) | 🔴 Hard | C++ |
 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](problems/1653.minimum-deletions-to-make-string-balanced.cpp) | 🟡 Medium | C++ |
 | [1654](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Minimum Jumps to Reach Home](problems/1654.minimum-jumps-to-reach-home.cpp) | 🟡 Medium | C++ |
+| [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Determine if Two Strings Are Close](problems/1657.determine-if-two-strings-are-close.cpp) | 🟡 Medium | C++ |
 | [1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Minimum Operations to Reduce X to Zero](problems/1658.minimum-operations-to-reduce-x-to-zero.cpp) | 🟡 Medium | C++ |
 | [1659](https://leetcode.com/problems/maximize-grid-happiness/) | [Maximize Grid Happiness](problems/1659.maximize-grid-happiness.cpp) | 🔴 Hard | C++ |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Check If Two String Arrays are Equivalent](problems/1662.check-if-two-string-arrays-are-equivalent.cpp) | 🟢 Easy | C++ |
