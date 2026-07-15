@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2029 solved** — 🟢 528 Easy · 🟡 1103 Medium · 🔴 393 Hard
+**2030 solved** — 🟢 528 Easy · 🟡 1104 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -258,6 +258,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](problems/412.fizz-buzz.cpp) | 🟢 Easy | C++ |
 | [413](https://leetcode.com/problems/arithmetic-slices/) | [Arithmetic Slices](problems/413.arithmetic-slices.cpp) | 🟡 Medium | C++ |
 | [415](https://leetcode.com/problems/add-strings/) | [Add Strings](problems/415.add-strings.cpp) | 🟢 Easy | C++ |
+| [416](https://leetcode.com/problems/partition-equal-subset-sum/) | [Partition Equal Subset Sum](problems/416.partition-equal-subset-sum.cpp) | 🟡 Medium | C++ |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](problems/417.pacific-atlantic-water-flow.cpp) | 🟡 Medium | C++ |
 | [419](https://leetcode.com/problems/battleships-in-a-board/) | [Battleships in a Board](problems/419.battleships-in-a-board.cpp) | 🟡 Medium | C++ |
 | [420](https://leetcode.com/problems/strong-password-checker/) | [Strong Password Checker](problems/420.strong-password-checker.cpp) | 🔴 Hard | C++ |
