@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2161 solved** — 🟢 528 Easy · 🟡 1233 Medium · 🔴 393 Hard
+**2162 solved** — 🟢 528 Easy · 🟡 1234 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -555,6 +555,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [913](https://leetcode.com/problems/cat-and-mouse/) | [Cat and Mouse](problems/913.cat-and-mouse.cpp) | 🔴 Hard | C++ |
 | [916](https://leetcode.com/problems/word-subsets/) | [Word Subsets](problems/916.word-subsets.cpp) | 🟡 Medium | C++ |
 | [917](https://leetcode.com/problems/reverse-only-letters/) | [Reverse Only Letters](problems/917.reverse-only-letters.cpp) | 🟢 Easy | C++ |
+| [918](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Maximum Sum Circular Subarray](problems/918.maximum-sum-circular-subarray.cpp) | 🟡 Medium | C++ |
 | [919](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Complete Binary Tree Inserter](problems/919.complete-binary-tree-inserter.cpp) | 🟡 Medium | C++ |
 | [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Sort Array By Parity II](problems/922.sort-array-by-parity-ii.cpp) | 🟢 Easy | C++ |
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
