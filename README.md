@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2018 solved** — 🟢 528 Easy · 🟡 1092 Medium · 🔴 393 Hard
+**2019 solved** — 🟢 528 Easy · 🟡 1093 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1976,6 +1976,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3870](https://leetcode.com/problems/count-commas-in-range/) | [Count Commas in Range](problems/3870.count-commas-in-range.cpp) | 🟢 Easy | C++ |
 | [3873](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | [Maximum Points Activated with One Addition](problems/3873.maximum-points-activated-with-one-addition.cpp) | 🔴 Hard | C++ |
 | [3875](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Construct Uniform Parity Array I](problems/3875.construct-uniform-parity-array-i.cpp) | 🟢 Easy | C++ |
+| [3876](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Construct Uniform Parity Array II](problems/3876.construct-uniform-parity-array-ii.cpp) | 🟡 Medium | C++ |
 | [3877](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | [Minimum Removals to Achieve Target XOR](problems/3877.minimum-removals-to-achieve-target-xor.cpp) | 🟡 Medium | C++ |
 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](problems/3882.minimum-xor-path-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [3884](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [First Matching Character From Both Ends](problems/3884.first-matching-character-from-both-ends.cpp) | 🟢 Easy | C++ |
