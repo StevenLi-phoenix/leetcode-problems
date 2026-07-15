@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1910 solved** — 🟢 528 Easy · 🟡 986 Medium · 🔴 393 Hard
+**1911 solved** — 🟢 528 Easy · 🟡 987 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -651,6 +651,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1238](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [Circular Permutation in Binary Representation](problems/1238.circular-permutation-in-binary-representation.cpp) | 🟡 Medium | C++ |
 | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](problems/1239.maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | 🟡 Medium | C++ |
 | [1240](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | [Tiling a Rectangle with the Fewest Squares](problems/1240.tiling-a-rectangle-with-the-fewest-squares.cpp) | 🔴 Hard | C++ |
+| [1247](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | [Minimum Swaps to Make Strings Equal](problems/1247.minimum-swaps-to-make-strings-equal.cpp) | 🟡 Medium | C++ |
 | [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Count Number of Nice Subarrays](problems/1248.count-number-of-nice-subarrays.cpp) | 🟡 Medium | C++ |
 | [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](problems/1249.minimum-remove-to-make-valid-parentheses.cpp) | 🟡 Medium | C++ |
 | [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Cells with Odd Values in a Matrix](problems/1252.cells-with-odd-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
