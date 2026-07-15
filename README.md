@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2011 solved** — 🟢 528 Easy · 🟡 1085 Medium · 🔴 393 Hard
+**2012 solved** — 🟢 528 Easy · 🟡 1086 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1604,6 +1604,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3106](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/) | [Lexicographically Smallest String After Operations With Constraint](problems/3106.lexicographically-smallest-string-after-operations-with-constraint.cpp) | 🟡 Medium | C++ |
 | [3108](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](problems/3108.minimum-cost-walk-in-weighted-graph.cpp) | 🔴 Hard | C++ |
 | [3110](https://leetcode.com/problems/score-of-a-string/) | [Score of a String](problems/3110.score-of-a-string.cpp) | 🟢 Easy | C++ |
+| [3111](https://leetcode.com/problems/minimum-rectangles-to-cover-points/) | [Minimum Rectangles to Cover Points](problems/3111.minimum-rectangles-to-cover-points.cpp) | 🟡 Medium | C++ |
 | [3113](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | [Find the Number of Subarrays Where Boundary Elements Are Maximum](problems/3113.find-the-number-of-subarrays-where-boundary-elements-are-maximum.cpp) | 🔴 Hard | C++ |
 | [3116](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Kth Smallest Amount With Single Denomination Combination](problems/3116.kth-smallest-amount-with-single-denomination-combination.cpp) | 🔴 Hard | C++ |
 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](problems/3120.count-the-number-of-special-characters-i.cpp) | 🟢 Easy | C++ |
