@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1926 solved** — 🟢 528 Easy · 🟡 1002 Medium · 🔴 393 Hard
+**1927 solved** — 🟢 528 Easy · 🟡 1003 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1242,6 +1242,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Find The Original Array of Prefix Xor](problems/2433.find-the-original-array-of-prefix-xor.cpp) | 🟡 Medium | C++ |
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
 | [2438](https://leetcode.com/problems/range-product-queries-of-powers/) | [Range Product Queries of Powers](problems/2438.range-product-queries-of-powers.cpp) | 🟡 Medium | C++ |
+| [2439](https://leetcode.com/problems/minimize-maximum-of-array/) | [Minimize Maximum of Array](problems/2439.minimize-maximum-of-array.cpp) | 🟡 Medium | C++ |
 | [2440](https://leetcode.com/problems/create-components-with-same-value/) | [Create Components With Same Value](problems/2440.create-components-with-same-value.cpp) | 🔴 Hard | C++ |
 | [2441](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [Largest Positive Integer That Exists With Its Negative](problems/2441.largest-positive-integer-that-exists-with-its-negative.cpp) | 🟢 Easy | C++ |
 | [2442](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [Count Number of Distinct Integers After Reverse Operations](problems/2442.count-number-of-distinct-integers-after-reverse-operations.cpp) | 🟡 Medium | C++ |
