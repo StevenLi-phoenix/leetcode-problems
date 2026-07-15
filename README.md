@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1877 solved** — 🟢 528 Easy · 🟡 954 Medium · 🔴 393 Hard
+**1878 solved** — 🟢 528 Easy · 🟡 955 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -536,6 +536,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [983](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Minimum Cost For Tickets](problems/983.minimum-cost-for-tickets.cpp) | 🟡 Medium | C++ |
 | [984](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [String Without AAA or BBB](problems/984.string-without-aaa-or-bbb.cpp) | 🟡 Medium | C++ |
 | [985](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Sum of Even Numbers After Queries](problems/985.sum-of-even-numbers-after-queries.cpp) | 🟡 Medium | C++ |
+| [986](https://leetcode.com/problems/interval-list-intersections/) | [Interval List Intersections](problems/986.interval-list-intersections.cpp) | 🟡 Medium | C++ |
 | [987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Vertical Order Traversal of a Binary Tree](problems/987.vertical-order-traversal-of-a-binary-tree.cpp) | 🔴 Hard | C++ |
 | [988](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Smallest String Starting From Leaf](problems/988.smallest-string-starting-from-leaf.cpp) | 🟡 Medium | C++ |
 | [989](https://leetcode.com/problems/add-to-array-form-of-integer/) | [Add to Array-Form of Integer](problems/989.add-to-array-form-of-integer.cpp) | 🟢 Easy | C++ |
