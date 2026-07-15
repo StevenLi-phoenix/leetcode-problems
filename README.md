@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2070 solved** — 🟢 528 Easy · 🟡 1143 Medium · 🔴 393 Hard
+**2071 solved** — 🟢 528 Easy · 🟡 1144 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1893,6 +1893,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3637](https://leetcode.com/problems/trionic-array-i/) | [Trionic Array I](problems/3637.trionic-array-i.cpp) | 🟢 Easy | C++ |
 | [3639](https://leetcode.com/problems/minimum-time-to-activate-string/) | [Minimum Time to Activate String](problems/3639.minimum-time-to-activate-string.cpp) | 🟡 Medium | C++ |
 | [3640](https://leetcode.com/problems/trionic-array-ii/) | [Trionic Array II](problems/3640.trionic-array-ii.cpp) | 🔴 Hard | C++ |
+| [3642](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [Find Books with Polarized Opinions](problems/3642.find-books-with-polarized-opinions.sql) | 🟡 Medium | mysql |
 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](problems/3643.flip-square-submatrix-vertically.cpp) | 🟢 Easy | C++ |
 | [3644](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Maximum K to Sort a Permutation](problems/3644.maximum-k-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
 | [3649](https://leetcode.com/problems/number-of-perfect-pairs/) | [Number of Perfect Pairs](problems/3649.number-of-perfect-pairs.cpp) | 🟡 Medium | C++ |
