@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1869 solved** — 🟢 528 Easy · 🟡 946 Medium · 🔴 393 Hard
+**1870 solved** — 🟢 528 Easy · 🟡 947 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -825,6 +825,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1638](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [Count Substrings That Differ by One Character](problems/1638.count-substrings-that-differ-by-one-character.cpp) | 🟡 Medium | C++ |
 | [1640](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Check Array Formation Through Concatenation](problems/1640.check-array-formation-through-concatenation.cpp) | 🟢 Easy | C++ |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Count Sorted Vowel Strings](problems/1641.count-sorted-vowel-strings.cpp) | 🟡 Medium | C++ |
+| [1642](https://leetcode.com/problems/furthest-building-you-can-reach/) | [Furthest Building You Can Reach](problems/1642.furthest-building-you-can-reach.cpp) | 🟡 Medium | C++ |
 | [1643](https://leetcode.com/problems/kth-smallest-instructions/) | [Kth Smallest Instructions](problems/1643.kth-smallest-instructions.cpp) | 🔴 Hard | C++ |
 | [1646](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Get Maximum in Generated Array](problems/1646.get-maximum-in-generated-array.cpp) | 🟢 Easy | C++ |
 | [1647](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Minimum Deletions to Make Character Frequencies Unique](problems/1647.minimum-deletions-to-make-character-frequencies-unique.cpp) | 🟡 Medium | C++ |
