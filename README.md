@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1937 solved** — 🟢 528 Easy · 🟡 1013 Medium · 🔴 393 Hard
+**1938 solved** — 🟢 528 Easy · 🟡 1014 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -478,6 +478,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](problems/844.backspace-string-compare.cpp) | 🟢 Easy | C++ |
 | [846](https://leetcode.com/problems/hand-of-straights/) | [Hand of Straights](problems/846.hand-of-straights.cpp) | 🟡 Medium | C++ |
 | [847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [Shortest Path Visiting All Nodes](problems/847.shortest-path-visiting-all-nodes.cpp) | 🔴 Hard | C++ |
+| [851](https://leetcode.com/problems/loud-and-rich/) | [Loud and Rich](problems/851.loud-and-rich.cpp) | 🟡 Medium | C++ |
 | [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Peak Index in a Mountain Array](problems/852.peak-index-in-a-mountain-array.cpp) | 🟡 Medium | C++ |
 | [853](https://leetcode.com/problems/car-fleet/) | [Car Fleet](problems/853.car-fleet.cpp) | 🟡 Medium | C++ |
 | [857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](problems/857.minimum-cost-to-hire-k-workers.cpp) | 🔴 Hard | C++ |
