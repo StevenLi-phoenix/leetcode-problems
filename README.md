@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2138 solved** — 🟢 528 Easy · 🟡 1210 Medium · 🔴 393 Hard
+**2139 solved** — 🟢 528 Easy · 🟡 1211 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -177,6 +177,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [212](https://leetcode.com/problems/word-search-ii/) | [Word Search II](problems/212.word-search-ii.cpp) | 🔴 Hard | C++ |
 | [213](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](problems/213.house-robber-ii.cpp) | 🟡 Medium | C++ |
 | [214](https://leetcode.com/problems/shortest-palindrome/) | [Shortest Palindrome](problems/214.shortest-palindrome.cpp) | 🔴 Hard | C++ |
+| [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Kth Largest Element in an Array](problems/215.kth-largest-element-in-an-array.cpp) | 🟡 Medium | C++ |
 | [216](https://leetcode.com/problems/combination-sum-iii/) | [Combination Sum III](problems/216.combination-sum-iii.cpp) | 🟡 Medium | C++ |
 | [218](https://leetcode.com/problems/the-skyline-problem/) | [The Skyline Problem](problems/218.the-skyline-problem.cpp) | 🔴 Hard | C++ |
 | [221](https://leetcode.com/problems/maximal-square/) | [Maximal Square](problems/221.maximal-square.cpp) | 🟡 Medium | C++ |
