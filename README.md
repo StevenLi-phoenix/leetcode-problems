@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1878 solved** — 🟢 528 Easy · 🟡 955 Medium · 🔴 393 Hard
+**1879 solved** — 🟢 528 Easy · 🟡 956 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -114,6 +114,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](problems/119.pascals-triangle-ii.cpp) | 🟢 Easy | C++ |
 | [120](https://leetcode.com/problems/triangle/) | [Triangle](problems/120.triangle.cpp) | 🟡 Medium | C++ |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](problems/121.best-time-to-buy-and-sell-stock.cpp) | 🟢 Easy | C++ |
+| [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](problems/122.best-time-to-buy-and-sell-stock-ii.cpp) | 🟡 Medium | C++ |
 | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](problems/125.valid-palindrome.cpp) | 🟢 Easy | C++ |
 | [126](https://leetcode.com/problems/word-ladder-ii/) | [Word Ladder II](problems/126.word-ladder-ii.cpp) | 🔴 Hard | C++ |
 | [127](https://leetcode.com/problems/word-ladder/) | [Word Ladder](problems/127.word-ladder.cpp) | 🔴 Hard | C++ |
