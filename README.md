@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2033 solved** — 🟢 528 Easy · 🟡 1107 Medium · 🔴 393 Hard
+**2034 solved** — 🟢 528 Easy · 🟡 1108 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -498,6 +498,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [851](https://leetcode.com/problems/loud-and-rich/) | [Loud and Rich](problems/851.loud-and-rich.cpp) | 🟡 Medium | C++ |
 | [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Peak Index in a Mountain Array](problems/852.peak-index-in-a-mountain-array.cpp) | 🟡 Medium | C++ |
 | [853](https://leetcode.com/problems/car-fleet/) | [Car Fleet](problems/853.car-fleet.cpp) | 🟡 Medium | C++ |
+| [855](https://leetcode.com/problems/exam-room/) | [Exam Room](problems/855.exam-room.cpp) | 🟡 Medium | C++ |
 | [857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](problems/857.minimum-cost-to-hire-k-workers.cpp) | 🔴 Hard | C++ |
 | [861](https://leetcode.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](problems/861.score-after-flipping-matrix.cpp) | 🟡 Medium | C++ |
 | [865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Smallest Subtree with all the Deepest Nodes](problems/865.smallest-subtree-with-all-the-deepest-nodes.cpp) | 🟡 Medium | C++ |
