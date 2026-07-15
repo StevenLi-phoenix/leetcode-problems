@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1875 solved** — 🟢 528 Easy · 🟡 952 Medium · 🔴 393 Hard
+**1876 solved** — 🟢 528 Easy · 🟡 953 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -411,6 +411,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [770](https://leetcode.com/problems/basic-calculator-iv/) | [Basic Calculator IV](problems/770.basic-calculator-iv.cpp) | 🔴 Hard | C++ |
 | [771](https://leetcode.com/problems/jewels-and-stones/) | [Jewels and Stones](problems/771.jewels-and-stones.cpp) | 🟢 Easy | C++ |
 | [773](https://leetcode.com/problems/sliding-puzzle/) | [Sliding Puzzle](problems/773.sliding-puzzle.cpp) | 🔴 Hard | C++ |
+| [775](https://leetcode.com/problems/global-and-local-inversions/) | [Global and Local Inversions](problems/775.global-and-local-inversions.cpp) | 🟡 Medium | C++ |
 | [779](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [K-th Symbol in Grammar](problems/779.k-th-symbol-in-grammar.cpp) | 🟡 Medium | C++ |
 | [780](https://leetcode.com/problems/reaching-points/) | [Reaching Points](problems/780.reaching-points.cpp) | 🔴 Hard | C++ |
 | [781](https://leetcode.com/problems/rabbits-in-forest/) | [Rabbits in Forest](problems/781.rabbits-in-forest.cpp) | 🟡 Medium | C++ |
