@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2066 solved** — 🟢 528 Easy · 🟡 1139 Medium · 🔴 393 Hard
+**2067 solved** — 🟢 528 Easy · 🟡 1140 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1623,6 +1623,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3074](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [Apple Redistribution into Boxes](problems/3074.apple-redistribution-into-boxes.cpp) | 🟢 Easy | C++ |
 | [3075](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | [Maximize Happiness of Selected Children](problems/3075.maximize-happiness-of-selected-children.cpp) | 🟡 Medium | C++ |
 | [3079](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | [Find the Sum of Encrypted Integers](problems/3079.find-the-sum-of-encrypted-integers.cpp) | 🟢 Easy | C++ |
+| [3080](https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/) | [Mark Elements on Array by Performing Queries](problems/3080.mark-elements-on-array-by-performing-queries.cpp) | 🟡 Medium | C++ |
 | [3081](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Replace Question Marks in String to Minimize Its Value](problems/3081.replace-question-marks-in-string-to-minimize-its-value.cpp) | 🟡 Medium | C++ |
 | [3082](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/) | [Find the Sum of the Power of All Subsequences](problems/3082.find-the-sum-of-the-power-of-all-subsequences.cpp) | 🔴 Hard | C++ |
 | [3084](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/) | [Count Substrings Starting and Ending with Given Character](problems/3084.count-substrings-starting-and-ending-with-given-character.cpp) | 🟡 Medium | C++ |
