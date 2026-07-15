@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1923 solved** — 🟢 528 Easy · 🟡 999 Medium · 🔴 393 Hard
+**1924 solved** — 🟢 528 Easy · 🟡 1000 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -698,6 +698,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Sort the Matrix Diagonally](problems/1329.sort-the-matrix-diagonally.cpp) | 🟡 Medium | C++ |
 | [1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Remove Palindromic Subsequences](problems/1332.remove-palindromic-subsequences.cpp) | 🟢 Easy | C++ |
 | [1333](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [Filter Restaurants by Vegan-Friendly, Price and Distance](problems/1333.filter-restaurants-by-vegan-friendly-price-and-distance.cpp) | 🟡 Medium | C++ |
+| [1334](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](problems/1334.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp) | 🟡 Medium | C++ |
 | [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [The K Weakest Rows in a Matrix](problems/1337.the-k-weakest-rows-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1338](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Reduce Array Size to The Half](problems/1338.reduce-array-size-to-the-half.cpp) | 🟡 Medium | C++ |
 | [1339](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [Maximum Product of Splitted Binary Tree](problems/1339.maximum-product-of-splitted-binary-tree.cpp) | 🟡 Medium | C++ |
