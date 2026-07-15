@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2090 solved** — 🟢 528 Easy · 🟡 1163 Medium · 🔴 393 Hard
+**2091 solved** — 🟢 528 Easy · 🟡 1164 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1848,6 +1848,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3521](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Find Product Recommendation Pairs](problems/3521.find-product-recommendation-pairs.sql) | 🟡 Medium | mysql |
 | [3523](https://leetcode.com/problems/make-array-non-decreasing/) | [Make Array Non-decreasing](problems/3523.make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
 | [3524](https://leetcode.com/problems/find-x-value-of-array-i/) | [Find X Value of Array I](problems/3524.find-x-value-of-array-i.cpp) | 🟡 Medium | C++ |
+| [3528](https://leetcode.com/problems/unit-conversion-i/) | [Unit Conversion I](problems/3528.unit-conversion-i.cpp) | 🟡 Medium | C++ |
 | [3530](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [Maximum Profit from Valid Topological Order in DAG](problems/3530.maximum-profit-from-valid-topological-order-in-dag.cpp) | 🔴 Hard | C++ |
 | [3531](https://leetcode.com/problems/count-covered-buildings/) | [Count Covered Buildings](problems/3531.count-covered-buildings.cpp) | 🟡 Medium | C++ |
 | [3532](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Path Existence Queries in a Graph I](problems/3532.path-existence-queries-in-a-graph-i.cpp) | 🟡 Medium | C++ |
