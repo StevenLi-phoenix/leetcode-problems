@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2135 solved** — 🟢 528 Easy · 🟡 1207 Medium · 🔴 393 Hard
+**2136 solved** — 🟢 528 Easy · 🟡 1208 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -155,6 +155,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [177](https://leetcode.com/problems/nth-highest-salary/) | [Nth Highest Salary](problems/177.nth-highest-salary.sql) | 🟡 Medium | mysql |
 | [179](https://leetcode.com/problems/largest-number/) | [Largest Number](problems/179.largest-number.cpp) | 🟡 Medium | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
+| [184](https://leetcode.com/problems/department-highest-salary/) | [Department Highest Salary](problems/184.department-highest-salary.sql) | 🟡 Medium | mysql |
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
 | [187](https://leetcode.com/problems/repeated-dna-sequences/) | [Repeated DNA Sequences](problems/187.repeated-dna-sequences.cpp) | 🟡 Medium | C++ |
 | [189](https://leetcode.com/problems/rotate-array/) | [Rotate Array](problems/189.rotate-array.cpp) | 🟡 Medium | C++ |
