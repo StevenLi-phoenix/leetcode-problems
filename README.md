@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2051 solved** — 🟢 528 Easy · 🟡 1124 Medium · 🔴 393 Hard
+**2052 solved** — 🟢 528 Easy · 🟡 1125 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1718,6 +1718,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3303](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Find the Occurrence of First Almost Equal Substring](problems/3303.find-the-occurrence-of-first-almost-equal-substring.cpp) | 🔴 Hard | C++ |
 | [3304](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Find the K-th Character in String Game I](problems/3304.find-the-k-th-character-in-string-game-i.cpp) | 🟢 Easy | C++ |
 | [3305](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | [Count of Substrings Containing Every Vowel and K Consonants I](problems/3305.count-of-substrings-containing-every-vowel-and-k-consonants-i.cpp) | 🟡 Medium | C++ |
+| [3309](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) | [Maximum Possible Number by Binary Concatenation](problems/3309.maximum-possible-number-by-binary-concatenation.cpp) | 🟡 Medium | C++ |
 | [3310](https://leetcode.com/problems/remove-methods-from-project/) | [Remove Methods From Project](problems/3310.remove-methods-from-project.cpp) | 🟡 Medium | C++ |
 | [3312](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Sorted GCD Pair Queries](problems/3312.sorted-gcd-pair-queries.cpp) | 🔴 Hard | C++ |
 | [3314](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Construct the Minimum Bitwise Array I](problems/3314.construct-the-minimum-bitwise-array-i.cpp) | 🟢 Easy | C++ |
