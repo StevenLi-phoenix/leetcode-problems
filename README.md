@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1984 solved** — 🟢 528 Easy · 🟡 1059 Medium · 🔴 393 Hard
+**1985 solved** — 🟢 528 Easy · 🟡 1060 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1758,6 +1758,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3507](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [Minimum Pair Removal to Sort Array I](problems/3507.minimum-pair-removal-to-sort-array-i.cpp) | 🟢 Easy | C++ |
 | [3509](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [Maximum Product of Subsequences With an Alternating Sum Equal to K](problems/3509.maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cpp) | 🔴 Hard | C++ |
 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](problems/3510.minimum-pair-removal-to-sort-array-ii.cpp) | 🔴 Hard | C++ |
+| [3514](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | [Number of Unique XOR Triplets II](problems/3514.number-of-unique-xor-triplets-ii.cpp) | 🟡 Medium | C++ |
 | [3515](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Shortest Path in a Weighted Tree](problems/3515.shortest-path-in-a-weighted-tree.cpp) | 🔴 Hard | C++ |
 | [3516](https://leetcode.com/problems/find-closest-person/) | [Find Closest Person](problems/3516.find-closest-person.cpp) | 🟢 Easy | C++ |
 | [3517](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | [Smallest Palindromic Rearrangement I](problems/3517.smallest-palindromic-rearrangement-i.cpp) | 🟡 Medium | C++ |
