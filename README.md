@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1997 solved** — 🟢 528 Easy · 🟡 1071 Medium · 🔴 393 Hard
+**1998 solved** — 🟢 528 Easy · 🟡 1072 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1604,6 +1604,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3129](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Find All Possible Stable Binary Arrays I](problems/3129.find-all-possible-stable-binary-arrays-i.cpp) | 🟡 Medium | C++ |
 | [3130](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [Find All Possible Stable Binary Arrays II](problems/3130.find-all-possible-stable-binary-arrays-ii.cpp) | 🔴 Hard | C++ |
 | [3131](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [Find the Integer Added to Array I](problems/3131.find-the-integer-added-to-array-i.cpp) | 🟢 Easy | C++ |
+| [3132](https://leetcode.com/problems/find-the-integer-added-to-array-ii/) | [Find the Integer Added to Array II](problems/3132.find-the-integer-added-to-array-ii.cpp) | 🟡 Medium | C++ |
 | [3133](https://leetcode.com/problems/minimum-array-end/) | [Minimum Array End](problems/3133.minimum-array-end.cpp) | 🟡 Medium | C++ |
 | [3134](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) | [Find the Median of the Uniqueness Array](problems/3134.find-the-median-of-the-uniqueness-array.cpp) | 🔴 Hard | C++ |
 | [3137](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/) | [Minimum Number of Operations to Make Word K-Periodic](problems/3137.minimum-number-of-operations-to-make-word-k-periodic.cpp) | 🟡 Medium | C++ |
