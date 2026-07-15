@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2017 solved** — 🟢 528 Easy · 🟡 1091 Medium · 🔴 393 Hard
+**2018 solved** — 🟢 528 Easy · 🟡 1092 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1663,6 +1663,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3226](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [Number of Bit Changes to Make Two Integers Equal](problems/3226.number-of-bit-changes-to-make-two-integers-equal.cpp) | 🟢 Easy | C++ |
 | [3228](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Maximum Number of Operations to Move Ones to the End](problems/3228.maximum-number-of-operations-to-move-ones-to-the-end.cpp) | 🟡 Medium | C++ |
 | [3229](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Minimum Operations to Make Array Equal to Target](problems/3229.minimum-operations-to-make-array-equal-to-target.cpp) | 🔴 Hard | C++ |
+| [3233](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/) | [Find the Count of Numbers Which Are Not Special](problems/3233.find-the-count-of-numbers-which-are-not-special.cpp) | 🟡 Medium | C++ |
 | [3235](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [Check if the Rectangle Corner Is Reachable](problems/3235.check-if-the-rectangle-corner-is-reachable.cpp) | 🔴 Hard | C++ |
 | [3241](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Time Taken to Mark All Nodes](problems/3241.time-taken-to-mark-all-nodes.cpp) | 🔴 Hard | C++ |
 | [3249](https://leetcode.com/problems/count-the-number-of-good-nodes/) | [Count the Number of Good Nodes](problems/3249.count-the-number-of-good-nodes.cpp) | 🟡 Medium | C++ |
