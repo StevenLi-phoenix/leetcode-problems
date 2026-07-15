@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1914 solved** — 🟢 528 Easy · 🟡 990 Medium · 🔴 393 Hard
+**1915 solved** — 🟢 528 Easy · 🟡 991 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -128,6 +128,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [140](https://leetcode.com/problems/word-break-ii/) | [Word Break II](problems/140.word-break-ii.cpp) | 🔴 Hard | C++ |
 | [141](https://leetcode.com/problems/linked-list-cycle/) | [Linked List Cycle](problems/141.linked-list-cycle.cpp) | 🟢 Easy | C++ |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](problems/142.linked-list-cycle-ii.cpp) | 🟡 Medium | C++ |
+| [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](problems/143.reorder-list.cpp) | 🟡 Medium | C++ |
 | [145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](problems/145.binary-tree-postorder-traversal.cpp) | 🟢 Easy | C++ |
 | [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache](problems/146.lru-cache.cpp) | 🟡 Medium | C++ |
 | [148](https://leetcode.com/problems/sort-list/) | [Sort List](problems/148.sort-list.cpp) | 🟡 Medium | C++ |
