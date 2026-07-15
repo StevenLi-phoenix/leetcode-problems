@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2154 solved** — 🟢 528 Easy · 🟡 1226 Medium · 🔴 393 Hard
+**2155 solved** — 🟢 528 Easy · 🟡 1227 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -219,6 +219,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [306](https://leetcode.com/problems/additive-number/) | [Additive Number](problems/306.additive-number.cpp) | 🟡 Medium | C++ |
 | [307](https://leetcode.com/problems/range-sum-query-mutable/) | [Range Sum Query - Mutable](problems/307.range-sum-query-mutable.cpp) | 🟡 Medium | C++ |
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Best Time to Buy and Sell Stock with Cooldown](problems/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) | 🟡 Medium | C++ |
+| [310](https://leetcode.com/problems/minimum-height-trees/) | [Minimum Height Trees](problems/310.minimum-height-trees.cpp) | 🟡 Medium | C++ |
 | [312](https://leetcode.com/problems/burst-balloons/) | [Burst Balloons](problems/312.burst-balloons.cpp) | 🔴 Hard | C++ |
 | [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Count of Smaller Numbers After Self](problems/315.count-of-smaller-numbers-after-self.cpp) | 🔴 Hard | C++ |
 | [316](https://leetcode.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](problems/316.remove-duplicate-letters.cpp) | 🟡 Medium | C++ |
