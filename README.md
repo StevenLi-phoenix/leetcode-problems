@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1924 solved** — 🟢 528 Easy · 🟡 1000 Medium · 🔴 393 Hard
+**1925 solved** — 🟢 528 Easy · 🟡 1001 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -597,6 +597,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
 | [1070](https://leetcode.com/problems/product-sales-analysis-iii/) | [Product Sales Analysis III](problems/1070.product-sales-analysis-iii.sql) | 🟡 Medium | mysql |
 | [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Greatest Common Divisor of Strings](problems/1071.greatest-common-divisor-of-strings.cpp) | 🟢 Easy | C++ |
+| [1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Flip Columns For Maximum Number of Equal Rows](problems/1072.flip-columns-for-maximum-number-of-equal-rows.cpp) | 🟡 Medium | C++ |
 | [1073](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [Adding Two Negabinary Numbers](problems/1073.adding-two-negabinary-numbers.cpp) | 🟡 Medium | C++ |
 | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/) | [Number of Submatrices That Sum to Target](problems/1074.number-of-submatrices-that-sum-to-target.cpp) | 🔴 Hard | C++ |
 | [1078](https://leetcode.com/problems/occurrences-after-bigram/) | [Occurrences After Bigram](problems/1078.occurrences-after-bigram.cpp) | 🟢 Easy | C++ |
