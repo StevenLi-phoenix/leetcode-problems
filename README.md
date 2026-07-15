@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2064 solved** — 🟢 528 Easy · 🟡 1137 Medium · 🔴 393 Hard
+**2065 solved** — 🟢 528 Easy · 🟡 1138 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1923,6 +1923,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3692](https://leetcode.com/problems/majority-frequency-characters/) | [Majority Frequency Characters](problems/3692.majority-frequency-characters.cpp) | 🟢 Easy | C++ |
 | [3693](https://leetcode.com/problems/climbing-stairs-ii/) | [Climbing Stairs II](problems/3693.climbing-stairs-ii.cpp) | 🟡 Medium | C++ |
 | [3697](https://leetcode.com/problems/compute-decimal-representation/) | [Compute Decimal Representation](problems/3697.compute-decimal-representation.cpp) | 🟢 Easy | C++ |
+| [3698](https://leetcode.com/problems/split-array-with-minimum-difference/) | [Split Array With Minimum Difference](problems/3698.split-array-with-minimum-difference.cpp) | 🟡 Medium | C++ |
 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](problems/3699.number-of-zigzag-arrays-i.cpp) | 🔴 Hard | C++ |
 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](problems/3700.number-of-zigzag-arrays-ii.cpp) | 🔴 Hard | C++ |
 | [3707](https://leetcode.com/problems/equal-score-substrings/) | [Equal Score Substrings](problems/3707.equal-score-substrings.cpp) | 🟢 Easy | C++ |
