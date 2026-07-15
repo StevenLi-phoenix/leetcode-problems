@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2047 solved** — 🟢 528 Easy · 🟡 1120 Medium · 🔴 393 Hard
+**2048 solved** — 🟢 528 Easy · 🟡 1121 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1634,6 +1634,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](problems/3120.count-the-number-of-special-characters-i.cpp) | 🟢 Easy | C++ |
 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Count the Number of Special Characters II](problems/3121.count-the-number-of-special-characters-ii.cpp) | 🟡 Medium | C++ |
 | [3127](https://leetcode.com/problems/make-a-square-with-the-same-color/) | [Make a Square with the Same Color](problems/3127.make-a-square-with-the-same-color.cpp) | 🟢 Easy | C++ |
+| [3128](https://leetcode.com/problems/right-triangles/) | [Right Triangles](problems/3128.right-triangles.cpp) | 🟡 Medium | C++ |
 | [3129](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Find All Possible Stable Binary Arrays I](problems/3129.find-all-possible-stable-binary-arrays-i.cpp) | 🟡 Medium | C++ |
 | [3130](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [Find All Possible Stable Binary Arrays II](problems/3130.find-all-possible-stable-binary-arrays-ii.cpp) | 🔴 Hard | C++ |
 | [3131](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [Find the Integer Added to Array I](problems/3131.find-the-integer-added-to-array-i.cpp) | 🟢 Easy | C++ |
