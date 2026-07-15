@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1906 solved** — 🟢 528 Easy · 🟡 983 Medium · 🔴 393 Hard
+**1907 solved** — 🟢 528 Easy · 🟡 984 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -426,6 +426,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [782](https://leetcode.com/problems/transform-to-chessboard/) | [Transform to Chessboard](problems/782.transform-to-chessboard.cpp) | 🔴 Hard | C++ |
 | [783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Minimum Distance Between BST Nodes](problems/783.minimum-distance-between-bst-nodes.cpp) | 🟢 Easy | C++ |
 | [784](https://leetcode.com/problems/letter-case-permutation/) | [Letter Case Permutation](problems/784.letter-case-permutation.cpp) | 🟡 Medium | C++ |
+| [785](https://leetcode.com/problems/is-graph-bipartite/) | [Is Graph Bipartite?](problems/785.is-graph-bipartite.cpp) | 🟡 Medium | C++ |
 | [786](https://leetcode.com/problems/k-th-smallest-prime-fraction/) | [K-th Smallest Prime Fraction](problems/786.k-th-smallest-prime-fraction.cpp) | 🟡 Medium | C++ |
 | [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Cheapest Flights Within K Stops](problems/787.cheapest-flights-within-k-stops.cpp) | 🟡 Medium | C++ |
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
