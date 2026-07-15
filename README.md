@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2129 solved** — 🟢 528 Easy · 🟡 1201 Medium · 🔴 393 Hard
+**2130 solved** — 🟢 528 Easy · 🟡 1202 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1786,6 +1786,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3332](https://leetcode.com/problems/maximum-points-tourist-can-earn/) | [Maximum Points Tourist Can Earn](problems/3332.maximum-points-tourist-can-earn.cpp) | 🟡 Medium | C++ |
 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](problems/3333.find-the-original-typed-string-ii.cpp) | 🔴 Hard | C++ |
 | [3340](https://leetcode.com/problems/check-balanced-string/) | [Check Balanced String](problems/3340.check-balanced-string.cpp) | 🟢 Easy | C++ |
+| [3341](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | [Find Minimum Time to Reach Last Room I](problems/3341.find-minimum-time-to-reach-last-room-i.cpp) | 🟡 Medium | C++ |
 | [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](problems/3342.find-minimum-time-to-reach-last-room-ii.cpp) | 🟡 Medium | C++ |
 | [3343](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](problems/3343.count-number-of-balanced-permutations.cpp) | 🔴 Hard | C++ |
 | [3346](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Maximum Frequency of an Element After Performing Operations I](problems/3346.maximum-frequency-of-an-element-after-performing-operations-i.cpp) | 🟡 Medium | C++ |
