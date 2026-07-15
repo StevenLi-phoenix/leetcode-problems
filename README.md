@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1871 solved** — 🟢 528 Easy · 🟡 948 Medium · 🔴 393 Hard
+**1872 solved** — 🟢 528 Easy · 🟡 949 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -221,6 +221,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Insert Delete GetRandom O(1)](problems/380.insert-delete-getrandom-o1.cpp) | 🟡 Medium | C++ |
 | [382](https://leetcode.com/problems/linked-list-random-node/) | [Linked List Random Node](problems/382.linked-list-random-node.cpp) | 🟡 Medium | C++ |
 | [383](https://leetcode.com/problems/ransom-note/) | [Ransom Note](problems/383.ransom-note.cpp) | 🟢 Easy | C++ |
+| [384](https://leetcode.com/problems/shuffle-an-array/) | [Shuffle an Array](problems/384.shuffle-an-array.cpp) | 🟡 Medium | C++ |
 | [385](https://leetcode.com/problems/mini-parser/) | [Mini Parser](problems/385.mini-parser.cpp) | 🟡 Medium | C++ |
 | [389](https://leetcode.com/problems/find-the-difference/) | [Find the Difference](problems/389.find-the-difference.cpp) | 🟢 Easy | C++ |
 | [390](https://leetcode.com/problems/elimination-game/) | [Elimination Game](problems/390.elimination-game.cpp) | 🟡 Medium | C++ |
