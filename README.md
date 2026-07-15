@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2078 solved** — 🟢 528 Easy · 🟡 1151 Medium · 🔴 393 Hard
+**2079 solved** — 🟢 528 Easy · 🟡 1152 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1880,6 +1880,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3606](https://leetcode.com/problems/coupon-code-validator/) | [Coupon Code Validator](problems/3606.coupon-code-validator.cpp) | 🟢 Easy | C++ |
 | [3607](https://leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](problems/3607.power-grid-maintenance.cpp) | 🟡 Medium | C++ |
 | [3608](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | [Minimum Time for K Connected Components](problems/3608.minimum-time-for-k-connected-components.cpp) | 🟡 Medium | C++ |
+| [3611](https://leetcode.com/problems/find-overbooked-employees/) | [Find Overbooked Employees](problems/3611.find-overbooked-employees.sql) | 🟡 Medium | mysql |
 | [3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Process String with Special Operations I](problems/3612.process-string-with-special-operations-i.cpp) | 🟡 Medium | C++ |
 | [3613](https://leetcode.com/problems/minimize-maximum-component-cost/) | [Minimize Maximum Component Cost](problems/3613.minimize-maximum-component-cost.cpp) | 🟡 Medium | C++ |
 | [3614](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Process String with Special Operations II](problems/3614.process-string-with-special-operations-ii.cpp) | 🔴 Hard | C++ |
