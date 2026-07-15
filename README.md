@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1900 solved** — 🟢 528 Easy · 🟡 977 Medium · 🔴 393 Hard
+**1901 solved** — 🟢 528 Easy · 🟡 978 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -202,6 +202,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [312](https://leetcode.com/problems/burst-balloons/) | [Burst Balloons](problems/312.burst-balloons.cpp) | 🔴 Hard | C++ |
 | [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Count of Smaller Numbers After Self](problems/315.count-of-smaller-numbers-after-self.cpp) | 🔴 Hard | C++ |
 | [316](https://leetcode.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](problems/316.remove-duplicate-letters.cpp) | 🟡 Medium | C++ |
+| [318](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Maximum Product of Word Lengths](problems/318.maximum-product-of-word-lengths.cpp) | 🟡 Medium | C++ |
 | [319](https://leetcode.com/problems/bulb-switcher/) | [Bulb Switcher](problems/319.bulb-switcher.cpp) | 🟡 Medium | C++ |
 | [322](https://leetcode.com/problems/coin-change/) | [Coin Change](problems/322.coin-change.cpp) | 🟡 Medium | C++ |
 | [326](https://leetcode.com/problems/power-of-three/) | [Power of Three](problems/326.power-of-three.cpp) | 🟢 Easy | C++ |
