@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2108 solved** — 🟢 528 Easy · 🟡 1180 Medium · 🔴 393 Hard
+**2109 solved** — 🟢 528 Easy · 🟡 1181 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1846,6 +1846,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3490](https://leetcode.com/problems/count-beautiful-numbers/) | [Count Beautiful Numbers](problems/3490.count-beautiful-numbers.cpp) | 🔴 Hard | C++ |
 | [3492](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [Maximum Containers on a Ship](problems/3492.maximum-containers-on-a-ship.cpp) | 🟢 Easy | C++ |
 | [3493](https://leetcode.com/problems/properties-graph/) | [Properties Graph](problems/3493.properties-graph.cpp) | 🟡 Medium | C++ |
+| [3494](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | [Find the Minimum Amount of Time to Brew Potions](problems/3494.find-the-minimum-amount-of-time-to-brew-potions.cpp) | 🟡 Medium | C++ |
 | [3497](https://leetcode.com/problems/analyze-subscription-conversion/) | [Analyze Subscription Conversion ](problems/3497.analyze-subscription-conversion.sql) | 🟡 Medium | mysql |
 | [3499](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | [Maximize Active Section with Trade I](problems/3499.maximize-active-section-with-trade-i.cpp) | 🟡 Medium | C++ |
 | [3500](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [Minimum Cost to Divide Array Into Subarrays](problems/3500.minimum-cost-to-divide-array-into-subarrays.cpp) | 🔴 Hard | C++ |
