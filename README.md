@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1891 solved** — 🟢 528 Easy · 🟡 968 Medium · 🔴 393 Hard
+**1892 solved** — 🟢 528 Easy · 🟡 969 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1213,6 +1213,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Longest Subarray With Maximum Bitwise AND](problems/2419.longest-subarray-with-maximum-bitwise-and.cpp) | 🟡 Medium | C++ |
 | [2423](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [Remove Letter To Equalize Frequency](problems/2423.remove-letter-to-equalize-frequency.cpp) | 🟢 Easy | C++ |
 | [2424](https://leetcode.com/problems/longest-uploaded-prefix/) | [Longest Uploaded Prefix](problems/2424.longest-uploaded-prefix.cpp) | 🟡 Medium | C++ |
+| [2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Bitwise XOR of All Pairings](problems/2425.bitwise-xor-of-all-pairings.cpp) | 🟡 Medium | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
 | [2430](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [Maximum Deletions on a String](problems/2430.maximum-deletions-on-a-string.cpp) | 🔴 Hard | C++ |
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
