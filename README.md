@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2006 solved** — 🟢 528 Easy · 🟡 1080 Medium · 🔴 393 Hard
+**2007 solved** — 🟢 528 Easy · 🟡 1081 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -310,6 +310,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [502](https://leetcode.com/problems/ipo/) | [IPO](problems/502.ipo.cpp) | 🔴 Hard | C++ |
 | [503](https://leetcode.com/problems/next-greater-element-ii/) | [Next Greater Element II](problems/503.next-greater-element-ii.cpp) | 🟡 Medium | C++ |
 | [504](https://leetcode.com/problems/base-7/) | [Base 7](problems/504.base-7.cpp) | 🟢 Easy | C++ |
+| [508](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Most Frequent Subtree Sum](problems/508.most-frequent-subtree-sum.cpp) | 🟡 Medium | C++ |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
 | [511](https://leetcode.com/problems/game-play-analysis-i/) | [Game Play Analysis I](problems/511.game-play-analysis-i.sql) | 🟢 Easy | mysql |
 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](problems/515.find-largest-value-in-each-tree-row.cpp) | 🟡 Medium | C++ |
