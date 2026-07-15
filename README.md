@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2160 solved** — 🟢 528 Easy · 🟡 1232 Medium · 🔴 393 Hard
+**2161 solved** — 🟢 528 Easy · 🟡 1233 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2107,6 +2107,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3864](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Minimum Cost to Partition a Binary String](problems/3864.minimum-cost-to-partition-a-binary-string.cpp) | 🔴 Hard | C++ |
 | [3866](https://leetcode.com/problems/first-unique-even-element/) | [First Unique Even Element](problems/3866.first-unique-even-element.cpp) | 🟢 Easy | C++ |
 | [3867](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | [Sum of GCD of Formed Pairs](problems/3867.sum-of-gcd-of-formed-pairs.cpp) | 🟡 Medium | C++ |
+| [3868](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | [Minimum Cost to Equalize Arrays Using Swaps](problems/3868.minimum-cost-to-equalize-arrays-using-swaps.cpp) | 🟡 Medium | C++ |
 | [3869](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | [Count Fancy Numbers in a Range](problems/3869.count-fancy-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3870](https://leetcode.com/problems/count-commas-in-range/) | [Count Commas in Range](problems/3870.count-commas-in-range.cpp) | 🟢 Easy | C++ |
 | [3873](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | [Maximum Points Activated with One Addition](problems/3873.maximum-points-activated-with-one-addition.cpp) | 🔴 Hard | C++ |
