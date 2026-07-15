@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2083 solved** — 🟢 528 Easy · 🟡 1156 Medium · 🔴 393 Hard
+**2084 solved** — 🟢 528 Easy · 🟡 1157 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1803,6 +1803,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Maximum Difference Between Even and Odd Frequency I](problems/3442.maximum-difference-between-even-and-odd-frequency-i.cpp) | 🟢 Easy | C++ |
 | [3444](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/) | [Minimum Increments for Target Multiples in an Array](problems/3444.minimum-increments-for-target-multiples-in-an-array.cpp) | 🔴 Hard | C++ |
 | [3445](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](problems/3445.maximum-difference-between-even-and-odd-frequency-ii.cpp) | 🔴 Hard | C++ |
+| [3446](https://leetcode.com/problems/sort-matrix-by-diagonals/) | [Sort Matrix by Diagonals](problems/3446.sort-matrix-by-diagonals.cpp) | 🟡 Medium | C++ |
 | [3447](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/) | [Assign Elements to Groups with Constraints](problems/3447.assign-elements-to-groups-with-constraints.cpp) | 🟡 Medium | C++ |
 | [3451](https://leetcode.com/problems/find-invalid-ip-addresses/) | [Find Invalid IP Addresses](problems/3451.find-invalid-ip-addresses.sql) | 🔴 Hard | mysql |
 | [3453](https://leetcode.com/problems/separate-squares-i/) | [Separate Squares I](problems/3453.separate-squares-i.cpp) | 🟡 Medium | C++ |
