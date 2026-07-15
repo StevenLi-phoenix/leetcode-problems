@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1902 solved** — 🟢 528 Easy · 🟡 979 Medium · 🔴 393 Hard
+**1903 solved** — 🟢 528 Easy · 🟡 980 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1389,6 +1389,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2771](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Longest Non-decreasing Subarray From Two Arrays](problems/2771.longest-non-decreasing-subarray-from-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
+| [2787](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Ways to Express an Integer as Sum of Powers](problems/2787.ways-to-express-an-integer-as-sum-of-powers.cpp) | 🟡 Medium | C++ |
 | [2788](https://leetcode.com/problems/split-strings-by-separator/) | [Split Strings by Separator](problems/2788.split-strings-by-separator.cpp) | 🟢 Easy | C++ |
 | [2789](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/) | [Largest Element in an Array after Merge Operations](problems/2789.largest-element-in-an-array-after-merge-operations.cpp) | 🟡 Medium | C++ |
 | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Count Paths That Can Form a Palindrome in a Tree](problems/2791.count-paths-that-can-form-a-palindrome-in-a-tree.cpp) | 🔴 Hard | C++ |
