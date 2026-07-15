@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1993 solved** — 🟢 528 Easy · 🟡 1068 Medium · 🔴 393 Hard
+**1994 solved** — 🟢 528 Easy · 🟡 1069 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1926,6 +1926,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
 | [3816](https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/) | [Lexicographically Smallest String After Deleting Duplicate Characters](problems/3816.lexicographically-smallest-string-after-deleting-duplicate-characters.cpp) | 🔴 Hard | C++ |
+| [3818](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Minimum Prefix Removal to Make Array Strictly Increasing](problems/3818.minimum-prefix-removal-to-make-array-strictly-increasing.cpp) | 🟡 Medium | C++ |
 | [3819](https://leetcode.com/problems/rotate-non-negative-elements/) | [Rotate Non Negative Elements](problems/3819.rotate-non-negative-elements.cpp) | 🟡 Medium | C++ |
 | [3820](https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/) | [Pythagorean Distance Nodes in a Tree](problems/3820.pythagorean-distance-nodes-in-a-tree.cpp) | 🟡 Medium | C++ |
 | [3821](https://leetcode.com/problems/find-nth-smallest-integer-with-k-one-bits/) | [Find Nth Smallest Integer With K One Bits](problems/3821.find-nth-smallest-integer-with-k-one-bits.cpp) | 🔴 Hard | C++ |
