@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1975 solved** — 🟢 528 Easy · 🟡 1050 Medium · 🔴 393 Hard
+**1976 solved** — 🟢 528 Easy · 🟡 1051 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1928,6 +1928,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3847](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | [Find the Score Difference in a Game](problems/3847.find-the-score-difference-in-a-game.cpp) | 🟡 Medium | C++ |
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
 | [3850](https://leetcode.com/problems/count-sequences-to-k/) | [Count Sequences to K](problems/3850.count-sequences-to-k.cpp) | 🔴 Hard | C++ |
+| [3853](https://leetcode.com/problems/merge-close-characters/) | [Merge Close Characters](problems/3853.merge-close-characters.cpp) | 🟡 Medium | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
 | [3857](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | [Minimum Cost to Split into Ones](problems/3857.minimum-cost-to-split-into-ones.cpp) | 🟡 Medium | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
