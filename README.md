@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2127 solved** — 🟢 528 Easy · 🟡 1199 Medium · 🔴 393 Hard
+**2128 solved** — 🟢 528 Easy · 🟡 1200 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2126,6 +2126,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3964](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | [Minimum Lights to Illuminate a Road](problems/3964.minimum-lights-to-illuminate-a-road.cpp) | 🟡 Medium | C++ |
 | [3966](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Count Good Integers in a Range](problems/3966.count-good-integers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3969](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) | [Valid Subarrays With Matching Sum Digits I](problems/3969.valid-subarrays-with-matching-sum-digits-i.cpp) | 🟡 Medium | C++ |
+| [3970](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Shortest Path With At Most K Consecutive Identical Characters](problems/3970.shortest-path-with-at-most-k-consecutive-identical-characters.cpp) | 🟡 Medium | C++ |
 | [3974](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | [Maximum Total Sum of K Selected Elements](problems/3974.maximum-total-sum-of-k-selected-elements.cpp) | — | C++ |
 | [3975](https://leetcode.com/problems/filter-occupied-intervals/) | [Filter Occupied Intervals](problems/3975.filter-occupied-intervals.cpp) | — | C++ |
 | [3979](https://leetcode.com/problems/maximum-valid-pair-sum/) | [Maximum Valid Pair Sum](problems/3979.maximum-valid-pair-sum.cpp) | — | C++ |
