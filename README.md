@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2142 solved** — 🟢 528 Easy · 🟡 1214 Medium · 🔴 393 Hard
+**2143 solved** — 🟢 528 Easy · 🟡 1215 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -859,6 +859,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1504](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [Count Submatrices With All Ones](problems/1504.count-submatrices-with-all-ones.cpp) | 🟡 Medium | C++ |
 | [1505](https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | [Minimum Possible Integer After at Most K Adjacent Swaps On Digits](problems/1505.minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits.cpp) | 🔴 Hard | C++ |
 | [1507](https://leetcode.com/problems/reformat-date/) | [Reformat Date](problems/1507.reformat-date.py) | 🟢 Easy | Python |
+| [1508](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | [Range Sum of Sorted Subarray Sums](problems/1508.range-sum-of-sorted-subarray-sums.cpp) | 🟡 Medium | C++ |
 | [1509](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Minimum Difference Between Largest and Smallest Value in Three Moves](problems/1509.minimum-difference-between-largest-and-smallest-value-in-three-moves.cpp) | 🟡 Medium | C++ |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | [Number of Good Pairs](problems/1512.number-of-good-pairs.cpp) | 🟢 Easy | C++ |
 | [1513](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Number of Substrings With Only 1s](problems/1513.number-of-substrings-with-only-1s.cpp) | 🟡 Medium | C++ |
