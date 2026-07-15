@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1953 solved** — 🟢 528 Easy · 🟡 1029 Medium · 🔴 393 Hard
+**1954 solved** — 🟢 528 Easy · 🟡 1030 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1445,6 +1445,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2839](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Check if Strings Can be Made Equal With Operations I](problems/2839.check-if-strings-can-be-made-equal-with-operations-i.cpp) | 🟢 Easy | C++ |
 | [2840](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Check if Strings Can be Made Equal With Operations II](problems/2840.check-if-strings-can-be-made-equal-with-operations-ii.cpp) | 🟡 Medium | C++ |
 | [2843](https://leetcode.com/problems/count-symmetric-integers/) | [  Count Symmetric Integers](problems/2843.count-symmetric-integers.cpp) | 🟢 Easy | C++ |
+| [2844](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/) | [Minimum Operations to Make a Special Number](problems/2844.minimum-operations-to-make-a-special-number.cpp) | 🟡 Medium | C++ |
 | [2845](https://leetcode.com/problems/count-of-interesting-subarrays/) | [Count of Interesting Subarrays](problems/2845.count-of-interesting-subarrays.cpp) | 🟡 Medium | C++ |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [Determine if a Cell Is Reachable at a Given Time](problems/2849.determine-if-a-cell-is-reachable-at-a-given-time.cpp) | 🟡 Medium | C++ |
 | [2855](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [Minimum Right Shifts to Sort the Array](problems/2855.minimum-right-shifts-to-sort-the-array.cpp) | 🟢 Easy | C++ |
