@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2125 solved** — 🟢 528 Easy · 🟡 1197 Medium · 🔴 393 Hard
+**2126 solved** — 🟢 528 Easy · 🟡 1198 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2028,6 +2028,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Mirror Distance of an Integer](problems/3783.mirror-distance-of-an-integer.cpp) | 🟢 Easy | C++ |
 | [3784](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Minimum Deletion Cost to Make All Characters Equal](problems/3784.minimum-deletion-cost-to-make-all-characters-equal.cpp) | 🟡 Medium | C++ |
 | [3788](https://leetcode.com/problems/maximum-score-of-a-split/) | [Maximum Score of a Split](problems/3788.maximum-score-of-a-split.cpp) | 🟡 Medium | C++ |
+| [3789](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Minimum Cost to Acquire Required Items](problems/3789.minimum-cost-to-acquire-required-items.cpp) | 🟡 Medium | C++ |
 | [3790](https://leetcode.com/problems/smallest-all-ones-multiple/) | [Smallest All-Ones Multiple](problems/3790.smallest-all-ones-multiple.cpp) | 🟡 Medium | C++ |
 | [3791](https://leetcode.com/problems/number-of-balanced-integers-in-a-range/) | [Number of Balanced Integers in a Range](problems/3791.number-of-balanced-integers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3793](https://leetcode.com/problems/find-users-with-high-token-usage/) | [Find Users with High Token Usage](problems/3793.find-users-with-high-token-usage.sql) | 🟢 Easy | mysql |
