@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2082 solved** — 🟢 528 Easy · 🟡 1155 Medium · 🔴 393 Hard
+**2083 solved** — 🟢 528 Easy · 🟡 1156 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2060,6 +2060,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3915](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](problems/3915.maximum-sum-of-alternating-subsequence-with-distance-at-least-k.cpp) | 🔴 Hard | C++ |
 | [3919](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Minimum Cost to Move Between Indices](problems/3919.minimum-cost-to-move-between-indices.cpp) | 🟡 Medium | C++ |
 | [3921](https://leetcode.com/problems/score-validator/) | [Score Validator](problems/3921.score-validator.cpp) | 🟢 Easy | C++ |
+| [3922](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Minimum Flips to Make Binary String Coherent](problems/3922.minimum-flips-to-make-binary-string-coherent.cpp) | 🟡 Medium | C++ |
 | [3923](https://leetcode.com/problems/minimum-generations-to-target-point/) | [Minimum Generations to Target Point](problems/3923.minimum-generations-to-target-point.cpp) | 🟡 Medium | C++ |
 | [3925](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Concatenate Array With Reverse](problems/3925.concatenate-array-with-reverse.cpp) | 🟢 Easy | C++ |
 | [3926](https://leetcode.com/problems/count-valid-word-occurrences/) | [Count Valid Word Occurrences](problems/3926.count-valid-word-occurrences.cpp) | 🟡 Medium | C++ |
