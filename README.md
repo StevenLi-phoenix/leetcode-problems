@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1987 solved** — 🟢 528 Easy · 🟡 1062 Medium · 🔴 393 Hard
+**1988 solved** — 🟢 528 Easy · 🟡 1063 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1825,6 +1825,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3639](https://leetcode.com/problems/minimum-time-to-activate-string/) | [Minimum Time to Activate String](problems/3639.minimum-time-to-activate-string.cpp) | 🟡 Medium | C++ |
 | [3640](https://leetcode.com/problems/trionic-array-ii/) | [Trionic Array II](problems/3640.trionic-array-ii.cpp) | 🔴 Hard | C++ |
 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](problems/3643.flip-square-submatrix-vertically.cpp) | 🟢 Easy | C++ |
+| [3644](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Maximum K to Sort a Permutation](problems/3644.maximum-k-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
 | [3649](https://leetcode.com/problems/number-of-perfect-pairs/) | [Number of Perfect Pairs](problems/3649.number-of-perfect-pairs.cpp) | 🟡 Medium | C++ |
 | [3650](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | [Minimum Cost Path with Edge Reversals](problems/3650.minimum-cost-path-with-edge-reversals.cpp) | 🟡 Medium | C++ |
 | [3651](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | [Minimum Cost Path with Teleportations](problems/3651.minimum-cost-path-with-teleportations.cpp) | 🔴 Hard | C++ |
