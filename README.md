@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2101 solved** — 🟢 528 Easy · 🟡 1173 Medium · 🔴 393 Hard
+**2102 solved** — 🟢 528 Easy · 🟡 1174 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1453,6 +1453,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2649](https://leetcode.com/problems/nested-array-generator/) | [Nested Array Generator](problems/2649.nested-array-generator.js) | 🟡 Medium | JavaScript |
 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp) | 🟡 Medium | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
+| [2658](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [Maximum Number of Fish in a Grid](problems/2658.maximum-number-of-fish-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
 | [2660](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [Determine the Winner of a Bowling Game](problems/2660.determine-the-winner-of-a-bowling-game.cpp) | 🟢 Easy | C++ |
 | [2661](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [First Completely Painted Row or Column](problems/2661.first-completely-painted-row-or-column.cpp) | 🟡 Medium | C++ |
