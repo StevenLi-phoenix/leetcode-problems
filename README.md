@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2116 solved** — 🟢 528 Easy · 🟡 1188 Medium · 🔴 393 Hard
+**2117 solved** — 🟢 528 Easy · 🟡 1189 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1902,6 +1902,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3580](https://leetcode.com/problems/find-consistently-improving-employees/) | [Find Consistently Improving Employees](problems/3580.find-consistently-improving-employees.sql) | 🟡 Medium | mysql |
 | [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
 | [3583](https://leetcode.com/problems/count-special-triplets/) | [Count Special Triplets](problems/3583.count-special-triplets.cpp) | 🟡 Medium | C++ |
+| [3584](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/) | [Maximum Product of First and Last Elements of a Subsequence](problems/3584.maximum-product-of-first-and-last-elements-of-a-subsequence.cpp) | 🟡 Medium | C++ |
 | [3585](https://leetcode.com/problems/find-weighted-median-node-in-tree/) | [Find Weighted Median Node in Tree](problems/3585.find-weighted-median-node-in-tree.cpp) | 🔴 Hard | C++ |
 | [3586](https://leetcode.com/problems/find-covid-recovery-patients/) | [Find COVID Recovery Patients](problems/3586.find-covid-recovery-patients.sql) | 🟡 Medium | mysql |
 | [3591](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Check if Any Element Has Prime Frequency](problems/3591.check-if-any-element-has-prime-frequency.cpp) | 🟢 Easy | C++ |
