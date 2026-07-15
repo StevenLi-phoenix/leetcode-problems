@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1922 solved** — 🟢 528 Easy · 🟡 998 Medium · 🔴 393 Hard
+**1923 solved** — 🟢 528 Easy · 🟡 999 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -184,6 +184,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [260](https://leetcode.com/problems/single-number-iii/) | [Single Number III](problems/260.single-number-iii.cpp) | 🟡 Medium | C++ |
 | [262](https://leetcode.com/problems/trips-and-users/) | [Trips and Users](problems/262.trips-and-users.sql) | 🔴 Hard | mysql |
 | [263](https://leetcode.com/problems/ugly-number/) | [Ugly Number](problems/263.ugly-number.cpp) | 🟢 Easy | C++ |
+| [264](https://leetcode.com/problems/ugly-number-ii/) | [Ugly Number II](problems/264.ugly-number-ii.cpp) | 🟡 Medium | C++ |
 | [268](https://leetcode.com/problems/missing-number/) | [Missing Number](problems/268.missing-number.cpp) | 🟢 Easy | C++ |
 | [273](https://leetcode.com/problems/integer-to-english-words/) | [Integer to English Words](problems/273.integer-to-english-words.cpp) | 🔴 Hard | C++ |
 | [274](https://leetcode.com/problems/h-index/) | [H-Index](problems/274.h-index.cpp) | 🟡 Medium | C++ |
