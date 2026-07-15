@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1868 solved** — 🟢 528 Easy · 🟡 945 Medium · 🔴 393 Hard
+**1869 solved** — 🟢 528 Easy · 🟡 946 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -611,6 +611,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](problems/1161.maximum-level-sum-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1169](https://leetcode.com/problems/invalid-transactions/) | [Invalid Transactions](problems/1169.invalid-transactions.cpp) | 🟡 Medium | C++ |
 | [1170](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Compare Strings by Frequency of the Smallest Character](problems/1170.compare-strings-by-frequency-of-the-smallest-character.cpp) | 🟡 Medium | C++ |
+| [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171.remove-zero-sum-consecutive-nodes-from-linked-list.cpp) | 🟡 Medium | C++ |
 | [1178](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [Number of Valid Words for Each Puzzle](problems/1178.number-of-valid-words-for-each-puzzle.cpp) | 🔴 Hard | C++ |
 | [1187](https://leetcode.com/problems/make-array-strictly-increasing/) | [Make Array Strictly Increasing](problems/1187.make-array-strictly-increasing.cpp) | 🔴 Hard | C++ |
 | [1189](https://leetcode.com/problems/maximum-number-of-balloons/) | [Maximum Number of Balloons](problems/1189.maximum-number-of-balloons.cpp) | 🟢 Easy | C++ |
