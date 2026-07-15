@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2080 solved** — 🟢 528 Easy · 🟡 1153 Medium · 🔴 393 Hard
+**2081 solved** — 🟢 528 Easy · 🟡 1154 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1423,6 +1423,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2611](https://leetcode.com/problems/mice-and-cheese/) | [Mice and Cheese](problems/2611.mice-and-cheese.cpp) | 🟡 Medium | C++ |
 | [2612](https://leetcode.com/problems/minimum-reverse-operations/) | [Minimum Reverse Operations](problems/2612.minimum-reverse-operations.cpp) | 🔴 Hard | C++ |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | [Sum of Distances](problems/2615.sum-of-distances.cpp) | 🟡 Medium | C++ |
+| [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Minimize the Maximum Difference of Pairs](problems/2616.minimize-the-maximum-difference-of-pairs.cpp) | 🟡 Medium | C++ |
 | [2617](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [Minimum Number of Visited Cells in a Grid](problems/2617.minimum-number-of-visited-cells-in-a-grid.cpp) | 🔴 Hard | C++ |
 | [2621](https://leetcode.com/problems/sleep/) | [Sleep](problems/2621.sleep.js) | 🟢 Easy | JavaScript |
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
