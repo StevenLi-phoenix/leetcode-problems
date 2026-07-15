@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1884 solved** — 🟢 528 Easy · 🟡 961 Medium · 🔴 393 Hard
+**1885 solved** — 🟢 528 Easy · 🟡 962 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1079,6 +1079,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2115](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Find All Possible Recipes from Given Supplies](problems/2115.find-all-possible-recipes-from-given-supplies.cpp) | 🟡 Medium | C++ |
 | [2117](https://leetcode.com/problems/abbreviating-the-product-of-a-range/) | [Abbreviating the Product of a Range](problems/2117.abbreviating-the-product-of-a-range.cpp) | 🔴 Hard | C++ |
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [A Number After a Double Reversal](problems/2119.a-number-after-a-double-reversal.cpp) | 🟢 Easy | C++ |
+| [2120](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [Execution of All Suffix Instructions Staying in a Grid](problems/2120.execution-of-all-suffix-instructions-staying-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2121](https://leetcode.com/problems/intervals-between-identical-elements/) | [Intervals Between Identical Elements](problems/2121.intervals-between-identical-elements.cpp) | 🟡 Medium | C++ |
 | [2122](https://leetcode.com/problems/recover-the-original-array/) | [Recover the Original Array](problems/2122.recover-the-original-array.cpp) | 🔴 Hard | C++ |
 | [2124](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [Check if All A's Appears Before All B's](problems/2124.check-if-all-as-appears-before-all-bs.cpp) | 🟢 Easy | C++ |
