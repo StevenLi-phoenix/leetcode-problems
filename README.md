@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1907 solved** — 🟢 528 Easy · 🟡 984 Medium · 🔴 393 Hard
+**1908 solved** — 🟢 528 Easy · 🟡 985 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1306,6 +1306,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2572](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [Count the Number of Square-Free Subsets](problems/2572.count-the-number-of-square-free-subsets.cpp) | 🟡 Medium | C++ |
 | [2573](https://leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](problems/2573.find-the-string-with-lcp.cpp) | 🔴 Hard | C++ |
 | [2574](https://leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](problems/2574.left-and-right-sum-differences.cpp) | 🟢 Easy | C++ |
+| [2576](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | [Find the Maximum Number of Marked Indices](problems/2576.find-the-maximum-number-of-marked-indices.cpp) | 🟡 Medium | C++ |
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Kth Largest Sum in a Binary Tree](problems/2583.kth-largest-sum-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2586](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Count the Number of Vowel Strings in Range](problems/2586.count-the-number-of-vowel-strings-in-range.cpp) | 🟢 Easy | C++ |
