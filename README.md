@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2015 solved** — 🟢 528 Easy · 🟡 1089 Medium · 🔴 393 Hard
+**2016 solved** — 🟢 528 Easy · 🟡 1090 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1510,6 +1510,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2905](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/) | [Find Indices With Index and Value Difference II](problems/2905.find-indices-with-index-and-value-difference-ii.cpp) | 🟡 Medium | C++ |
 | [2906](https://leetcode.com/problems/construct-product-matrix/) | [Construct Product Matrix](problems/2906.construct-product-matrix.cpp) | 🟡 Medium | C++ |
 | [2908](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/) | [Minimum Sum of Mountain Triplets I](problems/2908.minimum-sum-of-mountain-triplets-i.cpp) | 🟢 Easy | C++ |
+| [2910](https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment/) | [Minimum Number of Groups to Create a Valid Assignment](problems/2910.minimum-number-of-groups-to-create-a-valid-assignment.cpp) | 🟡 Medium | C++ |
 | [2911](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/) | [Minimum Changes to Make K Semi-palindromes](problems/2911.minimum-changes-to-make-k-semi-palindromes.cpp) | 🔴 Hard | C++ |
 | [2913](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Subarrays Distinct Element Sum of Squares I](problems/2913.subarrays-distinct-element-sum-of-squares-i.cpp) | 🟢 Easy | C++ |
 | [2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914.minimum-number-of-changes-to-make-binary-string-beautiful.cpp) | 🟡 Medium | C++ |
