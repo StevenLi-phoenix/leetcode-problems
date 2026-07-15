@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1899 solved** — 🟢 528 Easy · 🟡 976 Medium · 🔴 393 Hard
+**1900 solved** — 🟢 528 Easy · 🟡 977 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1223,6 +1223,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Bitwise XOR of All Pairings](problems/2425.bitwise-xor-of-all-pairings.cpp) | 🟡 Medium | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
 | [2430](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [Maximum Deletions on a String](problems/2430.maximum-deletions-on-a-string.cpp) | 🔴 Hard | C++ |
+| [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Find The Original Array of Prefix Xor](problems/2433.find-the-original-array-of-prefix-xor.cpp) | 🟡 Medium | C++ |
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
 | [2438](https://leetcode.com/problems/range-product-queries-of-powers/) | [Range Product Queries of Powers](problems/2438.range-product-queries-of-powers.cpp) | 🟡 Medium | C++ |
 | [2440](https://leetcode.com/problems/create-components-with-same-value/) | [Create Components With Same Value](problems/2440.create-components-with-same-value.cpp) | 🔴 Hard | C++ |
