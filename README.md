@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1966 solved** — 🟢 528 Easy · 🟡 1041 Medium · 🔴 393 Hard
+**1967 solved** — 🟢 528 Easy · 🟡 1042 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1687,6 +1687,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3372](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Maximize the Number of Target Nodes After Connecting Trees I](problems/3372.maximize-the-number-of-target-nodes-after-connecting-trees-i.cpp) | 🟡 Medium | C++ |
 | [3373](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](problems/3373.maximize-the-number-of-target-nodes-after-connecting-trees-ii.cpp) | 🔴 Hard | C++ |
 | [3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Minimum Operations to Make Array Values Equal to K](problems/3375.minimum-operations-to-make-array-values-equal-to-k.cpp) | 🟢 Easy | C++ |
+| [3376](https://leetcode.com/problems/minimum-time-to-break-locks-i/) | [Minimum Time to Break Locks I](problems/3376.minimum-time-to-break-locks-i.cpp) | 🟡 Medium | C++ |
 | [3377](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) | [Digit Operations to Make Two Integers Equal](problems/3377.digit-operations-to-make-two-integers-equal.cpp) | 🟡 Medium | C++ |
 | [3378](https://leetcode.com/problems/count-connected-components-in-lcm-graph/) | [Count Connected Components in LCM Graph](problems/3378.count-connected-components-in-lcm-graph.cpp) | 🔴 Hard | C++ |
 | [3379](https://leetcode.com/problems/transformed-array/) | [Transformed Array](problems/3379.transformed-array.cpp) | 🟢 Easy | C++ |
