@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2156 solved** — 🟢 528 Easy · 🟡 1228 Medium · 🔴 393 Hard
+**2157 solved** — 🟢 528 Easy · 🟡 1229 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -660,6 +660,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1078](https://leetcode.com/problems/occurrences-after-bigram/) | [Occurrences After Bigram](problems/1078.occurrences-after-bigram.cpp) | 🟢 Easy | C++ |
 | [1079](https://leetcode.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](problems/1079.letter-tile-possibilities.cpp) | 🟡 Medium | C++ |
 | [1080](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [Insufficient Nodes in Root to Leaf Paths](problems/1080.insufficient-nodes-in-root-to-leaf-paths.cpp) | 🟡 Medium | C++ |
+| [1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Smallest Subsequence of Distinct Characters](problems/1081.smallest-subsequence-of-distinct-characters.cpp) | 🟡 Medium | C++ |
 | [1089](https://leetcode.com/problems/duplicate-zeros/) | [Duplicate Zeros](problems/1089.duplicate-zeros.cpp) | 🟢 Easy | C++ |
 | [1090](https://leetcode.com/problems/largest-values-from-labels/) | [Largest Values From Labels](problems/1090.largest-values-from-labels.cpp) | 🟡 Medium | C++ |
 | [1091](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Shortest Path in Binary Matrix](problems/1091.shortest-path-in-binary-matrix.cpp) | 🟡 Medium | C++ |
