@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1950 solved** — 🟢 528 Easy · 🟡 1026 Medium · 🔴 393 Hard
+**1951 solved** — 🟢 528 Easy · 🟡 1027 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1643,6 +1643,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3290](https://leetcode.com/problems/maximum-multiplication-score/) | [Maximum Multiplication Score](problems/3290.maximum-multiplication-score.cpp) | 🟡 Medium | C++ |
 | [3296](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Minimum Number of Seconds to Make Mountain Height Zero](problems/3296.minimum-number-of-seconds-to-make-mountain-height-zero.cpp) | 🟡 Medium | C++ |
 | [3300](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Minimum Element After Replacement With Digit Sum](problems/3300.minimum-element-after-replacement-with-digit-sum.cpp) | 🟢 Easy | C++ |
+| [3301](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) | [Maximize the Total Height of Unique Towers](problems/3301.maximize-the-total-height-of-unique-towers.cpp) | 🟡 Medium | C++ |
 | [3302](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Find the Lexicographically Smallest Valid Sequence](problems/3302.find-the-lexicographically-smallest-valid-sequence.cpp) | 🟡 Medium | C++ |
 | [3303](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Find the Occurrence of First Almost Equal Substring](problems/3303.find-the-occurrence-of-first-almost-equal-substring.cpp) | 🔴 Hard | C++ |
 | [3304](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Find the K-th Character in String Game I](problems/3304.find-the-k-th-character-in-string-game-i.cpp) | 🟢 Easy | C++ |
