@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1945 solved** — 🟢 528 Easy · 🟡 1021 Medium · 🔴 393 Hard
+**1946 solved** — 🟢 528 Easy · 🟡 1022 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1668,6 +1668,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3365](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/) | [Rearrange K Substrings to Form Target String](problems/3365.rearrange-k-substrings-to-form-target-string.cpp) | 🟡 Medium | C++ |
 | [3367](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [Maximize Sum of Weights after Edge Removals](problems/3367.maximize-sum-of-weights-after-edge-removals.cpp) | 🔴 Hard | C++ |
 | [3371](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | [Identify the Largest Outlier in an Array](problems/3371.identify-the-largest-outlier-in-an-array.cpp) | 🟡 Medium | C++ |
+| [3372](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Maximize the Number of Target Nodes After Connecting Trees I](problems/3372.maximize-the-number-of-target-nodes-after-connecting-trees-i.cpp) | 🟡 Medium | C++ |
 | [3373](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](problems/3373.maximize-the-number-of-target-nodes-after-connecting-trees-ii.cpp) | 🔴 Hard | C++ |
 | [3375](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [Minimum Operations to Make Array Values Equal to K](problems/3375.minimum-operations-to-make-array-values-equal-to-k.cpp) | 🟢 Easy | C++ |
 | [3377](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) | [Digit Operations to Make Two Integers Equal](problems/3377.digit-operations-to-make-two-integers-equal.cpp) | 🟡 Medium | C++ |
