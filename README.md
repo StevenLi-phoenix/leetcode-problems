@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2126 solved** — 🟢 528 Easy · 🟡 1198 Medium · 🔴 393 Hard
+**2127 solved** — 🟢 528 Easy · 🟡 1199 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1255,6 +1255,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Maximum White Tiles Covered by a Carpet](problems/2271.maximum-white-tiles-covered-by-a-carpet.cpp) | 🟡 Medium | C++ |
 | [2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Find Resultant Array After Removing Anagrams](problems/2273.find-resultant-array-after-removing-anagrams.cpp) | 🟢 Easy | C++ |
 | [2274](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Maximum Consecutive Floors Without Special Floors](problems/2274.maximum-consecutive-floors-without-special-floors.cpp) | 🟡 Medium | C++ |
+| [2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Largest Combination With Bitwise AND Greater Than Zero](problems/2275.largest-combination-with-bitwise-and-greater-than-zero.cpp) | 🟡 Medium | C++ |
 | [2278](https://leetcode.com/problems/percentage-of-letter-in-string/) | [Percentage of Letter in String](problems/2278.percentage-of-letter-in-string.cpp) | 🟢 Easy | C++ |
 | [2280](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | [Minimum Lines to Represent a Line Chart](problems/2280.minimum-lines-to-represent-a-line-chart.cpp) | 🟡 Medium | C++ |
 | [2283](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Check if Number Has Equal Digit Count and Digit Value](problems/2283.check-if-number-has-equal-digit-count-and-digit-value.cpp) | 🟢 Easy | C++ |
