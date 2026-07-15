@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1947 solved** — 🟢 528 Easy · 🟡 1023 Medium · 🔴 393 Hard
+**1948 solved** — 🟢 528 Easy · 🟡 1024 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -832,6 +832,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [Most Visited Sector in  a Circular Track](problems/1560.most-visited-sector-in-a-circular-track.cpp) | 🟢 Easy | C++ |
 | [1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Maximum Number of Coins You Can Get](problems/1561.maximum-number-of-coins-you-can-get.cpp) | 🟡 Medium | C++ |
 | [1566](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](problems/1566.detect-pattern-of-length-m-repeated-k-or-more-times.cpp) | 🟢 Easy | C++ |
+| [1567](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [Maximum Length of Subarray With Positive Product](problems/1567.maximum-length-of-subarray-with-positive-product.cpp) | 🟡 Medium | C++ |
 | [1569](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | [Number of Ways to Reorder Array to Get Same BST](problems/1569.number-of-ways-to-reorder-array-to-get-same-bst.cpp) | 🔴 Hard | C++ |
 | [1572](https://leetcode.com/problems/matrix-diagonal-sum/) | [Matrix Diagonal Sum](problems/1572.matrix-diagonal-sum.cpp) | 🟢 Easy | C++ |
 | [1573](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Number of Ways to Split a String](problems/1573.number-of-ways-to-split-a-string.cpp) | 🟡 Medium | C++ |
