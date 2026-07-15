@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2008 solved** — 🟢 528 Easy · 🟡 1082 Medium · 🔴 393 Hard
+**2009 solved** — 🟢 528 Easy · 🟡 1083 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2007,6 +2007,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3959](https://leetcode.com/problems/check-good-integer/) | [Check Good Integer](problems/3959.check-good-integer.cpp) | 🟢 Easy | C++ |
 | [3960](https://leetcode.com/problems/frequency-balance-subarray/) | [Frequency Balance Subarray](problems/3960.frequency-balance-subarray.cpp) | 🟡 Medium | C++ |
 | [3961](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | [Maximize Sum of Device Ratings](problems/3961.maximize-sum-of-device-ratings.cpp) | 🟡 Medium | C++ |
+| [3964](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | [Minimum Lights to Illuminate a Road](problems/3964.minimum-lights-to-illuminate-a-road.cpp) | 🟡 Medium | C++ |
 | [3966](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Count Good Integers in a Range](problems/3966.count-good-integers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3969](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) | [Valid Subarrays With Matching Sum Digits I](problems/3969.valid-subarrays-with-matching-sum-digits-i.cpp) | 🟡 Medium | C++ |
 | [3974](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | [Maximum Total Sum of K Selected Elements](problems/3974.maximum-total-sum-of-k-selected-elements.cpp) | — | C++ |
