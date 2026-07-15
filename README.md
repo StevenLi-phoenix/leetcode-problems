@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1894 solved** — 🟢 528 Easy · 🟡 971 Medium · 🔴 393 Hard
+**1895 solved** — 🟢 528 Easy · 🟡 972 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -887,6 +887,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1729](https://leetcode.com/problems/find-followers-count/) | [Find Followers Count](problems/1729.find-followers-count.sql) | 🟢 Easy | mysql |
 | [1731](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [The Number of Employees Which Report to Each Employee](problems/1731.the-number-of-employees-which-report-to-each-employee.sql) | 🟢 Easy | mysql |
 | [1732](https://leetcode.com/problems/find-the-highest-altitude/) | [Find the Highest Altitude](problems/1732.find-the-highest-altitude.cpp) | 🟢 Easy | C++ |
+| [1734](https://leetcode.com/problems/decode-xored-permutation/) | [Decode XORed Permutation](problems/1734.decode-xored-permutation.cpp) | 🟡 Medium | C++ |
 | [1735](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Count Ways to Make Array With Product](problems/1735.count-ways-to-make-array-with-product.cpp) | 🔴 Hard | C++ |
 | [1738](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Find Kth Largest XOR Coordinate Value](problems/1738.find-kth-largest-xor-coordinate-value.cpp) | 🟡 Medium | C++ |
 | [1742](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Maximum Number of Balls in a Box](problems/1742.maximum-number-of-balls-in-a-box.cpp) | 🟢 Easy | C++ |
