@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1913 solved** — 🟢 528 Easy · 🟡 989 Medium · 🔴 393 Hard
+**1914 solved** — 🟢 528 Easy · 🟡 990 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1620,6 +1620,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3315](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | [Construct the Minimum Bitwise Array II](problems/3315.construct-the-minimum-bitwise-array-ii.cpp) | 🟡 Medium | C++ |
 | [3317](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [Find the Number of Possible Ways for an Event](problems/3317.find-the-number-of-possible-ways-for-an-event.cpp) | 🔴 Hard | C++ |
 | [3318](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Find X-Sum of All K-Long Subarrays I](problems/3318.find-x-sum-of-all-k-long-subarrays-i.cpp) | 🟢 Easy | C++ |
+| [3319](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/) | [K-th Largest Perfect Subtree Size in Binary Tree](problems/3319.k-th-largest-perfect-subtree-size-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [3321](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](problems/3321.find-x-sum-of-all-k-long-subarrays-ii.cpp) | 🔴 Hard | C++ |
 | [3324](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/) | [Find the Sequence of Strings Appeared on the Screen](problems/3324.find-the-sequence-of-strings-appeared-on-the-screen.cpp) | 🟡 Medium | C++ |
 | [3327](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/) | [Check if DFS Strings Are Palindromes](problems/3327.check-if-dfs-strings-are-palindromes.cpp) | 🔴 Hard | C++ |
