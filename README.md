@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2110 solved** — 🟢 528 Easy · 🟡 1182 Medium · 🔴 393 Hard
+**2111 solved** — 🟢 528 Easy · 🟡 1183 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1375,6 +1375,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2512](https://leetcode.com/problems/reward-top-k-students/) | [Reward Top K Students](problems/2512.reward-top-k-students.cpp) | 🟡 Medium | C++ |
 | [2513](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Minimize the Maximum of Two Arrays](problems/2513.minimize-the-maximum-of-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](problems/2515.shortest-distance-to-target-string-in-a-circular-array.cpp) | 🟢 Easy | C++ |
+| [2516](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [Take K of Each Character From Left and Right](problems/2516.take-k-of-each-character-from-left-and-right.cpp) | 🟡 Medium | C++ |
 | [2517](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | [Maximum Tastiness of Candy Basket](problems/2517.maximum-tastiness-of-candy-basket.cpp) | 🟡 Medium | C++ |
 | [2518](https://leetcode.com/problems/number-of-great-partitions/) | [Number of Great Partitions](problems/2518.number-of-great-partitions.cpp) | 🔴 Hard | C++ |
 | [2520](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Count the Digits That Divide a Number](problems/2520.count-the-digits-that-divide-a-number.cpp) | 🟢 Easy | C++ |
