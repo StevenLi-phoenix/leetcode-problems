@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2057 solved** — 🟢 528 Easy · 🟡 1130 Medium · 🔴 393 Hard
+**2058 solved** — 🟢 528 Easy · 🟡 1131 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1486,6 +1486,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2772](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | [Apply Operations to Make All Array Elements Equal to Zero](problems/2772.apply-operations-to-make-all-array-elements-equal-to-zero.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
+| [2786](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | [Visit Array Positions to Maximize Score](problems/2786.visit-array-positions-to-maximize-score.cpp) | 🟡 Medium | C++ |
 | [2787](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Ways to Express an Integer as Sum of Powers](problems/2787.ways-to-express-an-integer-as-sum-of-powers.cpp) | 🟡 Medium | C++ |
 | [2788](https://leetcode.com/problems/split-strings-by-separator/) | [Split Strings by Separator](problems/2788.split-strings-by-separator.cpp) | 🟢 Easy | C++ |
 | [2789](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/) | [Largest Element in an Array after Merge Operations](problems/2789.largest-element-in-an-array-after-merge-operations.cpp) | 🟡 Medium | C++ |
