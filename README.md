@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1974 solved** — 🟢 528 Easy · 🟡 1049 Medium · 🔴 393 Hard
+**1975 solved** — 🟢 528 Easy · 🟡 1050 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -705,6 +705,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](problems/1306.jump-game-iii.cpp) | 🟡 Medium | C++ |
 | [1307](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [Verbal Arithmetic Puzzle](problems/1307.verbal-arithmetic-puzzle.cpp) | 🔴 Hard | C++ |
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](problems/1310.xor-queries-of-a-subarray.cpp) | 🟡 Medium | C++ |
+| [1311](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [Get Watched Videos by Your Friends](problems/1311.get-watched-videos-by-your-friends.cpp) | 🟡 Medium | C++ |
 | [1314](https://leetcode.com/problems/matrix-block-sum/) | [Matrix Block Sum](problems/1314.matrix-block-sum.cpp) | 🟡 Medium | C++ |
 | [1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Convert Integer to the Sum of Two No-Zero Integers](problems/1317.convert-integer-to-the-sum-of-two-no-zero-integers.cpp) | 🟢 Easy | C++ |
 | [1318](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Minimum Flips to Make a OR b Equal to c](problems/1318.minimum-flips-to-make-a-or-b-equal-to-c.cpp) | 🟡 Medium | C++ |
