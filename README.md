@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2071 solved** — 🟢 528 Easy · 🟡 1144 Medium · 🔴 393 Hard
+**2072 solved** — 🟢 528 Easy · 🟡 1145 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1476,6 +1476,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2742](https://leetcode.com/problems/painting-the-walls/) | [Painting the Walls](problems/2742.painting-the-walls.cpp) | 🔴 Hard | C++ |
 | [2744](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [Find Maximum Number of String Pairs](problems/2744.find-maximum-number-of-string-pairs.cpp) | 🟢 Easy | C++ |
 | [2746](https://leetcode.com/problems/decremental-string-concatenation/) | [Decremental String Concatenation](problems/2746.decremental-string-concatenation.cpp) | 🟡 Medium | C++ |
+| [2747](https://leetcode.com/problems/count-zero-request-servers/) | [Count Zero Request Servers](problems/2747.count-zero-request-servers.cpp) | 🟡 Medium | C++ |
 | [2748](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Number of Beautiful Pairs](problems/2748.number-of-beautiful-pairs.cpp) | 🟢 Easy | C++ |
 | [2749](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [Minimum Operations to Make the Integer Zero](problems/2749.minimum-operations-to-make-the-integer-zero.cpp) | 🟡 Medium | C++ |
 | [2751](https://leetcode.com/problems/robot-collisions/) | [Robot Collisions](problems/2751.robot-collisions.cpp) | 🔴 Hard | C++ |
