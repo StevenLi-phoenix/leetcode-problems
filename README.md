@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1893 solved** — 🟢 528 Easy · 🟡 970 Medium · 🔴 393 Hard
+**1894 solved** — 🟢 528 Easy · 🟡 971 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -681,6 +681,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Number of Operations to Make Network Connected](problems/1319.number-of-operations-to-make-network-connected.cpp) | 🟡 Medium | C++ |
 | [1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimum Distance to Type a Word Using Two Fingers](problems/1320.minimum-distance-to-type-a-word-using-two-fingers.cpp) | 🔴 Hard | C++ |
 | [1326](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Minimum Number of Taps to Open to Water a Garden](problems/1326.minimum-number-of-taps-to-open-to-water-a-garden.cpp) | 🔴 Hard | C++ |
+| [1328](https://leetcode.com/problems/break-a-palindrome/) | [Break a Palindrome](problems/1328.break-a-palindrome.cpp) | 🟡 Medium | C++ |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Sort the Matrix Diagonally](problems/1329.sort-the-matrix-diagonally.cpp) | 🟡 Medium | C++ |
 | [1332](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Remove Palindromic Subsequences](problems/1332.remove-palindromic-subsequences.cpp) | 🟢 Easy | C++ |
 | [1333](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [Filter Restaurants by Vegan-Friendly, Price and Distance](problems/1333.filter-restaurants-by-vegan-friendly-price-and-distance.cpp) | 🟡 Medium | C++ |
