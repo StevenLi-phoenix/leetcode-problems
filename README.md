@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2151 solved** — 🟢 528 Easy · 🟡 1223 Medium · 🔴 393 Hard
+**2152 solved** — 🟢 528 Easy · 🟡 1224 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -593,6 +593,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [975](https://leetcode.com/problems/odd-even-jump/) | [Odd Even Jump](problems/975.odd-even-jump.cpp) | 🔴 Hard | C++ |
 | [976](https://leetcode.com/problems/largest-perimeter-triangle/) | [Largest Perimeter Triangle](problems/976.largest-perimeter-triangle.cpp) | 🟢 Easy | C++ |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](problems/977.squares-of-a-sorted-array.cpp) | 🟢 Easy | C++ |
+| [978](https://leetcode.com/problems/longest-turbulent-subarray/) | [Longest Turbulent Subarray](problems/978.longest-turbulent-subarray.cpp) | 🟡 Medium | C++ |
 | [979](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Distribute Coins in Binary Tree](problems/979.distribute-coins-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [981](https://leetcode.com/problems/time-based-key-value-store/) | [Time Based Key-Value Store](problems/981.time-based-key-value-store.cpp) | 🟡 Medium | C++ |
 | [982](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [Triples with Bitwise AND Equal To Zero](problems/982.triples-with-bitwise-and-equal-to-zero.cpp) | 🔴 Hard | C++ |
