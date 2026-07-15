@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2079 solved** — 🟢 528 Easy · 🟡 1152 Medium · 🔴 393 Hard
+**2080 solved** — 🟢 528 Easy · 🟡 1153 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -520,6 +520,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [872](https://leetcode.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](problems/872.leaf-similar-trees.cpp) | 🟢 Easy | C++ |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](problems/874.walking-robot-simulation.cpp) | 🟡 Medium | C++ |
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
+| [877](https://leetcode.com/problems/stone-game/) | [Stone Game](problems/877.stone-game.cpp) | 🟡 Medium | C++ |
 | [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](problems/878.nth-magical-number.cpp) | 🔴 Hard | C++ |
 | [880](https://leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](problems/880.decoded-string-at-index.cpp) | 🟡 Medium | C++ |
 | [881](https://leetcode.com/problems/boats-to-save-people/) | [Boats to Save People](problems/881.boats-to-save-people.cpp) | 🟡 Medium | C++ |
