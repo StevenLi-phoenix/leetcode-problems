@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1931 solved** — 🟢 528 Easy · 🟡 1007 Medium · 🔴 393 Hard
+**1932 solved** — 🟢 528 Easy · 🟡 1008 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1179,6 +1179,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2278](https://leetcode.com/problems/percentage-of-letter-in-string/) | [Percentage of Letter in String](problems/2278.percentage-of-letter-in-string.cpp) | 🟢 Easy | C++ |
 | [2283](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Check if Number Has Equal Digit Count and Digit Value](problems/2283.check-if-number-has-equal-digit-count-and-digit-value.cpp) | 🟢 Easy | C++ |
 | [2284](https://leetcode.com/problems/sender-with-largest-word-count/) | [Sender With Largest Word Count](problems/2284.sender-with-largest-word-count.cpp) | 🟡 Medium | C++ |
+| [2285](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [Maximum Total Importance of Roads](problems/2285.maximum-total-importance-of-roads.cpp) | 🟡 Medium | C++ |
 | [2288](https://leetcode.com/problems/apply-discount-to-prices/) | [Apply Discount to Prices](problems/2288.apply-discount-to-prices.cpp) | 🟡 Medium | C++ |
 | [2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Minimum Obstacle Removal to Reach Corner](problems/2290.minimum-obstacle-removal-to-reach-corner.cpp) | 🔴 Hard | C++ |
 | [2299](https://leetcode.com/problems/strong-password-checker-ii/) | [Strong Password Checker II](problems/2299.strong-password-checker-ii.cpp) | 🟢 Easy | C++ |
