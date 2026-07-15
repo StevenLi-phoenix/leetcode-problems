@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2117 solved** — 🟢 528 Easy · 🟡 1189 Medium · 🔴 393 Hard
+**2118 solved** — 🟢 528 Easy · 🟡 1190 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -613,6 +613,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1014](https://leetcode.com/problems/best-sightseeing-pair/) | [Best Sightseeing Pair](problems/1014.best-sightseeing-pair.cpp) | 🟡 Medium | C++ |
 | [1015](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Smallest Integer Divisible by K](problems/1015.smallest-integer-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [1016](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Binary String With Substrings Representing 1 To N](problems/1016.binary-string-with-substrings-representing-1-to-n.cpp) | 🟡 Medium | C++ |
+| [1017](https://leetcode.com/problems/convert-to-base-2/) | [Convert to Base -2](problems/1017.convert-to-base-2.cpp) | 🟡 Medium | C++ |
 | [1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Binary Prefix Divisible By 5](problems/1018.binary-prefix-divisible-by-5.cpp) | 🟢 Easy | C++ |
 | [1019](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Next Greater Node In Linked List](problems/1019.next-greater-node-in-linked-list.cpp) | 🟡 Medium | C++ |
 | [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | [Remove Outermost Parentheses](problems/1021.remove-outermost-parentheses.cpp) | 🟢 Easy | C++ |
