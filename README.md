@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2162 solved** — 🟢 528 Easy · 🟡 1234 Medium · 🔴 393 Hard
+**2163 solved** — 🟢 528 Easy · 🟡 1235 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -226,6 +226,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [318](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Maximum Product of Word Lengths](problems/318.maximum-product-of-word-lengths.cpp) | 🟡 Medium | C++ |
 | [319](https://leetcode.com/problems/bulb-switcher/) | [Bulb Switcher](problems/319.bulb-switcher.cpp) | 🟡 Medium | C++ |
 | [322](https://leetcode.com/problems/coin-change/) | [Coin Change](problems/322.coin-change.cpp) | 🟡 Medium | C++ |
+| [324](https://leetcode.com/problems/wiggle-sort-ii/) | [Wiggle Sort II](problems/324.wiggle-sort-ii.cpp) | 🟡 Medium | C++ |
 | [326](https://leetcode.com/problems/power-of-three/) | [Power of Three](problems/326.power-of-three.cpp) | 🟢 Easy | C++ |
 | [327](https://leetcode.com/problems/count-of-range-sum/) | [Count of Range Sum](problems/327.count-of-range-sum.cpp) | 🔴 Hard | C++ |
 | [328](https://leetcode.com/problems/odd-even-linked-list/) | [Odd Even Linked List](problems/328.odd-even-linked-list.cpp) | 🟡 Medium | C++ |
