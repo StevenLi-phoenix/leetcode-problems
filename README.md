@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2118 solved** — 🟢 528 Easy · 🟡 1190 Medium · 🔴 393 Hard
+**2119 solved** — 🟢 528 Easy · 🟡 1191 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1200,6 +1200,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2155](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/) | [All Divisions With the Highest Score of a Binary Array](problems/2155.all-divisions-with-the-highest-score-of-a-binary-array.cpp) | 🟡 Medium | C++ |
 | [2160](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Minimum Sum of Four Digit Number After Splitting Digits](problems/2160.minimum-sum-of-four-digit-number-after-splitting-digits.cpp) | 🟢 Easy | C++ |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Partition Array According to Given Pivot](problems/2161.partition-array-according-to-given-pivot.cpp) | 🟡 Medium | C++ |
+| [2162](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [Minimum Cost to Set Cooking Time](problems/2162.minimum-cost-to-set-cooking-time.cpp) | 🟡 Medium | C++ |
 | [2163](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/) | [Minimum Difference in Sums After Removal of Elements](problems/2163.minimum-difference-in-sums-after-removal-of-elements.cpp) | 🔴 Hard | C++ |
 | [2164](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [Sort Even and Odd Indices Independently](problems/2164.sort-even-and-odd-indices-independently.cpp) | 🟢 Easy | C++ |
 | [2165](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [Smallest Value of the Rearranged Number](problems/2165.smallest-value-of-the-rearranged-number.cpp) | 🟡 Medium | C++ |
