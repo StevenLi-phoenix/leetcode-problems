@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2113 solved** — 🟢 528 Easy · 🟡 1185 Medium · 🔴 393 Hard
+**2114 solved** — 🟢 528 Easy · 🟡 1186 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1381,6 +1381,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2518](https://leetcode.com/problems/number-of-great-partitions/) | [Number of Great Partitions](problems/2518.number-of-great-partitions.cpp) | 🔴 Hard | C++ |
 | [2520](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Count the Digits That Divide a Number](problems/2520.count-the-digits-that-divide-a-number.cpp) | 🟢 Easy | C++ |
 | [2521](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [Distinct Prime Factors of Product of Array](problems/2521.distinct-prime-factors-of-product-of-array.cpp) | 🟡 Medium | C++ |
+| [2522](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | [Partition String Into Substrings With Values at Most K](problems/2522.partition-string-into-substrings-with-values-at-most-k.cpp) | 🟡 Medium | C++ |
 | [2523](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Closest Prime Numbers in Range](problems/2523.closest-prime-numbers-in-range.cpp) | 🟡 Medium | C++ |
 | [2525](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Categorize Box According to Criteria](problems/2525.categorize-box-according-to-criteria.cpp) | 🟢 Easy | C++ |
 | [2527](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Find Xor-Beauty of Array](problems/2527.find-xor-beauty-of-array.cpp) | 🟡 Medium | C++ |
