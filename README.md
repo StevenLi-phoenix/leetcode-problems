@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**1998 solved** — 🟢 528 Easy · 🟡 1072 Medium · 🔴 393 Hard
+**1999 solved** — 🟢 528 Easy · 🟡 1073 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -307,6 +307,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [500](https://leetcode.com/problems/keyboard-row/) | [Keyboard Row](problems/500.keyboard-row.cpp) | 🟢 Easy | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
 | [502](https://leetcode.com/problems/ipo/) | [IPO](problems/502.ipo.cpp) | 🔴 Hard | C++ |
+| [503](https://leetcode.com/problems/next-greater-element-ii/) | [Next Greater Element II](problems/503.next-greater-element-ii.cpp) | 🟡 Medium | C++ |
 | [504](https://leetcode.com/problems/base-7/) | [Base 7](problems/504.base-7.cpp) | 🟢 Easy | C++ |
 | [509](https://leetcode.com/problems/fibonacci-number/) | [Fibonacci Number](problems/509.fibonacci-number.cpp) | 🟢 Easy | C++ |
 | [511](https://leetcode.com/problems/game-play-analysis-i/) | [Game Play Analysis I](problems/511.game-play-analysis-i.sql) | 🟢 Easy | mysql |
