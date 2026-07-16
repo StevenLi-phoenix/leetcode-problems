@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2433 solved** — 🟢 528 Easy · 🟡 1502 Medium · 🔴 393 Hard
+**2434 solved** — 🟢 528 Easy · 🟡 1503 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -443,6 +443,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [661](https://leetcode.com/problems/image-smoother/) | [Image Smoother](problems/661.image-smoother.cpp) | 🟢 Easy | C++ |
 | [662](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Maximum Width of Binary Tree](problems/662.maximum-width-of-binary-tree.cpp) | 🟡 Medium | C++ |
 | [664](https://leetcode.com/problems/strange-printer/) | [Strange Printer](problems/664.strange-printer.cpp) | 🔴 Hard | C++ |
+| [665](https://leetcode.com/problems/non-decreasing-array/) | [Non-decreasing Array](problems/665.non-decreasing-array.cpp) | 🟡 Medium | C++ |
 | [667](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Beautiful Arrangement II](problems/667.beautiful-arrangement-ii.cpp) | 🟡 Medium | C++ |
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [670](https://leetcode.com/problems/maximum-swap/) | [Maximum Swap](problems/670.maximum-swap.cpp) | 🟡 Medium | C++ |
