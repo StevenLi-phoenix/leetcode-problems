@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2442 solved** — 🟢 528 Easy · 🟡 1511 Medium · 🔴 393 Hard
+**2443 solved** — 🟢 528 Easy · 🟡 1512 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1958,6 +1958,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3193](https://leetcode.com/problems/count-the-number-of-inversions/) | [Count the Number of Inversions](problems/3193.count-the-number-of-inversions.cpp) | 🔴 Hard | C++ |
 | [3194](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [Minimum Average of Smallest and Largest Elements](problems/3194.minimum-average-of-smallest-and-largest-elements.cpp) | 🟢 Easy | C++ |
 | [3195](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | [Find the Minimum Area to Cover All Ones I](problems/3195.find-the-minimum-area-to-cover-all-ones-i.cpp) | 🟡 Medium | C++ |
+| [3196](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) | [Maximize Total Cost of Alternating Subarrays](problems/3196.maximize-total-cost-of-alternating-subarrays.cpp) | 🟡 Medium | C++ |
 | [3197](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Find the Minimum Area to Cover All Ones II](problems/3197.find-the-minimum-area-to-cover-all-ones-ii.cpp) | 🔴 Hard | C++ |
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
 | [3202](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Find the Maximum Length of Valid Subsequence II](problems/3202.find-the-maximum-length-of-valid-subsequence-ii.cpp) | 🟡 Medium | C++ |
