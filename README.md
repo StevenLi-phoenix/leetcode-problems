@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2182 solved** — 🟢 528 Easy · 🟡 1254 Medium · 🔴 393 Hard
+**2183 solved** — 🟢 528 Easy · 🟡 1255 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1217,6 +1217,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Longest Palindrome by Concatenating Two Letter Words](problems/2131.longest-palindrome-by-concatenating-two-letter-words.cpp) | 🟡 Medium | C++ |
 | [2132](https://leetcode.com/problems/stamping-the-grid/) | [Stamping the Grid](problems/2132.stamping-the-grid.cpp) | 🔴 Hard | C++ |
 | [2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [Minimum Swaps to Group All 1's Together II](problems/2134.minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 Medium | C++ |
+| [2135](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | [Count Words Obtained After Adding a Letter](problems/2135.count-words-obtained-after-adding-a-letter.cpp) | 🟡 Medium | C++ |
 | [2139](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [Minimum Moves to Reach Target Score](problems/2139.minimum-moves-to-reach-target-score.cpp) | 🟡 Medium | C++ |
 | [2140](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Solving Questions With Brainpower](problems/2140.solving-questions-with-brainpower.cpp) | 🟡 Medium | C++ |
 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](problems/2144.minimum-cost-of-buying-candies-with-discount.cpp) | 🟢 Easy | C++ |
