@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2202 solved** — 🟢 528 Easy · 🟡 1274 Medium · 🔴 393 Hard
+**2203 solved** — 🟢 528 Easy · 🟡 1275 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -484,6 +484,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [787](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Cheapest Flights Within K Stops](problems/787.cheapest-flights-within-k-stops.cpp) | 🟡 Medium | C++ |
 | [788](https://leetcode.com/problems/rotated-digits/) | [Rotated Digits](problems/788.rotated-digits.cpp) | 🟡 Medium | C++ |
 | [789](https://leetcode.com/problems/escape-the-ghosts/) | [Escape The Ghosts](problems/789.escape-the-ghosts.cpp) | 🟡 Medium | C++ |
+| [790](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Domino and Tromino Tiling](problems/790.domino-and-tromino-tiling.cpp) | 🟡 Medium | C++ |
 | [791](https://leetcode.com/problems/custom-sort-string/) | [Custom Sort String](problems/791.custom-sort-string.cpp) | 🟡 Medium | C++ |
 | [792](https://leetcode.com/problems/number-of-matching-subsequences/) | [Number of Matching Subsequences](problems/792.number-of-matching-subsequences.cpp) | 🟡 Medium | C++ |
 | [795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Number of Subarrays with Bounded Maximum](problems/795.number-of-subarrays-with-bounded-maximum.cpp) | 🟡 Medium | C++ |
