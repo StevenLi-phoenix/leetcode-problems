@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2427 solved** — 🟢 528 Easy · 🟡 1496 Medium · 🔴 393 Hard
+**2428 solved** — 🟢 528 Easy · 🟡 1497 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1587,6 +1587,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2545](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [Sort the Students by Their Kth Score](problems/2545.sort-the-students-by-their-kth-score.cpp) | 🟡 Medium | C++ |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | [Apply Bitwise Operations to Make Strings Equal](problems/2546.apply-bitwise-operations-to-make-strings-equal.cpp) | 🟡 Medium | C++ |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Count Distinct Numbers on Board](problems/2549.count-distinct-numbers-on-board.cpp) | 🟢 Easy | C++ |
+| [2550](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [Count Collisions of Monkeys on a Polygon](problems/2550.count-collisions-of-monkeys-on-a-polygon.cpp) | 🟡 Medium | C++ |
 | [2551](https://leetcode.com/problems/put-marbles-in-bags/) | [Put Marbles in Bags](problems/2551.put-marbles-in-bags.cpp) | 🔴 Hard | C++ |
 | [2552](https://leetcode.com/problems/count-increasing-quadruplets/) | [Count Increasing Quadruplets](problems/2552.count-increasing-quadruplets.cpp) | 🔴 Hard | C++ |
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
