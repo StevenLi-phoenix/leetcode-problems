@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2319 solved** — 🟢 528 Easy · 🟡 1388 Medium · 🔴 393 Hard
+**2320 solved** — 🟢 528 Easy · 🟡 1389 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1817,6 +1817,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3100](https://leetcode.com/problems/water-bottles-ii/) | [Water Bottles II](problems/3100.water-bottles-ii.cpp) | 🟡 Medium | C++ |
 | [3101](https://leetcode.com/problems/count-alternating-subarrays/) | [Count Alternating Subarrays](problems/3101.count-alternating-subarrays.cpp) | 🟡 Medium | C++ |
 | [3106](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/) | [Lexicographically Smallest String After Operations With Constraint](problems/3106.lexicographically-smallest-string-after-operations-with-constraint.cpp) | 🟡 Medium | C++ |
+| [3107](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/) | [Minimum Operations to Make Median of Array Equal to K](problems/3107.minimum-operations-to-make-median-of-array-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3108](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Minimum Cost Walk in Weighted Graph](problems/3108.minimum-cost-walk-in-weighted-graph.cpp) | 🔴 Hard | C++ |
 | [3110](https://leetcode.com/problems/score-of-a-string/) | [Score of a String](problems/3110.score-of-a-string.cpp) | 🟢 Easy | C++ |
 | [3111](https://leetcode.com/problems/minimum-rectangles-to-cover-points/) | [Minimum Rectangles to Cover Points](problems/3111.minimum-rectangles-to-cover-points.cpp) | 🟡 Medium | C++ |
