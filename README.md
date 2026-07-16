@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2445 solved** — 🟢 528 Easy · 🟡 1514 Medium · 🔴 393 Hard
+**2446 solved** — 🟢 528 Easy · 🟡 1515 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -640,6 +640,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [942](https://leetcode.com/problems/di-string-match/) | [DI String Match](problems/942.di-string-match.cpp) | 🟢 Easy | C++ |
 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](problems/944.delete-columns-to-make-sorted.cpp) | 🟢 Easy | C++ |
 | [945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Minimum Increment to Make Array Unique](problems/945.minimum-increment-to-make-array-unique.cpp) | 🟡 Medium | C++ |
+| [946](https://leetcode.com/problems/validate-stack-sequences/) | [Validate Stack Sequences](problems/946.validate-stack-sequences.cpp) | 🟡 Medium | C++ |
 | [948](https://leetcode.com/problems/bag-of-tokens/) | [Bag of Tokens](problems/948.bag-of-tokens.cpp) | 🟡 Medium | C++ |
 | [949](https://leetcode.com/problems/largest-time-for-given-digits/) | [Largest Time for Given Digits](problems/949.largest-time-for-given-digits.cpp) | 🟡 Medium | C++ |
 | [950](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [Reveal Cards In Increasing Order](problems/950.reveal-cards-in-increasing-order.cpp) | 🟡 Medium | C++ |
