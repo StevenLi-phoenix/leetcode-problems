@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2259 solved** — 🟢 528 Easy · 🟡 1328 Medium · 🔴 393 Hard
+**2260 solved** — 🟢 528 Easy · 🟡 1329 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -199,6 +199,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [238](https://leetcode.com/problems/product-of-array-except-self/) | [Product of Array Except Self](problems/238.product-of-array-except-self.cpp) | 🟡 Medium | C++ |
 | [239](https://leetcode.com/problems/sliding-window-maximum/) | [Sliding Window Maximum](problems/239.sliding-window-maximum.cpp) | 🔴 Hard | C++ |
 | [240](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Search a 2D Matrix II](problems/240.search-a-2d-matrix-ii.cpp) | 🟡 Medium | C++ |
+| [241](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Different Ways to Add Parentheses](problems/241.different-ways-to-add-parentheses.cpp) | 🟡 Medium | C++ |
 | [242](https://leetcode.com/problems/valid-anagram/) | [Valid Anagram](problems/242.valid-anagram.cpp) | 🟢 Easy | C++ |
 | [257](https://leetcode.com/problems/binary-tree-paths/) | [Binary Tree Paths](problems/257.binary-tree-paths.cpp) | 🟢 Easy | C++ |
 | [258](https://leetcode.com/problems/add-digits/) | [Add Digits](problems/258.add-digits.cpp) | 🟢 Easy | C++ |
