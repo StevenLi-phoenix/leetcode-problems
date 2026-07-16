@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2348 solved** — 🟢 528 Easy · 🟡 1417 Medium · 🔴 393 Hard
+**2349 solved** — 🟢 528 Easy · 🟡 1418 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -553,6 +553,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [842](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Split Array into Fibonacci Sequence](problems/842.split-array-into-fibonacci-sequence.cpp) | 🟡 Medium | C++ |
 | [843](https://leetcode.com/problems/guess-the-word/) | [Guess the Word](problems/843.guess-the-word.cpp) | 🔴 Hard | C++ |
 | [844](https://leetcode.com/problems/backspace-string-compare/) | [Backspace String Compare](problems/844.backspace-string-compare.cpp) | 🟢 Easy | C++ |
+| [845](https://leetcode.com/problems/longest-mountain-in-array/) | [Longest Mountain in Array](problems/845.longest-mountain-in-array.cpp) | 🟡 Medium | C++ |
 | [846](https://leetcode.com/problems/hand-of-straights/) | [Hand of Straights](problems/846.hand-of-straights.cpp) | 🟡 Medium | C++ |
 | [847](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [Shortest Path Visiting All Nodes](problems/847.shortest-path-visiting-all-nodes.cpp) | 🔴 Hard | C++ |
 | [848](https://leetcode.com/problems/shifting-letters/) | [Shifting Letters](problems/848.shifting-letters.cpp) | 🟡 Medium | C++ |
