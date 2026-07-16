@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2239 solved** — 🟢 528 Easy · 🟡 1308 Medium · 🔴 393 Hard
+**2240 solved** — 🟢 528 Easy · 🟡 1309 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1873,6 +1873,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3319](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/) | [K-th Largest Perfect Subtree Size in Binary Tree](problems/3319.k-th-largest-perfect-subtree-size-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [3321](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](problems/3321.find-x-sum-of-all-k-long-subarrays-ii.cpp) | 🔴 Hard | C++ |
 | [3324](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/) | [Find the Sequence of Strings Appeared on the Screen](problems/3324.find-the-sequence-of-strings-appeared-on-the-screen.cpp) | 🟡 Medium | C++ |
+| [3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) | [Minimum Division Operations to Make Array Non Decreasing](problems/3326.minimum-division-operations-to-make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
 | [3327](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/) | [Check if DFS Strings Are Palindromes](problems/3327.check-if-dfs-strings-are-palindromes.cpp) | 🔴 Hard | C++ |
 | [3331](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [Find Subtree Sizes After Changes](problems/3331.find-subtree-sizes-after-changes.cpp) | 🟡 Medium | C++ |
 | [3332](https://leetcode.com/problems/maximum-points-tourist-can-earn/) | [Maximum Points Tourist Can Earn](problems/3332.maximum-points-tourist-can-earn.cpp) | 🟡 Medium | C++ |
