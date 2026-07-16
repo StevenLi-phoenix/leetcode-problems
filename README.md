@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2313 solved** — 🟢 528 Easy · 🟡 1382 Medium · 🔴 393 Hard
+**2314 solved** — 🟢 528 Easy · 🟡 1383 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1049,6 +1049,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1729](https://leetcode.com/problems/find-followers-count/) | [Find Followers Count](problems/1729.find-followers-count.sql) | 🟢 Easy | mysql |
 | [1731](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [The Number of Employees Which Report to Each Employee](problems/1731.the-number-of-employees-which-report-to-each-employee.sql) | 🟢 Easy | mysql |
 | [1732](https://leetcode.com/problems/find-the-highest-altitude/) | [Find the Highest Altitude](problems/1732.find-the-highest-altitude.cpp) | 🟢 Easy | C++ |
+| [1733](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [Minimum Number of People to Teach](problems/1733.minimum-number-of-people-to-teach.cpp) | 🟡 Medium | C++ |
 | [1734](https://leetcode.com/problems/decode-xored-permutation/) | [Decode XORed Permutation](problems/1734.decode-xored-permutation.cpp) | 🟡 Medium | C++ |
 | [1735](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Count Ways to Make Array With Product](problems/1735.count-ways-to-make-array-with-product.cpp) | 🔴 Hard | C++ |
 | [1737](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [Change Minimum Characters to Satisfy One of Three Conditions](problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.cpp) | 🟡 Medium | C++ |
