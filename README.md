@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2270 solved** — 🟢 528 Easy · 🟡 1339 Medium · 🔴 393 Hard
+**2271 solved** — 🟢 528 Easy · 🟡 1340 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1544,6 +1544,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
 | [2623](https://leetcode.com/problems/memoize/) | [Memoize](problems/2623.memoize.js) | 🟡 Medium | JavaScript |
 | [2624](https://leetcode.com/problems/snail-traversal/) | [Snail Traversal](problems/2624.snail-traversal.js) | 🟡 Medium | JavaScript |
+| [2625](https://leetcode.com/problems/flatten-deeply-nested-array/) | [Flatten Deeply Nested Array](problems/2625.flatten-deeply-nested-array.js) | 🟡 Medium | JavaScript |
 | [2627](https://leetcode.com/problems/debounce/) | [Debounce](problems/2627.debounce.js) | 🟡 Medium | JavaScript |
 | [2629](https://leetcode.com/problems/function-composition/) | [Function Composition](problems/2629.function-composition.js) | 🟢 Easy | JavaScript |
 | [2630](https://leetcode.com/problems/memoize-ii/) | [Memoize II](problems/2630.memoize-ii.js) | 🔴 Hard | JavaScript |
