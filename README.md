@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2253 solved** — 🟢 528 Easy · 🟡 1322 Medium · 🔴 393 Hard
+**2254 solved** — 🟢 528 Easy · 🟡 1323 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1556,6 +1556,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2663](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [Lexicographically Smallest Beautiful String](problems/2663.lexicographically-smallest-beautiful-string.cpp) | 🔴 Hard | C++ |
 | [2666](https://leetcode.com/problems/allow-one-function-call/) | [Allow One Function Call](problems/2666.allow-one-function-call.js) | 🟢 Easy | JavaScript |
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
+| [2673](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | [Make Costs of Paths Equal in a Binary Tree](problems/2673.make-costs-of-paths-equal-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](problems/2678.number-of-senior-citizens.cpp) | 🟢 Easy | C++ |
 | [2679](https://leetcode.com/problems/sum-in-a-matrix/) | [Sum in a Matrix](problems/2679.sum-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [2681](https://leetcode.com/problems/power-of-heroes/) | [Power of Heroes](problems/2681.power-of-heroes.cpp) | 🔴 Hard | C++ |
