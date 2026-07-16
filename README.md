@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2258 solved** — 🟢 528 Easy · 🟡 1327 Medium · 🔴 393 Hard
+**2259 solved** — 🟢 528 Easy · 🟡 1328 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1609,6 +1609,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
 | [2771](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Longest Non-decreasing Subarray From Two Arrays](problems/2771.longest-non-decreasing-subarray-from-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2772](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | [Apply Operations to Make All Array Elements Equal to Zero](problems/2772.apply-operations-to-make-all-array-elements-equal-to-zero.cpp) | 🟡 Medium | C++ |
+| [2779](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Maximum Beauty of an Array After Applying Operation](problems/2779.maximum-beauty-of-an-array-after-applying-operation.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
 | [2786](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | [Visit Array Positions to Maximize Score](problems/2786.visit-array-positions-to-maximize-score.cpp) | 🟡 Medium | C++ |
