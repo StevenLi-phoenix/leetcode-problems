@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2417 solved** — 🟢 528 Easy · 🟡 1486 Medium · 🔴 393 Hard
+**2418 solved** — 🟢 528 Easy · 🟡 1487 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2356,6 +2356,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3868](https://leetcode.com/problems/minimum-cost-to-equalize-arrays-using-swaps/) | [Minimum Cost to Equalize Arrays Using Swaps](problems/3868.minimum-cost-to-equalize-arrays-using-swaps.cpp) | 🟡 Medium | C++ |
 | [3869](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | [Count Fancy Numbers in a Range](problems/3869.count-fancy-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3870](https://leetcode.com/problems/count-commas-in-range/) | [Count Commas in Range](problems/3870.count-commas-in-range.cpp) | 🟢 Easy | C++ |
+| [3871](https://leetcode.com/problems/count-commas-in-range-ii/) | [Count Commas in Range II](problems/3871.count-commas-in-range-ii.cpp) | 🟡 Medium | C++ |
 | [3873](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | [Maximum Points Activated with One Addition](problems/3873.maximum-points-activated-with-one-addition.cpp) | 🔴 Hard | C++ |
 | [3875](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [Construct Uniform Parity Array I](problems/3875.construct-uniform-parity-array-i.cpp) | 🟢 Easy | C++ |
 | [3876](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Construct Uniform Parity Array II](problems/3876.construct-uniform-parity-array-ii.cpp) | 🟡 Medium | C++ |
