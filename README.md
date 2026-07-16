@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2320 solved** — 🟢 528 Easy · 🟡 1389 Medium · 🔴 393 Hard
+**2321 solved** — 🟢 528 Easy · 🟡 1390 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -778,6 +778,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Count Number of Nice Subarrays](problems/1248.count-number-of-nice-subarrays.cpp) | 🟡 Medium | C++ |
 | [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](problems/1249.minimum-remove-to-make-valid-parentheses.cpp) | 🟡 Medium | C++ |
 | [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Cells with Odd Values in a Matrix](problems/1252.cells-with-odd-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
+| [1253](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | [Reconstruct a 2-Row Binary Matrix](problems/1253.reconstruct-a-2-row-binary-matrix.cpp) | 🟡 Medium | C++ |
 | [1254](https://leetcode.com/problems/number-of-closed-islands/) | [Number of Closed Islands](problems/1254.number-of-closed-islands.cpp) | 🟡 Medium | C++ |
 | [1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](problems/1255.maximum-score-words-formed-by-letters.cpp) | 🔴 Hard | C++ |
 | [1260](https://leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](problems/1260.shift-2d-grid.cpp) | 🟢 Easy | C++ |
