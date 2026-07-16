@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2174 solved** — 🟢 528 Easy · 🟡 1246 Medium · 🔴 393 Hard
+**2175 solved** — 🟢 528 Easy · 🟡 1247 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -541,6 +541,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [881](https://leetcode.com/problems/boats-to-save-people/) | [Boats to Save People](problems/881.boats-to-save-people.cpp) | 🟡 Medium | C++ |
 | [883](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Projection Area of 3D Shapes](problems/883.projection-area-of-3d-shapes.cpp) | 🟢 Easy | C++ |
 | [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](problems/884.uncommon-words-from-two-sentences.cpp) | 🟢 Easy | C++ |
+| [885](https://leetcode.com/problems/spiral-matrix-iii/) | [Spiral Matrix III](problems/885.spiral-matrix-iii.cpp) | 🟡 Medium | C++ |
 | [886](https://leetcode.com/problems/possible-bipartition/) | [Possible Bipartition](problems/886.possible-bipartition.cpp) | 🟡 Medium | C++ |
 | [888](https://leetcode.com/problems/fair-candy-swap/) | [Fair Candy Swap](problems/888.fair-candy-swap.cpp) | 🟢 Easy | C++ |
 | [890](https://leetcode.com/problems/find-and-replace-pattern/) | [Find and Replace Pattern](problems/890.find-and-replace-pattern.cpp) | 🟡 Medium | C++ |
