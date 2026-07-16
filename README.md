@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2355 solved** — 🟢 528 Easy · 🟡 1424 Medium · 🔴 393 Hard
+**2356 solved** — 🟢 528 Easy · 🟡 1425 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2017,6 +2017,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](problems/3418.maximum-amount-of-money-robot-can-earn.cpp) | 🟡 Medium | C++ |
 | [3419](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Minimize the Maximum Edge Weight of Graph](problems/3419.minimize-the-maximum-edge-weight-of-graph.cpp) | 🟡 Medium | C++ |
 | [3421](https://leetcode.com/problems/find-students-who-improved/) | [Find Students Who Improved](problems/3421.find-students-who-improved.sql) | 🟡 Medium | mysql |
+| [3424](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/) | [Minimum Cost to Make Arrays Identical](problems/3424.minimum-cost-to-make-arrays-identical.cpp) | 🟡 Medium | C++ |
 | [3425](https://leetcode.com/problems/longest-special-path/) | [Longest Special Path](problems/3425.longest-special-path.cpp) | 🔴 Hard | C++ |
 | [3427](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Sum of Variable Length Subarrays](problems/3427.sum-of-variable-length-subarrays.cpp) | 🟢 Easy | C++ |
 | [3429](https://leetcode.com/problems/paint-house-iv/) | [Paint House IV](problems/3429.paint-house-iv.cpp) | 🟡 Medium | C++ |
