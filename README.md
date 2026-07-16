@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2423 solved** — 🟢 528 Easy · 🟡 1492 Medium · 🔴 393 Hard
+**2424 solved** — 🟢 528 Easy · 🟡 1493 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2203,6 +2203,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3635](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Earliest Finish Time for Land and Water Rides II](problems/3635.earliest-finish-time-for-land-and-water-rides-ii.cpp) | 🟡 Medium | C++ |
 | [3636](https://leetcode.com/problems/threshold-majority-queries/) | [Threshold Majority Queries](problems/3636.threshold-majority-queries.cpp) | 🔴 Hard | C++ |
 | [3637](https://leetcode.com/problems/trionic-array-i/) | [Trionic Array I](problems/3637.trionic-array-i.cpp) | 🟢 Easy | C++ |
+| [3638](https://leetcode.com/problems/maximum-balanced-shipments/) | [Maximum Balanced Shipments](problems/3638.maximum-balanced-shipments.cpp) | 🟡 Medium | C++ |
 | [3639](https://leetcode.com/problems/minimum-time-to-activate-string/) | [Minimum Time to Activate String](problems/3639.minimum-time-to-activate-string.cpp) | 🟡 Medium | C++ |
 | [3640](https://leetcode.com/problems/trionic-array-ii/) | [Trionic Array II](problems/3640.trionic-array-ii.cpp) | 🔴 Hard | C++ |
 | [3642](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [Find Books with Polarized Opinions](problems/3642.find-books-with-polarized-opinions.sql) | 🟡 Medium | mysql |
