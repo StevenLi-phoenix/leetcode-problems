@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2167 solved** — 🟢 528 Easy · 🟡 1239 Medium · 🔴 393 Hard
+**2168 solved** — 🟢 528 Easy · 🟡 1240 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1039,6 +1039,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1828](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [Queries on Number of Points Inside a Circle](problems/1828.queries-on-number-of-points-inside-a-circle.cpp) | 🟡 Medium | C++ |
 | [1829](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Maximum XOR for Each Query](problems/1829.maximum-xor-for-each-query.cpp) | 🟡 Medium | C++ |
 | [1833](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](problems/1833.maximum-ice-cream-bars.cpp) | 🟡 Medium | C++ |
+| [1834](https://leetcode.com/problems/single-threaded-cpu/) | [Single-Threaded CPU](problems/1834.single-threaded-cpu.cpp) | 🟡 Medium | C++ |
 | [1835](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [Find XOR Sum of All Pairs Bitwise AND](problems/1835.find-xor-sum-of-all-pairs-bitwise-and.cpp) | 🔴 Hard | C++ |
 | [1837](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [Sum of Digits in Base K](problems/1837.sum-of-digits-in-base-k.cpp) | 🟢 Easy | C++ |
 | [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](problems/1838.frequency-of-the-most-frequent-element.cpp) | 🟡 Medium | C++ |
