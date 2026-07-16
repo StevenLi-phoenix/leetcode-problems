@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2237 solved** — 🟢 528 Easy · 🟡 1306 Medium · 🔴 393 Hard
+**2238 solved** — 🟢 528 Easy · 🟡 1307 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -541,6 +541,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [853](https://leetcode.com/problems/car-fleet/) | [Car Fleet](problems/853.car-fleet.cpp) | 🟡 Medium | C++ |
 | [855](https://leetcode.com/problems/exam-room/) | [Exam Room](problems/855.exam-room.cpp) | 🟡 Medium | C++ |
 | [857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](problems/857.minimum-cost-to-hire-k-workers.cpp) | 🔴 Hard | C++ |
+| [858](https://leetcode.com/problems/mirror-reflection/) | [Mirror Reflection](problems/858.mirror-reflection.cpp) | 🟡 Medium | C++ |
 | [861](https://leetcode.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](problems/861.score-after-flipping-matrix.cpp) | 🟡 Medium | C++ |
 | [865](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Smallest Subtree with all the Deepest Nodes](problems/865.smallest-subtree-with-all-the-deepest-nodes.cpp) | 🟡 Medium | C++ |
 | [866](https://leetcode.com/problems/prime-palindrome/) | [Prime Palindrome](problems/866.prime-palindrome.cpp) | 🟡 Medium | C++ |
