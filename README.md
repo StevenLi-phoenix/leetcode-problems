@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2332 solved** — 🟢 528 Easy · 🟡 1401 Medium · 🔴 393 Hard
+**2333 solved** — 🟢 528 Easy · 🟡 1402 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -806,6 +806,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Find Numbers with Even Number of Digits](problems/1295.find-numbers-with-even-number-of-digits.cpp) | 🟢 Easy | C++ |
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [Divide Array in Sets of K Consecutive Numbers](problems/1296.divide-array-in-sets-of-k-consecutive-numbers.cpp) | 🟡 Medium | C++ |
 | [1297](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Maximum Number of Occurrences of a Substring](problems/1297.maximum-number-of-occurrences-of-a-substring.cpp) | 🟡 Medium | C++ |
+| [1300](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [Sum of Mutated Array Closest to Target](problems/1300.sum-of-mutated-array-closest-to-target.cpp) | 🟡 Medium | C++ |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | [Deepest Leaves Sum](problems/1302.deepest-leaves-sum.cpp) | 🟡 Medium | C++ |
 | [1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Find N Unique Integers Sum up to Zero](problems/1304.find-n-unique-integers-sum-up-to-zero.cpp) | 🟢 Easy | C++ |
 | [1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [All Elements in Two Binary Search Trees](problems/1305.all-elements-in-two-binary-search-trees.cpp) | 🟡 Medium | C++ |
