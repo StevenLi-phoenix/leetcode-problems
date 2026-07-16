@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2411 solved** — 🟢 528 Easy · 🟡 1480 Medium · 🔴 393 Hard
+**2412 solved** — 🟢 528 Easy · 🟡 1481 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1662,6 +1662,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2673](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | [Make Costs of Paths Equal in a Binary Tree](problems/2673.make-costs-of-paths-equal-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](problems/2678.number-of-senior-citizens.cpp) | 🟢 Easy | C++ |
 | [2679](https://leetcode.com/problems/sum-in-a-matrix/) | [Sum in a Matrix](problems/2679.sum-in-a-matrix.cpp) | 🟡 Medium | C++ |
+| [2680](https://leetcode.com/problems/maximum-or/) | [Maximum OR](problems/2680.maximum-or.cpp) | 🟡 Medium | C++ |
 | [2681](https://leetcode.com/problems/power-of-heroes/) | [Power of Heroes](problems/2681.power-of-heroes.cpp) | 🔴 Hard | C++ |
 | [2682](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [Find the Losers of the Circular Game](problems/2682.find-the-losers-of-the-circular-game.cpp) | 🟢 Easy | C++ |
 | [2683](https://leetcode.com/problems/neighboring-bitwise-xor/) | [Neighboring Bitwise XOR](problems/2683.neighboring-bitwise-xor.cpp) | 🟡 Medium | C++ |
