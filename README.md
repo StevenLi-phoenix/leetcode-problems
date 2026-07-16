@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2201 solved** — 🟢 528 Easy · 🟡 1273 Medium · 🔴 393 Hard
+**2202 solved** — 🟢 528 Easy · 🟡 1274 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1847,6 +1847,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3331](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [Find Subtree Sizes After Changes](problems/3331.find-subtree-sizes-after-changes.cpp) | 🟡 Medium | C++ |
 | [3332](https://leetcode.com/problems/maximum-points-tourist-can-earn/) | [Maximum Points Tourist Can Earn](problems/3332.maximum-points-tourist-can-earn.cpp) | 🟡 Medium | C++ |
 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](problems/3333.find-the-original-typed-string-ii.cpp) | 🔴 Hard | C++ |
+| [3334](https://leetcode.com/problems/find-the-maximum-factor-score-of-array/) | [Find the Maximum Factor Score of Array](problems/3334.find-the-maximum-factor-score-of-array.cpp) | 🟡 Medium | C++ |
 | [3335](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | [Total Characters in String After Transformations I](problems/3335.total-characters-in-string-after-transformations-i.cpp) | 🟡 Medium | C++ |
 | [3340](https://leetcode.com/problems/check-balanced-string/) | [Check Balanced String](problems/3340.check-balanced-string.cpp) | 🟢 Easy | C++ |
 | [3341](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | [Find Minimum Time to Reach Last Room I](problems/3341.find-minimum-time-to-reach-last-room-i.cpp) | 🟡 Medium | C++ |
