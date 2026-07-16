@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2420 solved** — 🟢 528 Easy · 🟡 1489 Medium · 🔴 393 Hard
+**2421 solved** — 🟢 528 Easy · 🟡 1490 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2318,6 +2318,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3808](https://leetcode.com/problems/find-emotionally-consistent-users/) | [Find Emotionally Consistent Users](problems/3808.find-emotionally-consistent-users.sql) | 🟡 Medium | mysql |
 | [3809](https://leetcode.com/problems/best-reachable-tower/) | [Best Reachable Tower](problems/3809.best-reachable-tower.cpp) | 🟡 Medium | C++ |
 | [3810](https://leetcode.com/problems/minimum-operations-to-reach-target-array/) | [Minimum Operations to Reach Target Array](problems/3810.minimum-operations-to-reach-target-array.cpp) | 🟡 Medium | C++ |
+| [3811](https://leetcode.com/problems/number-of-alternating-xor-partitions/) | [Number of Alternating XOR Partitions](problems/3811.number-of-alternating-xor-partitions.cpp) | 🟡 Medium | C++ |
 | [3812](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | [Minimum Edge Toggles on a Tree](problems/3812.minimum-edge-toggles-on-a-tree.cpp) | 🔴 Hard | C++ |
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
