@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2329 solved** — 🟢 528 Easy · 🟡 1398 Medium · 🔴 393 Hard
+**2330 solved** — 🟢 528 Easy · 🟡 1399 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -434,6 +434,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [670](https://leetcode.com/problems/maximum-swap/) | [Maximum Swap](problems/670.maximum-swap.cpp) | 🟡 Medium | C++ |
 | [672](https://leetcode.com/problems/bulb-switcher-ii/) | [Bulb Switcher II](problems/672.bulb-switcher-ii.cpp) | 🟡 Medium | C++ |
+| [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Number of Longest Increasing Subsequence](problems/673.number-of-longest-increasing-subsequence.cpp) | 🟡 Medium | C++ |
 | [675](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Cut Off Trees for Golf Event](problems/675.cut-off-trees-for-golf-event.cpp) | 🔴 Hard | C++ |
 | [676](https://leetcode.com/problems/implement-magic-dictionary/) | [Implement Magic Dictionary](problems/676.implement-magic-dictionary.cpp) | 🟡 Medium | C++ |
 | [677](https://leetcode.com/problems/map-sum-pairs/) | [Map Sum Pairs](problems/677.map-sum-pairs.cpp) | 🟡 Medium | C++ |
