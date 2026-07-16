@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2451 solved** — 🟢 528 Easy · 🟡 1520 Medium · 🔴 393 Hard
+**2452 solved** — 🟢 528 Easy · 🟡 1521 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2311,6 +2311,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3751](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [Total Waviness of Numbers in Range I](problems/3751.total-waviness-of-numbers-in-range-i.cpp) | 🟡 Medium | C++ |
 | [3752](https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/) | [Lexicographically Smallest Negated Permutation that Sums to Target](problems/3752.lexicographically-smallest-negated-permutation-that-sums-to-target.cpp) | 🟡 Medium | C++ |
 | [3753](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [Total Waviness of Numbers in Range II](problems/3753.total-waviness-of-numbers-in-range-ii.cpp) | 🔴 Hard | C++ |
+| [3755](https://leetcode.com/problems/find-maximum-balanced-xor-subarray-length/) | [Find Maximum Balanced XOR Subarray Length](problems/3755.find-maximum-balanced-xor-subarray-length.cpp) | 🟡 Medium | C++ |
 | [3759](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | [Count Elements With at Least K Greater Values](problems/3759.count-elements-with-at-least-k-greater-values.cpp) | 🟡 Medium | C++ |
 | [3760](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | [Maximum Substrings With Distinct Start](problems/3760.maximum-substrings-with-distinct-start.cpp) | 🟡 Medium | C++ |
 | [3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](problems/3761.minimum-absolute-distance-between-mirror-pairs.cpp) | 🟡 Medium | C++ |
