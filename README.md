@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2275 solved** — 🟢 528 Easy · 🟡 1344 Medium · 🔴 393 Hard
+**2276 solved** — 🟢 528 Easy · 🟡 1345 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -278,6 +278,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [403](https://leetcode.com/problems/frog-jump/) | [Frog Jump](problems/403.frog-jump.cpp) | 🔴 Hard | C++ |
 | [404](https://leetcode.com/problems/sum-of-left-leaves/) | [Sum of Left Leaves](problems/404.sum-of-left-leaves.cpp) | 🟢 Easy | C++ |
 | [405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Convert a Number to Hexadecimal](problems/405.convert-a-number-to-hexadecimal.cpp) | 🟢 Easy | C++ |
+| [406](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Queue Reconstruction by Height](problems/406.queue-reconstruction-by-height.cpp) | 🟡 Medium | C++ |
 | [409](https://leetcode.com/problems/longest-palindrome/) | [Longest Palindrome](problems/409.longest-palindrome.cpp) | 🟢 Easy | C++ |
 | [412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](problems/412.fizz-buzz.cpp) | 🟢 Easy | C++ |
 | [413](https://leetcode.com/problems/arithmetic-slices/) | [Arithmetic Slices](problems/413.arithmetic-slices.cpp) | 🟡 Medium | C++ |
