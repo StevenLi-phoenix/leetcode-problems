@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2284 solved** — 🟢 528 Easy · 🟡 1353 Medium · 🔴 393 Hard
+**2285 solved** — 🟢 528 Easy · 🟡 1354 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1779,6 +1779,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3071](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) | [Minimum Operations to Write the Letter Y on a Grid](problems/3071.minimum-operations-to-write-the-letter-y-on-a-grid.cpp) | 🟡 Medium | C++ |
 | [3074](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [Apple Redistribution into Boxes](problems/3074.apple-redistribution-into-boxes.cpp) | 🟢 Easy | C++ |
 | [3075](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | [Maximize Happiness of Selected Children](problems/3075.maximize-happiness-of-selected-children.cpp) | 🟡 Medium | C++ |
+| [3076](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/) | [Shortest Uncommon Substring in an Array](problems/3076.shortest-uncommon-substring-in-an-array.cpp) | 🟡 Medium | C++ |
 | [3079](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | [Find the Sum of Encrypted Integers](problems/3079.find-the-sum-of-encrypted-integers.cpp) | 🟢 Easy | C++ |
 | [3080](https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/) | [Mark Elements on Array by Performing Queries](problems/3080.mark-elements-on-array-by-performing-queries.cpp) | 🟡 Medium | C++ |
 | [3081](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/) | [Replace Question Marks in String to Minimize Its Value](problems/3081.replace-question-marks-in-string-to-minimize-its-value.cpp) | 🟡 Medium | C++ |
