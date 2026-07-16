@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2289 solved** — 🟢 528 Easy · 🟡 1358 Medium · 🔴 393 Hard
+**2290 solved** — 🟢 528 Easy · 🟡 1359 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1474,6 +1474,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2499](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/) | [Minimum Total Cost to Make Arrays Unequal](problems/2499.minimum-total-cost-to-make-arrays-unequal.cpp) | 🔴 Hard | C++ |
 | [2500](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [Delete Greatest Value in Each Row](problems/2500.delete-greatest-value-in-each-row.cpp) | 🟢 Easy | C++ |
 | [2501](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [Longest Square Streak in an Array](problems/2501.longest-square-streak-in-an-array.cpp) | 🟡 Medium | C++ |
+| [2502](https://leetcode.com/problems/design-memory-allocator/) | [Design Memory Allocator](problems/2502.design-memory-allocator.cpp) | 🟡 Medium | C++ |
 | [2506](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [Count Pairs Of Similar Strings](problems/2506.count-pairs-of-similar-strings.cpp) | 🟢 Easy | C++ |
 | [2507](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Smallest Value After Replacing With Sum of Prime Factors](problems/2507.smallest-value-after-replacing-with-sum-of-prime-factors.cpp) | 🟡 Medium | C++ |
 | [2511](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [Maximum Enemy Forts That Can Be Captured](problems/2511.maximum-enemy-forts-that-can-be-captured.cpp) | 🟢 Easy | C++ |
