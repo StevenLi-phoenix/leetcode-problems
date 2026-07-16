@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2323 solved** — 🟢 528 Easy · 🟡 1392 Medium · 🔴 393 Hard
+**2324 solved** — 🟢 528 Easy · 🟡 1393 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -753,6 +753,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1190](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Reverse Substrings Between Each Pair of Parentheses](problems/1190.reverse-substrings-between-each-pair-of-parentheses.cpp) | 🟡 Medium | C++ |
 | [1191](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [K-Concatenation Maximum Sum](problems/1191.k-concatenation-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1192](https://leetcode.com/problems/critical-connections-in-a-network/) | [Critical Connections in a Network](problems/1192.critical-connections-in-a-network.cpp) | 🔴 Hard | C++ |
+| [1195](https://leetcode.com/problems/fizz-buzz-multithreaded/) | [Fizz Buzz Multithreaded](problems/1195.fizz-buzz-multithreaded.cpp) | 🟡 Medium | C++ |
 | [1200](https://leetcode.com/problems/minimum-absolute-difference/) | [Minimum Absolute Difference](problems/1200.minimum-absolute-difference.cpp) | 🟢 Easy | C++ |
 | [1201](https://leetcode.com/problems/ugly-number-iii/) | [Ugly Number III](problems/1201.ugly-number-iii.cpp) | 🟡 Medium | C++ |
 | [1202](https://leetcode.com/problems/smallest-string-with-swaps/) | [Smallest String With Swaps](problems/1202.smallest-string-with-swaps.cpp) | 🟡 Medium | C++ |
