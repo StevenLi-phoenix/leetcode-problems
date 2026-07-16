@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2191 solved** — 🟢 528 Easy · 🟡 1263 Medium · 🔴 393 Hard
+**2192 solved** — 🟢 528 Easy · 🟡 1264 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1661,6 +1661,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2963](https://leetcode.com/problems/count-the-number-of-good-partitions/) | [Count the Number of Good Partitions](problems/2963.count-the-number-of-good-partitions.cpp) | 🔴 Hard | C++ |
 | [2965](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Find Missing and Repeated Values](problems/2965.find-missing-and-repeated-values.cpp) | 🟢 Easy | C++ |
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](problems/2966.divide-array-into-arrays-with-max-difference.cpp) | 🟡 Medium | C++ |
+| [2967](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/) | [Minimum Cost to Make Array Equalindromic](problems/2967.minimum-cost-to-make-array-equalindromic.cpp) | 🟡 Medium | C++ |
 | [2968](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/) | [Apply Operations to Maximize Frequency Score](problems/2968.apply-operations-to-maximize-frequency-score.cpp) | 🔴 Hard | C++ |
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Find Polygon With the Largest Perimeter](problems/2971.find-polygon-with-the-largest-perimeter.cpp) | 🟡 Medium | C++ |
 | [2974](https://leetcode.com/problems/minimum-number-game/) | [Minimum Number Game](problems/2974.minimum-number-game.cpp) | 🟢 Easy | C++ |
