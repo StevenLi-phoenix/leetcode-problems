@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2181 solved** — 🟢 528 Easy · 🟡 1253 Medium · 🔴 393 Hard
+**2182 solved** — 🟢 528 Easy · 🟡 1254 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -185,6 +185,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [218](https://leetcode.com/problems/the-skyline-problem/) | [The Skyline Problem](problems/218.the-skyline-problem.cpp) | 🔴 Hard | C++ |
 | [221](https://leetcode.com/problems/maximal-square/) | [Maximal Square](problems/221.maximal-square.cpp) | 🟡 Medium | C++ |
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
+| [223](https://leetcode.com/problems/rectangle-area/) | [Rectangle Area](problems/223.rectangle-area.cpp) | 🟡 Medium | C++ |
 | [224](https://leetcode.com/problems/basic-calculator/) | [Basic Calculator](problems/224.basic-calculator.cpp) | 🔴 Hard | C++ |
 | [228](https://leetcode.com/problems/summary-ranges/) | [Summary Ranges](problems/228.summary-ranges.cpp) | 🟢 Easy | C++ |
 | [229](https://leetcode.com/problems/majority-element-ii/) | [Majority Element II](problems/229.majority-element-ii.cpp) | 🟡 Medium | C++ |
