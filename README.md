@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2468 solved** — 🟢 528 Easy · 🟡 1537 Medium · 🔴 393 Hard
+**2469 solved** — 🟢 528 Easy · 🟡 1538 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -855,6 +855,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](problems/1310.xor-queries-of-a-subarray.cpp) | 🟡 Medium | C++ |
 | [1311](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [Get Watched Videos by Your Friends](problems/1311.get-watched-videos-by-your-friends.cpp) | 🟡 Medium | C++ |
 | [1314](https://leetcode.com/problems/matrix-block-sum/) | [Matrix Block Sum](problems/1314.matrix-block-sum.cpp) | 🟡 Medium | C++ |
+| [1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Sum of Nodes with Even-Valued Grandparent](problems/1315.sum-of-nodes-with-even-valued-grandparent.cpp) | 🟡 Medium | C++ |
 | [1317](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Convert Integer to the Sum of Two No-Zero Integers](problems/1317.convert-integer-to-the-sum-of-two-no-zero-integers.cpp) | 🟢 Easy | C++ |
 | [1318](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Minimum Flips to Make a OR b Equal to c](problems/1318.minimum-flips-to-make-a-or-b-equal-to-c.cpp) | 🟡 Medium | C++ |
 | [1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Number of Operations to Make Network Connected](problems/1319.number-of-operations-to-make-network-connected.cpp) | 🟡 Medium | C++ |
