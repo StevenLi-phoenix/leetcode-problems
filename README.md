@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2309 solved** — 🟢 528 Easy · 🟡 1378 Medium · 🔴 393 Hard
+**2310 solved** — 🟢 528 Easy · 🟡 1379 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -448,6 +448,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](problems/693.binary-number-with-alternating-bits.cpp) | 🟢 Easy | C++ |
 | [695](https://leetcode.com/problems/max-area-of-island/) | [Max Area of Island](problems/695.max-area-of-island.cpp) | 🟡 Medium | C++ |
 | [696](https://leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](problems/696.count-binary-substrings.cpp) | 🟢 Easy | C++ |
+| [698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Partition to K Equal Sum Subsets](problems/698.partition-to-k-equal-sum-subsets.cpp) | 🟡 Medium | C++ |
 | [699](https://leetcode.com/problems/falling-squares/) | [Falling Squares](problems/699.falling-squares.cpp) | 🔴 Hard | C++ |
 | [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in a Binary Search Tree](problems/700.search-in-a-binary-search-tree.cpp) | 🟢 Easy | C++ |
 | [701](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Insert into a Binary Search Tree](problems/701.insert-into-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
