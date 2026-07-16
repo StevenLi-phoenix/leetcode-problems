@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2293 solved** — 🟢 528 Easy · 🟡 1362 Medium · 🔴 393 Hard
+**2294 solved** — 🟢 528 Easy · 🟡 1363 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1991,6 +1991,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3469](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | [Find Minimum Cost to Remove Array Elements](problems/3469.find-minimum-cost-to-remove-array-elements.cpp) | 🟡 Medium | C++ |
 | [3470](https://leetcode.com/problems/permutations-iv/) | [Permutations IV](problems/3470.permutations-iv.cpp) | 🔴 Hard | C++ |
 | [3472](https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/) | [Longest Palindromic Subsequence After at Most K Operations](problems/3472.longest-palindromic-subsequence-after-at-most-k-operations.cpp) | 🟡 Medium | C++ |
+| [3473](https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m/) | [Sum of K Subarrays With Length at Least M](problems/3473.sum-of-k-subarrays-with-length-at-least-m.cpp) | 🟡 Medium | C++ |
 | [3474](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Lexicographically Smallest Generated String](problems/3474.lexicographically-smallest-generated-string.cpp) | 🔴 Hard | C++ |
 | [3478](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/) | [Choose K Elements With Maximum Sum](problems/3478.choose-k-elements-with-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [3479](https://leetcode.com/problems/fruits-into-baskets-iii/) | [Fruits Into Baskets III](problems/3479.fruits-into-baskets-iii.cpp) | 🟡 Medium | C++ |
