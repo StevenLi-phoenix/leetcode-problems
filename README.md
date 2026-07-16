@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2233 solved** — 🟢 528 Easy · 🟡 1302 Medium · 🔴 393 Hard
+**2234 solved** — 🟢 528 Easy · 🟡 1303 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -167,6 +167,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [196](https://leetcode.com/problems/delete-duplicate-emails/) | [Delete Duplicate Emails](problems/196.delete-duplicate-emails.sql) | 🟢 Easy | mysql |
 | [197](https://leetcode.com/problems/rising-temperature/) | [Rising Temperature](problems/197.rising-temperature.sql) | 🟢 Easy | mysql |
 | [198](https://leetcode.com/problems/house-robber/) | [House Robber](problems/198.house-robber.cpp) | 🟡 Medium | C++ |
+| [199](https://leetcode.com/problems/binary-tree-right-side-view/) | [Binary Tree Right Side View](problems/199.binary-tree-right-side-view.cpp) | 🟡 Medium | C++ |
 | [200](https://leetcode.com/problems/number-of-islands/) | [Number of Islands](problems/200.number-of-islands.cpp) | 🟡 Medium | C++ |
 | [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Bitwise AND of Numbers Range](problems/201.bitwise-and-of-numbers-range.cpp) | 🟡 Medium | C++ |
 | [202](https://leetcode.com/problems/happy-number/) | [Happy Number](problems/202.happy-number.cpp) | 🟢 Easy | C++ |
