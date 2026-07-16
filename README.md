@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2428 solved** — 🟢 528 Easy · 🟡 1497 Medium · 🔴 393 Hard
+**2429 solved** — 🟢 528 Easy · 🟡 1498 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -770,6 +770,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1145](https://leetcode.com/problems/binary-tree-coloring-game/) | [Binary Tree Coloring Game](problems/1145.binary-tree-coloring-game.cpp) | 🟡 Medium | C++ |
 | [1146](https://leetcode.com/problems/snapshot-array/) | [Snapshot Array](problems/1146.snapshot-array.cpp) | 🟡 Medium | C++ |
 | [1147](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Longest Chunked Palindrome Decomposition](problems/1147.longest-chunked-palindrome-decomposition.cpp) | 🔴 Hard | C++ |
+| [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Number of Dice Rolls With Target Sum](problems/1155.number-of-dice-rolls-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [1156](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [Swap For Longest Repeated Character Substring](problems/1156.swap-for-longest-repeated-character-substring.cpp) | 🟡 Medium | C++ |
 | [1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](problems/1161.maximum-level-sum-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1169](https://leetcode.com/problems/invalid-transactions/) | [Invalid Transactions](problems/1169.invalid-transactions.cpp) | 🟡 Medium | C++ |
