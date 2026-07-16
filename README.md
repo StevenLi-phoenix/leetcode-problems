@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2276 solved** — 🟢 528 Easy · 🟡 1345 Medium · 🔴 393 Hard
+**2277 solved** — 🟢 528 Easy · 🟡 1346 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2078,6 +2078,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3642](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [Find Books with Polarized Opinions](problems/3642.find-books-with-polarized-opinions.sql) | 🟡 Medium | mysql |
 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](problems/3643.flip-square-submatrix-vertically.cpp) | 🟢 Easy | C++ |
 | [3644](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Maximum K to Sort a Permutation](problems/3644.maximum-k-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
+| [3648](https://leetcode.com/problems/minimum-sensors-to-cover-grid/) | [Minimum Sensors to Cover Grid](problems/3648.minimum-sensors-to-cover-grid.cpp) | 🟡 Medium | C++ |
 | [3649](https://leetcode.com/problems/number-of-perfect-pairs/) | [Number of Perfect Pairs](problems/3649.number-of-perfect-pairs.cpp) | 🟡 Medium | C++ |
 | [3650](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | [Minimum Cost Path with Edge Reversals](problems/3650.minimum-cost-path-with-edge-reversals.cpp) | 🟡 Medium | C++ |
 | [3651](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | [Minimum Cost Path with Teleportations](problems/3651.minimum-cost-path-with-teleportations.cpp) | 🔴 Hard | C++ |
