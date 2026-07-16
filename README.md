@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2280 solved** — 🟢 528 Easy · 🟡 1349 Medium · 🔴 393 Hard
+**2281 solved** — 🟢 528 Easy · 🟡 1350 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1176,6 +1176,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1979](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Find Greatest Common Divisor of Array](problems/1979.find-greatest-common-divisor-of-array.cpp) | 🟢 Easy | C++ |
 | [1980](https://leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](problems/1980.find-unique-binary-string.cpp) | 🟡 Medium | C++ |
 | [1984](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Minimum Difference Between Highest and Lowest of K Scores](problems/1984.minimum-difference-between-highest-and-lowest-of-k-scores.cpp) | 🟢 Easy | C++ |
+| [1985](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [Find the Kth Largest Integer in the Array](problems/1985.find-the-kth-largest-integer-in-the-array.cpp) | 🟡 Medium | C++ |
 | [1986](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) | [Minimum Number of Work Sessions to Finish the Tasks](problems/1986.minimum-number-of-work-sessions-to-finish-the-tasks.cpp) | 🟡 Medium | C++ |
 | [1987](https://leetcode.com/problems/number-of-unique-good-subsequences/) | [Number of Unique Good Subsequences](problems/1987.number-of-unique-good-subsequences.cpp) | 🔴 Hard | C++ |
 | [1991](https://leetcode.com/problems/find-the-middle-index-in-array/) | [Find the Middle Index in Array](problems/1991.find-the-middle-index-in-array.cpp) | 🟢 Easy | C++ |
