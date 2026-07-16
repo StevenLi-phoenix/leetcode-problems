@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2461 solved** — 🟢 528 Easy · 🟡 1530 Medium · 🔴 393 Hard
+**2462 solved** — 🟢 528 Easy · 🟡 1531 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -622,6 +622,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [911](https://leetcode.com/problems/online-election/) | [Online Election](problems/911.online-election.cpp) | 🟡 Medium | C++ |
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](problems/912.sort-an-array.cpp) | 🟡 Medium | C++ |
 | [913](https://leetcode.com/problems/cat-and-mouse/) | [Cat and Mouse](problems/913.cat-and-mouse.cpp) | 🔴 Hard | C++ |
+| [915](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Partition Array into Disjoint Intervals](problems/915.partition-array-into-disjoint-intervals.cpp) | 🟡 Medium | C++ |
 | [916](https://leetcode.com/problems/word-subsets/) | [Word Subsets](problems/916.word-subsets.cpp) | 🟡 Medium | C++ |
 | [917](https://leetcode.com/problems/reverse-only-letters/) | [Reverse Only Letters](problems/917.reverse-only-letters.cpp) | 🟢 Easy | C++ |
 | [918](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Maximum Sum Circular Subarray](problems/918.maximum-sum-circular-subarray.cpp) | 🟡 Medium | C++ |
