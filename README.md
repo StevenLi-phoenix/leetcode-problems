@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2392 solved** — 🟢 528 Easy · 🟡 1461 Medium · 🔴 393 Hard
+**2393 solved** — 🟢 528 Easy · 🟡 1462 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2341,6 +2341,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3884](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [First Matching Character From Both Ends](problems/3884.first-matching-character-from-both-ends.cpp) | 🟢 Easy | C++ |
 | [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
 | [3889](https://leetcode.com/problems/mirror-frequency-distance/) | [Mirror Frequency Distance](problems/3889.mirror-frequency-distance.cpp) | 🟡 Medium | C++ |
+| [3890](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) | [Integers With Multiple Sum of Two Cubes](problems/3890.integers-with-multiple-sum-of-two-cubes.cpp) | 🟡 Medium | C++ |
 | [3891](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Minimum Increase to Maximize Special Indices](problems/3891.minimum-increase-to-maximize-special-indices.cpp) | 🟡 Medium | C++ |
 | [3892](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [Minimum Operations to Achieve At Least K Peaks](problems/3892.minimum-operations-to-achieve-at-least-k-peaks.cpp) | 🔴 Hard | C++ |
 | [3894](https://leetcode.com/problems/traffic-signal-color/) | [Traffic Signal Color](problems/3894.traffic-signal-color.cpp) | 🟢 Easy | C++ |
