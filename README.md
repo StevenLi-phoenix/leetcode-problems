@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2193 solved** — 🟢 528 Easy · 🟡 1265 Medium · 🔴 393 Hard
+**2194 solved** — 🟢 528 Easy · 🟡 1266 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1979,6 +1979,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3600](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](problems/3600.maximize-spanning-tree-stability-with-upgrades.cpp) | 🔴 Hard | C++ |
 | [3602](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Hexadecimal and Hexatrigesimal Conversion](problems/3602.hexadecimal-and-hexatrigesimal-conversion.cpp) | 🟢 Easy | C++ |
 | [3603](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/) | [Minimum Cost Path with Alternating Directions II](problems/3603.minimum-cost-path-with-alternating-directions-ii.cpp) | 🟡 Medium | C++ |
+| [3604](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | [Minimum Time to Reach Destination in Directed Graph](problems/3604.minimum-time-to-reach-destination-in-directed-graph.cpp) | 🟡 Medium | C++ |
 | [3606](https://leetcode.com/problems/coupon-code-validator/) | [Coupon Code Validator](problems/3606.coupon-code-validator.cpp) | 🟢 Easy | C++ |
 | [3607](https://leetcode.com/problems/power-grid-maintenance/) | [Power Grid Maintenance](problems/3607.power-grid-maintenance.cpp) | 🟡 Medium | C++ |
 | [3608](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | [Minimum Time for K Connected Components](problems/3608.minimum-time-for-k-connected-components.cpp) | 🟡 Medium | C++ |
