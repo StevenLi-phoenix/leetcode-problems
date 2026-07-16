@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2331 solved** — 🟢 528 Easy · 🟡 1400 Medium · 🔴 393 Hard
+**2332 solved** — 🟢 528 Easy · 🟡 1401 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1331,6 +1331,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Find All K-Distant Indices in an Array](problems/2200.find-all-k-distant-indices-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [Count Artifacts That Can Be Extracted](problems/2201.count-artifacts-that-can-be-extracted.cpp) | 🟡 Medium | C++ |
 | [2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [Maximize the Topmost Element After K Moves](problems/2202.maximize-the-topmost-element-after-k-moves.cpp) | 🟡 Medium | C++ |
+| [2207](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/) | [Maximize Number of Subsequences in a String](problems/2207.maximize-number-of-subsequences-in-a-string.cpp) | 🟡 Medium | C++ |
 | [2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Minimum Operations to Halve Array Sum](problems/2208.minimum-operations-to-halve-array-sum.cpp) | 🟡 Medium | C++ |
 | [2212](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Maximum Points in an Archery Competition](problems/2212.maximum-points-in-an-archery-competition.cpp) | 🟡 Medium | C++ |
 | [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Find the Difference of Two Arrays](problems/2215.find-the-difference-of-two-arrays.cpp) | 🟢 Easy | C++ |
