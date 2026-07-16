@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2337 solved** — 🟢 528 Easy · 🟡 1406 Medium · 🔴 393 Hard
+**2338 solved** — 🟢 528 Easy · 🟡 1407 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -561,6 +561,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Peak Index in a Mountain Array](problems/852.peak-index-in-a-mountain-array.cpp) | 🟡 Medium | C++ |
 | [853](https://leetcode.com/problems/car-fleet/) | [Car Fleet](problems/853.car-fleet.cpp) | 🟡 Medium | C++ |
 | [855](https://leetcode.com/problems/exam-room/) | [Exam Room](problems/855.exam-room.cpp) | 🟡 Medium | C++ |
+| [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](problems/856.score-of-parentheses.cpp) | 🟡 Medium | C++ |
 | [857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](problems/857.minimum-cost-to-hire-k-workers.cpp) | 🔴 Hard | C++ |
 | [858](https://leetcode.com/problems/mirror-reflection/) | [Mirror Reflection](problems/858.mirror-reflection.cpp) | 🟡 Medium | C++ |
 | [861](https://leetcode.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](problems/861.score-after-flipping-matrix.cpp) | 🟡 Medium | C++ |
