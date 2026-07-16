@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2397 solved** — 🟢 528 Easy · 🟡 1466 Medium · 🔴 393 Hard
+**2398 solved** — 🟢 528 Easy · 🟡 1467 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1116,6 +1116,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](problems/1780.check-if-number-is-a-sum-of-powers-of-three.cpp) | 🟡 Medium | C++ |
 | [1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Sum of Beauty of All Substrings](problems/1781.sum-of-beauty-of-all-substrings.cpp) | 🟡 Medium | C++ |
 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](problems/1784.check-if-binary-string-has-at-most-one-segment-of-ones.cpp) | 🟢 Easy | C++ |
+| [1785](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Minimum Elements to Add to Form a Given Sum](problems/1785.minimum-elements-to-add-to-form-a-given-sum.cpp) | 🟡 Medium | C++ |
 | [1786](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Number of Restricted Paths From First to Last Node](problems/1786.number-of-restricted-paths-from-first-to-last-node.cpp) | 🟡 Medium | C++ |
 | [1789](https://leetcode.com/problems/primary-department-for-each-employee/) | [Primary Department for Each Employee](problems/1789.primary-department-for-each-employee.sql) | 🟢 Easy | mysql |
 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Check if One String Swap Can Make Strings Equal](problems/1790.check-if-one-string-swap-can-make-strings-equal.cpp) | 🟢 Easy | C++ |
