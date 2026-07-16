@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2409 solved** — 🟢 528 Easy · 🟡 1478 Medium · 🔴 393 Hard
+**2410 solved** — 🟢 528 Easy · 🟡 1479 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1387,6 +1387,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Find Players With Zero or One Losses](problems/2225.find-players-with-zero-or-one-losses.cpp) | 🟡 Medium | C++ |
 | [2231](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Largest Number After Digit Swaps by Parity](problems/2231.largest-number-after-digit-swaps-by-parity.cpp) | 🟢 Easy | C++ |
 | [2232](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [Minimize Result by Adding Parentheses to Expression](problems/2232.minimize-result-by-adding-parentheses-to-expression.cpp) | 🟡 Medium | C++ |
+| [2233](https://leetcode.com/problems/maximum-product-after-k-increments/) | [Maximum Product After K Increments](problems/2233.maximum-product-after-k-increments.cpp) | 🟡 Medium | C++ |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | [Root Equals Sum of Children](problems/2236.root-equals-sum-of-children.cpp) | 🟢 Easy | C++ |
 | [2239](https://leetcode.com/problems/find-closest-number-to-zero/) | [Find Closest Number to Zero](problems/2239.find-closest-number-to-zero.cpp) | 🟢 Easy | C++ |
 | [2240](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [Number of Ways to Buy Pens and Pencils](problems/2240.number-of-ways-to-buy-pens-and-pencils.cpp) | 🟡 Medium | C++ |
