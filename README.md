@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2456 solved** — 🟢 528 Easy · 🟡 1525 Medium · 🔴 393 Hard
+**2457 solved** — 🟢 528 Easy · 🟡 1526 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1701,6 +1701,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2705](https://leetcode.com/problems/compact-object/) | [Compact Object](problems/2705.compact-object.js) | 🟡 Medium | JavaScript |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | [Buy Two Chocolates](problems/2706.buy-two-chocolates.cpp) | 🟢 Easy | C++ |
 | [2707](https://leetcode.com/problems/extra-characters-in-a-string/) | [Extra Characters in a String](problems/2707.extra-characters-in-a-string.cpp) | 🟡 Medium | C++ |
+| [2708](https://leetcode.com/problems/maximum-strength-of-a-group/) | [Maximum Strength of a Group](problems/2708.maximum-strength-of-a-group.cpp) | 🟡 Medium | C++ |
 | [2709](https://leetcode.com/problems/greatest-common-divisor-traversal/) | [Greatest Common Divisor Traversal](problems/2709.greatest-common-divisor-traversal.cpp) | 🔴 Hard | C++ |
 | [2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Remove Trailing Zeros From a String](problems/2710.remove-trailing-zeros-from-a-string.cpp) | 🟢 Easy | C++ |
 | [2711](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [Difference of Number of Distinct Values on Diagonals](problems/2711.difference-of-number-of-distinct-values-on-diagonals.cpp) | 🟡 Medium | C++ |
