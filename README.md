@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2364 solved** — 🟢 528 Easy · 🟡 1433 Medium · 🔴 393 Hard
+**2365 solved** — 🟢 528 Easy · 🟡 1434 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -343,6 +343,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [494](https://leetcode.com/problems/target-sum/) | [Target Sum](problems/494.target-sum.cpp) | 🟡 Medium | C++ |
 | [495](https://leetcode.com/problems/teemo-attacking/) | [Teemo Attacking](problems/495.teemo-attacking.cpp) | 🟢 Easy | C++ |
 | [496](https://leetcode.com/problems/next-greater-element-i/) | [Next Greater Element I](problems/496.next-greater-element-i.cpp) | 🟢 Easy | C++ |
+| [497](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Random Point in Non-overlapping Rectangles](problems/497.random-point-in-non-overlapping-rectangles.cpp) | 🟡 Medium | C++ |
 | [498](https://leetcode.com/problems/diagonal-traverse/) | [Diagonal Traverse](problems/498.diagonal-traverse.cpp) | 🟡 Medium | C++ |
 | [500](https://leetcode.com/problems/keyboard-row/) | [Keyboard Row](problems/500.keyboard-row.cpp) | 🟢 Easy | C++ |
 | [501](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](problems/501.find-mode-in-binary-search-tree.py) | 🟢 Easy | Python |
