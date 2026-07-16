@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2435 solved** — 🟢 528 Easy · 🟡 1504 Medium · 🔴 393 Hard
+**2436 solved** — 🟢 528 Easy · 🟡 1505 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2173,6 +2173,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3572](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](problems/3572.maximize-ysum-by-picking-a-triplet-of-distinct-xvalues.cpp) | 🟡 Medium | C++ |
 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](problems/3573.best-time-to-buy-and-sell-stock-v.cpp) | 🟡 Medium | C++ |
 | [3575](https://leetcode.com/problems/maximum-good-subtree-score/) | [Maximum Good Subtree Score](problems/3575.maximum-good-subtree-score.cpp) | 🔴 Hard | C++ |
+| [3576](https://leetcode.com/problems/transform-array-to-all-equal-elements/) | [Transform Array to All Equal Elements](problems/3576.transform-array-to-all-equal-elements.cpp) | 🟡 Medium | C++ |
 | [3578](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Count Partitions With Max-Min Difference at Most K](problems/3578.count-partitions-with-max-min-difference-at-most-k.cpp) | 🟡 Medium | C++ |
 | [3580](https://leetcode.com/problems/find-consistently-improving-employees/) | [Find Consistently Improving Employees](problems/3580.find-consistently-improving-employees.sql) | 🟡 Medium | mysql |
 | [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
