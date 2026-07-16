@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2454 solved** — 🟢 528 Easy · 🟡 1523 Medium · 🔴 393 Hard
+**2455 solved** — 🟢 528 Easy · 🟡 1524 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -440,6 +440,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [654](https://leetcode.com/problems/maximum-binary-tree/) | [Maximum Binary Tree](problems/654.maximum-binary-tree.cpp) | 🟡 Medium | C++ |
 | [655](https://leetcode.com/problems/print-binary-tree/) | [Print Binary Tree](problems/655.print-binary-tree.cpp) | 🟡 Medium | C++ |
 | [657](https://leetcode.com/problems/robot-return-to-origin/) | [Robot Return to Origin](problems/657.robot-return-to-origin.cpp) | 🟢 Easy | C++ |
+| [658](https://leetcode.com/problems/find-k-closest-elements/) | [Find K Closest Elements](problems/658.find-k-closest-elements.cpp) | 🟡 Medium | C++ |
 | [659](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Split Array into Consecutive Subsequences](problems/659.split-array-into-consecutive-subsequences.cpp) | 🟡 Medium | C++ |
 | [661](https://leetcode.com/problems/image-smoother/) | [Image Smoother](problems/661.image-smoother.cpp) | 🟢 Easy | C++ |
 | [662](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Maximum Width of Binary Tree](problems/662.maximum-width-of-binary-tree.cpp) | 🟡 Medium | C++ |
