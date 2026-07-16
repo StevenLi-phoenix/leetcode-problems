@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2334 solved** — 🟢 528 Easy · 🟡 1403 Medium · 🔴 393 Hard
+**2335 solved** — 🟢 528 Easy · 🟡 1404 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1375,6 +1375,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2284](https://leetcode.com/problems/sender-with-largest-word-count/) | [Sender With Largest Word Count](problems/2284.sender-with-largest-word-count.cpp) | 🟡 Medium | C++ |
 | [2285](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [Maximum Total Importance of Roads](problems/2285.maximum-total-importance-of-roads.cpp) | 🟡 Medium | C++ |
 | [2288](https://leetcode.com/problems/apply-discount-to-prices/) | [Apply Discount to Prices](problems/2288.apply-discount-to-prices.cpp) | 🟡 Medium | C++ |
+| [2289](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [Steps to Make Array Non-decreasing](problems/2289.steps-to-make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
 | [2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Minimum Obstacle Removal to Reach Corner](problems/2290.minimum-obstacle-removal-to-reach-corner.cpp) | 🔴 Hard | C++ |
 | [2294](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Partition Array Such That Maximum Difference Is K](problems/2294.partition-array-such-that-maximum-difference-is-k.cpp) | 🟡 Medium | C++ |
 | [2295](https://leetcode.com/problems/replace-elements-in-an-array/) | [Replace Elements in an Array](problems/2295.replace-elements-in-an-array.cpp) | 🟡 Medium | C++ |
