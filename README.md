@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2316 solved** — 🟢 528 Easy · 🟡 1385 Medium · 🔴 393 Hard
+**2317 solved** — 🟢 528 Easy · 🟡 1386 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1875,6 +1875,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](problems/3212.count-submatrices-with-equal-frequency-of-x-and-y.cpp) | 🟡 Medium | C++ |
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
 | [3216](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [Lexicographically Smallest String After a Swap](problems/3216.lexicographically-smallest-string-after-a-swap.cpp) | 🟢 Easy | C++ |
+| [3217](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Delete Nodes From Linked List Present in Array](problems/3217.delete-nodes-from-linked-list-present-in-array.cpp) | 🟡 Medium | C++ |
 | [3218](https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/) | [Minimum Cost for Cutting Cake I](problems/3218.minimum-cost-for-cutting-cake-i.cpp) | 🟡 Medium | C++ |
 | [3220](https://leetcode.com/problems/odd-and-even-transactions/) | [Odd and Even Transactions](problems/3220.odd-and-even-transactions.sql) | 🟡 Medium | mysql |
 | [3223](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | [Minimum Length of String After Operations](problems/3223.minimum-length-of-string-after-operations.cpp) | 🟡 Medium | C++ |
