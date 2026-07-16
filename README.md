@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2448 solved** — 🟢 528 Easy · 🟡 1517 Medium · 🔴 393 Hard
+**2449 solved** — 🟢 528 Easy · 🟡 1518 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1724,6 +1724,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2747](https://leetcode.com/problems/count-zero-request-servers/) | [Count Zero Request Servers](problems/2747.count-zero-request-servers.cpp) | 🟡 Medium | C++ |
 | [2748](https://leetcode.com/problems/number-of-beautiful-pairs/) | [Number of Beautiful Pairs](problems/2748.number-of-beautiful-pairs.cpp) | 🟢 Easy | C++ |
 | [2749](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/) | [Minimum Operations to Make the Integer Zero](problems/2749.minimum-operations-to-make-the-integer-zero.cpp) | 🟡 Medium | C++ |
+| [2750](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/) | [Ways to Split Array Into Good Subarrays](problems/2750.ways-to-split-array-into-good-subarrays.cpp) | 🟡 Medium | C++ |
 | [2751](https://leetcode.com/problems/robot-collisions/) | [Robot Collisions](problems/2751.robot-collisions.cpp) | 🔴 Hard | C++ |
 | [2760](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [Longest Even Odd Subarray With Threshold](problems/2760.longest-even-odd-subarray-with-threshold.cpp) | 🟢 Easy | C++ |
 | [2761](https://leetcode.com/problems/prime-pairs-with-target-sum/) | [Prime Pairs With Target Sum](problems/2761.prime-pairs-with-target-sum.cpp) | 🟡 Medium | C++ |
