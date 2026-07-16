@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2264 solved** — 🟢 528 Easy · 🟡 1333 Medium · 🔴 393 Hard
+**2265 solved** — 🟢 528 Easy · 🟡 1334 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1079,6 +1079,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1817](https://leetcode.com/problems/finding-the-users-active-minutes/) | [Finding the Users Active Minutes](problems/1817.finding-the-users-active-minutes.cpp) | 🟡 Medium | C++ |
 | [1819](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [Number of Different Subsequences GCDs](problems/1819.number-of-different-subsequences-gcds.cpp) | 🔴 Hard | C++ |
 | [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Sign of the Product of an Array](problems/1822.sign-of-the-product-of-an-array.cpp) | 🟢 Easy | C++ |
+| [1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Find the Winner of the Circular Game](problems/1823.find-the-winner-of-the-circular-game.cpp) | 🟡 Medium | C++ |
 | [1824](https://leetcode.com/problems/minimum-sideway-jumps/) | [Minimum Sideway Jumps](problems/1824.minimum-sideway-jumps.cpp) | 🟡 Medium | C++ |
 | [1825](https://leetcode.com/problems/finding-mk-average/) | [Finding MK Average](problems/1825.finding-mk-average.cpp) | 🔴 Hard | C++ |
 | [1827](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [Minimum Operations to Make the Array Increasing](problems/1827.minimum-operations-to-make-the-array-increasing.cpp) | 🟢 Easy | C++ |
