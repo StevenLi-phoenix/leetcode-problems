@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2217 solved** — 🟢 528 Easy · 🟡 1288 Medium · 🔴 393 Hard
+**2218 solved** — 🟢 528 Easy · 🟡 1289 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -242,6 +242,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
 | [343](https://leetcode.com/problems/integer-break/) | [Integer Break](problems/343.integer-break.cpp) | 🟡 Medium | C++ |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](problems/347.top-k-frequent-elements.cpp) | 🟡 Medium | C++ |
+| [355](https://leetcode.com/problems/design-twitter/) | [Design Twitter](problems/355.design-twitter.cpp) | 🟡 Medium | C++ |
 | [357](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](problems/357.count-numbers-with-unique-digits.cpp) | 🟡 Medium | C++ |
 | [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Max Sum of Rectangle No Larger Than K](problems/363.max-sum-of-rectangle-no-larger-than-k.cpp) | 🔴 Hard | C++ |
 | [368](https://leetcode.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](problems/368.largest-divisible-subset.cpp) | 🟡 Medium | C++ |
