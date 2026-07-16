@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2426 solved** — 🟢 528 Easy · 🟡 1495 Medium · 🔴 393 Hard
+**2427 solved** — 🟢 528 Easy · 🟡 1496 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1624,6 +1624,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2597](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | [The Number of Beautiful Subsets](problems/2597.the-number-of-beautiful-subsets.cpp) | 🟡 Medium | C++ |
 | [2598](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [Smallest Missing Non-negative Integer After Operations](problems/2598.smallest-missing-non-negative-integer-after-operations.cpp) | 🟡 Medium | C++ |
 | [2600](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [K Items With the Maximum Sum](problems/2600.k-items-with-the-maximum-sum.cpp) | 🟢 Easy | C++ |
+| [2601](https://leetcode.com/problems/prime-subtraction-operation/) | [Prime Subtraction Operation](problems/2601.prime-subtraction-operation.cpp) | 🟡 Medium | C++ |
 | [2602](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/) | [Minimum Operations to Make All Array Elements Equal](problems/2602.minimum-operations-to-make-all-array-elements-equal.cpp) | 🟡 Medium | C++ |
 | [2606](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [Find the Substring With Maximum Cost](problems/2606.find-the-substring-with-maximum-cost.cpp) | 🟡 Medium | C++ |
 | [2607](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [Make K-Subarray Sums Equal](problems/2607.make-k-subarray-sums-equal.cpp) | 🟡 Medium | C++ |
