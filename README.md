@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2430 solved** — 🟢 528 Easy · 🟡 1499 Medium · 🔴 393 Hard
+**2431 solved** — 🟢 528 Easy · 🟡 1500 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1081,6 +1081,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1694](https://leetcode.com/problems/reformat-phone-number/) | [Reformat Phone Number](problems/1694.reformat-phone-number.cpp) | 🟢 Easy | C++ |
 | [1695](https://leetcode.com/problems/maximum-erasure-value/) | [Maximum Erasure Value](problems/1695.maximum-erasure-value.cpp) | 🟡 Medium | C++ |
 | [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Number of Students Unable to Eat Lunch](problems/1700.number-of-students-unable-to-eat-lunch.cpp) | 🟢 Easy | C++ |
+| [1701](https://leetcode.com/problems/average-waiting-time/) | [Average Waiting Time](problems/1701.average-waiting-time.cpp) | 🟡 Medium | C++ |
 | [1702](https://leetcode.com/problems/maximum-binary-string-after-change/) | [Maximum Binary String After Change](problems/1702.maximum-binary-string-after-change.cpp) | 🟡 Medium | C++ |
 | [1703](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/) | [Minimum Adjacent Swaps for K Consecutive Ones](problems/1703.minimum-adjacent-swaps-for-k-consecutive-ones.cpp) | 🔴 Hard | C++ |
 | [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Determine if String Halves Are Alike](problems/1704.determine-if-string-halves-are-alike.cpp) | 🟢 Easy | C++ |
