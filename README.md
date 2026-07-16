@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2224 solved** — 🟢 528 Easy · 🟡 1294 Medium · 🔴 393 Hard
+**2225 solved** — 🟢 528 Easy · 🟡 1295 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2082,6 +2082,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3720](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/) | [Lexicographically Smallest Permutation Greater Than Target](problems/3720.lexicographically-smallest-permutation-greater-than-target.cpp) | 🟡 Medium | C++ |
 | [3721](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [Longest Balanced Subarray II](problems/3721.longest-balanced-subarray-ii.cpp) | 🔴 Hard | C++ |
 | [3722](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse/) | [Lexicographically Smallest String After Reverse](problems/3722.lexicographically-smallest-string-after-reverse.cpp) | 🟡 Medium | C++ |
+| [3723](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | [Maximize Sum of Squares of Digits](problems/3723.maximize-sum-of-squares-of-digits.cpp) | 🟡 Medium | C++ |
 | [3724](https://leetcode.com/problems/minimum-operations-to-transform-array/) | [Minimum Operations to Transform Array](problems/3724.minimum-operations-to-transform-array.cpp) | 🟡 Medium | C++ |
 | [3725](https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/) | [Count Ways to Choose Coprime Integers from Rows](problems/3725.count-ways-to-choose-coprime-integers-from-rows.cpp) | 🔴 Hard | C++ |
 | [3726](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | [Remove Zeros in Decimal Representation](problems/3726.remove-zeros-in-decimal-representation.cpp) | 🟢 Easy | C++ |
