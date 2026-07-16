@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2359 solved** — 🟢 528 Easy · 🟡 1428 Medium · 🔴 393 Hard
+**2360 solved** — 🟢 528 Easy · 🟡 1429 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1111,6 +1111,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | [Maximum Number of Consecutive Values You Can Make](problems/1798.maximum-number-of-consecutive-values-you-can-make.cpp) | 🟡 Medium | C++ |
 | [1799](https://leetcode.com/problems/maximize-score-after-n-operations/) | [Maximize Score After N Operations](problems/1799.maximize-score-after-n-operations.cpp) | 🔴 Hard | C++ |
 | [1801](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | [Number of Orders in the Backlog](problems/1801.number-of-orders-in-the-backlog.cpp) | 🟡 Medium | C++ |
+| [1802](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [Maximum Value at a Given Index in a Bounded Array](problems/1802.maximum-value-at-a-given-index-in-a-bounded-array.cpp) | 🟡 Medium | C++ |
 | [1803](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [Count Pairs With XOR in a Range](problems/1803.count-pairs-with-xor-in-a-range.cpp) | 🔴 Hard | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
