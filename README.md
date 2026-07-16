@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2302 solved** — 🟢 528 Easy · 🟡 1371 Medium · 🔴 393 Hard
+**2303 solved** — 🟢 528 Easy · 🟡 1372 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1041,6 +1041,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1720](https://leetcode.com/problems/decode-xored-array/) | [Decode XORed Array](problems/1720.decode-xored-array.cpp) | 🟢 Easy | C++ |
 | [1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Swapping Nodes in a Linked List](problems/1721.swapping-nodes-in-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Minimize Hamming Distance After Swap Operations](problems/1722.minimize-hamming-distance-after-swap-operations.cpp) | 🟡 Medium | C++ |
+| [1726](https://leetcode.com/problems/tuple-with-same-product/) | [Tuple with Same Product](problems/1726.tuple-with-same-product.cpp) | 🟡 Medium | C++ |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](problems/1727.largest-submatrix-with-rearrangements.cpp) | 🟡 Medium | C++ |
 | [1729](https://leetcode.com/problems/find-followers-count/) | [Find Followers Count](problems/1729.find-followers-count.sql) | 🟢 Easy | mysql |
 | [1731](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | [The Number of Employees Which Report to Each Employee](problems/1731.the-number-of-employees-which-report-to-each-employee.sql) | 🟢 Easy | mysql |
