@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2402 solved** — 🟢 528 Easy · 🟡 1471 Medium · 🔴 393 Hard
+**2403 solved** — 🟢 528 Easy · 🟡 1472 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -153,6 +153,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [155](https://leetcode.com/problems/min-stack/) | [Min Stack](problems/155.min-stack.cpp) | 🟡 Medium | C++ |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Intersection of Two Linked Lists](problems/160.intersection-of-two-linked-lists.cpp) | 🟢 Easy | C++ |
 | [162](https://leetcode.com/problems/find-peak-element/) | [Find Peak Element](problems/162.find-peak-element.cpp) | 🟡 Medium | C++ |
+| [164](https://leetcode.com/problems/maximum-gap/) | [Maximum Gap](problems/164.maximum-gap.cpp) | 🟡 Medium | C++ |
 | [165](https://leetcode.com/problems/compare-version-numbers/) | [Compare Version Numbers](problems/165.compare-version-numbers.cpp) | 🟡 Medium | C++ |
 | [166](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Fraction to Recurring Decimal](problems/166.fraction-to-recurring-decimal.cpp) | 🟡 Medium | C++ |
 | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Two Sum II - Input Array Is Sorted](problems/167.two-sum-ii-input-array-is-sorted.cpp) | 🟡 Medium | C++ |
