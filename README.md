@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2168 solved** — 🟢 528 Easy · 🟡 1240 Medium · 🔴 393 Hard
+**2169 solved** — 🟢 528 Easy · 🟡 1241 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -348,6 +348,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [538](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](problems/538.convert-bst-to-greater-tree.cpp) | 🟡 Medium | C++ |
 | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Single Element in a Sorted Array](problems/540.single-element-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [541](https://leetcode.com/problems/reverse-string-ii/) | [Reverse String II](problems/541.reverse-string-ii.cpp) | 🟢 Easy | C++ |
+| [542](https://leetcode.com/problems/01-matrix/) | [01 Matrix](problems/542.01-matrix.cpp) | 🟡 Medium | C++ |
 | [543](https://leetcode.com/problems/diameter-of-binary-tree/) | [Diameter of Binary Tree](problems/543.diameter-of-binary-tree.cpp) | 🟢 Easy | C++ |
 | [547](https://leetcode.com/problems/number-of-provinces/) | [Number of Provinces](problems/547.number-of-provinces.cpp) | 🟡 Medium | C++ |
 | [550](https://leetcode.com/problems/game-play-analysis-iv/) | [Game Play Analysis IV](problems/550.game-play-analysis-iv.sql) | 🟡 Medium | mysql |
