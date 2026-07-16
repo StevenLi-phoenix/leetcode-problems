@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2298 solved** — 🟢 528 Easy · 🟡 1367 Medium · 🔴 393 Hard
+**2299 solved** — 🟢 528 Easy · 🟡 1368 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2061,6 +2061,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3584](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/) | [Maximum Product of First and Last Elements of a Subsequence](problems/3584.maximum-product-of-first-and-last-elements-of-a-subsequence.cpp) | 🟡 Medium | C++ |
 | [3585](https://leetcode.com/problems/find-weighted-median-node-in-tree/) | [Find Weighted Median Node in Tree](problems/3585.find-weighted-median-node-in-tree.cpp) | 🔴 Hard | C++ |
 | [3586](https://leetcode.com/problems/find-covid-recovery-patients/) | [Find COVID Recovery Patients](problems/3586.find-covid-recovery-patients.sql) | 🟡 Medium | mysql |
+| [3587](https://leetcode.com/problems/minimum-adjacent-swaps-to-alternate-parity/) | [Minimum Adjacent Swaps to Alternate Parity](problems/3587.minimum-adjacent-swaps-to-alternate-parity.cpp) | 🟡 Medium | C++ |
 | [3588](https://leetcode.com/problems/find-maximum-area-of-a-triangle/) | [Find Maximum Area of a Triangle](problems/3588.find-maximum-area-of-a-triangle.cpp) | 🟡 Medium | C++ |
 | [3591](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Check if Any Element Has Prime Frequency](problems/3591.check-if-any-element-has-prime-frequency.cpp) | 🟢 Easy | C++ |
 | [3592](https://leetcode.com/problems/inverse-coin-change/) | [Inverse Coin Change](problems/3592.inverse-coin-change.cpp) | 🟡 Medium | C++ |
