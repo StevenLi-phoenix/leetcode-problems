@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2362 solved** — 🟢 528 Easy · 🟡 1431 Medium · 🔴 393 Hard
+**2363 solved** — 🟢 528 Easy · 🟡 1432 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1337,6 +1337,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2172](https://leetcode.com/problems/maximum-and-sum-of-array/) | [Maximum AND Sum of Array](problems/2172.maximum-and-sum-of-array.cpp) | 🔴 Hard | C++ |
 | [2177](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Find Three Consecutive Integers That Sum to a Given Number](problems/2177.find-three-consecutive-integers-that-sum-to-a-given-number.cpp) | 🟡 Medium | C++ |
 | [2178](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Maximum Split of Positive Even Integers](problems/2178.maximum-split-of-positive-even-integers.cpp) | 🟡 Medium | C++ |
+| [2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Merge Nodes in Between Zeros](problems/2181.merge-nodes-in-between-zeros.cpp) | 🟡 Medium | C++ |
 | [2182](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Construct String With Repeat Limit](problems/2182.construct-string-with-repeat-limit.cpp) | 🟡 Medium | C++ |
 | [2185](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [Counting Words With a Given Prefix](problems/2185.counting-words-with-a-given-prefix.cpp) | 🟢 Easy | C++ |
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [Minimum Number of Steps to Make Two Strings Anagram II](problems/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.cpp) | 🟡 Medium | C++ |
