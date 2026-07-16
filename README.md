@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2380 solved** — 🟢 528 Easy · 🟡 1449 Medium · 🔴 393 Hard
+**2381 solved** — 🟢 528 Easy · 🟡 1450 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1433,6 +1433,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Move Pieces to Obtain a String](problems/2337.move-pieces-to-obtain-a-string.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
 | [2341](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [Maximum Number of Pairs in Array](problems/2341.maximum-number-of-pairs-in-array.cpp) | 🟢 Easy | C++ |
+| [2343](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | [Query Kth Smallest Trimmed Number](problems/2343.query-kth-smallest-trimmed-number.cpp) | 🟡 Medium | C++ |
 | [2344](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [Minimum Deletions to Make Array Divisible](problems/2344.minimum-deletions-to-make-array-divisible.cpp) | 🔴 Hard | C++ |
 | [2347](https://leetcode.com/problems/best-poker-hand/) | [Best Poker Hand](problems/2347.best-poker-hand.cpp) | 🟢 Easy | C++ |
 | [2348](https://leetcode.com/problems/number-of-zero-filled-subarrays/) | [Number of Zero-Filled Subarrays](problems/2348.number-of-zero-filled-subarrays.cpp) | 🟡 Medium | C++ |
