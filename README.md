@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2333 solved** — 🟢 528 Easy · 🟡 1402 Medium · 🔴 393 Hard
+**2334 solved** — 🟢 528 Easy · 🟡 1403 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2081,6 +2081,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3560](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [Find Minimum Log Transportation Cost](problems/3560.find-minimum-log-transportation-cost.cpp) | 🟢 Easy | C++ |
 | [3561](https://leetcode.com/problems/resulting-string-after-adjacent-removals/) | [Resulting String After Adjacent Removals](problems/3561.resulting-string-after-adjacent-removals.cpp) | 🟡 Medium | C++ |
 | [3562](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Maximum Profit from Trading Stocks with Discounts](problems/3562.maximum-profit-from-trading-stocks-with-discounts.cpp) | 🔴 Hard | C++ |
+| [3564](https://leetcode.com/problems/seasonal-sales-analysis/) | [Seasonal Sales Analysis](problems/3564.seasonal-sales-analysis.sql) | 🟡 Medium | mysql |
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
 | [3570](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Find Books with No Available Copies](problems/3570.find-books-with-no-available-copies.sql) | 🟢 Easy | mysql |
 | [3572](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](problems/3572.maximize-ysum-by-picking-a-triplet-of-distinct-xvalues.cpp) | 🟡 Medium | C++ |
