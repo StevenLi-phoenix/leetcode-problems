@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2192 solved** — 🟢 528 Easy · 🟡 1264 Medium · 🔴 393 Hard
+**2193 solved** — 🟢 528 Easy · 🟡 1265 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -693,6 +693,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1117](https://leetcode.com/problems/building-h2o/) | [Building H2O](problems/1117.building-h2o.cpp) | 🟡 Medium | C++ |
 | [1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](problems/1123.lowest-common-ancestor-of-deepest-leaves.cpp) | 🟡 Medium | C++ |
 | [1125](https://leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](problems/1125.smallest-sufficient-team.cpp) | 🔴 Hard | C++ |
+| [1129](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Shortest Path with Alternating Colors](problems/1129.shortest-path-with-alternating-colors.cpp) | 🟡 Medium | C++ |
 | [1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Minimum Cost Tree From Leaf Values](problems/1130.minimum-cost-tree-from-leaf-values.cpp) | 🟡 Medium | C++ |
 | [1131](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [Maximum of Absolute Value Expression](problems/1131.maximum-of-absolute-value-expression.cpp) | 🟡 Medium | C++ |
 | [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
