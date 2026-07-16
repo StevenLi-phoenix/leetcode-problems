@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2414 solved** — 🟢 528 Easy · 🟡 1483 Medium · 🔴 393 Hard
+**2415 solved** — 🟢 528 Easy · 🟡 1484 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2058,6 +2058,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3405](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Count the Number of Arrays with K Matching Adjacent Elements](problems/3405.count-the-number-of-arrays-with-k-matching-adjacent-elements.cpp) | 🔴 Hard | C++ |
 | [3407](https://leetcode.com/problems/substring-matching-pattern/) | [Substring Matching Pattern](problems/3407.substring-matching-pattern.cpp) | 🟢 Easy | C++ |
 | [3408](https://leetcode.com/problems/design-task-manager/) | [Design Task Manager](problems/3408.design-task-manager.cpp) | 🟡 Medium | C++ |
+| [3409](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/) | [Longest Subsequence With Decreasing Adjacent Difference](problems/3409.longest-subsequence-with-decreasing-adjacent-difference.cpp) | 🟡 Medium | C++ |
 | [3411](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Maximum Subarray With Equal Products](problems/3411.maximum-subarray-with-equal-products.cpp) | 🟢 Easy | C++ |
 | [3412](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [Find Mirror Score of a String](problems/3412.find-mirror-score-of-a-string.cpp) | 🟡 Medium | C++ |
 | [3413](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/) | [Maximum Coins From K Consecutive Bags](problems/3413.maximum-coins-from-k-consecutive-bags.cpp) | 🟡 Medium | C++ |
