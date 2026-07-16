@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2254 solved** — 🟢 528 Easy · 🟡 1323 Medium · 🔴 393 Hard
+**2255 solved** — 🟢 528 Easy · 🟡 1324 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -91,6 +91,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](problems/83.remove-duplicates-from-sorted-list.cpp) | 🟢 Easy | C++ |
 | [84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Largest Rectangle in Histogram](problems/84.largest-rectangle-in-histogram.cpp) | 🔴 Hard | C++ |
 | [85](https://leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](problems/85.maximal-rectangle.cpp) | 🔴 Hard | C++ |
+| [86](https://leetcode.com/problems/partition-list/) | [Partition List](problems/86.partition-list.cpp) | 🟡 Medium | C++ |
 | [87](https://leetcode.com/problems/scramble-string/) | [Scramble String](problems/87.scramble-string.cpp) | 🔴 Hard | C++ |
 | [89](https://leetcode.com/problems/gray-code/) | [Gray Code](problems/89.gray-code.cpp) | 🟡 Medium | C++ |
 | [90](https://leetcode.com/problems/subsets-ii/) | [Subsets II](problems/90.subsets-ii.cpp) | 🟡 Medium | C++ |
