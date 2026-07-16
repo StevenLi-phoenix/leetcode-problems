@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2371 solved** — 🟢 528 Easy · 🟡 1440 Medium · 🔴 393 Hard
+**2372 solved** — 🟢 528 Easy · 🟡 1441 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1770,6 +1770,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2939](https://leetcode.com/problems/maximum-xor-product/) | [Maximum Xor Product](problems/2939.maximum-xor-product.cpp) | 🟡 Medium | C++ |
 | [2942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](problems/2942.find-words-containing-character.cpp) | 🟢 Easy | C++ |
 | [2943](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](problems/2943.maximize-area-of-square-hole-in-grid.cpp) | 🟡 Medium | C++ |
+| [2944](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/) | [Minimum Number of Coins for Fruits](problems/2944.minimum-number-of-coins-for-fruits.cpp) | 🟡 Medium | C++ |
 | [2945](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/) | [Find Maximum Non-decreasing Array Length](problems/2945.find-maximum-non-decreasing-array-length.cpp) | 🔴 Hard | C++ |
 | [2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Matrix Similarity After Cyclic Shifts](problems/2946.matrix-similarity-after-cyclic-shifts.cpp) | 🟢 Easy | C++ |
 | [2947](https://leetcode.com/problems/count-beautiful-substrings-i/) | [Count Beautiful Substrings I](problems/2947.count-beautiful-substrings-i.cpp) | 🟡 Medium | C++ |
