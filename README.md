@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2305 solved** — 🟢 528 Easy · 🟡 1374 Medium · 🔴 393 Hard
+**2306 solved** — 🟢 528 Easy · 🟡 1375 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1716,6 +1716,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2924](https://leetcode.com/problems/find-champion-ii/) | [Find Champion II](problems/2924.find-champion-ii.cpp) | 🟡 Medium | C++ |
 | [2925](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | [Maximum Score After Applying Operations on a Tree](problems/2925.maximum-score-after-applying-operations-on-a-tree.cpp) | 🟡 Medium | C++ |
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
+| [2929](https://leetcode.com/problems/distribute-candies-among-children-ii/) | [Distribute Candies Among Children II](problems/2929.distribute-candies-among-children-ii.cpp) | 🟡 Medium | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
 | [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
 | [2934](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/) | [Minimum Operations to Maximize Last Elements in Arrays](problems/2934.minimum-operations-to-maximize-last-elements-in-arrays.cpp) | 🟡 Medium | C++ |
