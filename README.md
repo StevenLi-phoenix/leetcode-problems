@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2283 solved** — 🟢 528 Easy · 🟡 1352 Medium · 🔴 393 Hard
+**2284 solved** — 🟢 528 Easy · 🟡 1353 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -893,6 +893,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](problems/1458.max-dot-product-of-two-subsequences.cpp) | 🔴 Hard | C++ |
 | [1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [Make Two Arrays Equal by Reversing Subarrays](problems/1460.make-two-arrays-equal-by-reversing-subarrays.cpp) | 🟢 Easy | C++ |
 | [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Check If a String Contains All Binary Codes of Size K](problems/1461.check-if-a-string-contains-all-binary-codes-of-size-k.cpp) | 🟡 Medium | C++ |
+| [1462](https://leetcode.com/problems/course-schedule-iv/) | [Course Schedule IV](problems/1462.course-schedule-iv.cpp) | 🟡 Medium | C++ |
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Maximum Product of Two Elements in an Array](problems/1464.maximum-product-of-two-elements-in-an-array.cpp) | 🟢 Easy | C++ |
 | [1465](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](problems/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.cpp) | 🟡 Medium | C++ |
 | [1466](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Reorder Routes to Make All Paths Lead to the City Zero](problems/1466.reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp) | 🟡 Medium | C++ |
