@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2401 solved** — 🟢 528 Easy · 🟡 1470 Medium · 🔴 393 Hard
+**2402 solved** — 🟢 528 Easy · 🟡 1471 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2395,6 +2395,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3964](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | [Minimum Lights to Illuminate a Road](problems/3964.minimum-lights-to-illuminate-a-road.cpp) | 🟡 Medium | C++ |
 | [3965](https://leetcode.com/problems/finish-time-of-tasks-i/) | [Finish Time of Tasks I](problems/3965.finish-time-of-tasks-i.cpp) | 🟡 Medium | C++ |
 | [3966](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Count Good Integers in a Range](problems/3966.count-good-integers-in-a-range.cpp) | 🔴 Hard | C++ |
+| [3968](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) | [Maximum Manhattan Distance After All Moves](problems/3968.maximum-manhattan-distance-after-all-moves.cpp) | 🟡 Medium | C++ |
 | [3969](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) | [Valid Subarrays With Matching Sum Digits I](problems/3969.valid-subarrays-with-matching-sum-digits-i.cpp) | 🟡 Medium | C++ |
 | [3970](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Shortest Path With At Most K Consecutive Identical Characters](problems/3970.shortest-path-with-at-most-k-consecutive-identical-characters.cpp) | 🟡 Medium | C++ |
 | [3974](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | [Maximum Total Sum of K Selected Elements](problems/3974.maximum-total-sum-of-k-selected-elements.cpp) | — | C++ |
