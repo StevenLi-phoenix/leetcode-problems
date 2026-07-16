@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2235 solved** — 🟢 528 Easy · 🟡 1304 Medium · 🔴 393 Hard
+**2236 solved** — 🟢 528 Easy · 🟡 1305 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1812,6 +1812,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
 | [3209](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | [Number of Subarrays With AND Value of K](problems/3209.number-of-subarrays-with-and-value-of-k.cpp) | 🔴 Hard | C++ |
 | [3210](https://leetcode.com/problems/find-the-encrypted-string/) | [Find the Encrypted String](problems/3210.find-the-encrypted-string.cpp) | 🟢 Easy | C++ |
+| [3211](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/) | [Generate Binary Strings Without Adjacent Zeros](problems/3211.generate-binary-strings-without-adjacent-zeros.cpp) | 🟡 Medium | C++ |
 | [3212](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/) | [Count Submatrices With Equal Frequency of X and Y](problems/3212.count-submatrices-with-equal-frequency-of-x-and-y.cpp) | 🟡 Medium | C++ |
 | [3213](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [Construct String with Minimum Cost](problems/3213.construct-string-with-minimum-cost.cpp) | 🔴 Hard | C++ |
 | [3216](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [Lexicographically Smallest String After a Swap](problems/3216.lexicographically-smallest-string-after-a-swap.cpp) | 🟢 Easy | C++ |
