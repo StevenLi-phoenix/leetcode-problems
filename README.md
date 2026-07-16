@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2463 solved** — 🟢 528 Easy · 🟡 1532 Medium · 🔴 393 Hard
+**2464 solved** — 🟢 528 Easy · 🟡 1533 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1116,6 +1116,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1737](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [Change Minimum Characters to Satisfy One of Three Conditions](problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.cpp) | 🟡 Medium | C++ |
 | [1738](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Find Kth Largest XOR Coordinate Value](problems/1738.find-kth-largest-xor-coordinate-value.cpp) | 🟡 Medium | C++ |
 | [1742](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Maximum Number of Balls in a Box](problems/1742.maximum-number-of-balls-in-a-box.cpp) | 🟢 Easy | C++ |
+| [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [Restore the Array From Adjacent Pairs](problems/1743.restore-the-array-from-adjacent-pairs.cpp) | 🟡 Medium | C++ |
 | [1744](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [Can You Eat Your Favorite Candy on Your Favorite Day?](problems/1744.can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | 🟡 Medium | C++ |
 | [1745](https://leetcode.com/problems/palindrome-partitioning-iv/) | [Palindrome Partitioning IV](problems/1745.palindrome-partitioning-iv.cpp) | 🔴 Hard | C++ |
 | [1748](https://leetcode.com/problems/sum-of-unique-elements/) | [Sum of Unique Elements](problems/1748.sum-of-unique-elements.cpp) | 🟢 Easy | C++ |
