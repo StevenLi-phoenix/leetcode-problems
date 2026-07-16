@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2338 solved** — 🟢 528 Easy · 🟡 1407 Medium · 🔴 393 Hard
+**2339 solved** — 🟢 528 Easy · 🟡 1408 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -996,6 +996,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1617](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/) | [Count Subtrees With Max Distance Between Cities](problems/1617.count-subtrees-with-max-distance-between-cities.cpp) | 🔴 Hard | C++ |
 | [1619](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [Mean of Array After Removing Some Elements](problems/1619.mean-of-array-after-removing-some-elements.cpp) | 🟢 Easy | C++ |
 | [1620](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | [Coordinate With Maximum Network Quality](problems/1620.coordinate-with-maximum-network-quality.cpp) | 🟡 Medium | C++ |
+| [1621](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Number of Sets of K Non-Overlapping Line Segments](problems/1621.number-of-sets-of-k-non-overlapping-line-segments.cpp) | 🟡 Medium | C++ |
 | [1622](https://leetcode.com/problems/fancy-sequence/) | [Fancy Sequence](problems/1622.fancy-sequence.cpp) | 🔴 Hard | C++ |
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](problems/1624.largest-substring-between-two-equal-characters.cpp) | 🟢 Easy | C++ |
 | [1626](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Best Team With No Conflicts](problems/1626.best-team-with-no-conflicts.cpp) | 🟡 Medium | C++ |
