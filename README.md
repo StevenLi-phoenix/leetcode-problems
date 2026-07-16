@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2177 solved** — 🟢 528 Easy · 🟡 1249 Medium · 🔴 393 Hard
+**2178 solved** — 🟢 528 Easy · 🟡 1250 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1261,6 +1261,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2232](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [Minimize Result by Adding Parentheses to Expression](problems/2232.minimize-result-by-adding-parentheses-to-expression.cpp) | 🟡 Medium | C++ |
 | [2236](https://leetcode.com/problems/root-equals-sum-of-children/) | [Root Equals Sum of Children](problems/2236.root-equals-sum-of-children.cpp) | 🟢 Easy | C++ |
 | [2239](https://leetcode.com/problems/find-closest-number-to-zero/) | [Find Closest Number to Zero](problems/2239.find-closest-number-to-zero.cpp) | 🟢 Easy | C++ |
+| [2240](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [Number of Ways to Buy Pens and Pencils](problems/2240.number-of-ways-to-buy-pens-and-pencils.cpp) | 🟡 Medium | C++ |
 | [2243](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [Calculate Digit Sum of a String](problems/2243.calculate-digit-sum-of-a-string.cpp) | 🟢 Easy | C++ |
 | [2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [Minimum Rounds to Complete All Tasks](problems/2244.minimum-rounds-to-complete-all-tasks.cpp) | 🟡 Medium | C++ |
 | [2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [Longest Path With Different Adjacent Characters](problems/2246.longest-path-with-different-adjacent-characters.cpp) | 🔴 Hard | C++ |
