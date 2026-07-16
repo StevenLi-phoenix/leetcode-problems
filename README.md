@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2226 solved** — 🟢 528 Easy · 🟡 1296 Medium · 🔴 393 Hard
+**2227 solved** — 🟢 528 Easy · 🟡 1297 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1598,6 +1598,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Count Paths That Can Form a Palindrome in a Tree](problems/2791.count-paths-that-can-form-a-palindrome-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number of Employees Who Met the Target](problems/2798.number-of-employees-who-met-the-target.cpp) | 🟢 Easy | C++ |
 | [2806](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Account Balance After Rounded Purchase](problems/2806.account-balance-after-rounded-purchase.cpp) | 🟢 Easy | C++ |
+| [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Insert Greatest Common Divisors in Linked List](problems/2807.insert-greatest-common-divisors-in-linked-list.cpp) | 🟡 Medium | C++ |
 | [2808](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | [Minimum Seconds to Equalize a Circular Array](problems/2808.minimum-seconds-to-equalize-a-circular-array.cpp) | 🟡 Medium | C++ |
 | [2809](https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/) | [Minimum Time to Make Array Sum At Most x](problems/2809.minimum-time-to-make-array-sum-at-most-x.cpp) | 🔴 Hard | C++ |
 | [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Double a Number Represented as a Linked List](problems/2816.double-a-number-represented-as-a-linked-list.cpp) | 🟡 Medium | C++ |
