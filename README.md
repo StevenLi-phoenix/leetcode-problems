@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2346 solved** — 🟢 528 Easy · 🟡 1415 Medium · 🔴 393 Hard
+**2347 solved** — 🟢 528 Easy · 🟡 1416 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1277,6 +1277,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2091](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Removing Minimum and Maximum From Array](problems/2091.removing-minimum-and-maximum-from-array.cpp) | 🟡 Medium | C++ |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](problems/2092.find-all-people-with-secret.cpp) | 🔴 Hard | C++ |
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Delete the Middle Node of a Linked List](problems/2095.delete-the-middle-node-of-a-linked-list.cpp) | 🟡 Medium | C++ |
+| [2096](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Step-By-Step Directions From a Binary Tree Node to Another](problems/2096.step-by-step-directions-from-a-binary-tree-node-to-another.cpp) | 🟡 Medium | C++ |
 | [2097](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Valid Arrangement of Pairs](problems/2097.valid-arrangement-of-pairs.cpp) | 🔴 Hard | C++ |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Find Subsequence of Length K With the Largest Sum](problems/2099.find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 Easy | C++ |
 | [2100](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | [Find Good Days to Rob the Bank](problems/2100.find-good-days-to-rob-the-bank.cpp) | 🟡 Medium | C++ |
