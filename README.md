@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2303 solved** — 🟢 528 Easy · 🟡 1372 Medium · 🔴 393 Hard
+**2304 solved** — 🟢 528 Easy · 🟡 1373 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1833,6 +1833,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3144](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/) | [Minimum Substring Partition of Equal Character Frequency](problems/3144.minimum-substring-partition-of-equal-character-frequency.cpp) | 🟡 Medium | C++ |
 | [3146](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Permutation Difference between Two Strings](problems/3146.permutation-difference-between-two-strings.cpp) | 🟢 Easy | C++ |
 | [3147](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | [Taking Maximum Energy From the Mystic Dungeon](problems/3147.taking-maximum-energy-from-the-mystic-dungeon.cpp) | 🟡 Medium | C++ |
+| [3148](https://leetcode.com/problems/maximum-difference-score-in-a-grid/) | [Maximum Difference Score in a Grid](problems/3148.maximum-difference-score-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [3151](https://leetcode.com/problems/special-array-i/) | [Special Array I](problems/3151.special-array-i.cpp) | 🟢 Easy | C++ |
 | [3152](https://leetcode.com/problems/special-array-ii/) | [Special Array II](problems/3152.special-array-ii.cpp) | 🟡 Medium | C++ |
 | [3153](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/) | [Sum of Digit Differences of All Pairs](problems/3153.sum-of-digit-differences-of-all-pairs.cpp) | 🟡 Medium | C++ |
