@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2196 solved** — 🟢 528 Easy · 🟡 1268 Medium · 🔴 393 Hard
+**2197 solved** — 🟢 528 Easy · 🟡 1269 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1039,6 +1039,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1803](https://leetcode.com/problems/count-pairs-with-xor-in-a-range/) | [Count Pairs With XOR in a Range](problems/1803.count-pairs-with-xor-in-a-range.cpp) | 🔴 Hard | C++ |
 | [1805](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [Number of Different Integers in a String](problems/1805.number-of-different-integers-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
+| [1807](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Evaluate the Bracket Pairs of a String](problems/1807.evaluate-the-bracket-pairs-of-a-string.cpp) | 🟡 Medium | C++ |
 | [1808](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | [Maximize Number of Nice Divisors](problems/1808.maximize-number-of-nice-divisors.cpp) | 🔴 Hard | C++ |
 | [1813](https://leetcode.com/problems/sentence-similarity-iii/) | [Sentence Similarity III](problems/1813.sentence-similarity-iii.cpp) | 🟡 Medium | C++ |
 | [1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [Count Nice Pairs in an Array](problems/1814.count-nice-pairs-in-an-array.cpp) | 🟡 Medium | C++ |
