@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2384 solved** — 🟢 528 Easy · 🟡 1453 Medium · 🔴 393 Hard
+**2385 solved** — 🟢 528 Easy · 🟡 1454 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1246,6 +1246,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2013](https://leetcode.com/problems/detect-squares/) | [Detect Squares](problems/2013.detect-squares.cpp) | 🟡 Medium | C++ |
 | [2014](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [Longest Subsequence Repeated k Times](problems/2014.longest-subsequence-repeated-k-times.cpp) | 🔴 Hard | C++ |
 | [2016](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [Maximum Difference Between Increasing Elements](problems/2016.maximum-difference-between-increasing-elements.cpp) | 🟢 Easy | C++ |
+| [2017](https://leetcode.com/problems/grid-game/) | [Grid Game](problems/2017.grid-game.cpp) | 🟡 Medium | C++ |
 | [2018](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Check if Word Can Be Placed In Crossword](problems/2018.check-if-word-can-be-placed-in-crossword.cpp) | 🟡 Medium | C++ |
 | [2019](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [The Score of Students Solving Math Expression](problems/2019.the-score-of-students-solving-math-expression.cpp) | 🔴 Hard | C++ |
 | [2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [Number of Pairs of Strings With Concatenation Equal to Target](problems/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.cpp) | 🟡 Medium | C++ |
