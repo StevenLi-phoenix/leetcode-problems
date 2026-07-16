@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2353 solved** — 🟢 528 Easy · 🟡 1422 Medium · 🔴 393 Hard
+**2354 solved** — 🟢 528 Easy · 🟡 1423 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1203,6 +1203,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Remove Stones to Minimize the Total](problems/1962.remove-stones-to-minimize-the-total.cpp) | 🟡 Medium | C++ |
 | [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Minimum Number of Swaps to Make the String Balanced](problems/1963.minimum-number-of-swaps-to-make-the-string-balanced.cpp) | 🟡 Medium | C++ |
 | [1967](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Number of Strings That Appear as Substrings in Word](problems/1967.number-of-strings-that-appear-as-substrings-in-word.cpp) | 🟢 Easy | C++ |
+| [1968](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [Array With Elements Not Equal to Average of Neighbors](problems/1968.array-with-elements-not-equal-to-average-of-neighbors.cpp) | 🟡 Medium | C++ |
 | [1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Last Day Where You Can Still Cross](problems/1970.last-day-where-you-can-still-cross.cpp) | 🔴 Hard | C++ |
 | [1975](https://leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](problems/1975.maximum-matrix-sum.cpp) | 🟡 Medium | C++ |
 | [1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Number of Ways to Arrive at Destination](problems/1976.number-of-ways-to-arrive-at-destination.cpp) | 🟡 Medium | C++ |
