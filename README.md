@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2358 solved** — 🟢 528 Easy · 🟡 1427 Medium · 🔴 393 Hard
+**2359 solved** — 🟢 528 Easy · 🟡 1428 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -597,6 +597,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [901](https://leetcode.com/problems/online-stock-span/) | [Online Stock Span](problems/901.online-stock-span.cpp) | 🟡 Medium | C++ |
 | [904](https://leetcode.com/problems/fruit-into-baskets/) | [Fruit Into Baskets](problems/904.fruit-into-baskets.cpp) | 🟡 Medium | C++ |
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](problems/905.sort-array-by-parity.cpp) | 🟢 Easy | C++ |
+| [907](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Sum of Subarray Minimums](problems/907.sum-of-subarray-minimums.cpp) | 🟡 Medium | C++ |
 | [909](https://leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](problems/909.snakes-and-ladders.cpp) | 🟡 Medium | C++ |
 | [911](https://leetcode.com/problems/online-election/) | [Online Election](problems/911.online-election.cpp) | 🟡 Medium | C++ |
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](problems/912.sort-an-array.cpp) | 🟡 Medium | C++ |
