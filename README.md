@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2452 solved** — 🟢 528 Easy · 🟡 1521 Medium · 🔴 393 Hard
+**2453 solved** — 🟢 528 Easy · 🟡 1522 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -855,6 +855,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Number of Operations to Make Network Connected](problems/1319.number-of-operations-to-make-network-connected.cpp) | 🟡 Medium | C++ |
 | [1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimum Distance to Type a Word Using Two Fingers](problems/1320.minimum-distance-to-type-a-word-using-two-fingers.cpp) | 🔴 Hard | C++ |
 | [1321](https://leetcode.com/problems/restaurant-growth/) | [Restaurant Growth](problems/1321.restaurant-growth.sql) | 🟡 Medium | mysql |
+| [1324](https://leetcode.com/problems/print-words-vertically/) | [Print Words Vertically](problems/1324.print-words-vertically.cpp) | 🟡 Medium | C++ |
 | [1326](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Minimum Number of Taps to Open to Water a Garden](problems/1326.minimum-number-of-taps-to-open-to-water-a-garden.cpp) | 🔴 Hard | C++ |
 | [1328](https://leetcode.com/problems/break-a-palindrome/) | [Break a Palindrome](problems/1328.break-a-palindrome.cpp) | 🟡 Medium | C++ |
 | [1329](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Sort the Matrix Diagonally](problems/1329.sort-the-matrix-diagonally.cpp) | 🟡 Medium | C++ |
