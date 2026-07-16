@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2304 solved** — 🟢 528 Easy · 🟡 1373 Medium · 🔴 393 Hard
+**2305 solved** — 🟢 528 Easy · 🟡 1374 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1943,6 +1943,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3357](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Minimize the Maximum Adjacent Element Difference](problems/3357.minimize-the-maximum-adjacent-element-difference.cpp) | 🔴 Hard | C++ |
 | [3360](https://leetcode.com/problems/stone-removal-game/) | [Stone Removal Game](problems/3360.stone-removal-game.cpp) | 🟢 Easy | C++ |
 | [3361](https://leetcode.com/problems/shift-distance-between-two-strings/) | [Shift Distance Between Two Strings](problems/3361.shift-distance-between-two-strings.cpp) | 🟡 Medium | C++ |
+| [3362](https://leetcode.com/problems/zero-array-transformation-iii/) | [Zero Array Transformation III](problems/3362.zero-array-transformation-iii.cpp) | 🟡 Medium | C++ |
 | [3363](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Find the Maximum Number of Fruits Collected](problems/3363.find-the-maximum-number-of-fruits-collected.cpp) | 🔴 Hard | C++ |
 | [3365](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/) | [Rearrange K Substrings to Form Target String](problems/3365.rearrange-k-substrings-to-form-target-string.cpp) | 🟡 Medium | C++ |
 | [3366](https://leetcode.com/problems/minimum-array-sum/) | [Minimum Array Sum](problems/3366.minimum-array-sum.cpp) | 🟡 Medium | C++ |
