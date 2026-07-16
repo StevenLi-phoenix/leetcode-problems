@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2256 solved** — 🟢 528 Easy · 🟡 1325 Medium · 🔴 393 Hard
+**2257 solved** — 🟢 528 Easy · 🟡 1326 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -568,6 +568,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [888](https://leetcode.com/problems/fair-candy-swap/) | [Fair Candy Swap](problems/888.fair-candy-swap.cpp) | 🟢 Easy | C++ |
 | [890](https://leetcode.com/problems/find-and-replace-pattern/) | [Find and Replace Pattern](problems/890.find-and-replace-pattern.cpp) | 🟡 Medium | C++ |
 | [893](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Groups of Special-Equivalent Strings](problems/893.groups-of-special-equivalent-strings.cpp) | 🟡 Medium | C++ |
+| [894](https://leetcode.com/problems/all-possible-full-binary-trees/) | [All Possible Full Binary Trees](problems/894.all-possible-full-binary-trees.cpp) | 🟡 Medium | C++ |
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
 | [896](https://leetcode.com/problems/monotonic-array/) | [Monotonic Array](problems/896.monotonic-array.cpp) | 🟢 Easy | C++ |
 | [898](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Bitwise ORs of Subarrays](problems/898.bitwise-ors-of-subarrays.cpp) | 🟡 Medium | C++ |
