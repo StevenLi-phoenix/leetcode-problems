@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2328 solved** — 🟢 528 Easy · 🟡 1397 Medium · 🔴 393 Hard
+**2329 solved** — 🟢 528 Easy · 🟡 1398 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1999,6 +1999,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3427](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Sum of Variable Length Subarrays](problems/3427.sum-of-variable-length-subarrays.cpp) | 🟢 Easy | C++ |
 | [3429](https://leetcode.com/problems/paint-house-iv/) | [Paint House IV](problems/3429.paint-house-iv.cpp) | 🟡 Medium | C++ |
 | [3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Count Partitions with Even Sum Difference](problems/3432.count-partitions-with-even-sum-difference.cpp) | 🟢 Easy | C++ |
+| [3434](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/) | [Maximum Frequency After Subarray Operation](problems/3434.maximum-frequency-after-subarray-operation.cpp) | 🟡 Medium | C++ |
 | [3438](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [Find Valid Pair of Adjacent Digits in String](problems/3438.find-valid-pair-of-adjacent-digits-in-string.cpp) | 🟢 Easy | C++ |
 | [3439](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Reschedule Meetings for Maximum Free Time I](problems/3439.reschedule-meetings-for-maximum-free-time-i.cpp) | 🟡 Medium | C++ |
 | [3440](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | [Reschedule Meetings for Maximum Free Time II](problems/3440.reschedule-meetings-for-maximum-free-time-ii.cpp) | 🟡 Medium | C++ |
