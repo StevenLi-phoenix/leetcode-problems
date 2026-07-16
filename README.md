@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2255 solved** — 🟢 528 Easy · 🟡 1324 Medium · 🔴 393 Hard
+**2256 solved** — 🟢 528 Easy · 🟡 1325 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -734,6 +734,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1191](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [K-Concatenation Maximum Sum](problems/1191.k-concatenation-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1192](https://leetcode.com/problems/critical-connections-in-a-network/) | [Critical Connections in a Network](problems/1192.critical-connections-in-a-network.cpp) | 🔴 Hard | C++ |
 | [1200](https://leetcode.com/problems/minimum-absolute-difference/) | [Minimum Absolute Difference](problems/1200.minimum-absolute-difference.cpp) | 🟢 Easy | C++ |
+| [1201](https://leetcode.com/problems/ugly-number-iii/) | [Ugly Number III](problems/1201.ugly-number-iii.cpp) | 🟡 Medium | C++ |
 | [1202](https://leetcode.com/problems/smallest-string-with-swaps/) | [Smallest String With Swaps](problems/1202.smallest-string-with-swaps.cpp) | 🟡 Medium | C++ |
 | [1203](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Sort Items by Groups Respecting Dependencies](problems/1203.sort-items-by-groups-respecting-dependencies.cpp) | 🔴 Hard | C++ |
 | [1204](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Last Person to Fit in the Bus](problems/1204.last-person-to-fit-in-the-bus.sql) | 🟡 Medium | mysql |
