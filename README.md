@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2379 solved** — 🟢 528 Easy · 🟡 1448 Medium · 🔴 393 Hard
+**2380 solved** — 🟢 528 Easy · 🟡 1449 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -883,6 +883,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1389](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Create Target Array in the Given Order](problems/1389.create-target-array-in-the-given-order.cpp) | 🟢 Easy | C++ |
 | [1390](https://leetcode.com/problems/four-divisors/) | [Four Divisors](problems/1390.four-divisors.cpp) | 🟡 Medium | C++ |
 | [1391](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Check if There is a Valid Path in a Grid](problems/1391.check-if-there-is-a-valid-path-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [1393](https://leetcode.com/problems/capital-gainloss/) | [Capital Gain/Loss](problems/1393.capital-gainloss.sql) | 🟡 Medium | mysql |
 | [1395](https://leetcode.com/problems/count-number-of-teams/) | [Count Number of Teams](problems/1395.count-number-of-teams.cpp) | 🟡 Medium | C++ |
 | [1396](https://leetcode.com/problems/design-underground-system/) | [Design Underground System](problems/1396.design-underground-system.cpp) | 🟡 Medium | C++ |
 | [1397](https://leetcode.com/problems/find-all-good-strings/) | [Find All Good Strings](problems/1397.find-all-good-strings.cpp) | 🔴 Hard | C++ |
