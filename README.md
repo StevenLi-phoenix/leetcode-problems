@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2200 solved** — 🟢 528 Easy · 🟡 1272 Medium · 🔴 393 Hard
+**2201 solved** — 🟢 528 Easy · 🟡 1273 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -497,6 +497,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [808](https://leetcode.com/problems/soup-servings/) | [Soup Servings](problems/808.soup-servings.cpp) | 🟡 Medium | C++ |
 | [809](https://leetcode.com/problems/expressive-words/) | [Expressive Words](problems/809.expressive-words.cpp) | 🟡 Medium | C++ |
 | [810](https://leetcode.com/problems/chalkboard-xor-game/) | [Chalkboard XOR Game](problems/810.chalkboard-xor-game.cpp) | 🔴 Hard | C++ |
+| [811](https://leetcode.com/problems/subdomain-visit-count/) | [Subdomain Visit Count](problems/811.subdomain-visit-count.cpp) | 🟡 Medium | C++ |
 | [812](https://leetcode.com/problems/largest-triangle-area/) | [Largest Triangle Area](problems/812.largest-triangle-area.cpp) | 🟢 Easy | C++ |
 | [813](https://leetcode.com/problems/largest-sum-of-averages/) | [Largest Sum of Averages](problems/813.largest-sum-of-averages.cpp) | 🟡 Medium | C++ |
 | [814](https://leetcode.com/problems/binary-tree-pruning/) | [Binary Tree Pruning](problems/814.binary-tree-pruning.cpp) | 🟡 Medium | C++ |
