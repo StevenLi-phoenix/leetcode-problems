@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2209 solved** — 🟢 528 Easy · 🟡 1280 Medium · 🔴 393 Hard
+**2210 solved** — 🟢 528 Easy · 🟡 1281 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -399,6 +399,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [633](https://leetcode.com/problems/sum-of-square-numbers/) | [Sum of Square Numbers](problems/633.sum-of-square-numbers.cpp) | 🟡 Medium | C++ |
 | [636](https://leetcode.com/problems/exclusive-time-of-functions/) | [Exclusive Time of Functions](problems/636.exclusive-time-of-functions.cpp) | 🟡 Medium | C++ |
 | [638](https://leetcode.com/problems/shopping-offers/) | [Shopping Offers](problems/638.shopping-offers.cpp) | 🟡 Medium | C++ |
+| [640](https://leetcode.com/problems/solve-the-equation/) | [Solve the Equation](problems/640.solve-the-equation.cpp) | 🟡 Medium | C++ |
 | [641](https://leetcode.com/problems/design-circular-deque/) | [Design Circular Deque](problems/641.design-circular-deque.cpp) | 🟡 Medium | C++ |
 | [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](problems/643.maximum-average-subarray-i.cpp) | 🟢 Easy | C++ |
 | [645](https://leetcode.com/problems/set-mismatch/) | [Set Mismatch](problems/645.set-mismatch.cpp) | 🟢 Easy | C++ |
