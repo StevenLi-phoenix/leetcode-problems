@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2375 solved** — 🟢 528 Easy · 🟡 1444 Medium · 🔴 393 Hard
+**2376 solved** — 🟢 528 Easy · 🟡 1445 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2268,6 +2268,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3795](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | [Minimum Subarray Length With Distinct Sum At Least K](problems/3795.minimum-subarray-length-with-distinct-sum-at-least-k.cpp) | 🟡 Medium | C++ |
 | [3796](https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence/) | [Find Maximum Value in a Constrained Sequence](problems/3796.find-maximum-value-in-a-constrained-sequence.cpp) | 🟡 Medium | C++ |
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
+| [3799](https://leetcode.com/problems/word-squares-ii/) | [Word Squares II](problems/3799.word-squares-ii.cpp) | 🟡 Medium | C++ |
 | [3800](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Cost to Make Two Binary Strings Equal](problems/3800.minimum-cost-to-make-two-binary-strings-equal.cpp) | 🟡 Medium | C++ |
 | [3801](https://leetcode.com/problems/minimum-cost-to-merge-sorted-lists/) | [Minimum Cost to Merge Sorted Lists](problems/3801.minimum-cost-to-merge-sorted-lists.cpp) | 🔴 Hard | C++ |
 | [3803](https://leetcode.com/problems/count-residue-prefixes/) | [Count Residue Prefixes](problems/3803.count-residue-prefixes.cpp) | 🟢 Easy | C++ |
