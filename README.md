@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2311 solved** — 🟢 528 Easy · 🟡 1380 Medium · 🔴 393 Hard
+**2312 solved** — 🟢 528 Easy · 🟡 1381 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1990,6 +1990,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3439](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Reschedule Meetings for Maximum Free Time I](problems/3439.reschedule-meetings-for-maximum-free-time-i.cpp) | 🟡 Medium | C++ |
 | [3440](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | [Reschedule Meetings for Maximum Free Time II](problems/3440.reschedule-meetings-for-maximum-free-time-ii.cpp) | 🟡 Medium | C++ |
 | [3442](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [Maximum Difference Between Even and Odd Frequency I](problems/3442.maximum-difference-between-even-and-odd-frequency-i.cpp) | 🟢 Easy | C++ |
+| [3443](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/) | [Maximum Manhattan Distance After K Changes](problems/3443.maximum-manhattan-distance-after-k-changes.cpp) | 🟡 Medium | C++ |
 | [3444](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/) | [Minimum Increments for Target Multiples in an Array](problems/3444.minimum-increments-for-target-multiples-in-an-array.cpp) | 🔴 Hard | C++ |
 | [3445](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](problems/3445.maximum-difference-between-even-and-odd-frequency-ii.cpp) | 🔴 Hard | C++ |
 | [3446](https://leetcode.com/problems/sort-matrix-by-diagonals/) | [Sort Matrix by Diagonals](problems/3446.sort-matrix-by-diagonals.cpp) | 🟡 Medium | C++ |
