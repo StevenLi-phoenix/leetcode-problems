@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2228 solved** — 🟢 528 Easy · 🟡 1298 Medium · 🔴 393 Hard
+**2229 solved** — 🟢 528 Easy · 🟡 1299 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -580,6 +580,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Sort Array By Parity II](problems/922.sort-array-by-parity-ii.cpp) | 🟢 Easy | C++ |
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
 | [925](https://leetcode.com/problems/long-pressed-name/) | [Long Pressed Name](problems/925.long-pressed-name.cpp) | 🟢 Easy | C++ |
+| [926](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [Flip String to Monotone Increasing](problems/926.flip-string-to-monotone-increasing.cpp) | 🟡 Medium | C++ |
 | [930](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Binary Subarrays With Sum](problems/930.binary-subarrays-with-sum.cpp) | 🟡 Medium | C++ |
 | [931](https://leetcode.com/problems/minimum-falling-path-sum/) | [Minimum Falling Path Sum](problems/931.minimum-falling-path-sum.cpp) | 🟡 Medium | C++ |
 | [932](https://leetcode.com/problems/beautiful-array/) | [Beautiful Array](problems/932.beautiful-array.cpp) | 🟡 Medium | C++ |
