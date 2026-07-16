@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2432 solved** — 🟢 528 Easy · 🟡 1501 Medium · 🔴 393 Hard
+**2433 solved** — 🟢 528 Easy · 🟡 1502 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1597,6 +1597,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2553](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [Separate the Digits in an Array](problems/2553.separate-the-digits-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2554](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/) | [Maximum Number of Integers to Choose From a Range I](problems/2554.maximum-number-of-integers-to-choose-from-a-range-i.cpp) | 🟡 Medium | C++ |
 | [2555](https://leetcode.com/problems/maximize-win-from-two-segments/) | [Maximize Win From Two Segments](problems/2555.maximize-win-from-two-segments.cpp) | 🟡 Medium | C++ |
+| [2556](https://leetcode.com/problems/disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | [Disconnect Path in a Binary Matrix by at Most One Flip](problems/2556.disconnect-path-in-a-binary-matrix-by-at-most-one-flip.cpp) | 🟡 Medium | C++ |
 | [2558](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Take Gifts From the Richest Pile](problems/2558.take-gifts-from-the-richest-pile.cpp) | 🟢 Easy | C++ |
 | [2559](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Count Vowel Strings in Ranges](problems/2559.count-vowel-strings-in-ranges.cpp) | 🟡 Medium | C++ |
 | [2560](https://leetcode.com/problems/house-robber-iv/) | [House Robber IV](problems/2560.house-robber-iv.cpp) | 🟡 Medium | C++ |
