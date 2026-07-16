@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2287 solved** — 🟢 528 Easy · 🟡 1356 Medium · 🔴 393 Hard
+**2288 solved** — 🟢 528 Easy · 🟡 1357 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1524,6 +1524,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2572](https://leetcode.com/problems/count-the-number-of-square-free-subsets/) | [Count the Number of Square-Free Subsets](problems/2572.count-the-number-of-square-free-subsets.cpp) | 🟡 Medium | C++ |
 | [2573](https://leetcode.com/problems/find-the-string-with-lcp/) | [Find the String with LCP](problems/2573.find-the-string-with-lcp.cpp) | 🔴 Hard | C++ |
 | [2574](https://leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](problems/2574.left-and-right-sum-differences.cpp) | 🟢 Easy | C++ |
+| [2575](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [Find the Divisibility Array of a String](problems/2575.find-the-divisibility-array-of-a-string.cpp) | 🟡 Medium | C++ |
 | [2576](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | [Find the Maximum Number of Marked Indices](problems/2576.find-the-maximum-number-of-marked-indices.cpp) | 🟡 Medium | C++ |
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [Count Ways to Group Overlapping Ranges](problems/2580.count-ways-to-group-overlapping-ranges.cpp) | 🟡 Medium | C++ |
