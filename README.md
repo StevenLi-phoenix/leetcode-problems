@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2361 solved** — 🟢 528 Easy · 🟡 1430 Medium · 🔴 393 Hard
+**2362 solved** — 🟢 528 Easy · 🟡 1431 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1703,6 +1703,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2844](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/) | [Minimum Operations to Make a Special Number](problems/2844.minimum-operations-to-make-a-special-number.cpp) | 🟡 Medium | C++ |
 | [2845](https://leetcode.com/problems/count-of-interesting-subarrays/) | [Count of Interesting Subarrays](problems/2845.count-of-interesting-subarrays.cpp) | 🟡 Medium | C++ |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [Determine if a Cell Is Reachable at a Given Time](problems/2849.determine-if-a-cell-is-reachable-at-a-given-time.cpp) | 🟡 Medium | C++ |
+| [2850](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | [Minimum Moves to Spread Stones Over Grid](problems/2850.minimum-moves-to-spread-stones-over-grid.cpp) | 🟡 Medium | C++ |
 | [2855](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [Minimum Right Shifts to Sort the Array](problems/2855.minimum-right-shifts-to-sort-the-array.cpp) | 🟢 Easy | C++ |
 | [2856](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Minimum Array Length After Pair Removals](problems/2856.minimum-array-length-after-pair-removals.cpp) | 🟡 Medium | C++ |
 | [2857](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/) | [Count Pairs of Points With Distance k](problems/2857.count-pairs-of-points-with-distance-k.cpp) | 🟡 Medium | C++ |
