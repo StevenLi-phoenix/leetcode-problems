@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2230 solved** — 🟢 528 Easy · 🟡 1300 Medium · 🔴 393 Hard
+**2231 solved** — 🟢 528 Easy · 🟡 1301 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1711,6 +1711,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3007](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](problems/3007.maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3010](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Divide an Array Into Subarrays With Minimum Cost I](problems/3010.divide-an-array-into-subarrays-with-minimum-cost-i.cpp) | 🟢 Easy | C++ |
 | [3011](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Find if Array Can Be Sorted](problems/3011.find-if-array-can-be-sorted.cpp) | 🟡 Medium | C++ |
+| [3012](https://leetcode.com/problems/minimize-length-of-array-using-operations/) | [Minimize Length of Array Using Operations](problems/3012.minimize-length-of-array-using-operations.cpp) | 🟡 Medium | C++ |
 | [3013](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [Divide an Array Into Subarrays With Minimum Cost II](problems/3013.divide-an-array-into-subarrays-with-minimum-cost-ii.cpp) | 🔴 Hard | C++ |
 | [3014](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Minimum Number of Pushes to Type Word I](problems/3014.minimum-number-of-pushes-to-type-word-i.cpp) | 🟢 Easy | C++ |
 | [3015](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/) | [Count the Number of Houses at a Certain Distance I](problems/3015.count-the-number-of-houses-at-a-certain-distance-i.cpp) | 🟡 Medium | C++ |
