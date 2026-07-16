@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2459 solved** — 🟢 528 Easy · 🟡 1528 Medium · 🔴 393 Hard
+**2460 solved** — 🟢 528 Easy · 🟡 1529 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1344,6 +1344,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2111](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/) | [Minimum Operations to Make the Array K-Increasing](problems/2111.minimum-operations-to-make-the-array-k-increasing.cpp) | 🔴 Hard | C++ |
 | [2114](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [Maximum Number of Words Found in Sentences](problems/2114.maximum-number-of-words-found-in-sentences.cpp) | 🟢 Easy | C++ |
 | [2115](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [Find All Possible Recipes from Given Supplies](problems/2115.find-all-possible-recipes-from-given-supplies.cpp) | 🟡 Medium | C++ |
+| [2116](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [Check if a Parentheses String Can Be Valid](problems/2116.check-if-a-parentheses-string-can-be-valid.cpp) | 🟡 Medium | C++ |
 | [2117](https://leetcode.com/problems/abbreviating-the-product-of-a-range/) | [Abbreviating the Product of a Range](problems/2117.abbreviating-the-product-of-a-range.cpp) | 🔴 Hard | C++ |
 | [2119](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [A Number After a Double Reversal](problems/2119.a-number-after-a-double-reversal.cpp) | 🟢 Easy | C++ |
 | [2120](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [Execution of All Suffix Instructions Staying in a Grid](problems/2120.execution-of-all-suffix-instructions-staying-in-a-grid.cpp) | 🟡 Medium | C++ |
