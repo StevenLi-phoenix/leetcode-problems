@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2299 solved** — 🟢 528 Easy · 🟡 1368 Medium · 🔴 393 Hard
+**2300 solved** — 🟢 528 Easy · 🟡 1369 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -482,6 +482,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [761](https://leetcode.com/problems/special-binary-string/) | [Special Binary String](problems/761.special-binary-string.cpp) | 🔴 Hard | C++ |
 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](problems/762.prime-number-of-set-bits-in-binary-representation.cpp) | 🟢 Easy | C++ |
 | [763](https://leetcode.com/problems/partition-labels/) | [Partition Labels](problems/763.partition-labels.cpp) | 🟡 Medium | C++ |
+| [764](https://leetcode.com/problems/largest-plus-sign/) | [Largest Plus Sign](problems/764.largest-plus-sign.cpp) | 🟡 Medium | C++ |
 | [765](https://leetcode.com/problems/couples-holding-hands/) | [Couples Holding Hands](problems/765.couples-holding-hands.cpp) | 🔴 Hard | C++ |
 | [766](https://leetcode.com/problems/toeplitz-matrix/) | [Toeplitz Matrix](problems/766.toeplitz-matrix.cpp) | 🟢 Easy | C++ |
 | [767](https://leetcode.com/problems/reorganize-string/) | [Reorganize String](problems/767.reorganize-string.cpp) | 🟡 Medium | C++ |
