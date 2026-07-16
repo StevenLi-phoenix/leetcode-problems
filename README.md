@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2198 solved** — 🟢 528 Easy · 🟡 1270 Medium · 🔴 393 Hard
+**2199 solved** — 🟢 528 Easy · 🟡 1271 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -351,6 +351,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Encode and Decode TinyURL](problems/535.encode-and-decode-tinyurl.cpp) | 🟡 Medium | C++ |
 | [537](https://leetcode.com/problems/complex-number-multiplication/) | [Complex Number Multiplication](problems/537.complex-number-multiplication.cpp) | 🟡 Medium | C++ |
 | [538](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](problems/538.convert-bst-to-greater-tree.cpp) | 🟡 Medium | C++ |
+| [539](https://leetcode.com/problems/minimum-time-difference/) | [Minimum Time Difference](problems/539.minimum-time-difference.cpp) | 🟡 Medium | C++ |
 | [540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Single Element in a Sorted Array](problems/540.single-element-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [541](https://leetcode.com/problems/reverse-string-ii/) | [Reverse String II](problems/541.reverse-string-ii.cpp) | 🟢 Easy | C++ |
 | [542](https://leetcode.com/problems/01-matrix/) | [01 Matrix](problems/542.01-matrix.cpp) | 🟡 Medium | C++ |
