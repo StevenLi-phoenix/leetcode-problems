@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2345 solved** — 🟢 528 Easy · 🟡 1414 Medium · 🔴 393 Hard
+**2346 solved** — 🟢 528 Easy · 🟡 1415 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -682,6 +682,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1023](https://leetcode.com/problems/camelcase-matching/) | [Camelcase Matching](problems/1023.camelcase-matching.cpp) | 🟡 Medium | C++ |
 | [1024](https://leetcode.com/problems/video-stitching/) | [Video Stitching](problems/1024.video-stitching.cpp) | 🟡 Medium | C++ |
 | [1025](https://leetcode.com/problems/divisor-game/) | [Divisor Game](problems/1025.divisor-game.cpp) | 🟢 Easy | C++ |
+| [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Maximum Difference Between Node and Ancestor](problems/1026.maximum-difference-between-node-and-ancestor.cpp) | 🟡 Medium | C++ |
 | [1027](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Longest Arithmetic Subsequence](problems/1027.longest-arithmetic-subsequence.cpp) | 🟡 Medium | C++ |
 | [1029](https://leetcode.com/problems/two-city-scheduling/) | [Two City Scheduling](problems/1029.two-city-scheduling.cpp) | 🟡 Medium | C++ |
 | [1030](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](problems/1030.matrix-cells-in-distance-order.cpp) | 🟢 Easy | C++ |
