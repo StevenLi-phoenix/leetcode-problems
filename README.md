@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2291 solved** — 🟢 528 Easy · 🟡 1360 Medium · 🔴 393 Hard
+**2292 solved** — 🟢 528 Easy · 🟡 1361 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -845,6 +845,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1377](https://leetcode.com/problems/frog-position-after-t-seconds/) | [Frog Position After T Seconds](problems/1377.frog-position-after-t-seconds.cpp) | 🔴 Hard | C++ |
 | [1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](problems/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp) | 🟢 Easy | C++ |
 | [1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](problems/1380.lucky-numbers-in-a-matrix.cpp) | 🟢 Easy | C++ |
+| [1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Design a Stack With Increment Operation](problems/1381.design-a-stack-with-increment-operation.cpp) | 🟡 Medium | C++ |
 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](problems/1382.balance-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [1385](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Find the Distance Value Between Two Arrays](problems/1385.find-the-distance-value-between-two-arrays.cpp) | 🟢 Easy | C++ |
 | [1387](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Sort Integers by The Power Value](problems/1387.sort-integers-by-the-power-value.cpp) | 🟡 Medium | C++ |
