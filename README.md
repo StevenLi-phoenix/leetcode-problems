@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2266 solved** — 🟢 528 Easy · 🟡 1335 Medium · 🔴 393 Hard
+**2267 solved** — 🟢 528 Easy · 🟡 1336 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -586,6 +586,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [917](https://leetcode.com/problems/reverse-only-letters/) | [Reverse Only Letters](problems/917.reverse-only-letters.cpp) | 🟢 Easy | C++ |
 | [918](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Maximum Sum Circular Subarray](problems/918.maximum-sum-circular-subarray.cpp) | 🟡 Medium | C++ |
 | [919](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Complete Binary Tree Inserter](problems/919.complete-binary-tree-inserter.cpp) | 🟡 Medium | C++ |
+| [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Minimum Add to Make Parentheses Valid](problems/921.minimum-add-to-make-parentheses-valid.cpp) | 🟡 Medium | C++ |
 | [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Sort Array By Parity II](problems/922.sort-array-by-parity-ii.cpp) | 🟢 Easy | C++ |
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
 | [925](https://leetcode.com/problems/long-pressed-name/) | [Long Pressed Name](problems/925.long-pressed-name.cpp) | 🟢 Easy | C++ |
