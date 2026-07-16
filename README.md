@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2407 solved** — 🟢 528 Easy · 🟡 1476 Medium · 🔴 393 Hard
+**2408 solved** — 🟢 528 Easy · 🟡 1477 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -430,6 +430,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [645](https://leetcode.com/problems/set-mismatch/) | [Set Mismatch](problems/645.set-mismatch.cpp) | 🟢 Easy | C++ |
 | [646](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Maximum Length of Pair Chain](problems/646.maximum-length-of-pair-chain.cpp) | 🟡 Medium | C++ |
 | [647](https://leetcode.com/problems/palindromic-substrings/) | [Palindromic Substrings](problems/647.palindromic-substrings.cpp) | 🟡 Medium | C++ |
+| [648](https://leetcode.com/problems/replace-words/) | [Replace Words](problems/648.replace-words.cpp) | 🟡 Medium | C++ |
 | [649](https://leetcode.com/problems/dota2-senate/) | [Dota2 Senate](problems/649.dota2-senate.cpp) | 🟡 Medium | C++ |
 | [650](https://leetcode.com/problems/2-keys-keyboard/) | [2 Keys Keyboard](problems/650.2-keys-keyboard.cpp) | 🟡 Medium | C++ |
 | [652](https://leetcode.com/problems/find-duplicate-subtrees/) | [Find Duplicate Subtrees](problems/652.find-duplicate-subtrees.cpp) | 🟡 Medium | C++ |
