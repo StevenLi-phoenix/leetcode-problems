@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2339 solved** — 🟢 528 Easy · 🟡 1408 Medium · 🔴 393 Hard
+**2340 solved** — 🟢 528 Easy · 🟡 1409 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2123,6 +2123,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3623](https://leetcode.com/problems/count-number-of-trapezoids-i/) | [Count Number of Trapezoids I](problems/3623.count-number-of-trapezoids-i.cpp) | 🟡 Medium | C++ |
 | [3624](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii/) | [Number of Integers With Popcount-Depth Equal to K II](problems/3624.number-of-integers-with-popcount-depth-equal-to-k-ii.cpp) | 🔴 Hard | C++ |
 | [3626](https://leetcode.com/problems/find-stores-with-inventory-imbalance/) | [Find Stores with Inventory Imbalance](problems/3626.find-stores-with-inventory-imbalance.sql) | 🟡 Medium | mysql |
+| [3627](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) | [Maximum Median Sum of Subsequences of Size 3](problems/3627.maximum-median-sum-of-subsequences-of-size-3.cpp) | 🟡 Medium | C++ |
 | [3628](https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/) | [Maximum Number of Subsequences After One Inserting](problems/3628.maximum-number-of-subsequences-after-one-inserting.cpp) | 🟡 Medium | C++ |
 | [3629](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Minimum Jumps to Reach End via Prime Teleportation](problems/3629.minimum-jumps-to-reach-end-via-prime-teleportation.cpp) | 🟡 Medium | C++ |
 | [3633](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Earliest Finish Time for Land and Water Rides I](problems/3633.earliest-finish-time-for-land-and-water-rides-i.cpp) | 🟢 Easy | C++ |
