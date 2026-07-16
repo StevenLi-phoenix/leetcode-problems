@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2207 solved** — 🟢 528 Easy · 🟡 1278 Medium · 🔴 393 Hard
+**2208 solved** — 🟢 528 Easy · 🟡 1279 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -283,6 +283,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Reconstruct Original Digits from English](problems/423.reconstruct-original-digits-from-english.cpp) | 🟡 Medium | C++ |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](problems/424.longest-repeating-character-replacement.cpp) | 🟡 Medium | C++ |
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
+| [433](https://leetcode.com/problems/minimum-genetic-mutation/) | [Minimum Genetic Mutation](problems/433.minimum-genetic-mutation.cpp) | 🟡 Medium | C++ |
 | [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Number of Segments in a String](problems/434.number-of-segments-in-a-string.cpp) | 🟢 Easy | C++ |
 | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435.non-overlapping-intervals.cpp) | 🟡 Medium | C++ |
 | [436](https://leetcode.com/problems/find-right-interval/) | [Find Right Interval](problems/436.find-right-interval.cpp) | 🟡 Medium | C++ |
