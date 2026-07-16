@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2220 solved** — 🟢 528 Easy · 🟡 1290 Medium · 🔴 393 Hard
+**2221 solved** — 🟢 528 Easy · 🟡 1291 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -446,6 +446,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [709](https://leetcode.com/problems/to-lower-case/) | [To Lower Case](problems/709.to-lower-case.cpp) | 🟢 Easy | C++ |
 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](problems/712.minimum-ascii-delete-sum-for-two-strings.cpp) | 🟡 Medium | C++ |
 | [713](https://leetcode.com/problems/subarray-product-less-than-k/) | [Subarray Product Less Than K](problems/713.subarray-product-less-than-k.cpp) | 🟡 Medium | C++ |
+| [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Best Time to Buy and Sell Stock with Transaction Fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) | 🟡 Medium | C++ |
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Maximum Length of Repeated Subarray](problems/718.maximum-length-of-repeated-subarray.cpp) | 🟡 Medium | C++ |
 | [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Longest Word in Dictionary](problems/720.longest-word-in-dictionary.cpp) | 🟡 Medium | C++ |
