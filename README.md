@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2367 solved** — 🟢 528 Easy · 🟡 1436 Medium · 🔴 393 Hard
+**2368 solved** — 🟢 528 Easy · 🟡 1437 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -388,6 +388,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [561](https://leetcode.com/problems/array-partition/) | [Array Partition](problems/561.array-partition.cpp) | 🟢 Easy | C++ |
 | [565](https://leetcode.com/problems/array-nesting/) | [Array Nesting](problems/565.array-nesting.cpp) | 🟡 Medium | C++ |
 | [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](problems/567.permutation-in-string.cpp) | 🟡 Medium | C++ |
+| [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Managers with at Least 5 Direct Reports](problems/570.managers-with-at-least-5-direct-reports.sql) | 🟡 Medium | mysql |
 | [572](https://leetcode.com/problems/subtree-of-another-tree/) | [Subtree of Another Tree](problems/572.subtree-of-another-tree.cpp) | 🟢 Easy | C++ |
 | [575](https://leetcode.com/problems/distribute-candies/) | [Distribute Candies](problems/575.distribute-candies.cpp) | 🟢 Easy | C++ |
 | [576](https://leetcode.com/problems/out-of-boundary-paths/) | [Out of Boundary Paths](problems/576.out-of-boundary-paths.cpp) | 🟡 Medium | C++ |
