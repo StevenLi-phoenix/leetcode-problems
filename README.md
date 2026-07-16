@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2312 solved** — 🟢 528 Easy · 🟡 1381 Medium · 🔴 393 Hard
+**2313 solved** — 🟢 528 Easy · 🟡 1382 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -195,6 +195,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [224](https://leetcode.com/problems/basic-calculator/) | [Basic Calculator](problems/224.basic-calculator.cpp) | 🔴 Hard | C++ |
 | [228](https://leetcode.com/problems/summary-ranges/) | [Summary Ranges](problems/228.summary-ranges.cpp) | 🟢 Easy | C++ |
 | [229](https://leetcode.com/problems/majority-element-ii/) | [Majority Element II](problems/229.majority-element-ii.cpp) | 🟡 Medium | C++ |
+| [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Kth Smallest Element in a BST](problems/230.kth-smallest-element-in-a-bst.cpp) | 🟡 Medium | C++ |
 | [234](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome Linked List](problems/234.palindrome-linked-list.cpp) | 🟢 Easy | C++ |
 | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of a Binary Search Tree](problems/235.lowest-common-ancestor-of-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Lowest Common Ancestor of a Binary Tree](problems/236.lowest-common-ancestor-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
