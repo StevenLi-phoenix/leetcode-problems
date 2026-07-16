@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2342 solved** — 🟢 528 Easy · 🟡 1411 Medium · 🔴 393 Hard
+**2343 solved** — 🟢 528 Easy · 🟡 1412 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1763,6 +1763,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2958](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Length of Longest Subarray With at Most K Frequency](problems/2958.length-of-longest-subarray-with-at-most-k-frequency.cpp) | 🟡 Medium | C++ |
 | [2959](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Number of Possible Sets of Closing Branches](problems/2959.number-of-possible-sets-of-closing-branches.cpp) | 🔴 Hard | C++ |
 | [2960](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [Count Tested Devices After Test Operations](problems/2960.count-tested-devices-after-test-operations.cpp) | 🟢 Easy | C++ |
+| [2961](https://leetcode.com/problems/double-modular-exponentiation/) | [Double Modular Exponentiation](problems/2961.double-modular-exponentiation.cpp) | 🟡 Medium | C++ |
 | [2963](https://leetcode.com/problems/count-the-number-of-good-partitions/) | [Count the Number of Good Partitions](problems/2963.count-the-number-of-good-partitions.cpp) | 🔴 Hard | C++ |
 | [2965](https://leetcode.com/problems/find-missing-and-repeated-values/) | [Find Missing and Repeated Values](problems/2965.find-missing-and-repeated-values.cpp) | 🟢 Easy | C++ |
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](problems/2966.divide-array-into-arrays-with-max-difference.cpp) | 🟡 Medium | C++ |
