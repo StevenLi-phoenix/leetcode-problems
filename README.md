@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2301 solved** — 🟢 528 Easy · 🟡 1370 Medium · 🔴 393 Hard
+**2302 solved** — 🟢 528 Easy · 🟡 1371 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1953,6 +1953,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3377](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/) | [Digit Operations to Make Two Integers Equal](problems/3377.digit-operations-to-make-two-integers-equal.cpp) | 🟡 Medium | C++ |
 | [3378](https://leetcode.com/problems/count-connected-components-in-lcm-graph/) | [Count Connected Components in LCM Graph](problems/3378.count-connected-components-in-lcm-graph.cpp) | 🔴 Hard | C++ |
 | [3379](https://leetcode.com/problems/transformed-array/) | [Transformed Array](problems/3379.transformed-array.cpp) | 🟢 Easy | C++ |
+| [3380](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/) | [Maximum Area Rectangle With Point Constraints I](problems/3380.maximum-area-rectangle-with-point-constraints-i.cpp) | 🟡 Medium | C++ |
 | [3386](https://leetcode.com/problems/button-with-longest-push-time/) | [Button with Longest Push Time](problems/3386.button-with-longest-push-time.cpp) | 🟢 Easy | C++ |
 | [3387](https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/) | [Maximize Amount After Two Days of Conversions](problems/3387.maximize-amount-after-two-days-of-conversions.cpp) | 🟡 Medium | C++ |
 | [3389](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/) | [Minimum Operations to Make Character Frequencies Equal](problems/3389.minimum-operations-to-make-character-frequencies-equal.cpp) | 🔴 Hard | C++ |
