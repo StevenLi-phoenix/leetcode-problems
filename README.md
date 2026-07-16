@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2374 solved** — 🟢 528 Easy · 🟡 1443 Medium · 🔴 393 Hard
+**2375 solved** — 🟢 528 Easy · 🟡 1444 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -603,6 +603,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](problems/905.sort-array-by-parity.cpp) | 🟢 Easy | C++ |
 | [907](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Sum of Subarray Minimums](problems/907.sum-of-subarray-minimums.cpp) | 🟡 Medium | C++ |
 | [909](https://leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](problems/909.snakes-and-ladders.cpp) | 🟡 Medium | C++ |
+| [910](https://leetcode.com/problems/smallest-range-ii/) | [Smallest Range II](problems/910.smallest-range-ii.cpp) | 🟡 Medium | C++ |
 | [911](https://leetcode.com/problems/online-election/) | [Online Election](problems/911.online-election.cpp) | 🟡 Medium | C++ |
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](problems/912.sort-an-array.cpp) | 🟡 Medium | C++ |
 | [913](https://leetcode.com/problems/cat-and-mouse/) | [Cat and Mouse](problems/913.cat-and-mouse.cpp) | 🔴 Hard | C++ |
