@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2343 solved** — 🟢 528 Easy · 🟡 1412 Medium · 🔴 393 Hard
+**2344 solved** — 🟢 528 Easy · 🟡 1413 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1001,6 +1001,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1621](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [Number of Sets of K Non-Overlapping Line Segments](problems/1621.number-of-sets-of-k-non-overlapping-line-segments.cpp) | 🟡 Medium | C++ |
 | [1622](https://leetcode.com/problems/fancy-sequence/) | [Fancy Sequence](problems/1622.fancy-sequence.cpp) | 🔴 Hard | C++ |
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](problems/1624.largest-substring-between-two-equal-characters.cpp) | 🟢 Easy | C++ |
+| [1625](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [Lexicographically Smallest String After Applying Operations](problems/1625.lexicographically-smallest-string-after-applying-operations.cpp) | 🟡 Medium | C++ |
 | [1626](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Best Team With No Conflicts](problems/1626.best-team-with-no-conflicts.cpp) | 🟡 Medium | C++ |
 | [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | [Arithmetic Subarrays](problems/1630.arithmetic-subarrays.cpp) | 🟡 Medium | C++ |
