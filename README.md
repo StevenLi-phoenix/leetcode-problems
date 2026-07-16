@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2218 solved** — 🟢 528 Easy · 🟡 1289 Medium · 🔴 393 Hard
+**2219 solved** — 🟢 528 Easy · 🟡 1290 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -901,6 +901,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1525](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [Number of Good Ways to Split a String](problems/1525.number-of-good-ways-to-split-a-string.cpp) | 🟡 Medium | C++ |
 | [1527](https://leetcode.com/problems/patients-with-a-condition/) | [Patients With a Condition](problems/1527.patients-with-a-condition.sql) | 🟢 Easy | mysql |
 | [1528](https://leetcode.com/problems/shuffle-string/) | [Shuffle String](problems/1528.shuffle-string.py) | 🟢 Easy | Python |
+| [1529](https://leetcode.com/problems/minimum-suffix-flips/) | [Minimum Suffix Flips](problems/1529.minimum-suffix-flips.cpp) | 🟡 Medium | C++ |
 | [1530](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | [Number of Good Leaf Nodes Pairs](problems/1530.number-of-good-leaf-nodes-pairs.cpp) | 🟡 Medium | C++ |
 | [1531](https://leetcode.com/problems/string-compression-ii/) | [String Compression II](problems/1531.string-compression-ii.cpp) | 🔴 Hard | C++ |
 | [1534](https://leetcode.com/problems/count-good-triplets/) | [Count Good Triplets](problems/1534.count-good-triplets.cpp) | 🟢 Easy | C++ |
