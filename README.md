@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2387 solved** — 🟢 528 Easy · 🟡 1456 Medium · 🔴 393 Hard
+**2388 solved** — 🟢 528 Easy · 🟡 1457 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -415,6 +415,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [619](https://leetcode.com/problems/biggest-single-number/) | [Biggest Single Number](problems/619.biggest-single-number.sql) | 🟢 Easy | mysql |
 | [621](https://leetcode.com/problems/task-scheduler/) | [Task Scheduler](problems/621.task-scheduler.cpp) | 🟡 Medium | C++ |
 | [623](https://leetcode.com/problems/add-one-row-to-tree/) | [Add One Row to Tree](problems/623.add-one-row-to-tree.cpp) | 🟡 Medium | C++ |
+| [626](https://leetcode.com/problems/exchange-seats/) | [Exchange Seats](problems/626.exchange-seats.sql) | 🟡 Medium | mysql |
 | [628](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Product of Three Numbers](problems/628.maximum-product-of-three-numbers.cpp) | 🟢 Easy | C++ |
 | [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Smallest Range Covering Elements from K Lists](problems/632.smallest-range-covering-elements-from-k-lists.cpp) | 🔴 Hard | C++ |
 | [633](https://leetcode.com/problems/sum-of-square-numbers/) | [Sum of Square Numbers](problems/633.sum-of-square-numbers.cpp) | 🟡 Medium | C++ |
