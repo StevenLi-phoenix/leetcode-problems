@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2465 solved** — 🟢 528 Easy · 🟡 1534 Medium · 🔴 393 Hard
+**2466 solved** — 🟢 528 Easy · 🟡 1535 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2186,6 +2186,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3545](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [Minimum Deletions for At Most K Distinct Characters](problems/3545.minimum-deletions-for-at-most-k-distinct-characters.cpp) | 🟢 Easy | C++ |
 | [3546](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Equal Sum Grid Partition I](problems/3546.equal-sum-grid-partition-i.cpp) | 🟡 Medium | C++ |
 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](problems/3548.equal-sum-grid-partition-ii.cpp) | 🔴 Hard | C++ |
+| [3551](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Minimum Swaps to Sort by Digit Sum](problems/3551.minimum-swaps-to-sort-by-digit-sum.cpp) | 🟡 Medium | C++ |
 | [3552](https://leetcode.com/problems/grid-teleportation-traversal/) | [Grid Teleportation Traversal](problems/3552.grid-teleportation-traversal.cpp) | 🟡 Medium | C++ |
 | [3553](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [Minimum Weighted Subgraph With the Required Paths II](problems/3553.minimum-weighted-subgraph-with-the-required-paths-ii.cpp) | 🔴 Hard | C++ |
 | [3556](https://leetcode.com/problems/sum-of-largest-prime-substrings/) | [Sum of Largest Prime Substrings](problems/3556.sum-of-largest-prime-substrings.cpp) | 🟡 Medium | C++ |
