@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2366 solved** — 🟢 528 Easy · 🟡 1435 Medium · 🔴 393 Hard
+**2367 solved** — 🟢 528 Easy · 🟡 1436 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -278,6 +278,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [397](https://leetcode.com/problems/integer-replacement/) | [Integer Replacement](problems/397.integer-replacement.cpp) | 🟡 Medium | C++ |
 | [398](https://leetcode.com/problems/random-pick-index/) | [Random Pick Index](problems/398.random-pick-index.cpp) | 🟡 Medium | C++ |
 | [399](https://leetcode.com/problems/evaluate-division/) | [Evaluate Division](problems/399.evaluate-division.cpp) | 🟡 Medium | C++ |
+| [400](https://leetcode.com/problems/nth-digit/) | [Nth Digit](problems/400.nth-digit.cpp) | 🟡 Medium | C++ |
 | [401](https://leetcode.com/problems/binary-watch/) | [Binary Watch](problems/401.binary-watch.cpp) | 🟢 Easy | C++ |
 | [402](https://leetcode.com/problems/remove-k-digits/) | [Remove K Digits](problems/402.remove-k-digits.cpp) | 🟡 Medium | C++ |
 | [403](https://leetcode.com/problems/frog-jump/) | [Frog Jump](problems/403.frog-jump.cpp) | 🔴 Hard | C++ |
