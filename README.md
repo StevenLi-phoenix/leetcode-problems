@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2170 solved** — 🟢 528 Easy · 🟡 1242 Medium · 🔴 393 Hard
+**2171 solved** — 🟢 528 Easy · 🟡 1243 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2142,6 +2142,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3910](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Count Connected Subgraphs with Even Node Sum](problems/3910.count-connected-subgraphs-with-even-node-sum.cpp) | 🔴 Hard | C++ |
 | [3913](https://leetcode.com/problems/sort-vowels-by-frequency/) | [Sort Vowels by Frequency](problems/3913.sort-vowels-by-frequency.cpp) | 🟡 Medium | C++ |
 | [3915](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](problems/3915.maximum-sum-of-alternating-subsequence-with-distance-at-least-k.cpp) | 🔴 Hard | C++ |
+| [3918](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | [Sum of Primes Between Number and Its Reverse](problems/3918.sum-of-primes-between-number-and-its-reverse.cpp) | 🟡 Medium | C++ |
 | [3919](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Minimum Cost to Move Between Indices](problems/3919.minimum-cost-to-move-between-indices.cpp) | 🟡 Medium | C++ |
 | [3921](https://leetcode.com/problems/score-validator/) | [Score Validator](problems/3921.score-validator.cpp) | 🟢 Easy | C++ |
 | [3922](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Minimum Flips to Make Binary String Coherent](problems/3922.minimum-flips-to-make-binary-string-coherent.cpp) | 🟡 Medium | C++ |
