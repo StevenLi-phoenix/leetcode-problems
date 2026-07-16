@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2227 solved** — 🟢 528 Easy · 🟡 1297 Medium · 🔴 393 Hard
+**2228 solved** — 🟢 528 Easy · 🟡 1298 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1027,6 +1027,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1753](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [Maximum Score From Removing Stones](problems/1753.maximum-score-from-removing-stones.cpp) | 🟡 Medium | C++ |
 | [1754](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Largest Merge Of Two Strings](problems/1754.largest-merge-of-two-strings.cpp) | 🟡 Medium | C++ |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](problems/1758.minimum-changes-to-make-alternating-binary-string.cpp) | 🟢 Easy | C++ |
+| [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [Count Number of Homogenous Substrings](problems/1759.count-number-of-homogenous-substrings.cpp) | 🟡 Medium | C++ |
 | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Minimum Limit of Balls in a Bag](problems/1760.minimum-limit-of-balls-in-a-bag.cpp) | 🟡 Medium | C++ |
 | [1763](https://leetcode.com/problems/longest-nice-substring/) | [Longest Nice Substring](problems/1763.longest-nice-substring.cpp) | 🟢 Easy | C++ |
 | [1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Form Array by Concatenating Subarrays of Another Array](problems/1764.form-array-by-concatenating-subarrays-of-another-array.cpp) | 🟡 Medium | C++ |
