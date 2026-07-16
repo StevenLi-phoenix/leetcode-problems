@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2252 solved** — 🟢 528 Easy · 🟡 1321 Medium · 🔴 393 Hard
+**2253 solved** — 🟢 528 Easy · 🟡 1322 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2163,6 +2163,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3812](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | [Minimum Edge Toggles on a Tree](problems/3812.minimum-edge-toggles-on-a-tree.cpp) | 🔴 Hard | C++ |
 | [3813](https://leetcode.com/problems/vowel-consonant-score/) | [Vowel-Consonant Score](problems/3813.vowel-consonant-score.cpp) | 🟢 Easy | C++ |
 | [3814](https://leetcode.com/problems/maximum-capacity-within-budget/) | [Maximum Capacity Within Budget](problems/3814.maximum-capacity-within-budget.cpp) | 🟡 Medium | C++ |
+| [3815](https://leetcode.com/problems/design-auction-system/) | [Design Auction System](problems/3815.design-auction-system.cpp) | 🟡 Medium | C++ |
 | [3816](https://leetcode.com/problems/lexicographically-smallest-string-after-deleting-duplicate-characters/) | [Lexicographically Smallest String After Deleting Duplicate Characters](problems/3816.lexicographically-smallest-string-after-deleting-duplicate-characters.cpp) | 🔴 Hard | C++ |
 | [3818](https://leetcode.com/problems/minimum-prefix-removal-to-make-array-strictly-increasing/) | [Minimum Prefix Removal to Make Array Strictly Increasing](problems/3818.minimum-prefix-removal-to-make-array-strictly-increasing.cpp) | 🟡 Medium | C++ |
 | [3819](https://leetcode.com/problems/rotate-non-negative-elements/) | [Rotate Non Negative Elements](problems/3819.rotate-non-negative-elements.cpp) | 🟡 Medium | C++ |
