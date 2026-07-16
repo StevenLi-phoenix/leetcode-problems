@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2360 solved** — 🟢 528 Easy · 🟡 1429 Medium · 🔴 393 Hard
+**2361 solved** — 🟢 528 Easy · 🟡 1430 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1655,6 +1655,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2726](https://leetcode.com/problems/calculator-with-method-chaining/) | [Calculator with Method Chaining](problems/2726.calculator-with-method-chaining.js) | 🟢 Easy | JavaScript |
 | [2730](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [Find the Longest Semi-Repetitive Substring](problems/2730.find-the-longest-semi-repetitive-substring.cpp) | 🟡 Medium | C++ |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
+| [2734](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [Lexicographically Smallest String After Substring Operation](problems/2734.lexicographically-smallest-string-after-substring-operation.cpp) | 🟡 Medium | C++ |
 | [2736](https://leetcode.com/problems/maximum-sum-queries/) | [Maximum Sum Queries](problems/2736.maximum-sum-queries.cpp) | 🔴 Hard | C++ |
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
 | [2740](https://leetcode.com/problems/find-the-value-of-the-partition/) | [Find the Value of the Partition](problems/2740.find-the-value-of-the-partition.cpp) | 🟡 Medium | C++ |
