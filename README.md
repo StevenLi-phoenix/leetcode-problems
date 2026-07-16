@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2195 solved** — 🟢 528 Easy · 🟡 1267 Medium · 🔴 393 Hard
+**2196 solved** — 🟢 528 Easy · 🟡 1268 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -427,6 +427,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [689](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Maximum Sum of 3 Non-Overlapping Subarrays](problems/689.maximum-sum-of-3-non-overlapping-subarrays.cpp) | 🔴 Hard | C++ |
 | [690](https://leetcode.com/problems/employee-importance/) | [Employee Importance](problems/690.employee-importance.cpp) | 🟡 Medium | C++ |
 | [691](https://leetcode.com/problems/stickers-to-spell-word/) | [Stickers to Spell Word](problems/691.stickers-to-spell-word.cpp) | 🔴 Hard | C++ |
+| [692](https://leetcode.com/problems/top-k-frequent-words/) | [Top K Frequent Words](problems/692.top-k-frequent-words.cpp) | 🟡 Medium | C++ |
 | [693](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Binary Number with Alternating Bits](problems/693.binary-number-with-alternating-bits.cpp) | 🟢 Easy | C++ |
 | [695](https://leetcode.com/problems/max-area-of-island/) | [Max Area of Island](problems/695.max-area-of-island.cpp) | 🟡 Medium | C++ |
 | [696](https://leetcode.com/problems/count-binary-substrings/) | [Count Binary Substrings](problems/696.count-binary-substrings.cpp) | 🟢 Easy | C++ |
