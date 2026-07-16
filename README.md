@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2262 solved** — 🟢 528 Easy · 🟡 1331 Medium · 🔴 393 Hard
+**2263 solved** — 🟢 528 Easy · 🟡 1332 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1497,6 +1497,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2560](https://leetcode.com/problems/house-robber-iv/) | [House Robber IV](problems/2560.house-robber-iv.cpp) | 🟡 Medium | C++ |
 | [2562](https://leetcode.com/problems/find-the-array-concatenation-value/) | [Find the Array Concatenation Value](problems/2562.find-the-array-concatenation-value.cpp) | 🟢 Easy | C++ |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
+| [2564](https://leetcode.com/problems/substring-xor-queries/) | [Substring XOR Queries](problems/2564.substring-xor-queries.cpp) | 🟡 Medium | C++ |
 | [2565](https://leetcode.com/problems/subsequence-with-the-minimum-score/) | [Subsequence With the Minimum Score](problems/2565.subsequence-with-the-minimum-score.cpp) | 🔴 Hard | C++ |
 | [2566](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [Maximum Difference by Remapping a Digit](problems/2566.maximum-difference-by-remapping-a-digit.cpp) | 🟢 Easy | C++ |
 | [2567](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | [Minimum Score by Changing Two Elements](problems/2567.minimum-score-by-changing-two-elements.cpp) | 🟡 Medium | C++ |
