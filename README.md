@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2381 solved** — 🟢 528 Easy · 🟡 1450 Medium · 🔴 393 Hard
+**2382 solved** — 🟢 528 Easy · 🟡 1451 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -674,6 +674,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [996](https://leetcode.com/problems/number-of-squareful-arrays/) | [Number of Squareful Arrays](problems/996.number-of-squareful-arrays.cpp) | 🔴 Hard | C++ |
 | [998](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Maximum Binary Tree II](problems/998.maximum-binary-tree-ii.cpp) | 🟡 Medium | C++ |
 | [1002](https://leetcode.com/problems/find-common-characters/) | [Find Common Characters](problems/1002.find-common-characters.cpp) | 🟢 Easy | C++ |
+| [1003](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [Check If Word Is Valid After Substitutions](problems/1003.check-if-word-is-valid-after-substitutions.cpp) | 🟡 Medium | C++ |
 | [1004](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Max Consecutive Ones III](problems/1004.max-consecutive-ones-iii.cpp) | 🟡 Medium | C++ |
 | [1006](https://leetcode.com/problems/clumsy-factorial/) | [Clumsy Factorial](problems/1006.clumsy-factorial.cpp) | 🟡 Medium | C++ |
 | [1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Minimum Domino Rotations For Equal Row](problems/1007.minimum-domino-rotations-for-equal-row.cpp) | 🟡 Medium | C++ |
