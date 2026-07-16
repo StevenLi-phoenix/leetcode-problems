@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2250 solved** — 🟢 528 Easy · 🟡 1319 Medium · 🔴 393 Hard
+**2251 solved** — 🟢 528 Easy · 🟡 1320 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1229,6 +1229,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Delete the Middle Node of a Linked List](problems/2095.delete-the-middle-node-of-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2097](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Valid Arrangement of Pairs](problems/2097.valid-arrangement-of-pairs.cpp) | 🔴 Hard | C++ |
 | [2099](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [Find Subsequence of Length K With the Largest Sum](problems/2099.find-subsequence-of-length-k-with-the-largest-sum.cpp) | 🟢 Easy | C++ |
+| [2100](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | [Find Good Days to Rob the Bank](problems/2100.find-good-days-to-rob-the-bank.cpp) | 🟡 Medium | C++ |
 | [2101](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [Detonate the Maximum Bombs](problems/2101.detonate-the-maximum-bombs.cpp) | 🟡 Medium | C++ |
 | [2103](https://leetcode.com/problems/rings-and-rods/) | [Rings and Rods](problems/2103.rings-and-rods.cpp) | 🟢 Easy | C++ |
 | [2104](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Sum of Subarray Ranges](problems/2104.sum-of-subarray-ranges.cpp) | 🟡 Medium | C++ |
