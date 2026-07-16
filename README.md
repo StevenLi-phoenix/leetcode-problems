@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2272 solved** — 🟢 528 Easy · 🟡 1341 Medium · 🔴 393 Hard
+**2273 solved** — 🟢 528 Easy · 🟡 1342 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -901,6 +901,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Kth Ancestor of a Tree Node](problems/1483.kth-ancestor-of-a-tree-node.cpp) | 🔴 Hard | C++ |
 | [1486](https://leetcode.com/problems/xor-operation-in-an-array/) | [XOR Operation in an Array](problems/1486.xor-operation-in-an-array.cpp) | 🟢 Easy | C++ |
 | [1487](https://leetcode.com/problems/making-file-names-unique/) | [Making File Names Unique](problems/1487.making-file-names-unique.cpp) | 🟡 Medium | C++ |
+| [1488](https://leetcode.com/problems/avoid-flood-in-the-city/) | [Avoid Flood in The City](problems/1488.avoid-flood-in-the-city.cpp) | 🟡 Medium | C++ |
 | [1492](https://leetcode.com/problems/the-kth-factor-of-n/) | [The kth Factor of n](problems/1492.the-kth-factor-of-n.py) | 🟡 Medium | Python |
 | [1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](problems/1493.longest-subarray-of-1s-after-deleting-one-element.cpp) | 🟡 Medium | C++ |
 | [1496](https://leetcode.com/problems/path-crossing/) | [Path Crossing](problems/1496.path-crossing.cpp) | 🟢 Easy | C++ |
