@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2396 solved** — 🟢 528 Easy · 🟡 1465 Medium · 🔴 393 Hard
+**2397 solved** — 🟢 528 Easy · 🟡 1466 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1400,6 +1400,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2262](https://leetcode.com/problems/total-appeal-of-a-string/) | [Total Appeal of A String](problems/2262.total-appeal-of-a-string.cpp) | 🔴 Hard | C++ |
 | [2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [Largest 3-Same-Digit Number in String](problems/2264.largest-3-same-digit-number-in-string.cpp) | 🟢 Easy | C++ |
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Count Nodes Equal to Average of Subtree](problems/2265.count-nodes-equal-to-average-of-subtree.cpp) | 🟡 Medium | C++ |
+| [2266](https://leetcode.com/problems/count-number-of-texts/) | [Count Number of Texts](problems/2266.count-number-of-texts.cpp) | 🟡 Medium | C++ |
 | [2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [ Check if There Is a Valid Parentheses String Path](problems/2267.check-if-there-is-a-valid-parentheses-string-path.cpp) | 🔴 Hard | C++ |
 | [2270](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](problems/2270.number-of-ways-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Maximum White Tiles Covered by a Carpet](problems/2271.maximum-white-tiles-covered-by-a-carpet.cpp) | 🟡 Medium | C++ |
