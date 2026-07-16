@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2322 solved** — 🟢 528 Easy · 🟡 1391 Medium · 🔴 393 Hard
+**2323 solved** — 🟢 528 Easy · 🟡 1392 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1021,6 +1021,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1669](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](problems/1669.merge-in-between-linked-lists.cpp) | 🟡 Medium | C++ |
 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Minimum Number of Removals to Make Mountain Array](problems/1671.minimum-number-of-removals-to-make-mountain-array.cpp) | 🔴 Hard | C++ |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](problems/1672.richest-customer-wealth.cpp) | 🟢 Easy | C++ |
+| [1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Find the Most Competitive Subsequence](problems/1673.find-the-most-competitive-subsequence.cpp) | 🟡 Medium | C++ |
 | [1674](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Minimum Moves to Make Array Complementary](problems/1674.minimum-moves-to-make-array-complementary.cpp) | 🟡 Medium | C++ |
 | [1675](https://leetcode.com/problems/minimize-deviation-in-array/) | [Minimize Deviation in Array](problems/1675.minimize-deviation-in-array.cpp) | 🔴 Hard | C++ |
 | [1678](https://leetcode.com/problems/goal-parser-interpretation/) | [Goal Parser Interpretation](problems/1678.goal-parser-interpretation.cpp) | 🟢 Easy | C++ |
