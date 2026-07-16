@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2385 solved** — 🟢 528 Easy · 🟡 1454 Medium · 🔴 393 Hard
+**2386 solved** — 🟢 528 Easy · 🟡 1455 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1207,6 +1207,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1944](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | [Number of Visible People in a Queue](problems/1944.number-of-visible-people-in-a-queue.cpp) | 🔴 Hard | C++ |
 | [1945](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [Sum of Digits of String After Convert](problems/1945.sum-of-digits-of-string-after-convert.cpp) | 🟢 Easy | C++ |
 | [1946](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Largest Number After Mutating Substring](problems/1946.largest-number-after-mutating-substring.cpp) | 🟡 Medium | C++ |
+| [1947](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [Maximum Compatibility Score Sum](problems/1947.maximum-compatibility-score-sum.cpp) | 🟡 Medium | C++ |
 | [1948](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Delete Duplicate Folders in System](problems/1948.delete-duplicate-folders-in-system.cpp) | 🔴 Hard | C++ |
 | [1953](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [Maximum Number of Weeks for Which You Can Work](problems/1953.maximum-number-of-weeks-for-which-you-can-work.cpp) | 🟡 Medium | C++ |
 | [1954](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [Minimum Garden Perimeter to Collect Enough Apples](problems/1954.minimum-garden-perimeter-to-collect-enough-apples.cpp) | 🟡 Medium | C++ |
