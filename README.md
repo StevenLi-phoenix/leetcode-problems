@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2178 solved** — 🟢 528 Easy · 🟡 1250 Medium · 🔴 393 Hard
+**2179 solved** — 🟢 528 Easy · 🟡 1251 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -103,6 +103,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [100](https://leetcode.com/problems/same-tree/) | [Same Tree](problems/100.same-tree.cpp) | 🟢 Easy | C++ |
 | [101](https://leetcode.com/problems/symmetric-tree/) | [Symmetric Tree](problems/101.symmetric-tree.cpp) | 🟢 Easy | C++ |
 | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Binary Tree Level Order Traversal](problems/102.binary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
+| [103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Binary Tree Zigzag Level Order Traversal](problems/103.binary-tree-zigzag-level-order-traversal.cpp) | 🟡 Medium | C++ |
 | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](problems/104.maximum-depth-of-binary-tree.cpp) | 🟢 Easy | C++ |
 | [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Construct Binary Tree from Preorder and Inorder Traversal](problems/105.construct-binary-tree-from-preorder-and-inorder-traversal.cpp) | 🟡 Medium | C++ |
 | [108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Convert Sorted Array to Binary Search Tree](problems/108.convert-sorted-array-to-binary-search-tree.cpp) | 🟢 Easy | C++ |
