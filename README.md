@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2213 solved** — 🟢 528 Easy · 🟡 1284 Medium · 🔴 393 Hard
+**2214 solved** — 🟢 528 Easy · 🟡 1285 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1314,6 +1314,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2285](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [Maximum Total Importance of Roads](problems/2285.maximum-total-importance-of-roads.cpp) | 🟡 Medium | C++ |
 | [2288](https://leetcode.com/problems/apply-discount-to-prices/) | [Apply Discount to Prices](problems/2288.apply-discount-to-prices.cpp) | 🟡 Medium | C++ |
 | [2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Minimum Obstacle Removal to Reach Corner](problems/2290.minimum-obstacle-removal-to-reach-corner.cpp) | 🔴 Hard | C++ |
+| [2294](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Partition Array Such That Maximum Difference Is K](problems/2294.partition-array-such-that-maximum-difference-is-k.cpp) | 🟡 Medium | C++ |
 | [2295](https://leetcode.com/problems/replace-elements-in-an-array/) | [Replace Elements in an Array](problems/2295.replace-elements-in-an-array.cpp) | 🟡 Medium | C++ |
 | [2299](https://leetcode.com/problems/strong-password-checker-ii/) | [Strong Password Checker II](problems/2299.strong-password-checker-ii.cpp) | 🟢 Easy | C++ |
 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](problems/2300.successful-pairs-of-spells-and-potions.cpp) | 🟡 Medium | C++ |
