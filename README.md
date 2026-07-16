@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2300 solved** — 🟢 528 Easy · 🟡 1369 Medium · 🔴 393 Hard
+**2301 solved** — 🟢 528 Easy · 🟡 1370 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -95,6 +95,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [87](https://leetcode.com/problems/scramble-string/) | [Scramble String](problems/87.scramble-string.cpp) | 🔴 Hard | C++ |
 | [89](https://leetcode.com/problems/gray-code/) | [Gray Code](problems/89.gray-code.cpp) | 🟡 Medium | C++ |
 | [90](https://leetcode.com/problems/subsets-ii/) | [Subsets II](problems/90.subsets-ii.cpp) | 🟡 Medium | C++ |
+| [92](https://leetcode.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II](problems/92.reverse-linked-list-ii.cpp) | 🟡 Medium | C++ |
 | [93](https://leetcode.com/problems/restore-ip-addresses/) | [Restore IP Addresses](problems/93.restore-ip-addresses.cpp) | 🟡 Medium | C++ |
 | [94](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](problems/94.binary-tree-inorder-traversal.cpp) | 🟢 Easy | C++ |
 | [96](https://leetcode.com/problems/unique-binary-search-trees/) | [Unique Binary Search Trees](problems/96.unique-binary-search-trees.cpp) | 🟡 Medium | C++ |
