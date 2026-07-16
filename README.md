@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2431 solved** — 🟢 528 Easy · 🟡 1500 Medium · 🔴 393 Hard
+**2432 solved** — 🟢 528 Easy · 🟡 1501 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1154,6 +1154,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1815](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [Maximum Number of Groups Getting Fresh Donuts](problems/1815.maximum-number-of-groups-getting-fresh-donuts.cpp) | 🔴 Hard | C++ |
 | [1816](https://leetcode.com/problems/truncate-sentence/) | [Truncate Sentence](problems/1816.truncate-sentence.cpp) | 🟢 Easy | C++ |
 | [1817](https://leetcode.com/problems/finding-the-users-active-minutes/) | [Finding the Users Active Minutes](problems/1817.finding-the-users-active-minutes.cpp) | 🟡 Medium | C++ |
+| [1818](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [Minimum Absolute Sum Difference](problems/1818.minimum-absolute-sum-difference.cpp) | 🟡 Medium | C++ |
 | [1819](https://leetcode.com/problems/number-of-different-subsequences-gcds/) | [Number of Different Subsequences GCDs](problems/1819.number-of-different-subsequences-gcds.cpp) | 🔴 Hard | C++ |
 | [1822](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Sign of the Product of an Array](problems/1822.sign-of-the-product-of-an-array.cpp) | 🟢 Easy | C++ |
 | [1823](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Find the Winner of the Circular Game](problems/1823.find-the-winner-of-the-circular-game.cpp) | 🟡 Medium | C++ |
