@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2383 solved** — 🟢 528 Easy · 🟡 1452 Medium · 🔴 393 Hard
+**2384 solved** — 🟢 528 Easy · 🟡 1453 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1667,6 +1667,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2726](https://leetcode.com/problems/calculator-with-method-chaining/) | [Calculator with Method Chaining](problems/2726.calculator-with-method-chaining.js) | 🟢 Easy | JavaScript |
 | [2730](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [Find the Longest Semi-Repetitive Substring](problems/2730.find-the-longest-semi-repetitive-substring.cpp) | 🟡 Medium | C++ |
+| [2731](https://leetcode.com/problems/movement-of-robots/) | [Movement of Robots](problems/2731.movement-of-robots.cpp) | 🟡 Medium | C++ |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
 | [2734](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [Lexicographically Smallest String After Substring Operation](problems/2734.lexicographically-smallest-string-after-substring-operation.cpp) | 🟡 Medium | C++ |
 | [2736](https://leetcode.com/problems/maximum-sum-queries/) | [Maximum Sum Queries](problems/2736.maximum-sum-queries.cpp) | 🔴 Hard | C++ |
