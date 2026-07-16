@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2440 solved** — 🟢 528 Easy · 🟡 1509 Medium · 🔴 393 Hard
+**2441 solved** — 🟢 528 Easy · 🟡 1510 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1711,6 +1711,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2736](https://leetcode.com/problems/maximum-sum-queries/) | [Maximum Sum Queries](problems/2736.maximum-sum-queries.cpp) | 🔴 Hard | C++ |
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
 | [2740](https://leetcode.com/problems/find-the-value-of-the-partition/) | [Find the Value of the Partition](problems/2740.find-the-value-of-the-partition.cpp) | 🟡 Medium | C++ |
+| [2741](https://leetcode.com/problems/special-permutations/) | [Special Permutations](problems/2741.special-permutations.cpp) | 🟡 Medium | C++ |
 | [2742](https://leetcode.com/problems/painting-the-walls/) | [Painting the Walls](problems/2742.painting-the-walls.cpp) | 🔴 Hard | C++ |
 | [2744](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [Find Maximum Number of String Pairs](problems/2744.find-maximum-number-of-string-pairs.cpp) | 🟢 Easy | C++ |
 | [2745](https://leetcode.com/problems/construct-the-longest-new-string/) | [Construct the Longest New String](problems/2745.construct-the-longest-new-string.cpp) | 🟡 Medium | C++ |
