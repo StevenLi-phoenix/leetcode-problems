@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2260 solved** — 🟢 528 Easy · 🟡 1329 Medium · 🔴 393 Hard
+**2261 solved** — 🟢 528 Easy · 🟡 1330 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1812,6 +1812,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3174](https://leetcode.com/problems/clear-digits/) | [Clear Digits](problems/3174.clear-digits.cpp) | 🟢 Easy | C++ |
 | [3175](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Find The First Player to win K Games in a Row](problems/3175.find-the-first-player-to-win-k-games-in-a-row.cpp) | 🟡 Medium | C++ |
 | [3177](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | [Find the Maximum Length of a Good Subsequence II](problems/3177.find-the-maximum-length-of-a-good-subsequence-ii.cpp) | 🔴 Hard | C++ |
+| [3179](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) | [Find the N-th Value After K Seconds](problems/3179.find-the-n-th-value-after-k-seconds.cpp) | 🟡 Medium | C++ |
 | [3180](https://leetcode.com/problems/maximum-total-reward-using-operations-i/) | [Maximum Total Reward Using Operations I](problems/3180.maximum-total-reward-using-operations-i.cpp) | 🟡 Medium | C++ |
 | [3184](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | [Count Pairs That Form a Complete Day I](problems/3184.count-pairs-that-form-a-complete-day-i.cpp) | 🟢 Easy | C++ |
 | [3185](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) | [Count Pairs That Form a Complete Day II](problems/3185.count-pairs-that-form-a-complete-day-ii.cpp) | 🟡 Medium | C++ |
