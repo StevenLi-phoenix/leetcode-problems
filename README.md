@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2438 solved** — 🟢 528 Easy · 🟡 1507 Medium · 🔴 393 Hard
+**2439 solved** — 🟢 528 Easy · 🟡 1508 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1865,6 +1865,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3021](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | [Alice and Bob Playing Flower Game](problems/3021.alice-and-bob-playing-flower-game.cpp) | 🟡 Medium | C++ |
 | [3024](https://leetcode.com/problems/type-of-triangle/) | [Type of Triangle](problems/3024.type-of-triangle.cpp) | 🟢 Easy | C++ |
 | [3025](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Find the Number of Ways to Place People I](problems/3025.find-the-number-of-ways-to-place-people-i.cpp) | 🟡 Medium | C++ |
+| [3026](https://leetcode.com/problems/maximum-good-subarray-sum/) | [Maximum Good Subarray Sum](problems/3026.maximum-good-subarray-sum.cpp) | 🟡 Medium | C++ |
 | [3027](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) | [Find the Number of Ways to Place People II](problems/3027.find-the-number-of-ways-to-place-people-ii.cpp) | 🔴 Hard | C++ |
 | [3028](https://leetcode.com/problems/ant-on-the-boundary/) | [Ant on the Boundary](problems/3028.ant-on-the-boundary.cpp) | 🟢 Easy | C++ |
 | [3029](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/) | [Minimum Time to Revert Word to Initial State I](problems/3029.minimum-time-to-revert-word-to-initial-state-i.cpp) | 🟡 Medium | C++ |
