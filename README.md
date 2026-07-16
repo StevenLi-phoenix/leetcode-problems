@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2234 solved** — 🟢 528 Easy · 🟡 1303 Medium · 🔴 393 Hard
+**2235 solved** — 🟢 528 Easy · 🟡 1304 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -668,6 +668,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](problems/1039.minimum-score-triangulation-of-polygon.cpp) | 🟡 Medium | C++ |
 | [1040](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [Moving Stones Until Consecutive II](problems/1040.moving-stones-until-consecutive-ii.cpp) | 🟡 Medium | C++ |
 | [1041](https://leetcode.com/problems/robot-bounded-in-circle/) | [Robot Bounded In Circle](problems/1041.robot-bounded-in-circle.cpp) | 🟡 Medium | C++ |
+| [1042](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Flower Planting With No Adjacent](problems/1042.flower-planting-with-no-adjacent.cpp) | 🟡 Medium | C++ |
 | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [Partition Array for Maximum Sum](problems/1043.partition-array-for-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [1045](https://leetcode.com/problems/customers-who-bought-all-products/) | [Customers Who Bought All Products](problems/1045.customers-who-bought-all-products.sql) | 🟡 Medium | mysql |
 | [1046](https://leetcode.com/problems/last-stone-weight/) | [Last Stone Weight](problems/1046.last-stone-weight.cpp) | 🟢 Easy | C++ |
