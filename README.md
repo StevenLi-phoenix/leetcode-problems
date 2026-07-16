@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2175 solved** — 🟢 528 Easy · 🟡 1247 Medium · 🔴 393 Hard
+**2176 solved** — 🟢 528 Easy · 🟡 1248 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1738,6 +1738,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3147](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | [Taking Maximum Energy From the Mystic Dungeon](problems/3147.taking-maximum-energy-from-the-mystic-dungeon.cpp) | 🟡 Medium | C++ |
 | [3151](https://leetcode.com/problems/special-array-i/) | [Special Array I](problems/3151.special-array-i.cpp) | 🟢 Easy | C++ |
 | [3152](https://leetcode.com/problems/special-array-ii/) | [Special Array II](problems/3152.special-array-ii.cpp) | 🟡 Medium | C++ |
+| [3153](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/) | [Sum of Digit Differences of All Pairs](problems/3153.sum-of-digit-differences-of-all-pairs.cpp) | 🟡 Medium | C++ |
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
 | [3164](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) | [Find the Number of Good Pairs II](problems/3164.find-the-number-of-good-pairs-ii.cpp) | 🟡 Medium | C++ |
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
