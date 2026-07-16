@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2418 solved** — 🟢 528 Easy · 🟡 1487 Medium · 🔴 393 Hard
+**2419 solved** — 🟢 528 Easy · 🟡 1488 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -760,6 +760,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1129](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Shortest Path with Alternating Colors](problems/1129.shortest-path-with-alternating-colors.cpp) | 🟡 Medium | C++ |
 | [1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Minimum Cost Tree From Leaf Values](problems/1130.minimum-cost-tree-from-leaf-values.cpp) | 🟡 Medium | C++ |
 | [1131](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [Maximum of Absolute Value Expression](problems/1131.maximum-of-absolute-value-expression.cpp) | 🟡 Medium | C++ |
+| [1138](https://leetcode.com/problems/alphabet-board-path/) | [Alphabet Board Path](problems/1138.alphabet-board-path.cpp) | 🟡 Medium | C++ |
 | [1139](https://leetcode.com/problems/largest-1-bordered-square/) | [Largest 1-Bordered Square](problems/1139.largest-1-bordered-square.cpp) | 🟡 Medium | C++ |
 | [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
 | [1143](https://leetcode.com/problems/longest-common-subsequence/) | [Longest Common Subsequence](problems/1143.longest-common-subsequence.cpp) | 🟡 Medium | C++ |
