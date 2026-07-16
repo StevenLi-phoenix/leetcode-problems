@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2457 solved** — 🟢 528 Easy · 🟡 1526 Medium · 🔴 393 Hard
+**2458 solved** — 🟢 528 Easy · 🟡 1527 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1718,6 +1718,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2731](https://leetcode.com/problems/movement-of-robots/) | [Movement of Robots](problems/2731.movement-of-robots.cpp) | 🟡 Medium | C++ |
 | [2733](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [Neither Minimum nor Maximum](problems/2733.neither-minimum-nor-maximum.cpp) | 🟢 Easy | C++ |
 | [2734](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | [Lexicographically Smallest String After Substring Operation](problems/2734.lexicographically-smallest-string-after-substring-operation.cpp) | 🟡 Medium | C++ |
+| [2735](https://leetcode.com/problems/collecting-chocolates/) | [Collecting Chocolates](problems/2735.collecting-chocolates.cpp) | 🟡 Medium | C++ |
 | [2736](https://leetcode.com/problems/maximum-sum-queries/) | [Maximum Sum Queries](problems/2736.maximum-sum-queries.cpp) | 🔴 Hard | C++ |
 | [2739](https://leetcode.com/problems/total-distance-traveled/) | [Total Distance Traveled](problems/2739.total-distance-traveled.cpp) | 🟢 Easy | C++ |
 | [2740](https://leetcode.com/problems/find-the-value-of-the-partition/) | [Find the Value of the Partition](problems/2740.find-the-value-of-the-partition.cpp) | 🟡 Medium | C++ |
