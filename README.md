@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2265 solved** — 🟢 528 Easy · 🟡 1334 Medium · 🔴 393 Hard
+**2266 solved** — 🟢 528 Easy · 🟡 1335 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -139,6 +139,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [143](https://leetcode.com/problems/reorder-list/) | [Reorder List](problems/143.reorder-list.cpp) | 🟡 Medium | C++ |
 | [145](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](problems/145.binary-tree-postorder-traversal.cpp) | 🟢 Easy | C++ |
 | [146](https://leetcode.com/problems/lru-cache/) | [LRU Cache](problems/146.lru-cache.cpp) | 🟡 Medium | C++ |
+| [147](https://leetcode.com/problems/insertion-sort-list/) | [Insertion Sort List](problems/147.insertion-sort-list.cpp) | 🟡 Medium | C++ |
 | [148](https://leetcode.com/problems/sort-list/) | [Sort List](problems/148.sort-list.cpp) | 🟡 Medium | C++ |
 | [149](https://leetcode.com/problems/max-points-on-a-line/) | [Max Points on a Line](problems/149.max-points-on-a-line.cpp) | 🔴 Hard | C++ |
 | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](problems/150.evaluate-reverse-polish-notation.cpp) | 🟡 Medium | C++ |
