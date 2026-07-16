@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2205 solved** — 🟢 528 Easy · 🟡 1276 Medium · 🔴 393 Hard
+**2206 solved** — 🟢 528 Easy · 🟡 1277 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -387,6 +387,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [605](https://leetcode.com/problems/can-place-flowers/) | [Can Place Flowers](problems/605.can-place-flowers.cpp) | 🟢 Easy | C++ |
 | [606](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](problems/606.construct-string-from-binary-tree.cpp) | 🟡 Medium | C++ |
 | [607](https://leetcode.com/problems/sales-person/) | [Sales Person](problems/607.sales-person.sql) | 🟢 Easy | mysql |
+| [608](https://leetcode.com/problems/tree-node/) | [Tree Node](problems/608.tree-node.sql) | 🟡 Medium | mysql |
 | [609](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Find Duplicate File in System](problems/609.find-duplicate-file-in-system.cpp) | 🟡 Medium | C++ |
 | [611](https://leetcode.com/problems/valid-triangle-number/) | [Valid Triangle Number](problems/611.valid-triangle-number.cpp) | 🟡 Medium | C++ |
 | [617](https://leetcode.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](problems/617.merge-two-binary-trees.cpp) | 🟢 Easy | C++ |
