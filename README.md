@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2347 solved** — 🟢 528 Easy · 🟡 1416 Medium · 🔴 393 Hard
+**2348 solved** — 🟢 528 Easy · 🟡 1417 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2110,6 +2110,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3588](https://leetcode.com/problems/find-maximum-area-of-a-triangle/) | [Find Maximum Area of a Triangle](problems/3588.find-maximum-area-of-a-triangle.cpp) | 🟡 Medium | C++ |
 | [3591](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Check if Any Element Has Prime Frequency](problems/3591.check-if-any-element-has-prime-frequency.cpp) | 🟢 Easy | C++ |
 | [3592](https://leetcode.com/problems/inverse-coin-change/) | [Inverse Coin Change](problems/3592.inverse-coin-change.cpp) | 🟡 Medium | C++ |
+| [3593](https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths/) | [Minimum Increments to Equalize Leaf Paths](problems/3593.minimum-increments-to-equalize-leaf-paths.cpp) | 🟡 Medium | C++ |
 | [3598](https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/) | [Longest Common Prefix Between Adjacent Strings After Removals](problems/3598.longest-common-prefix-between-adjacent-strings-after-removals.cpp) | 🟡 Medium | C++ |
 | [3599](https://leetcode.com/problems/partition-array-to-minimize-xor/) | [Partition Array to Minimize XOR](problems/3599.partition-array-to-minimize-xor.cpp) | 🟡 Medium | C++ |
 | [3600](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](problems/3600.maximize-spanning-tree-stability-with-upgrades.cpp) | 🔴 Hard | C++ |
