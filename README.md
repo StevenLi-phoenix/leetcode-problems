@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2190 solved** — 🟢 528 Easy · 🟡 1262 Medium · 🔴 393 Hard
+**2191 solved** — 🟢 528 Easy · 🟡 1263 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -287,6 +287,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435.non-overlapping-intervals.cpp) | 🟡 Medium | C++ |
 | [436](https://leetcode.com/problems/find-right-interval/) | [Find Right Interval](problems/436.find-right-interval.cpp) | 🟡 Medium | C++ |
 | [437](https://leetcode.com/problems/path-sum-iii/) | [Path Sum III](problems/437.path-sum-iii.cpp) | 🟡 Medium | C++ |
+| [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Find All Anagrams in a String](problems/438.find-all-anagrams-in-a-string.cpp) | 🟡 Medium | C++ |
 | [440](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | [K-th Smallest in Lexicographical Order](problems/440.k-th-smallest-in-lexicographical-order.cpp) | 🔴 Hard | C++ |
 | [441](https://leetcode.com/problems/arranging-coins/) | [Arranging Coins](problems/441.arranging-coins.cpp) | 🟢 Easy | C++ |
 | [442](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Find All Duplicates in an Array](problems/442.find-all-duplicates-in-an-array.cpp) | 🟡 Medium | C++ |
