@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2434 solved** — 🟢 528 Easy · 🟡 1503 Medium · 🔴 393 Hard
+**2435 solved** — 🟢 528 Easy · 🟡 1504 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1976,6 +1976,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3228](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Maximum Number of Operations to Move Ones to the End](problems/3228.maximum-number-of-operations-to-move-ones-to-the-end.cpp) | 🟡 Medium | C++ |
 | [3229](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Minimum Operations to Make Array Equal to Target](problems/3229.minimum-operations-to-make-array-equal-to-target.cpp) | 🔴 Hard | C++ |
 | [3233](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/) | [Find the Count of Numbers Which Are Not Special](problems/3233.find-the-count-of-numbers-which-are-not-special.cpp) | 🟡 Medium | C++ |
+| [3234](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Count the Number of Substrings With Dominant Ones](problems/3234.count-the-number-of-substrings-with-dominant-ones.cpp) | 🟡 Medium | C++ |
 | [3235](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [Check if the Rectangle Corner Is Reachable](problems/3235.check-if-the-rectangle-corner-is-reachable.cpp) | 🔴 Hard | C++ |
 | [3239](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | [Minimum Number of Flips to Make Binary Grid Palindromic I](problems/3239.minimum-number-of-flips-to-make-binary-grid-palindromic-i.cpp) | 🟡 Medium | C++ |
 | [3240](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | [Minimum Number of Flips to Make Binary Grid Palindromic II](problems/3240.minimum-number-of-flips-to-make-binary-grid-palindromic-ii.cpp) | 🟡 Medium | C++ |
