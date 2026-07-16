@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2281 solved** — 🟢 528 Easy · 🟡 1350 Medium · 🔴 393 Hard
+**2282 solved** — 🟢 528 Easy · 🟡 1351 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -290,6 +290,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Maximum XOR of Two Numbers in an Array](problems/421.maximum-xor-of-two-numbers-in-an-array.cpp) | 🟡 Medium | C++ |
 | [423](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Reconstruct Original Digits from English](problems/423.reconstruct-original-digits-from-english.cpp) | 🟡 Medium | C++ |
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](problems/424.longest-repeating-character-replacement.cpp) | 🟡 Medium | C++ |
+| [429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [N-ary Tree Level Order Traversal](problems/429.n-ary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
 | [433](https://leetcode.com/problems/minimum-genetic-mutation/) | [Minimum Genetic Mutation](problems/433.minimum-genetic-mutation.cpp) | 🟡 Medium | C++ |
 | [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Number of Segments in a String](problems/434.number-of-segments-in-a-string.cpp) | 🟢 Easy | C++ |
