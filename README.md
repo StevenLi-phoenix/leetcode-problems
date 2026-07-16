@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2208 solved** — 🟢 528 Easy · 🟡 1279 Medium · 🔴 393 Hard
+**2209 solved** — 🟢 528 Easy · 🟡 1280 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -489,6 +489,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [790](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Domino and Tromino Tiling](problems/790.domino-and-tromino-tiling.cpp) | 🟡 Medium | C++ |
 | [791](https://leetcode.com/problems/custom-sort-string/) | [Custom Sort String](problems/791.custom-sort-string.cpp) | 🟡 Medium | C++ |
 | [792](https://leetcode.com/problems/number-of-matching-subsequences/) | [Number of Matching Subsequences](problems/792.number-of-matching-subsequences.cpp) | 🟡 Medium | C++ |
+| [794](https://leetcode.com/problems/valid-tic-tac-toe-state/) | [Valid Tic-Tac-Toe State](problems/794.valid-tic-tac-toe-state.cpp) | 🟡 Medium | C++ |
 | [795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Number of Subarrays with Bounded Maximum](problems/795.number-of-subarrays-with-bounded-maximum.cpp) | 🟡 Medium | C++ |
 | [796](https://leetcode.com/problems/rotate-string/) | [Rotate String](problems/796.rotate-string.cpp) | 🟢 Easy | C++ |
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/) | [All Paths From Source to Target](problems/797.all-paths-from-source-to-target.cpp) | 🟡 Medium | C++ |
