@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2247 solved** — 🟢 528 Easy · 🟡 1316 Medium · 🔴 393 Hard
+**2248 solved** — 🟢 528 Easy · 🟡 1317 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1739,6 +1739,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3036](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | [Number of Subarrays That Match a Pattern II](problems/3036.number-of-subarrays-that-match-a-pattern-ii.cpp) | 🔴 Hard | C++ |
 | [3038](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [Maximum Number of Operations With the Same Score I](problems/3038.maximum-number-of-operations-with-the-same-score-i.cpp) | 🟢 Easy | C++ |
 | [3039](https://leetcode.com/problems/apply-operations-to-make-string-empty/) | [Apply Operations to Make String Empty](problems/3039.apply-operations-to-make-string-empty.cpp) | 🟡 Medium | C++ |
+| [3040](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/) | [Maximum Number of Operations With the Same Score II](problems/3040.maximum-number-of-operations-with-the-same-score-ii.cpp) | 🟡 Medium | C++ |
 | [3041](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [Maximize Consecutive Elements in an Array After Modification](problems/3041.maximize-consecutive-elements-in-an-array-after-modification.cpp) | 🔴 Hard | C++ |
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](problems/3043.find-the-length-of-the-longest-common-prefix.cpp) | 🟡 Medium | C++ |
 | [3044](https://leetcode.com/problems/most-frequent-prime/) | [Most Frequent Prime](problems/3044.most-frequent-prime.cpp) | 🟡 Medium | C++ |
