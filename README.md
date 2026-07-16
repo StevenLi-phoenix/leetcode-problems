@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2363 solved** — 🟢 528 Easy · 🟡 1432 Medium · 🔴 393 Hard
+**2364 solved** — 🟢 528 Easy · 🟡 1433 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1139,6 +1139,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | [Seat Reservation Manager](problems/1845.seat-reservation-manager.cpp) | 🟡 Medium | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
+| [1849](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [Splitting a String Into Descending Consecutive Values](problems/1849.splitting-a-string-into-descending-consecutive-values.cpp) | 🟡 Medium | C++ |
 | [1850](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](problems/1850.minimum-adjacent-swaps-to-reach-the-kth-smallest-number.cpp) | 🟡 Medium | C++ |
 | [1854](https://leetcode.com/problems/maximum-population-year/) | [Maximum Population Year](problems/1854.maximum-population-year.cpp) | 🟢 Easy | C++ |
 | [1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [Maximum Distance Between a Pair of Values](problems/1855.maximum-distance-between-a-pair-of-values.cpp) | 🟡 Medium | C++ |
