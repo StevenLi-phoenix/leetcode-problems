@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2449 solved** — 🟢 528 Easy · 🟡 1518 Medium · 🔴 393 Hard
+**2450 solved** — 🟢 528 Easy · 🟡 1519 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1759,6 +1759,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2834](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/) | [Find the Minimum Possible Sum of a Beautiful Array](problems/2834.find-the-minimum-possible-sum-of-a-beautiful-array.cpp) | 🟡 Medium | C++ |
 | [2839](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Check if Strings Can be Made Equal With Operations I](problems/2839.check-if-strings-can-be-made-equal-with-operations-i.cpp) | 🟢 Easy | C++ |
 | [2840](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Check if Strings Can be Made Equal With Operations II](problems/2840.check-if-strings-can-be-made-equal-with-operations-ii.cpp) | 🟡 Medium | C++ |
+| [2841](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/) | [Maximum Sum of Almost Unique Subarray](problems/2841.maximum-sum-of-almost-unique-subarray.cpp) | 🟡 Medium | C++ |
 | [2843](https://leetcode.com/problems/count-symmetric-integers/) | [  Count Symmetric Integers](problems/2843.count-symmetric-integers.cpp) | 🟢 Easy | C++ |
 | [2844](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/) | [Minimum Operations to Make a Special Number](problems/2844.minimum-operations-to-make-a-special-number.cpp) | 🟡 Medium | C++ |
 | [2845](https://leetcode.com/problems/count-of-interesting-subarrays/) | [Count of Interesting Subarrays](problems/2845.count-of-interesting-subarrays.cpp) | 🟡 Medium | C++ |
