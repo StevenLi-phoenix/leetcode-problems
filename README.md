@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2390 solved** — 🟢 528 Easy · 🟡 1459 Medium · 🔴 393 Hard
+**2391 solved** — 🟢 528 Easy · 🟡 1460 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -484,6 +484,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [731](https://leetcode.com/problems/my-calendar-ii/) | [My Calendar II](problems/731.my-calendar-ii.cpp) | 🟡 Medium | C++ |
 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](problems/735.asteroid-collision.cpp) | 🟡 Medium | C++ |
 | [736](https://leetcode.com/problems/parse-lisp-expression/) | [Parse Lisp Expression](problems/736.parse-lisp-expression.cpp) | 🔴 Hard | C++ |
+| [738](https://leetcode.com/problems/monotone-increasing-digits/) | [Monotone Increasing Digits](problems/738.monotone-increasing-digits.cpp) | 🟡 Medium | C++ |
 | [740](https://leetcode.com/problems/delete-and-earn/) | [Delete and Earn](problems/740.delete-and-earn.cpp) | 🟡 Medium | C++ |
 | [741](https://leetcode.com/problems/cherry-pickup/) | [Cherry Pickup](problems/741.cherry-pickup.cpp) | 🔴 Hard | C++ |
 | [743](https://leetcode.com/problems/network-delay-time/) | [Network Delay Time](problems/743.network-delay-time.cpp) | 🟡 Medium | C++ |
