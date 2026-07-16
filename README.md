@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2450 solved** — 🟢 528 Easy · 🟡 1519 Medium · 🔴 393 Hard
+**2451 solved** — 🟢 528 Easy · 🟡 1520 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1396,6 +1396,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Minimum Operations to Halve Array Sum](problems/2208.minimum-operations-to-halve-array-sum.cpp) | 🟡 Medium | C++ |
 | [2212](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Maximum Points in an Archery Competition](problems/2212.maximum-points-in-an-archery-competition.cpp) | 🟡 Medium | C++ |
 | [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Find the Difference of Two Arrays](problems/2215.find-the-difference-of-two-arrays.cpp) | 🟢 Easy | C++ |
+| [2216](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) | [Minimum Deletions to Make Array Beautiful](problems/2216.minimum-deletions-to-make-array-beautiful.cpp) | 🟡 Medium | C++ |
 | [2217](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | [Find Palindrome With Fixed Length](problems/2217.find-palindrome-with-fixed-length.cpp) | 🟡 Medium | C++ |
 | [2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [Maximum Value of K Coins From Piles](problems/2218.maximum-value-of-k-coins-from-piles.cpp) | 🔴 Hard | C++ |
 | [2222](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [Number of Ways to Select Buildings](problems/2222.number-of-ways-to-select-buildings.cpp) | 🟡 Medium | C++ |
