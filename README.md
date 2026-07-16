@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2466 solved** — 🟢 528 Easy · 🟡 1535 Medium · 🔴 393 Hard
+**2467 solved** — 🟢 528 Easy · 🟡 1536 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -166,6 +166,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [173](https://leetcode.com/problems/binary-search-tree-iterator/) | [Binary Search Tree Iterator](problems/173.binary-search-tree-iterator.cpp) | 🟡 Medium | C++ |
 | [176](https://leetcode.com/problems/second-highest-salary/) | [Second Highest Salary](problems/176.second-highest-salary.sql) | 🟡 Medium | mysql |
 | [177](https://leetcode.com/problems/nth-highest-salary/) | [Nth Highest Salary](problems/177.nth-highest-salary.sql) | 🟡 Medium | mysql |
+| [178](https://leetcode.com/problems/rank-scores/) | [Rank Scores](problems/178.rank-scores.sql) | 🟡 Medium | mysql |
 | [179](https://leetcode.com/problems/largest-number/) | [Largest Number](problems/179.largest-number.cpp) | 🟡 Medium | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
 | [184](https://leetcode.com/problems/department-highest-salary/) | [Department Highest Salary](problems/184.department-highest-salary.sql) | 🟡 Medium | mysql |
