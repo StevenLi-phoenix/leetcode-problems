@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2269 solved** — 🟢 528 Easy · 🟡 1338 Medium · 🔴 393 Hard
+**2270 solved** — 🟢 528 Easy · 🟡 1339 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1384,6 +1384,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/) | [Find Closest Node to Given Two Nodes](problems/2359.find-closest-node-to-given-two-nodes.cpp) | 🟡 Medium | C++ |
 | [2360](https://leetcode.com/problems/longest-cycle-in-a-graph/) | [Longest Cycle in a Graph](problems/2360.longest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [2363](https://leetcode.com/problems/merge-similar-items/) | [Merge Similar Items](problems/2363.merge-similar-items.cpp) | 🟢 Easy | C++ |
+| [2365](https://leetcode.com/problems/task-scheduler-ii/) | [Task Scheduler II](problems/2365.task-scheduler-ii.cpp) | 🟡 Medium | C++ |
 | [2368](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [Reachable Nodes With Restrictions](problems/2368.reachable-nodes-with-restrictions.cpp) | 🟡 Medium | C++ |
 | [2369](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [Check if There is a Valid Partition For The Array](problems/2369.check-if-there-is-a-valid-partition-for-the-array.cpp) | 🟡 Medium | C++ |
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
