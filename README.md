@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2393 solved** — 🟢 528 Easy · 🟡 1462 Medium · 🔴 393 Hard
+**2394 solved** — 🟢 528 Easy · 🟡 1463 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -965,6 +965,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1517](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [Find Users With Valid E-Mails](problems/1517.find-users-with-valid-e-mails.sql) | 🟢 Easy | mysql |
 | [1518](https://leetcode.com/problems/water-bottles/) | [Water Bottles](problems/1518.water-bottles.cpp) | 🟢 Easy | C++ |
 | [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Count Odd Numbers in an Interval Range](problems/1523.count-odd-numbers-in-an-interval-range.cpp) | 🟢 Easy | C++ |
+| [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Number of Sub-arrays With Odd Sum](problems/1524.number-of-sub-arrays-with-odd-sum.cpp) | 🟡 Medium | C++ |
 | [1525](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [Number of Good Ways to Split a String](problems/1525.number-of-good-ways-to-split-a-string.cpp) | 🟡 Medium | C++ |
 | [1527](https://leetcode.com/problems/patients-with-a-condition/) | [Patients With a Condition](problems/1527.patients-with-a-condition.sql) | 🟢 Easy | mysql |
 | [1528](https://leetcode.com/problems/shuffle-string/) | [Shuffle String](problems/1528.shuffle-string.py) | 🟢 Easy | Python |
