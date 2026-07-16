@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2212 solved** — 🟢 528 Easy · 🟡 1283 Medium · 🔴 393 Hard
+**2213 solved** — 🟢 528 Easy · 🟡 1284 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -670,6 +670,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1048](https://leetcode.com/problems/longest-string-chain/) | [Longest String Chain](problems/1048.longest-string-chain.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
 | [1052](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Grumpy Bookstore Owner](problems/1052.grumpy-bookstore-owner.cpp) | 🟡 Medium | C++ |
+| [1053](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Previous Permutation With One Swap](problems/1053.previous-permutation-with-one-swap.cpp) | 🟡 Medium | C++ |
 | [1054](https://leetcode.com/problems/distant-barcodes/) | [Distant Barcodes](problems/1054.distant-barcodes.cpp) | 🟡 Medium | C++ |
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
 | [1070](https://leetcode.com/problems/product-sales-analysis-iii/) | [Product Sales Analysis III](problems/1070.product-sales-analysis-iii.sql) | 🟡 Medium | mysql |
