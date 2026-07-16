@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2222 solved** — 🟢 528 Easy · 🟡 1292 Medium · 🔴 393 Hard
+**2223 solved** — 🟢 528 Easy · 🟡 1293 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1181,6 +1181,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](problems/2033.minimum-operations-to-make-a-uni-value-grid.cpp) | 🟡 Medium | C++ |
 | [2034](https://leetcode.com/problems/stock-price-fluctuation/) | [Stock Price Fluctuation ](problems/2034.stock-price-fluctuation.cpp) | 🟡 Medium | C++ |
 | [2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](problems/2037.minimum-number-of-moves-to-seat-everyone.cpp) | 🟢 Easy | C++ |
+| [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Remove Colored Pieces if Both Neighbors are the Same Color](problems/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.cpp) | 🟡 Medium | C++ |
 | [2039](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | [The Time When the Network Becomes Idle](problems/2039.the-time-when-the-network-becomes-idle.cpp) | 🟡 Medium | C++ |
 | [2042](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Check if Numbers Are Ascending in a Sentence](problems/2042.check-if-numbers-are-ascending-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2043](https://leetcode.com/problems/simple-bank-system/) | [Simple Bank System](problems/2043.simple-bank-system.cpp) | 🟡 Medium | C++ |
