@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2608 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 515 Hard
+**2609 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 516 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2587,6 +2587,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
 | [3942](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Minimum Operations to Sort a Permutation](problems/3942.minimum-operations-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
 | [3946](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [Maximum Number of Items From Sale I](problems/3946.maximum-number-of-items-from-sale-i.cpp) | 🟡 Medium | C++ |
+| [3948](https://leetcode.com/problems/lexicographically-maximum-mex-array/) | [Lexicographically Maximum MEX Array](problems/3948.lexicographically-maximum-mex-array.cpp) | 🔴 Hard | C++ |
 | [3950](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Exactly One Consecutive Set Bits Pair](problems/3950.exactly-one-consecutive-set-bits-pair.cpp) | 🟢 Easy | C++ |
 | [3951](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | [Minimum Energy to Maintain Brightness](problems/3951.minimum-energy-to-maintain-brightness.cpp) | 🟡 Medium | C++ |
 | [3952](https://leetcode.com/problems/maximum-total-value-of-covered-indices/) | [Maximum Total Value of Covered Indices](problems/3952.maximum-total-value-of-covered-indices.cpp) | 🟡 Medium | C++ |
