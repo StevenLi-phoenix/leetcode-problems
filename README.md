@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2764 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 670 Hard
+**2765 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 671 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2180,6 +2180,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3142](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | [Check if Grid Satisfies Conditions](problems/3142.check-if-grid-satisfies-conditions.cpp) | 🟢 Easy | C++ |
 | [3143](https://leetcode.com/problems/maximum-points-inside-the-square/) | [Maximum Points Inside the Square](problems/3143.maximum-points-inside-the-square.cpp) | 🟡 Medium | C++ |
 | [3144](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/) | [Minimum Substring Partition of Equal Character Frequency](problems/3144.minimum-substring-partition-of-equal-character-frequency.cpp) | 🟡 Medium | C++ |
+| [3145](https://leetcode.com/problems/find-products-of-elements-of-big-array/) | [Find Products of Elements of Big Array](problems/3145.find-products-of-elements-of-big-array.cpp) | 🔴 Hard | C++ |
 | [3146](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [Permutation Difference between Two Strings](problems/3146.permutation-difference-between-two-strings.cpp) | 🟢 Easy | C++ |
 | [3147](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | [Taking Maximum Energy From the Mystic Dungeon](problems/3147.taking-maximum-energy-from-the-mystic-dungeon.cpp) | 🟡 Medium | C++ |
 | [3148](https://leetcode.com/problems/maximum-difference-score-in-a-grid/) | [Maximum Difference Score in a Grid](problems/3148.maximum-difference-score-in-a-grid.cpp) | 🟡 Medium | C++ |
