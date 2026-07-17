@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2632 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 539 Hard
+**2633 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 540 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -627,6 +627,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [879](https://leetcode.com/problems/profitable-schemes/) | [Profitable Schemes](problems/879.profitable-schemes.cpp) | 🔴 Hard | C++ |
 | [880](https://leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](problems/880.decoded-string-at-index.cpp) | 🟡 Medium | C++ |
 | [881](https://leetcode.com/problems/boats-to-save-people/) | [Boats to Save People](problems/881.boats-to-save-people.cpp) | 🟡 Medium | C++ |
+| [882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/) | [Reachable Nodes In Subdivided Graph](problems/882.reachable-nodes-in-subdivided-graph.cpp) | 🔴 Hard | C++ |
 | [883](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Projection Area of 3D Shapes](problems/883.projection-area-of-3d-shapes.cpp) | 🟢 Easy | C++ |
 | [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](problems/884.uncommon-words-from-two-sentences.cpp) | 🟢 Easy | C++ |
 | [885](https://leetcode.com/problems/spiral-matrix-iii/) | [Spiral Matrix III](problems/885.spiral-matrix-iii.cpp) | 🟡 Medium | C++ |
