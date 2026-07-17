@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2515 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 424 Hard
+**2516 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 425 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1543,6 +1543,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [Minimum Amount of Time to Collect Garbage](problems/2391.minimum-amount-of-time-to-collect-garbage.cpp) | 🟡 Medium | C++ |
 | [2396](https://leetcode.com/problems/strictly-palindromic-number/) | [Strictly Palindromic Number](problems/2396.strictly-palindromic-number.cpp) | 🟡 Medium | C++ |
 | [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
+| [2398](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | [Maximum Number of Robots Within Budget](problems/2398.maximum-number-of-robots-within-budget.cpp) | 🔴 Hard | C++ |
 | [2400](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [Number of Ways to Reach a Position After Exactly k Steps](problems/2400.number-of-ways-to-reach-a-position-after-exactly-k-steps.cpp) | 🟡 Medium | C++ |
 | [2401](https://leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](problems/2401.longest-nice-subarray.cpp) | 🟡 Medium | C++ |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](problems/2402.meeting-rooms-iii.cpp) | 🔴 Hard | C++ |
