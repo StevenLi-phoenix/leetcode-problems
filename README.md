@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2719 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 625 Hard
+**2720 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 626 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1621,6 +1621,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2331](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [Evaluate Boolean Binary Tree](problems/2331.evaluate-boolean-binary-tree.cpp) | 🟢 Easy | C++ |
 | [2332](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [The Latest Time to Catch a Bus](problems/2332.the-latest-time-to-catch-a-bus.cpp) | 🟡 Medium | C++ |
 | [2333](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Minimum Sum of Squared Difference](problems/2333.minimum-sum-of-squared-difference.cpp) | 🟡 Medium | C++ |
+| [2334](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/) | [Subarray With Elements Greater Than Varying Threshold](problems/2334.subarray-with-elements-greater-than-varying-threshold.cpp) | 🔴 Hard | C++ |
 | [2336](https://leetcode.com/problems/smallest-number-in-infinite-set/) | [Smallest Number in Infinite Set](problems/2336.smallest-number-in-infinite-set.cpp) | 🟡 Medium | C++ |
 | [2337](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) | [Move Pieces to Obtain a String](problems/2337.move-pieces-to-obtain-a-string.cpp) | 🟡 Medium | C++ |
 | [2338](https://leetcode.com/problems/count-the-number-of-ideal-arrays/) | [Count the Number of Ideal Arrays](problems/2338.count-the-number-of-ideal-arrays.cpp) | 🔴 Hard | C++ |
