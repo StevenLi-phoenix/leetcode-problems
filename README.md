@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2606 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 513 Hard
+**2607 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 514 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1189,6 +1189,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](problems/1758.minimum-changes-to-make-alternating-binary-string.cpp) | 🟢 Easy | C++ |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [Count Number of Homogenous Substrings](problems/1759.count-number-of-homogenous-substrings.cpp) | 🟡 Medium | C++ |
 | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Minimum Limit of Balls in a Bag](problems/1760.minimum-limit-of-balls-in-a-bag.cpp) | 🟡 Medium | C++ |
+| [1761](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/) | [Minimum Degree of a Connected Trio in a Graph](problems/1761.minimum-degree-of-a-connected-trio-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [1763](https://leetcode.com/problems/longest-nice-substring/) | [Longest Nice Substring](problems/1763.longest-nice-substring.cpp) | 🟢 Easy | C++ |
 | [1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Form Array by Concatenating Subarrays of Another Array](problems/1764.form-array-by-concatenating-subarrays-of-another-array.cpp) | 🟡 Medium | C++ |
 | [1765](https://leetcode.com/problems/map-of-highest-peak/) | [Map of Highest Peak](problems/1765.map-of-highest-peak.cpp) | 🟡 Medium | C++ |
