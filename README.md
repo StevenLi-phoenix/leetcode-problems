@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2540 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 448 Hard
+**2541 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 449 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1805,6 +1805,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Count Paths That Can Form a Palindrome in a Tree](problems/2791.count-paths-that-can-form-a-palindrome-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number of Employees Who Met the Target](problems/2798.number-of-employees-who-met-the-target.cpp) | 🟢 Easy | C++ |
 | [2799](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | [Count Complete Subarrays in an Array](problems/2799.count-complete-subarrays-in-an-array.cpp) | 🟡 Medium | C++ |
+| [2801](https://leetcode.com/problems/count-stepping-numbers-in-range/) | [Count Stepping Numbers in Range](problems/2801.count-stepping-numbers-in-range.cpp) | 🔴 Hard | C++ |
 | [2806](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Account Balance After Rounded Purchase](problems/2806.account-balance-after-rounded-purchase.cpp) | 🟢 Easy | C++ |
 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Insert Greatest Common Divisors in Linked List](problems/2807.insert-greatest-common-divisors-in-linked-list.cpp) | 🟡 Medium | C++ |
 | [2808](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | [Minimum Seconds to Equalize a Circular Array](problems/2808.minimum-seconds-to-equalize-a-circular-array.cpp) | 🟡 Medium | C++ |
