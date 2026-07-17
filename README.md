@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2754 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 660 Hard
+**2755 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 661 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1382,6 +1382,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](problems/1957.delete-characters-to-make-fancy-string.cpp) | 🟢 Easy | C++ |
 | [1958](https://leetcode.com/problems/check-if-move-is-legal/) | [Check if Move is Legal](problems/1958.check-if-move-is-legal.cpp) | 🟡 Medium | C++ |
 | [1959](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [Minimum Total Space Wasted With K Resizing Operations](problems/1959.minimum-total-space-wasted-with-k-resizing-operations.cpp) | 🟡 Medium | C++ |
+| [1960](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/) | [Maximum Product of the Length of Two Palindromic Substrings](problems/1960.maximum-product-of-the-length-of-two-palindromic-substrings.cpp) | 🔴 Hard | C++ |
 | [1961](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Check If String Is a Prefix of Array](problems/1961.check-if-string-is-a-prefix-of-array.cpp) | 🟢 Easy | C++ |
 | [1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Remove Stones to Minimize the Total](problems/1962.remove-stones-to-minimize-the-total.cpp) | 🟡 Medium | C++ |
 | [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Minimum Number of Swaps to Make the String Balanced](problems/1963.minimum-number-of-swaps-to-make-the-string-balanced.cpp) | 🟡 Medium | C++ |
