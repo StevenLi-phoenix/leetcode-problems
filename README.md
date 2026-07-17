@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2534 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 442 Hard
+**2535 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 443 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -990,6 +990,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1472](https://leetcode.com/problems/design-browser-history/) | [Design Browser History](problems/1472.design-browser-history.cpp) | 🟡 Medium | C++ |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | [Subrectangle Queries](problems/1476.subrectangle-queries.cpp) | 🟡 Medium | C++ |
 | [1477](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Find Two Non-overlapping Sub-arrays Each With Target Sum](problems/1477.find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) | 🟡 Medium | C++ |
+| [1478](https://leetcode.com/problems/allocate-mailboxes/) | [Allocate Mailboxes](problems/1478.allocate-mailboxes.cpp) | 🔴 Hard | C++ |
 | [1481](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [Least Number of Unique Integers after K Removals](problems/1481.least-number-of-unique-integers-after-k-removals.cpp) | 🟡 Medium | C++ |
 | [1482](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Minimum Number of Days to Make m Bouquets](problems/1482.minimum-number-of-days-to-make-m-bouquets.cpp) | 🟡 Medium | C++ |
 | [1483](https://leetcode.com/problems/kth-ancestor-of-a-tree-node/) | [Kth Ancestor of a Tree Node](problems/1483.kth-ancestor-of-a-tree-node.cpp) | 🔴 Hard | C++ |
