@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2660 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 566 Hard
+**2661 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 567 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1729,6 +1729,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2544](https://leetcode.com/problems/alternating-digit-sum/) | [Alternating Digit Sum](problems/2544.alternating-digit-sum.cpp) | 🟢 Easy | C++ |
 | [2545](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [Sort the Students by Their Kth Score](problems/2545.sort-the-students-by-their-kth-score.cpp) | 🟡 Medium | C++ |
 | [2546](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | [Apply Bitwise Operations to Make Strings Equal](problems/2546.apply-bitwise-operations-to-make-strings-equal.cpp) | 🟡 Medium | C++ |
+| [2547](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | [Minimum Cost to Split an Array](problems/2547.minimum-cost-to-split-an-array.cpp) | 🔴 Hard | C++ |
 | [2549](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [Count Distinct Numbers on Board](problems/2549.count-distinct-numbers-on-board.cpp) | 🟢 Easy | C++ |
 | [2550](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/) | [Count Collisions of Monkeys on a Polygon](problems/2550.count-collisions-of-monkeys-on-a-polygon.cpp) | 🟡 Medium | C++ |
 | [2551](https://leetcode.com/problems/put-marbles-in-bags/) | [Put Marbles in Bags](problems/2551.put-marbles-in-bags.cpp) | 🔴 Hard | C++ |
