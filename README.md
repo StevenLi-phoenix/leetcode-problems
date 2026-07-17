@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2584 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 491 Hard
+**2585 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 492 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -257,6 +257,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Verify Preorder Serialization of a Binary Tree](problems/331.verify-preorder-serialization-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [334](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Increasing Triplet Subsequence](problems/334.increasing-triplet-subsequence.cpp) | 🟡 Medium | C++ |
 | [335](https://leetcode.com/problems/self-crossing/) | [Self Crossing](problems/335.self-crossing.cpp) | 🔴 Hard | C++ |
+| [336](https://leetcode.com/problems/palindrome-pairs/) | [Palindrome Pairs](problems/336.palindrome-pairs.cpp) | 🔴 Hard | C++ |
 | [337](https://leetcode.com/problems/house-robber-iii/) | [House Robber III](problems/337.house-robber-iii.cpp) | 🟡 Medium | C++ |
 | [338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](problems/338.counting-bits.cpp) | 🟢 Easy | C++ |
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
