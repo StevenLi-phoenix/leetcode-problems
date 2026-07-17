@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2765 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 671 Hard
+**2766 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 672 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -532,6 +532,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [741](https://leetcode.com/problems/cherry-pickup/) | [Cherry Pickup](problems/741.cherry-pickup.cpp) | 🔴 Hard | C++ |
 | [743](https://leetcode.com/problems/network-delay-time/) | [Network Delay Time](problems/743.network-delay-time.cpp) | 🟡 Medium | C++ |
 | [744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Find Smallest Letter Greater Than Target](problems/744.find-smallest-letter-greater-than-target.cpp) | 🟢 Easy | C++ |
+| [745](https://leetcode.com/problems/prefix-and-suffix-search/) | [Prefix and Suffix Search](problems/745.prefix-and-suffix-search.cpp) | 🔴 Hard | C++ |
 | [747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Largest Number At Least Twice of Others](problems/747.largest-number-at-least-twice-of-others.cpp) | 🟢 Easy | C++ |
 | [749](https://leetcode.com/problems/contain-virus/) | [Contain Virus](problems/749.contain-virus.cpp) | 🔴 Hard | C++ |
 | [752](https://leetcode.com/problems/open-the-lock/) | [Open the Lock](problems/752.open-the-lock.cpp) | 🟡 Medium | C++ |
