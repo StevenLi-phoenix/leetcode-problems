@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2531 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 440 Hard
+**2532 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 441 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -656,6 +656,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [938](https://leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](problems/938.range-sum-of-bst.cpp) | 🟢 Easy | C++ |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | [Minimum Area Rectangle](problems/939.minimum-area-rectangle.cpp) | 🟡 Medium | C++ |
 | [942](https://leetcode.com/problems/di-string-match/) | [DI String Match](problems/942.di-string-match.cpp) | 🟢 Easy | C++ |
+| [943](https://leetcode.com/problems/find-the-shortest-superstring/) | [Find the Shortest Superstring](problems/943.find-the-shortest-superstring.cpp) | 🔴 Hard | C++ |
 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](problems/944.delete-columns-to-make-sorted.cpp) | 🟢 Easy | C++ |
 | [945](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Minimum Increment to Make Array Unique](problems/945.minimum-increment-to-make-array-unique.cpp) | 🟡 Medium | C++ |
 | [946](https://leetcode.com/problems/validate-stack-sequences/) | [Validate Stack Sequences](problems/946.validate-stack-sequences.cpp) | 🟡 Medium | C++ |
