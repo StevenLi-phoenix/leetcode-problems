@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2720 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 626 Hard
+**2721 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 627 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1209,6 +1209,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1720](https://leetcode.com/problems/decode-xored-array/) | [Decode XORed Array](problems/1720.decode-xored-array.cpp) | 🟢 Easy | C++ |
 | [1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Swapping Nodes in a Linked List](problems/1721.swapping-nodes-in-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Minimize Hamming Distance After Swap Operations](problems/1722.minimize-hamming-distance-after-swap-operations.cpp) | 🟡 Medium | C++ |
+| [1723](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) | [Find Minimum Time to Finish All Jobs](problems/1723.find-minimum-time-to-finish-all-jobs.cpp) | 🔴 Hard | C++ |
 | [1726](https://leetcode.com/problems/tuple-with-same-product/) | [Tuple with Same Product](problems/1726.tuple-with-same-product.cpp) | 🟡 Medium | C++ |
 | [1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [Largest Submatrix With Rearrangements](problems/1727.largest-submatrix-with-rearrangements.cpp) | 🟡 Medium | C++ |
 | [1728](https://leetcode.com/problems/cat-and-mouse-ii/) | [Cat and Mouse II](problems/1728.cat-and-mouse-ii.cpp) | 🔴 Hard | C++ |
