@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2696 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 602 Hard
+**2697 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 603 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -567,6 +567,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [799](https://leetcode.com/problems/champagne-tower/) | [Champagne Tower](problems/799.champagne-tower.cpp) | 🟡 Medium | C++ |
 | [801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [Minimum Swaps To Make Sequences Increasing](problems/801.minimum-swaps-to-make-sequences-increasing.cpp) | 🔴 Hard | C++ |
 | [802](https://leetcode.com/problems/find-eventual-safe-states/) | [Find Eventual Safe States](problems/802.find-eventual-safe-states.cpp) | 🟡 Medium | C++ |
+| [803](https://leetcode.com/problems/bricks-falling-when-hit/) | [Bricks Falling When Hit](problems/803.bricks-falling-when-hit.cpp) | 🔴 Hard | C++ |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | [Unique Morse Code Words](problems/804.unique-morse-code-words.cpp) | 🟢 Easy | C++ |
 | [805](https://leetcode.com/problems/split-array-with-same-average/) | [Split Array With Same Average](problems/805.split-array-with-same-average.cpp) | 🔴 Hard | C++ |
 | [806](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Number of Lines To Write String](problems/806.number-of-lines-to-write-string.cpp) | 🟢 Easy | C++ |
