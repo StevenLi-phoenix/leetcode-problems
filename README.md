@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2490 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 399 Hard
+**2491 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 400 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -561,6 +561,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [825](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Friends Of Appropriate Ages](problems/825.friends-of-appropriate-ages.cpp) | 🟡 Medium | C++ |
 | [826](https://leetcode.com/problems/most-profit-assigning-work/) | [Most Profit Assigning Work](problems/826.most-profit-assigning-work.cpp) | 🟡 Medium | C++ |
 | [827](https://leetcode.com/problems/making-a-large-island/) | [Making A Large Island](problems/827.making-a-large-island.cpp) | 🔴 Hard | C++ |
+| [828](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [Count Unique Characters of All Substrings of a Given String](problems/828.count-unique-characters-of-all-substrings-of-a-given-string.cpp) | 🔴 Hard | C++ |
 | [829](https://leetcode.com/problems/consecutive-numbers-sum/) | [Consecutive Numbers Sum](problems/829.consecutive-numbers-sum.cpp) | 🔴 Hard | C++ |
 | [830](https://leetcode.com/problems/positions-of-large-groups/) | [Positions of Large Groups](problems/830.positions-of-large-groups.cpp) | 🟢 Easy | C++ |
 | [831](https://leetcode.com/problems/masking-personal-information/) | [Masking Personal Information](problems/831.masking-personal-information.cpp) | 🟡 Medium | C++ |
