@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2738 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 644 Hard
+**2739 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 645 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -413,6 +413,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Maximum Depth of N-ary Tree](problems/559.maximum-depth-of-n-ary-tree.cpp) | 🟢 Easy | C++ |
 | [560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray Sum Equals K](problems/560.subarray-sum-equals-k.cpp) | 🟡 Medium | C++ |
 | [561](https://leetcode.com/problems/array-partition/) | [Array Partition](problems/561.array-partition.cpp) | 🟢 Easy | C++ |
+| [564](https://leetcode.com/problems/find-the-closest-palindrome/) | [Find the Closest Palindrome](problems/564.find-the-closest-palindrome.cpp) | 🔴 Hard | C++ |
 | [565](https://leetcode.com/problems/array-nesting/) | [Array Nesting](problems/565.array-nesting.cpp) | 🟡 Medium | C++ |
 | [567](https://leetcode.com/problems/permutation-in-string/) | [Permutation in String](problems/567.permutation-in-string.cpp) | 🟡 Medium | C++ |
 | [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Managers with at Least 5 Direct Reports](problems/570.managers-with-at-least-5-direct-reports.sql) | 🟡 Medium | mysql |
