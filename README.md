@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2647 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 553 Hard
+**2648 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 554 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1869,6 +1869,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2772](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | [Apply Operations to Make All Array Elements Equal to Zero](problems/2772.apply-operations-to-make-all-array-elements-equal-to-zero.cpp) | 🟡 Medium | C++ |
 | [2779](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Maximum Beauty of an Array After Applying Operation](problems/2779.maximum-beauty-of-an-array-after-applying-operation.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
+| [2781](https://leetcode.com/problems/length-of-the-longest-valid-substring/) | [Length of the Longest Valid Substring](problems/2781.length-of-the-longest-valid-substring.cpp) | 🔴 Hard | C++ |
 | [2784](https://leetcode.com/problems/check-if-array-is-good/) | [Check if Array is Good](problems/2784.check-if-array-is-good.cpp) | 🟢 Easy | C++ |
 | [2786](https://leetcode.com/problems/visit-array-positions-to-maximize-score/) | [Visit Array Positions to Maximize Score](problems/2786.visit-array-positions-to-maximize-score.cpp) | 🟡 Medium | C++ |
 | [2787](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Ways to Express an Integer as Sum of Powers](problems/2787.ways-to-express-an-integer-as-sum-of-powers.cpp) | 🟡 Medium | C++ |
