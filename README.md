@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2749 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 655 Hard
+**2750 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 656 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1697,6 +1697,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
 | [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Longest Subarray With Maximum Bitwise AND](problems/2419.longest-subarray-with-maximum-bitwise-and.cpp) | 🟡 Medium | C++ |
 | [2420](https://leetcode.com/problems/find-all-good-indices/) | [Find All Good Indices](problems/2420.find-all-good-indices.cpp) | 🟡 Medium | C++ |
+| [2421](https://leetcode.com/problems/number-of-good-paths/) | [Number of Good Paths](problems/2421.number-of-good-paths.cpp) | 🔴 Hard | C++ |
 | [2423](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [Remove Letter To Equalize Frequency](problems/2423.remove-letter-to-equalize-frequency.cpp) | 🟢 Easy | C++ |
 | [2424](https://leetcode.com/problems/longest-uploaded-prefix/) | [Longest Uploaded Prefix](problems/2424.longest-uploaded-prefix.cpp) | 🟡 Medium | C++ |
 | [2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Bitwise XOR of All Pairings](problems/2425.bitwise-xor-of-all-pairings.cpp) | 🟡 Medium | C++ |
