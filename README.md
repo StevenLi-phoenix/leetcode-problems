@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2649 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 555 Hard
+**2650 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 556 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1321,6 +1321,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1929](https://leetcode.com/problems/concatenation-of-array/) | [Concatenation of Array](problems/1929.concatenation-of-array.cpp) | 🟢 Easy | C++ |
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [Unique Length-3 Palindromic Subsequences](problems/1930.unique-length-3-palindromic-subsequences.cpp) | 🟡 Medium | C++ |
 | [1931](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [Painting a Grid With Three Different Colors](problems/1931.painting-a-grid-with-three-different-colors.cpp) | 🔴 Hard | C++ |
+| [1932](https://leetcode.com/problems/merge-bsts-to-create-single-bst/) | [Merge BSTs to Create Single BST](problems/1932.merge-bsts-to-create-single-bst.cpp) | 🔴 Hard | C++ |
 | [1934](https://leetcode.com/problems/confirmation-rate/) | [Confirmation Rate](problems/1934.confirmation-rate.sql) | 🟡 Medium | mysql |
 | [1936](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Add Minimum Number of Rungs](problems/1936.add-minimum-number-of-rungs.cpp) | 🟡 Medium | C++ |
 | [1937](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Maximum Number of Points with Cost](problems/1937.maximum-number-of-points-with-cost.cpp) | 🟡 Medium | C++ |
