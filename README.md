@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2730 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 636 Hard
+**2731 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 637 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -647,6 +647,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [884](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [Uncommon Words from Two Sentences](problems/884.uncommon-words-from-two-sentences.cpp) | 🟢 Easy | C++ |
 | [885](https://leetcode.com/problems/spiral-matrix-iii/) | [Spiral Matrix III](problems/885.spiral-matrix-iii.cpp) | 🟡 Medium | C++ |
 | [886](https://leetcode.com/problems/possible-bipartition/) | [Possible Bipartition](problems/886.possible-bipartition.cpp) | 🟡 Medium | C++ |
+| [887](https://leetcode.com/problems/super-egg-drop/) | [Super Egg Drop](problems/887.super-egg-drop.cpp) | 🔴 Hard | C++ |
 | [888](https://leetcode.com/problems/fair-candy-swap/) | [Fair Candy Swap](problems/888.fair-candy-swap.cpp) | 🟢 Easy | C++ |
 | [889](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Construct Binary Tree from Preorder and Postorder Traversal](problems/889.construct-binary-tree-from-preorder-and-postorder-traversal.cpp) | 🟡 Medium | C++ |
 | [890](https://leetcode.com/problems/find-and-replace-pattern/) | [Find and Replace Pattern](problems/890.find-and-replace-pattern.cpp) | 🟡 Medium | C++ |
