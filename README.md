@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2680 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 586 Hard
+**2681 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 587 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1851,6 +1851,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2710](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [Remove Trailing Zeros From a String](problems/2710.remove-trailing-zeros-from-a-string.cpp) | 🟢 Easy | C++ |
 | [2711](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/) | [Difference of Number of Distinct Values on Diagonals](problems/2711.difference-of-number-of-distinct-values-on-diagonals.cpp) | 🟡 Medium | C++ |
 | [2712](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/) | [Minimum Cost to Make All Characters Equal](problems/2712.minimum-cost-to-make-all-characters-equal.cpp) | 🟡 Medium | C++ |
+| [2713](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | [Maximum Strictly Increasing Cells in a Matrix](problems/2713.maximum-strictly-increasing-cells-in-a-matrix.cpp) | 🔴 Hard | C++ |
 | [2715](https://leetcode.com/problems/timeout-cancellation/) | [Timeout Cancellation](problems/2715.timeout-cancellation.js) | 🟢 Easy | JavaScript |
 | [2717](https://leetcode.com/problems/semi-ordered-permutation/) | [Semi-Ordered Permutation](problems/2717.semi-ordered-permutation.cpp) | 🟢 Easy | C++ |
 | [2718](https://leetcode.com/problems/sum-of-matrix-after-queries/) | [Sum of Matrix After Queries](problems/2718.sum-of-matrix-after-queries.cpp) | 🟡 Medium | C++ |
