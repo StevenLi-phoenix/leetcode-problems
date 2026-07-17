@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2668 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 574 Hard
+**2669 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 575 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -355,6 +355,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [477](https://leetcode.com/problems/total-hamming-distance/) | [Total Hamming Distance](problems/477.total-hamming-distance.cpp) | 🟡 Medium | C++ |
 | [478](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Generate Random Point in a Circle](problems/478.generate-random-point-in-a-circle.cpp) | 🟡 Medium | C++ |
 | [479](https://leetcode.com/problems/largest-palindrome-product/) | [Largest Palindrome Product](problems/479.largest-palindrome-product.cpp) | 🔴 Hard | C++ |
+| [480](https://leetcode.com/problems/sliding-window-median/) | [Sliding Window Median](problems/480.sliding-window-median.cpp) | 🔴 Hard | C++ |
 | [481](https://leetcode.com/problems/magical-string/) | [Magical String](problems/481.magical-string.cpp) | 🟡 Medium | C++ |
 | [483](https://leetcode.com/problems/smallest-good-base/) | [Smallest Good Base](problems/483.smallest-good-base.cpp) | 🔴 Hard | C++ |
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
