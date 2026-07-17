@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2586 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 493 Hard
+**2587 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 494 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2558,6 +2558,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3932](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Count K-th Roots in a Range](problems/3932.count-k-th-roots-in-a-range.cpp) | 🟡 Medium | C++ |
 | [3933](https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/) | [Largest Local Values in a Matrix II](problems/3933.largest-local-values-in-a-matrix-ii.cpp) | 🟡 Medium | C++ |
+| [3934](https://leetcode.com/problems/smallest-unique-subarray/) | [Smallest Unique Subarray](problems/3934.smallest-unique-subarray.cpp) | 🔴 Hard | C++ |
 | [3936](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Minimum Swaps to Move Zeros to End](problems/3936.minimum-swaps-to-move-zeros-to-end.cpp) | 🟢 Easy | C++ |
 | [3937](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | [Minimum Operations to Make Array Modulo Alternating I](problems/3937.minimum-operations-to-make-array-modulo-alternating-i.cpp) | 🟡 Medium | C++ |
 | [3939](https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/) | [Count Non Adjacent Subsets in a Rooted Tree](problems/3939.count-non-adjacent-subsets-in-a-rooted-tree.cpp) | 🔴 Hard | C++ |
