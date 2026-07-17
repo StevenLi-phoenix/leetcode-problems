@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2604 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 511 Hard
+**2605 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 512 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1528,6 +1528,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2290](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) | [Minimum Obstacle Removal to Reach Corner](problems/2290.minimum-obstacle-removal-to-reach-corner.cpp) | 🔴 Hard | C++ |
 | [2294](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [Partition Array Such That Maximum Difference Is K](problems/2294.partition-array-such-that-maximum-difference-is-k.cpp) | 🟡 Medium | C++ |
 | [2295](https://leetcode.com/problems/replace-elements-in-an-array/) | [Replace Elements in an Array](problems/2295.replace-elements-in-an-array.cpp) | 🟡 Medium | C++ |
+| [2296](https://leetcode.com/problems/design-a-text-editor/) | [Design a Text Editor](problems/2296.design-a-text-editor.cpp) | 🔴 Hard | C++ |
 | [2299](https://leetcode.com/problems/strong-password-checker-ii/) | [Strong Password Checker II](problems/2299.strong-password-checker-ii.cpp) | 🟢 Easy | C++ |
 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](problems/2300.successful-pairs-of-spells-and-potions.cpp) | 🟡 Medium | C++ |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [Calculate Amount Paid in Taxes](problems/2303.calculate-amount-paid-in-taxes.cpp) | 🟢 Easy | C++ |
