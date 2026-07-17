@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2541 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 449 Hard
+**2542 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 450 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1434,6 +1434,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Minimum Time to Finish the Race](problems/2188.minimum-time-to-finish-the-race.cpp) | 🔴 Hard | C++ |
 | [2191](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [Sort the Jumbled Numbers](problems/2191.sort-the-jumbled-numbers.cpp) | 🟡 Medium | C++ |
 | [2192](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | [All Ancestors of a Node in a Directed Acyclic Graph](problems/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.cpp) | 🟡 Medium | C++ |
+| [2193](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/) | [Minimum Number of Moves to Make Palindrome](problems/2193.minimum-number-of-moves-to-make-palindrome.cpp) | 🔴 Hard | C++ |
 | [2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Cells in a Range on an Excel Sheet](problems/2194.cells-in-a-range-on-an-excel-sheet.cpp) | 🟢 Easy | C++ |
 | [2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [Append K Integers With Minimal Sum](problems/2195.append-k-integers-with-minimal-sum.cpp) | 🟡 Medium | C++ |
 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](problems/2196.create-binary-tree-from-descriptions.cpp) | 🟡 Medium | C++ |
