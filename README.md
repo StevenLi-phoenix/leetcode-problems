@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2595 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 502 Hard
+**2596 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 503 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1936,6 +1936,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2946](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [Matrix Similarity After Cyclic Shifts](problems/2946.matrix-similarity-after-cyclic-shifts.cpp) | 🟢 Easy | C++ |
 | [2947](https://leetcode.com/problems/count-beautiful-substrings-i/) | [Count Beautiful Substrings I](problems/2947.count-beautiful-substrings-i.cpp) | 🟡 Medium | C++ |
 | [2948](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/) | [Make Lexicographically Smallest Array by Swapping Elements](problems/2948.make-lexicographically-smallest-array-by-swapping-elements.cpp) | 🟡 Medium | C++ |
+| [2949](https://leetcode.com/problems/count-beautiful-substrings-ii/) | [Count Beautiful Substrings II](problems/2949.count-beautiful-substrings-ii.cpp) | 🔴 Hard | C++ |
 | [2952](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/) | [Minimum Number of Coins to be Added](problems/2952.minimum-number-of-coins-to-be-added.cpp) | 🟡 Medium | C++ |
 | [2953](https://leetcode.com/problems/count-complete-substrings/) | [Count Complete Substrings](problems/2953.count-complete-substrings.cpp) | 🔴 Hard | C++ |
 | [2954](https://leetcode.com/problems/count-the-number-of-infection-sequences/) | [Count the Number of Infection Sequences](problems/2954.count-the-number-of-infection-sequences.cpp) | 🔴 Hard | C++ |
