@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2659 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 565 Hard
+**2660 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 566 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1021,6 +1021,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1464](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [Maximum Product of Two Elements in an Array](problems/1464.maximum-product-of-two-elements-in-an-array.cpp) | 🟢 Easy | C++ |
 | [1465](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](problems/1465.maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.cpp) | 🟡 Medium | C++ |
 | [1466](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Reorder Routes to Make All Paths Lead to the City Zero](problems/1466.reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp) | 🟡 Medium | C++ |
+| [1467](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/) | [Probability of a Two Boxes Having The Same Number of Distinct Balls](problems/1467.probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.cpp) | 🔴 Hard | C++ |
 | [1471](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [The k Strongest Values in an Array](problems/1471.the-k-strongest-values-in-an-array.cpp) | 🟡 Medium | C++ |
 | [1472](https://leetcode.com/problems/design-browser-history/) | [Design Browser History](problems/1472.design-browser-history.cpp) | 🟡 Medium | C++ |
 | [1473](https://leetcode.com/problems/paint-house-iii/) | [Paint House III](problems/1473.paint-house-iii.cpp) | 🔴 Hard | C++ |
