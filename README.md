@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2692 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 598 Hard
+**2693 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 599 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -650,6 +650,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
 | [896](https://leetcode.com/problems/monotonic-array/) | [Monotonic Array](problems/896.monotonic-array.cpp) | 🟢 Easy | C++ |
 | [898](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Bitwise ORs of Subarrays](problems/898.bitwise-ors-of-subarrays.cpp) | 🟡 Medium | C++ |
+| [899](https://leetcode.com/problems/orderly-queue/) | [Orderly Queue](problems/899.orderly-queue.cpp) | 🔴 Hard | C++ |
 | [900](https://leetcode.com/problems/rle-iterator/) | [RLE Iterator](problems/900.rle-iterator.cpp) | 🟡 Medium | C++ |
 | [901](https://leetcode.com/problems/online-stock-span/) | [Online Stock Span](problems/901.online-stock-span.cpp) | 🟡 Medium | C++ |
 | [903](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [Valid Permutations for DI Sequence](problems/903.valid-permutations-for-di-sequence.cpp) | 🔴 Hard | C++ |
