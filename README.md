@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2570 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 477 Hard
+**2571 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 478 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2215,6 +2215,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3445](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [Maximum Difference Between Even and Odd Frequency II](problems/3445.maximum-difference-between-even-and-odd-frequency-ii.cpp) | 🔴 Hard | C++ |
 | [3446](https://leetcode.com/problems/sort-matrix-by-diagonals/) | [Sort Matrix by Diagonals](problems/3446.sort-matrix-by-diagonals.cpp) | 🟡 Medium | C++ |
 | [3447](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/) | [Assign Elements to Groups with Constraints](problems/3447.assign-elements-to-groups-with-constraints.cpp) | 🟡 Medium | C++ |
+| [3448](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/) | [Count Substrings Divisible By Last Digit](problems/3448.count-substrings-divisible-by-last-digit.cpp) | 🔴 Hard | C++ |
 | [3451](https://leetcode.com/problems/find-invalid-ip-addresses/) | [Find Invalid IP Addresses](problems/3451.find-invalid-ip-addresses.sql) | 🔴 Hard | mysql |
 | [3453](https://leetcode.com/problems/separate-squares-i/) | [Separate Squares I](problems/3453.separate-squares-i.cpp) | 🟡 Medium | C++ |
 | [3454](https://leetcode.com/problems/separate-squares-ii/) | [Separate Squares II](problems/3454.separate-squares-ii.cpp) | 🔴 Hard | C++ |
