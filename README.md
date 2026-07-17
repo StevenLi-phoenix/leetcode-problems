@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2633 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 540 Hard
+**2634 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 541 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2065,6 +2065,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3120](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [Count the Number of Special Characters I](problems/3120.count-the-number-of-special-characters-i.cpp) | 🟢 Easy | C++ |
 | [3121](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | [Count the Number of Special Characters II](problems/3121.count-the-number-of-special-characters-ii.cpp) | 🟡 Medium | C++ |
 | [3122](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/) | [Minimum Number of Operations to Satisfy Conditions](problems/3122.minimum-number-of-operations-to-satisfy-conditions.cpp) | 🟡 Medium | C++ |
+| [3123](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Find Edges in Shortest Paths](problems/3123.find-edges-in-shortest-paths.cpp) | 🔴 Hard | C++ |
 | [3127](https://leetcode.com/problems/make-a-square-with-the-same-color/) | [Make a Square with the Same Color](problems/3127.make-a-square-with-the-same-color.cpp) | 🟢 Easy | C++ |
 | [3128](https://leetcode.com/problems/right-triangles/) | [Right Triangles](problems/3128.right-triangles.cpp) | 🟡 Medium | C++ |
 | [3129](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/) | [Find All Possible Stable Binary Arrays I](problems/3129.find-all-possible-stable-binary-arrays-i.cpp) | 🟡 Medium | C++ |
