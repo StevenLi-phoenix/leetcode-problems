@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2739 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 645 Hard
+**2740 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 646 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2016,6 +2016,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2913](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [Subarrays Distinct Element Sum of Squares I](problems/2913.subarrays-distinct-element-sum-of-squares-i.cpp) | 🟢 Easy | C++ |
 | [2914](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914.minimum-number-of-changes-to-make-binary-string-beautiful.cpp) | 🟡 Medium | C++ |
 | [2915](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/) | [Length of the Longest Subsequence That Sums to Target](problems/2915.length-of-the-longest-subsequence-that-sums-to-target.cpp) | 🟡 Medium | C++ |
+| [2916](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | [Subarrays Distinct Element Sum of Squares II](problems/2916.subarrays-distinct-element-sum-of-squares-ii.cpp) | 🔴 Hard | C++ |
 | [2917](https://leetcode.com/problems/find-the-k-or-of-an-array/) | [Find the K-or of an Array](problems/2917.find-the-k-or-of-an-array.cpp) | 🟢 Easy | C++ |
 | [2918](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | [Minimum Equal Sum of Two Arrays After Replacing Zeros](problems/2918.minimum-equal-sum-of-two-arrays-after-replacing-zeros.cpp) | 🟡 Medium | C++ |
 | [2919](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/) | [Minimum Increment Operations to Make Array Beautiful](problems/2919.minimum-increment-operations-to-make-array-beautiful.cpp) | 🟡 Medium | C++ |
