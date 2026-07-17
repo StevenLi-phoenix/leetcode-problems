@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2743 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 649 Hard
+**2744 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 650 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2719,6 +2719,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3940](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [Limit Occurrences in Sorted Array](problems/3940.limit-occurrences-in-sorted-array.cpp) | 🟢 Easy | C++ |
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
 | [3942](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Minimum Operations to Sort a Permutation](problems/3942.minimum-operations-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
+| [3943](https://leetcode.com/problems/number-of-pairs-after-increment/) | [Number of Pairs After Increment](problems/3943.number-of-pairs-after-increment.cpp) | 🔴 Hard | C++ |
 | [3946](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [Maximum Number of Items From Sale I](problems/3946.maximum-number-of-items-from-sale-i.cpp) | 🟡 Medium | C++ |
 | [3948](https://leetcode.com/problems/lexicographically-maximum-mex-array/) | [Lexicographically Maximum MEX Array](problems/3948.lexicographically-maximum-mex-array.cpp) | 🔴 Hard | C++ |
 | [3950](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Exactly One Consecutive Set Bits Pair](problems/3950.exactly-one-consecutive-set-bits-pair.cpp) | 🟢 Easy | C++ |
