@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2589 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 496 Hard
+**2590 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 497 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -468,6 +468,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [676](https://leetcode.com/problems/implement-magic-dictionary/) | [Implement Magic Dictionary](problems/676.implement-magic-dictionary.cpp) | 🟡 Medium | C++ |
 | [677](https://leetcode.com/problems/map-sum-pairs/) | [Map Sum Pairs](problems/677.map-sum-pairs.cpp) | 🟡 Medium | C++ |
 | [678](https://leetcode.com/problems/valid-parenthesis-string/) | [Valid Parenthesis String](problems/678.valid-parenthesis-string.cpp) | 🟡 Medium | C++ |
+| [679](https://leetcode.com/problems/24-game/) | [24 Game](problems/679.24-game.cpp) | 🔴 Hard | C++ |
 | [680](https://leetcode.com/problems/valid-palindrome-ii/) | [Valid Palindrome II](problems/680.valid-palindrome-ii.cpp) | 🟢 Easy | C++ |
 | [682](https://leetcode.com/problems/baseball-game/) | [Baseball Game](problems/682.baseball-game.cpp) | 🟢 Easy | C++ |
 | [684](https://leetcode.com/problems/redundant-connection/) | [Redundant Connection](problems/684.redundant-connection.cpp) | 🟡 Medium | C++ |
