@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2498 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 407 Hard
+**2499 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 408 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -637,6 +637,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Minimum Add to Make Parentheses Valid](problems/921.minimum-add-to-make-parentheses-valid.cpp) | 🟡 Medium | C++ |
 | [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Sort Array By Parity II](problems/922.sort-array-by-parity-ii.cpp) | 🟢 Easy | C++ |
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
+| [924](https://leetcode.com/problems/minimize-malware-spread/) | [Minimize Malware Spread](problems/924.minimize-malware-spread.cpp) | 🔴 Hard | C++ |
 | [925](https://leetcode.com/problems/long-pressed-name/) | [Long Pressed Name](problems/925.long-pressed-name.cpp) | 🟢 Easy | C++ |
 | [926](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [Flip String to Monotone Increasing](problems/926.flip-string-to-monotone-increasing.cpp) | 🟡 Medium | C++ |
 | [930](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Binary Subarrays With Sum](problems/930.binary-subarrays-with-sum.cpp) | 🟡 Medium | C++ |
