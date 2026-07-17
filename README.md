@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2575 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 482 Hard
+**2576 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 483 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2109,6 +2109,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3265](https://leetcode.com/problems/count-almost-equal-pairs-i/) | [Count Almost Equal Pairs I](problems/3265.count-almost-equal-pairs-i.cpp) | 🟡 Medium | C++ |
 | [3271](https://leetcode.com/problems/hash-divided-string/) | [Hash Divided String](problems/3271.hash-divided-string.cpp) | 🟡 Medium | C++ |
 | [3272](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Find the Count of Good Integers](problems/3272.find-the-count-of-good-integers.cpp) | 🔴 Hard | C++ |
+| [3273](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [Minimum Amount of Damage Dealt to Bob](problems/3273.minimum-amount-of-damage-dealt-to-bob.cpp) | 🔴 Hard | C++ |
 | [3274](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Check if Two Chessboard Squares Have the Same Color](problems/3274.check-if-two-chessboard-squares-have-the-same-color.cpp) | 🟢 Easy | C++ |
 | [3275](https://leetcode.com/problems/k-th-nearest-obstacle-queries/) | [K-th Nearest Obstacle Queries](problems/3275.k-th-nearest-obstacle-queries.cpp) | 🟡 Medium | C++ |
 | [3276](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/) | [Select Cells in Grid With Maximum Score](problems/3276.select-cells-in-grid-with-maximum-score.cpp) | 🔴 Hard | C++ |
