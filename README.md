@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2681 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 587 Hard
+**2682 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 588 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1300,6 +1300,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1873](https://leetcode.com/problems/calculate-special-bonus/) | [Calculate Special Bonus](problems/1873.calculate-special-bonus.sql) | 🟢 Easy | mysql |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](problems/1877.minimize-maximum-pair-sum-in-array.cpp) | 🟡 Medium | C++ |
 | [1878](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Get Biggest Three Rhombus Sums in a Grid](problems/1878.get-biggest-three-rhombus-sums-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [1879](https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/) | [Minimum XOR Sum of Two Arrays](problems/1879.minimum-xor-sum-of-two-arrays.cpp) | 🔴 Hard | C++ |
 | [1880](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [Check if Word Equals Summation of Two Words](problems/1880.check-if-word-equals-summation-of-two-words.cpp) | 🟢 Easy | C++ |
 | [1881](https://leetcode.com/problems/maximum-value-after-insertion/) | [Maximum Value after Insertion](problems/1881.maximum-value-after-insertion.cpp) | 🟡 Medium | C++ |
 | [1882](https://leetcode.com/problems/process-tasks-using-servers/) | [Process Tasks Using Servers](problems/1882.process-tasks-using-servers.cpp) | 🟡 Medium | C++ |
