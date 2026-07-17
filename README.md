@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2670 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 576 Hard
+**2671 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 577 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2116,6 +2116,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3151](https://leetcode.com/problems/special-array-i/) | [Special Array I](problems/3151.special-array-i.cpp) | 🟢 Easy | C++ |
 | [3152](https://leetcode.com/problems/special-array-ii/) | [Special Array II](problems/3152.special-array-ii.cpp) | 🟡 Medium | C++ |
 | [3153](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/) | [Sum of Digit Differences of All Pairs](problems/3153.sum-of-digit-differences-of-all-pairs.cpp) | 🟡 Medium | C++ |
+| [3154](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) | [Find Number of Ways to Reach the K-th Stair](problems/3154.find-number-of-ways-to-reach-the-k-th-stair.cpp) | 🔴 Hard | C++ |
 | [3159](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | [Find Occurrences of an Element in an Array](problems/3159.find-occurrences-of-an-element-in-an-array.cpp) | 🟡 Medium | C++ |
 | [3160](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | [Find the Number of Distinct Colors Among the Balls](problems/3160.find-the-number-of-distinct-colors-among-the-balls.cpp) | 🟡 Medium | C++ |
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
