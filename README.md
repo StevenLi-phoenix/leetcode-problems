@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2751 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 657 Hard
+**2752 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 658 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -542,6 +542,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [765](https://leetcode.com/problems/couples-holding-hands/) | [Couples Holding Hands](problems/765.couples-holding-hands.cpp) | 🔴 Hard | C++ |
 | [766](https://leetcode.com/problems/toeplitz-matrix/) | [Toeplitz Matrix](problems/766.toeplitz-matrix.cpp) | 🟢 Easy | C++ |
 | [767](https://leetcode.com/problems/reorganize-string/) | [Reorganize String](problems/767.reorganize-string.cpp) | 🟡 Medium | C++ |
+| [768](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Max Chunks To Make Sorted II](problems/768.max-chunks-to-make-sorted-ii.cpp) | 🔴 Hard | C++ |
 | [769](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Max Chunks To Make Sorted](problems/769.max-chunks-to-make-sorted.cpp) | 🟡 Medium | C++ |
 | [770](https://leetcode.com/problems/basic-calculator-iv/) | [Basic Calculator IV](problems/770.basic-calculator-iv.cpp) | 🔴 Hard | C++ |
 | [771](https://leetcode.com/problems/jewels-and-stones/) | [Jewels and Stones](problems/771.jewels-and-stones.cpp) | 🟢 Easy | C++ |
