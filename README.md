@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2564 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 471 Hard
+**2565 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 472 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -711,6 +711,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [992](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Subarrays with K Different Integers](problems/992.subarrays-with-k-different-integers.cpp) | 🔴 Hard | C++ |
 | [993](https://leetcode.com/problems/cousins-in-binary-tree/) | [Cousins in Binary Tree](problems/993.cousins-in-binary-tree.cpp) | 🟢 Easy | C++ |
 | [994](https://leetcode.com/problems/rotting-oranges/) | [Rotting Oranges](problems/994.rotting-oranges.cpp) | 🟡 Medium | C++ |
+| [995](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Minimum Number of K Consecutive Bit Flips](problems/995.minimum-number-of-k-consecutive-bit-flips.cpp) | 🔴 Hard | C++ |
 | [996](https://leetcode.com/problems/number-of-squareful-arrays/) | [Number of Squareful Arrays](problems/996.number-of-squareful-arrays.cpp) | 🔴 Hard | C++ |
 | [998](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Maximum Binary Tree II](problems/998.maximum-binary-tree-ii.cpp) | 🟡 Medium | C++ |
 | [1002](https://leetcode.com/problems/find-common-characters/) | [Find Common Characters](problems/1002.find-common-characters.cpp) | 🟢 Easy | C++ |
