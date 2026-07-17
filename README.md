@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2562 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 469 Hard
+**2563 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 470 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1699,6 +1699,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2576](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | [Find the Maximum Number of Marked Indices](problems/2576.find-the-maximum-number-of-marked-indices.cpp) | 🟡 Medium | C++ |
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [Count Ways to Group Overlapping Ranges](problems/2580.count-ways-to-group-overlapping-ranges.cpp) | 🟡 Medium | C++ |
+| [2581](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [Count Number of Possible Root Nodes](problems/2581.count-number-of-possible-root-nodes.cpp) | 🔴 Hard | C++ |
 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Kth Largest Sum in a Binary Tree](problems/2583.kth-largest-sum-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2586](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Count the Number of Vowel Strings in Range](problems/2586.count-the-number-of-vowel-strings-in-range.cpp) | 🟢 Easy | C++ |
 | [2587](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [Rearrange Array to Maximize Prefix Score](problems/2587.rearrange-array-to-maximize-prefix-score.cpp) | 🟡 Medium | C++ |
