@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2609 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 516 Hard
+**2610 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 517 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1175,6 +1175,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1735](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Count Ways to Make Array With Product](problems/1735.count-ways-to-make-array-with-product.cpp) | 🔴 Hard | C++ |
 | [1737](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [Change Minimum Characters to Satisfy One of Three Conditions](problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.cpp) | 🟡 Medium | C++ |
 | [1738](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Find Kth Largest XOR Coordinate Value](problems/1738.find-kth-largest-xor-coordinate-value.cpp) | 🟡 Medium | C++ |
+| [1739](https://leetcode.com/problems/building-boxes/) | [Building Boxes](problems/1739.building-boxes.cpp) | 🔴 Hard | C++ |
 | [1742](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [Maximum Number of Balls in a Box](problems/1742.maximum-number-of-balls-in-a-box.cpp) | 🟢 Easy | C++ |
 | [1743](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [Restore the Array From Adjacent Pairs](problems/1743.restore-the-array-from-adjacent-pairs.cpp) | 🟡 Medium | C++ |
 | [1744](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [Can You Eat Your Favorite Candy on Your Favorite Day?](problems/1744.can-you-eat-your-favorite-candy-on-your-favorite-day.cpp) | 🟡 Medium | C++ |
