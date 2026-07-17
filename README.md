@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2489 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 398 Hard
+**2490 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 399 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1234,6 +1234,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Maximum Product Difference Between Two Pairs](problems/1913.maximum-product-difference-between-two-pairs.cpp) | 🟢 Easy | C++ |
 | [1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](problems/1914.cyclically-rotating-a-grid.cpp) | 🟡 Medium | C++ |
 | [1915](https://leetcode.com/problems/number-of-wonderful-substrings/) | [Number of Wonderful Substrings](problems/1915.number-of-wonderful-substrings.cpp) | 🟡 Medium | C++ |
+| [1916](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/) | [Count Ways to Build Rooms in an Ant Colony](problems/1916.count-ways-to-build-rooms-in-an-ant-colony.cpp) | 🔴 Hard | C++ |
 | [1921](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [Eliminate Maximum Number of Monsters](problems/1921.eliminate-maximum-number-of-monsters.cpp) | 🟡 Medium | C++ |
 | [1922](https://leetcode.com/problems/count-good-numbers/) | [Count Good Numbers](problems/1922.count-good-numbers.cpp) | 🟡 Medium | C++ |
 | [1923](https://leetcode.com/problems/longest-common-subpath/) | [Longest Common Subpath](problems/1923.longest-common-subpath.cpp) | 🔴 Hard | C++ |
