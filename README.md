@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2722 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 628 Hard
+**2723 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 629 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1976,6 +1976,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2872](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Maximum Number of K-Divisible Components](problems/2872.maximum-number-of-k-divisible-components.cpp) | 🔴 Hard | C++ |
 | [2873](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [Maximum Value of an Ordered Triplet I](problems/2873.maximum-value-of-an-ordered-triplet-i.cpp) | 🟢 Easy | C++ |
 | [2875](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | [Minimum Size Subarray in Infinite Array](problems/2875.minimum-size-subarray-in-infinite-array.cpp) | 🟡 Medium | C++ |
+| [2876](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/) | [Count Visited Nodes in a Directed Graph](problems/2876.count-visited-nodes-in-a-directed-graph.cpp) | 🔴 Hard | C++ |
 | [2879](https://leetcode.com/problems/display-the-first-three-rows/) | [Display the First Three Rows](problems/2879.display-the-first-three-rows.py) | 🟢 Easy | pythondata |
 | [2881](https://leetcode.com/problems/create-a-new-column/) | [Create a New Column](problems/2881.create-a-new-column.py) | 🟢 Easy | pythondata |
 | [2882](https://leetcode.com/problems/drop-duplicate-rows/) | [Drop Duplicate Rows](problems/2882.drop-duplicate-rows.py) | 🟢 Easy | pythondata |
