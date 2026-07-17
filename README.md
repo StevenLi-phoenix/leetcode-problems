@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2675 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 581 Hard
+**2676 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 582 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -379,6 +379,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [514](https://leetcode.com/problems/freedom-trail/) | [Freedom Trail](problems/514.freedom-trail.cpp) | 🔴 Hard | C++ |
 | [515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Find Largest Value in Each Tree Row](problems/515.find-largest-value-in-each-tree-row.cpp) | 🟡 Medium | C++ |
 | [516](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Longest Palindromic Subsequence](problems/516.longest-palindromic-subsequence.cpp) | 🟡 Medium | C++ |
+| [517](https://leetcode.com/problems/super-washing-machines/) | [Super Washing Machines](problems/517.super-washing-machines.cpp) | 🔴 Hard | C++ |
 | [518](https://leetcode.com/problems/coin-change-ii/) | [Coin Change II](problems/518.coin-change-ii.cpp) | 🟡 Medium | C++ |
 | [519](https://leetcode.com/problems/random-flip-matrix/) | [Random Flip Matrix](problems/519.random-flip-matrix.cpp) | 🟡 Medium | C++ |
 | [520](https://leetcode.com/problems/detect-capital/) | [Detect Capital](problems/520.detect-capital.cpp) | 🟢 Easy | C++ |
