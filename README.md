@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2628 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 535 Hard
+**2629 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 536 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1454,6 +1454,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2151](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Maximum Good People Based on Statements](problems/2151.maximum-good-people-based-on-statements.cpp) | 🔴 Hard | C++ |
 | [2154](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [Keep Multiplying Found Values by Two](problems/2154.keep-multiplying-found-values-by-two.cpp) | 🟢 Easy | C++ |
 | [2155](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/) | [All Divisions With the Highest Score of a Binary Array](problems/2155.all-divisions-with-the-highest-score-of-a-binary-array.cpp) | 🟡 Medium | C++ |
+| [2156](https://leetcode.com/problems/find-substring-with-given-hash-value/) | [Find Substring With Given Hash Value](problems/2156.find-substring-with-given-hash-value.cpp) | 🔴 Hard | C++ |
 | [2160](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [Minimum Sum of Four Digit Number After Splitting Digits](problems/2160.minimum-sum-of-four-digit-number-after-splitting-digits.cpp) | 🟢 Easy | C++ |
 | [2161](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [Partition Array According to Given Pivot](problems/2161.partition-array-according-to-given-pivot.cpp) | 🟡 Medium | C++ |
 | [2162](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [Minimum Cost to Set Cooking Time](problems/2162.minimum-cost-to-set-cooking-time.cpp) | 🟡 Medium | C++ |
