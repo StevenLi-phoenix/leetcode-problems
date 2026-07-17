@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2525 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 434 Hard
+**2526 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 435 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2155,6 +2155,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3411](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [Maximum Subarray With Equal Products](problems/3411.maximum-subarray-with-equal-products.cpp) | 🟢 Easy | C++ |
 | [3412](https://leetcode.com/problems/find-mirror-score-of-a-string/) | [Find Mirror Score of a String](problems/3412.find-mirror-score-of-a-string.cpp) | 🟡 Medium | C++ |
 | [3413](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/) | [Maximum Coins From K Consecutive Bags](problems/3413.maximum-coins-from-k-consecutive-bags.cpp) | 🟡 Medium | C++ |
+| [3414](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Maximum Score of Non-overlapping Intervals](problems/3414.maximum-score-of-non-overlapping-intervals.cpp) | 🔴 Hard | C++ |
 | [3417](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Zigzag Grid Traversal With Skip](problems/3417.zigzag-grid-traversal-with-skip.cpp) | 🟢 Easy | C++ |
 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](problems/3418.maximum-amount-of-money-robot-can-earn.cpp) | 🟡 Medium | C++ |
 | [3419](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Minimize the Maximum Edge Weight of Graph](problems/3419.minimize-the-maximum-edge-weight-of-graph.cpp) | 🟡 Medium | C++ |
