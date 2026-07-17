@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2752 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 658 Hard
+**2753 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 659 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2700,6 +2700,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3903](https://leetcode.com/problems/smallest-stable-index-i/) | [Smallest Stable Index I](problems/3903.smallest-stable-index-i.cpp) | 🟢 Easy | C++ |
 | [3904](https://leetcode.com/problems/smallest-stable-index-ii/) | [Smallest Stable Index II](problems/3904.smallest-stable-index-ii.cpp) | 🟡 Medium | C++ |
 | [3905](https://leetcode.com/problems/multi-source-flood-fill/) | [Multi Source Flood Fill](problems/3905.multi-source-flood-fill.cpp) | 🟡 Medium | C++ |
+| [3906](https://leetcode.com/problems/count-good-integers-on-a-grid-path/) | [Count Good Integers on a Grid Path](problems/3906.count-good-integers-on-a-grid-path.cpp) | 🔴 Hard | C++ |
 | [3908](https://leetcode.com/problems/valid-digit-number/) | [Valid Digit Number](problems/3908.valid-digit-number.cpp) | 🟢 Easy | C++ |
 | [3909](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Compare Sums of Bitonic Parts](problems/3909.compare-sums-of-bitonic-parts.cpp) | 🟡 Medium | C++ |
 | [3910](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Count Connected Subgraphs with Even Node Sum](problems/3910.count-connected-subgraphs-with-even-node-sum.cpp) | 🔴 Hard | C++ |
