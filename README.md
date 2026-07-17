@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2640 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 546 Hard
+**2641 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 547 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -287,6 +287,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [388](https://leetcode.com/problems/longest-absolute-file-path/) | [Longest Absolute File Path](problems/388.longest-absolute-file-path.cpp) | 🟡 Medium | C++ |
 | [389](https://leetcode.com/problems/find-the-difference/) | [Find the Difference](problems/389.find-the-difference.cpp) | 🟢 Easy | C++ |
 | [390](https://leetcode.com/problems/elimination-game/) | [Elimination Game](problems/390.elimination-game.cpp) | 🟡 Medium | C++ |
+| [391](https://leetcode.com/problems/perfect-rectangle/) | [Perfect Rectangle](problems/391.perfect-rectangle.cpp) | 🔴 Hard | C++ |
 | [392](https://leetcode.com/problems/is-subsequence/) | [Is Subsequence](problems/392.is-subsequence.cpp) | 🟢 Easy | C++ |
 | [393](https://leetcode.com/problems/utf-8-validation/) | [UTF-8 Validation](problems/393.utf-8-validation.cpp) | 🟡 Medium | C++ |
 | [394](https://leetcode.com/problems/decode-string/) | [Decode String](problems/394.decode-string.cpp) | 🟡 Medium | C++ |
