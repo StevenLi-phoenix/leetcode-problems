@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2593 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 500 Hard
+**2594 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 501 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2129,6 +2129,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3282](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | [Reach End of Array With Max Score](problems/3282.reach-end-of-array-with-max-score.cpp) | 🟡 Medium | C++ |
 | [3285](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [Find Indices of Stable Mountains](problems/3285.find-indices-of-stable-mountains.cpp) | 🟢 Easy | C++ |
 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](problems/3286.find-a-safe-walk-through-a-grid.cpp) | 🟡 Medium | C++ |
+| [3288](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [Length of the Longest Increasing Path](problems/3288.length-of-the-longest-increasing-path.cpp) | 🔴 Hard | C++ |
 | [3289](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [The Two Sneaky Numbers of Digitville](problems/3289.the-two-sneaky-numbers-of-digitville.cpp) | 🟢 Easy | C++ |
 | [3290](https://leetcode.com/problems/maximum-multiplication-score/) | [Maximum Multiplication Score](problems/3290.maximum-multiplication-score.cpp) | 🟡 Medium | C++ |
 | [3291](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/) | [Minimum Number of Valid Strings to Form Target I](problems/3291.minimum-number-of-valid-strings-to-form-target-i.cpp) | 🟡 Medium | C++ |
