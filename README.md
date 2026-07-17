@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2711 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 617 Hard
+**2712 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 618 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2386,6 +2386,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3522](https://leetcode.com/problems/calculate-score-after-performing-instructions/) | [Calculate Score After Performing Instructions](problems/3522.calculate-score-after-performing-instructions.cpp) | 🟡 Medium | C++ |
 | [3523](https://leetcode.com/problems/make-array-non-decreasing/) | [Make Array Non-decreasing](problems/3523.make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
 | [3524](https://leetcode.com/problems/find-x-value-of-array-i/) | [Find X Value of Array I](problems/3524.find-x-value-of-array-i.cpp) | 🟡 Medium | C++ |
+| [3525](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Find X Value of Array II](problems/3525.find-x-value-of-array-ii.cpp) | 🔴 Hard | C++ |
 | [3527](https://leetcode.com/problems/find-the-most-common-response/) | [Find the Most Common Response](problems/3527.find-the-most-common-response.cpp) | 🟡 Medium | C++ |
 | [3528](https://leetcode.com/problems/unit-conversion-i/) | [Unit Conversion I](problems/3528.unit-conversion-i.cpp) | 🟡 Medium | C++ |
 | [3529](https://leetcode.com/problems/count-cells-in-overlapping-horizontal-and-vertical-substrings/) | [Count Cells in Overlapping Horizontal and Vertical Substrings](problems/3529.count-cells-in-overlapping-horizontal-and-vertical-substrings.cpp) | 🟡 Medium | C++ |
