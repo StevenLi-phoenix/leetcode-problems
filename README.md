@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2683 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 589 Hard
+**2684 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 590 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1679,6 +1679,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2451](https://leetcode.com/problems/odd-string-difference/) | [Odd String Difference](problems/2451.odd-string-difference.cpp) | 🟢 Easy | C++ |
 | [2452](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [Words Within Two Edits of Dictionary](problems/2452.words-within-two-edits-of-dictionary.cpp) | 🟡 Medium | C++ |
 | [2453](https://leetcode.com/problems/destroy-sequential-targets/) | [Destroy Sequential Targets](problems/2453.destroy-sequential-targets.cpp) | 🟡 Medium | C++ |
+| [2454](https://leetcode.com/problems/next-greater-element-iv/) | [Next Greater Element IV](problems/2454.next-greater-element-iv.cpp) | 🔴 Hard | C++ |
 | [2455](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [Average Value of Even Numbers That Are Divisible by Three](problems/2455.average-value-of-even-numbers-that-are-divisible-by-three.cpp) | 🟢 Easy | C++ |
 | [2456](https://leetcode.com/problems/most-popular-video-creator/) | [Most Popular Video Creator](problems/2456.most-popular-video-creator.cpp) | 🟡 Medium | C++ |
 | [2457](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [Minimum Addition to Make Integer Beautiful](problems/2457.minimum-addition-to-make-integer-beautiful.cpp) | 🟡 Medium | C++ |
