@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2476 solved** — 🟢 528 Easy · 🟡 1545 Medium · 🔴 393 Hard
+**2477 solved** — 🟢 528 Easy · 🟡 1546 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1028,6 +1028,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](problems/1578.minimum-time-to-make-rope-colorful.cpp) | 🟡 Medium | C++ |
 | [1579](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Remove Max Number of Edges to Keep Graph Fully Traversable](problems/1579.remove-max-number-of-edges-to-keep-graph-fully-traversable.cpp) | 🔴 Hard | C++ |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Special Positions in a Binary Matrix](problems/1582.special-positions-in-a-binary-matrix.cpp) | 🟢 Easy | C++ |
+| [1583](https://leetcode.com/problems/count-unhappy-friends/) | [Count Unhappy Friends](problems/1583.count-unhappy-friends.cpp) | 🟡 Medium | C++ |
 | [1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Min Cost to Connect All Points](problems/1584.min-cost-to-connect-all-points.cpp) | 🟡 Medium | C++ |
 | [1585](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [Check If String Is Transformable With Substring Sort Operations](problems/1585.check-if-string-is-transformable-with-substring-sort-operations.cpp) | 🔴 Hard | C++ |
 | [1587](https://leetcode.com/problems/bank-account-summary-ii/) | [Bank Account Summary II](problems/1587.bank-account-summary-ii.sql) | 🟢 Easy | mysql |
