@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2501 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 410 Hard
+**2502 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 411 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2306,6 +2306,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3673](https://leetcode.com/problems/find-zombie-sessions/) | [Find Zombie Sessions](problems/3673.find-zombie-sessions.sql) | 🔴 Hard | mysql |
 | [3674](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [Minimum Operations to Equalize Array](problems/3674.minimum-operations-to-equalize-array.cpp) | 🟢 Easy | C++ |
 | [3676](https://leetcode.com/problems/count-bowl-subarrays/) | [Count Bowl Subarrays](problems/3676.count-bowl-subarrays.cpp) | 🟡 Medium | C++ |
+| [3677](https://leetcode.com/problems/count-binary-palindromic-numbers/) | [Count Binary Palindromic Numbers](problems/3677.count-binary-palindromic-numbers.cpp) | 🔴 Hard | C++ |
 | [3678](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Smallest Absent Positive Greater Than Average](problems/3678.smallest-absent-positive-greater-than-average.cpp) | 🟢 Easy | C++ |
 | [3679](https://leetcode.com/problems/minimum-discards-to-balance-inventory/) | [ Minimum Discards to Balance Inventory](problems/3679.minimum-discards-to-balance-inventory.cpp) | 🟡 Medium | C++ |
 | [3680](https://leetcode.com/problems/generate-schedule/) | [Generate Schedule](problems/3680.generate-schedule.cpp) | 🟡 Medium | C++ |
