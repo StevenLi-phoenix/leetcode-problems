@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2503 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 412 Hard
+**2504 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 413 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2146,6 +2146,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3425](https://leetcode.com/problems/longest-special-path/) | [Longest Special Path](problems/3425.longest-special-path.cpp) | 🔴 Hard | C++ |
 | [3427](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Sum of Variable Length Subarrays](problems/3427.sum-of-variable-length-subarrays.cpp) | 🟢 Easy | C++ |
 | [3429](https://leetcode.com/problems/paint-house-iv/) | [Paint House IV](problems/3429.paint-house-iv.cpp) | 🟡 Medium | C++ |
+| [3430](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | [Maximum and Minimum Sums of at Most Size K Subarrays](problems/3430.maximum-and-minimum-sums-of-at-most-size-k-subarrays.cpp) | 🔴 Hard | C++ |
 | [3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Count Partitions with Even Sum Difference](problems/3432.count-partitions-with-even-sum-difference.cpp) | 🟢 Easy | C++ |
 | [3433](https://leetcode.com/problems/count-mentions-per-user/) | [Count Mentions Per User](problems/3433.count-mentions-per-user.cpp) | 🟡 Medium | C++ |
 | [3434](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/) | [Maximum Frequency After Subarray Operation](problems/3434.maximum-frequency-after-subarray-operation.cpp) | 🟡 Medium | C++ |
