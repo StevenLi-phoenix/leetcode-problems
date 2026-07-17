@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2585 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 492 Hard
+**2586 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 493 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2448,6 +2448,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3769](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [Sort Integers by Binary Reflection](problems/3769.sort-integers-by-binary-reflection.cpp) | 🟢 Easy | C++ |
 | [3770](https://leetcode.com/problems/largest-prime-from-consecutive-prime-sum/) | [Largest Prime from Consecutive Prime Sum](problems/3770.largest-prime-from-consecutive-prime-sum.cpp) | 🟡 Medium | C++ |
 | [3771](https://leetcode.com/problems/total-score-of-dungeon-runs/) | [Total Score of Dungeon Runs](problems/3771.total-score-of-dungeon-runs.cpp) | 🟡 Medium | C++ |
+| [3772](https://leetcode.com/problems/maximum-subgraph-score-in-a-tree/) | [Maximum Subgraph Score in a Tree](problems/3772.maximum-subgraph-score-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [3774](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [Absolute Difference Between Maximum and Minimum K Elements](problems/3774.absolute-difference-between-maximum-and-minimum-k-elements.cpp) | 🟢 Easy | C++ |
 | [3775](https://leetcode.com/problems/reverse-words-with-same-vowel-count/) | [Reverse Words With Same Vowel Count](problems/3775.reverse-words-with-same-vowel-count.cpp) | 🟡 Medium | C++ |
 | [3776](https://leetcode.com/problems/minimum-moves-to-balance-circular-array/) | [Minimum Moves to Balance Circular Array](problems/3776.minimum-moves-to-balance-circular-array.cpp) | 🟡 Medium | C++ |
