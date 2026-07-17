@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2600 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 507 Hard
+**2601 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 508 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1586,6 +1586,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2382](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [Maximum Segment Sum After Removals](problems/2382.maximum-segment-sum-after-removals.cpp) | 🔴 Hard | C++ |
 | [2384](https://leetcode.com/problems/largest-palindromic-number/) | [Largest Palindromic Number](problems/2384.largest-palindromic-number.cpp) | 🟡 Medium | C++ |
 | [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/) | [Amount of Time for Binary Tree to Be Infected](problems/2385.amount-of-time-for-binary-tree-to-be-infected.cpp) | 🟡 Medium | C++ |
+| [2386](https://leetcode.com/problems/find-the-k-sum-of-an-array/) | [Find the K-Sum of an Array](problems/2386.find-the-k-sum-of-an-array.cpp) | 🔴 Hard | C++ |
 | [2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [Longest Subsequence With Limited Sum](problems/2389.longest-subsequence-with-limited-sum.cpp) | 🟢 Easy | C++ |
 | [2390](https://leetcode.com/problems/removing-stars-from-a-string/) | [Removing Stars From a String](problems/2390.removing-stars-from-a-string.cpp) | 🟡 Medium | C++ |
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [Minimum Amount of Time to Collect Garbage](problems/2391.minimum-amount-of-time-to-collect-garbage.cpp) | 🟡 Medium | C++ |
