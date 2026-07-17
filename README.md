@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2561 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 468 Hard
+**2562 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 469 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1241,6 +1241,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1863](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [Sum of All Subset XOR Totals](problems/1863.sum-of-all-subset-xor-totals.cpp) | 🟢 Easy | C++ |
 | [1864](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [Minimum Number of Swaps to Make the Binary String Alternating](problems/1864.minimum-number-of-swaps-to-make-the-binary-string-alternating.cpp) | 🟡 Medium | C++ |
 | [1865](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Finding Pairs With a Certain Sum](problems/1865.finding-pairs-with-a-certain-sum.cpp) | 🟡 Medium | C++ |
+| [1866](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Number of Ways to Rearrange Sticks With K Sticks Visible](problems/1866.number-of-ways-to-rearrange-sticks-with-k-sticks-visible.cpp) | 🔴 Hard | C++ |
 | [1869](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Longer Contiguous Segments of Ones than Zeros](problems/1869.longer-contiguous-segments-of-ones-than-zeros.cpp) | 🟢 Easy | C++ |
 | [1871](https://leetcode.com/problems/jump-game-vii/) | [Jump Game VII](problems/1871.jump-game-vii.cpp) | 🟡 Medium | C++ |
 | [1873](https://leetcode.com/problems/calculate-special-bonus/) | [Calculate Special Bonus](problems/1873.calculate-special-bonus.sql) | 🟢 Easy | mysql |
