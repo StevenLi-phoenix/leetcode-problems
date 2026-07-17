@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2707 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 613 Hard
+**2708 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 614 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2643,6 +2643,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3884](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [First Matching Character From Both Ends](problems/3884.first-matching-character-from-both-ends.cpp) | 🟢 Easy | C++ |
 | [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
 | [3886](https://leetcode.com/problems/sum-of-sortable-integers/) | [Sum of Sortable Integers](problems/3886.sum-of-sortable-integers.cpp) | 🔴 Hard | C++ |
+| [3887](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | [Incremental Even-Weighted Cycle Queries](problems/3887.incremental-even-weighted-cycle-queries.cpp) | 🔴 Hard | C++ |
 | [3889](https://leetcode.com/problems/mirror-frequency-distance/) | [Mirror Frequency Distance](problems/3889.mirror-frequency-distance.cpp) | 🟡 Medium | C++ |
 | [3890](https://leetcode.com/problems/integers-with-multiple-sum-of-two-cubes/) | [Integers With Multiple Sum of Two Cubes](problems/3890.integers-with-multiple-sum-of-two-cubes.cpp) | 🟡 Medium | C++ |
 | [3891](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | [Minimum Increase to Maximize Special Indices](problems/3891.minimum-increase-to-maximize-special-indices.cpp) | 🟡 Medium | C++ |
