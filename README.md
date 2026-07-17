@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2747 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 653 Hard
+**2748 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 654 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -867,6 +867,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1202](https://leetcode.com/problems/smallest-string-with-swaps/) | [Smallest String With Swaps](problems/1202.smallest-string-with-swaps.cpp) | 🟡 Medium | C++ |
 | [1203](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Sort Items by Groups Respecting Dependencies](problems/1203.sort-items-by-groups-respecting-dependencies.cpp) | 🔴 Hard | C++ |
 | [1204](https://leetcode.com/problems/last-person-to-fit-in-the-bus/) | [Last Person to Fit in the Bus](problems/1204.last-person-to-fit-in-the-bus.sql) | 🟡 Medium | mysql |
+| [1206](https://leetcode.com/problems/design-skiplist/) | [Design Skiplist](problems/1206.design-skiplist.cpp) | 🔴 Hard | C++ |
 | [1208](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [Get Equal Substrings Within Budget](problems/1208.get-equal-substrings-within-budget.cpp) | 🟡 Medium | C++ |
 | [1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Remove All Adjacent Duplicates in String II](problems/1209.remove-all-adjacent-duplicates-in-string-ii.cpp) | 🟡 Medium | C++ |
 | [1210](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [Minimum Moves to Reach Target with Rotations](problems/1210.minimum-moves-to-reach-target-with-rotations.cpp) | 🔴 Hard | C++ |
