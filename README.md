@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2759 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 665 Hard
+**2760 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 666 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2091,6 +2091,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3005](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [Count Elements With Maximum Frequency](problems/3005.count-elements-with-maximum-frequency.cpp) | 🟢 Easy | C++ |
 | [3006](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/) | [Find Beautiful Indices in the Given Array I](problems/3006.find-beautiful-indices-in-the-given-array-i.cpp) | 🟡 Medium | C++ |
 | [3007](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/) | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](problems/3007.maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
+| [3008](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/) | [Find Beautiful Indices in the Given Array II](problems/3008.find-beautiful-indices-in-the-given-array-ii.cpp) | 🔴 Hard | C++ |
 | [3010](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [Divide an Array Into Subarrays With Minimum Cost I](problems/3010.divide-an-array-into-subarrays-with-minimum-cost-i.cpp) | 🟢 Easy | C++ |
 | [3011](https://leetcode.com/problems/find-if-array-can-be-sorted/) | [Find if Array Can Be Sorted](problems/3011.find-if-array-can-be-sorted.cpp) | 🟡 Medium | C++ |
 | [3012](https://leetcode.com/problems/minimize-length-of-array-using-operations/) | [Minimize Length of Array Using Operations](problems/3012.minimize-length-of-array-using-operations.cpp) | 🟡 Medium | C++ |
