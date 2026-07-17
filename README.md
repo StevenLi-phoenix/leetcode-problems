@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2705 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 611 Hard
+**2706 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 612 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1419,6 +1419,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](problems/2037.minimum-number-of-moves-to-seat-everyone.cpp) | 🟢 Easy | C++ |
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Remove Colored Pieces if Both Neighbors are the Same Color](problems/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.cpp) | 🟡 Medium | C++ |
 | [2039](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | [The Time When the Network Becomes Idle](problems/2039.the-time-when-the-network-becomes-idle.cpp) | 🟡 Medium | C++ |
+| [2040](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) | [Kth Smallest Product of Two Sorted Arrays](problems/2040.kth-smallest-product-of-two-sorted-arrays.cpp) | 🔴 Hard | C++ |
 | [2042](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Check if Numbers Are Ascending in a Sentence](problems/2042.check-if-numbers-are-ascending-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2043](https://leetcode.com/problems/simple-bank-system/) | [Simple Bank System](problems/2043.simple-bank-system.cpp) | 🟡 Medium | C++ |
 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](problems/2044.count-number-of-maximum-bitwise-or-subsets.cpp) | 🟡 Medium | C++ |
