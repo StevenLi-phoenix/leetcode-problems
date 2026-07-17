@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2732 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 638 Hard
+**2733 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 639 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2436,6 +2436,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3562](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [Maximum Profit from Trading Stocks with Discounts](problems/3562.maximum-profit-from-trading-stocks-with-discounts.cpp) | 🔴 Hard | C++ |
 | [3564](https://leetcode.com/problems/seasonal-sales-analysis/) | [Seasonal Sales Analysis](problems/3564.seasonal-sales-analysis.sql) | 🟡 Medium | mysql |
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
+| [3569](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/) | [Maximize Count of Distinct Primes After Split](problems/3569.maximize-count-of-distinct-primes-after-split.cpp) | 🔴 Hard | C++ |
 | [3570](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Find Books with No Available Copies](problems/3570.find-books-with-no-available-copies.sql) | 🟢 Easy | mysql |
 | [3572](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](problems/3572.maximize-ysum-by-picking-a-triplet-of-distinct-xvalues.cpp) | 🟡 Medium | C++ |
 | [3573](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | [Best Time to Buy and Sell Stock V](problems/3573.best-time-to-buy-and-sell-stock-v.cpp) | 🟡 Medium | C++ |
