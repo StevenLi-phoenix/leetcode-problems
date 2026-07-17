@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2518 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 427 Hard
+**2519 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 428 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1898,6 +1898,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2967](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/) | [Minimum Cost to Make Array Equalindromic](problems/2967.minimum-cost-to-make-array-equalindromic.cpp) | 🟡 Medium | C++ |
 | [2968](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/) | [Apply Operations to Maximize Frequency Score](problems/2968.apply-operations-to-maximize-frequency-score.cpp) | 🔴 Hard | C++ |
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Find Polygon With the Largest Perimeter](problems/2971.find-polygon-with-the-largest-perimeter.cpp) | 🟡 Medium | C++ |
+| [2973](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/) | [Find Number of Coins to Place in Tree Nodes](problems/2973.find-number-of-coins-to-place-in-tree-nodes.cpp) | 🔴 Hard | C++ |
 | [2974](https://leetcode.com/problems/minimum-number-game/) | [Minimum Number Game](problems/2974.minimum-number-game.cpp) | 🟢 Easy | C++ |
 | [2975](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | [Maximum Square Area by Removing Fences From a Field](problems/2975.maximum-square-area-by-removing-fences-from-a-field.cpp) | 🟡 Medium | C++ |
 | [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](problems/2976.minimum-cost-to-convert-string-i.cpp) | 🟡 Medium | C++ |
