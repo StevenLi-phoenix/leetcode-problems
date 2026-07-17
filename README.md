@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2547 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 454 Hard
+**2548 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 455 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -629,6 +629,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [898](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Bitwise ORs of Subarrays](problems/898.bitwise-ors-of-subarrays.cpp) | 🟡 Medium | C++ |
 | [900](https://leetcode.com/problems/rle-iterator/) | [RLE Iterator](problems/900.rle-iterator.cpp) | 🟡 Medium | C++ |
 | [901](https://leetcode.com/problems/online-stock-span/) | [Online Stock Span](problems/901.online-stock-span.cpp) | 🟡 Medium | C++ |
+| [903](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [Valid Permutations for DI Sequence](problems/903.valid-permutations-for-di-sequence.cpp) | 🔴 Hard | C++ |
 | [904](https://leetcode.com/problems/fruit-into-baskets/) | [Fruit Into Baskets](problems/904.fruit-into-baskets.cpp) | 🟡 Medium | C++ |
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](problems/905.sort-array-by-parity.cpp) | 🟢 Easy | C++ |
 | [907](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Sum of Subarray Minimums](problems/907.sum-of-subarray-minimums.cpp) | 🟡 Medium | C++ |
