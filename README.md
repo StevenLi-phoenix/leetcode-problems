@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2613 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 520 Hard
+**2614 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 521 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1112,6 +1112,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1633](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [Percentage of Users Attended a Contest](problems/1633.percentage-of-users-attended-a-contest.sql) | 🟢 Easy | mysql |
 | [1636](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [Sort Array by Increasing Frequency](problems/1636.sort-array-by-increasing-frequency.cpp) | 🟢 Easy | C++ |
 | [1638](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [Count Substrings That Differ by One Character](problems/1638.count-substrings-that-differ-by-one-character.cpp) | 🟡 Medium | C++ |
+| [1639](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) | [Number of Ways to Form a Target String Given a Dictionary](problems/1639.number-of-ways-to-form-a-target-string-given-a-dictionary.cpp) | 🔴 Hard | C++ |
 | [1640](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Check Array Formation Through Concatenation](problems/1640.check-array-formation-through-concatenation.cpp) | 🟢 Easy | C++ |
 | [1641](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Count Sorted Vowel Strings](problems/1641.count-sorted-vowel-strings.cpp) | 🟡 Medium | C++ |
 | [1642](https://leetcode.com/problems/furthest-building-you-can-reach/) | [Furthest Building You Can Reach](problems/1642.furthest-building-you-can-reach.cpp) | 🟡 Medium | C++ |
