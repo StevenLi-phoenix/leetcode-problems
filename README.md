@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2601 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 508 Hard
+**2602 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 509 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1704,6 +1704,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2558](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [Take Gifts From the Richest Pile](problems/2558.take-gifts-from-the-richest-pile.cpp) | 🟢 Easy | C++ |
 | [2559](https://leetcode.com/problems/count-vowel-strings-in-ranges/) | [Count Vowel Strings in Ranges](problems/2559.count-vowel-strings-in-ranges.cpp) | 🟡 Medium | C++ |
 | [2560](https://leetcode.com/problems/house-robber-iv/) | [House Robber IV](problems/2560.house-robber-iv.cpp) | 🟡 Medium | C++ |
+| [2561](https://leetcode.com/problems/rearranging-fruits/) | [Rearranging Fruits](problems/2561.rearranging-fruits.cpp) | 🔴 Hard | C++ |
 | [2562](https://leetcode.com/problems/find-the-array-concatenation-value/) | [Find the Array Concatenation Value](problems/2562.find-the-array-concatenation-value.cpp) | 🟢 Easy | C++ |
 | [2563](https://leetcode.com/problems/count-the-number-of-fair-pairs/) | [Count the Number of Fair Pairs](problems/2563.count-the-number-of-fair-pairs.cpp) | 🟡 Medium | C++ |
 | [2564](https://leetcode.com/problems/substring-xor-queries/) | [Substring XOR Queries](problems/2564.substring-xor-queries.cpp) | 🟡 Medium | C++ |
