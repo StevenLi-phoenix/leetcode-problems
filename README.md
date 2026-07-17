@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2583 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 490 Hard
+**2584 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 491 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1034,6 +1034,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Count Odd Numbers in an Interval Range](problems/1523.count-odd-numbers-in-an-interval-range.cpp) | 🟢 Easy | C++ |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Number of Sub-arrays With Odd Sum](problems/1524.number-of-sub-arrays-with-odd-sum.cpp) | 🟡 Medium | C++ |
 | [1525](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [Number of Good Ways to Split a String](problems/1525.number-of-good-ways-to-split-a-string.cpp) | 🟡 Medium | C++ |
+| [1526](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | [Minimum Number of Increments on Subarrays to Form a Target Array](problems/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp) | 🔴 Hard | C++ |
 | [1527](https://leetcode.com/problems/patients-with-a-condition/) | [Patients With a Condition](problems/1527.patients-with-a-condition.sql) | 🟢 Easy | mysql |
 | [1528](https://leetcode.com/problems/shuffle-string/) | [Shuffle String](problems/1528.shuffle-string.py) | 🟢 Easy | Python |
 | [1529](https://leetcode.com/problems/minimum-suffix-flips/) | [Minimum Suffix Flips](problems/1529.minimum-suffix-flips.cpp) | 🟡 Medium | C++ |
