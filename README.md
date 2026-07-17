@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2653 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 559 Hard
+**2654 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 560 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -501,6 +501,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Best Time to Buy and Sell Stock with Transaction Fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) | 🟡 Medium | C++ |
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Maximum Length of Repeated Subarray](problems/718.maximum-length-of-repeated-subarray.cpp) | 🟡 Medium | C++ |
+| [719](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Find K-th Smallest Pair Distance](problems/719.find-k-th-smallest-pair-distance.cpp) | 🔴 Hard | C++ |
 | [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Longest Word in Dictionary](problems/720.longest-word-in-dictionary.cpp) | 🟡 Medium | C++ |
 | [721](https://leetcode.com/problems/accounts-merge/) | [Accounts Merge](problems/721.accounts-merge.cpp) | 🟡 Medium | C++ |
 | [722](https://leetcode.com/problems/remove-comments/) | [Remove Comments](problems/722.remove-comments.cpp) | 🟡 Medium | C++ |
