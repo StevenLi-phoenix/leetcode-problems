@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2621 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 528 Hard
+**2622 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 529 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1165,6 +1165,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](problems/1716.calculate-money-in-leetcode-bank.cpp) | 🟢 Easy | C++ |
 | [1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [Maximum Score From Removing Substrings](problems/1717.maximum-score-from-removing-substrings.cpp) | 🟡 Medium | C++ |
 | [1718](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [Construct the Lexicographically Largest Valid Sequence](problems/1718.construct-the-lexicographically-largest-valid-sequence.cpp) | 🟡 Medium | C++ |
+| [1719](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/) | [Number Of Ways To Reconstruct A Tree](problems/1719.number-of-ways-to-reconstruct-a-tree.cpp) | 🔴 Hard | C++ |
 | [1720](https://leetcode.com/problems/decode-xored-array/) | [Decode XORed Array](problems/1720.decode-xored-array.cpp) | 🟢 Easy | C++ |
 | [1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Swapping Nodes in a Linked List](problems/1721.swapping-nodes-in-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [1722](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [Minimize Hamming Distance After Swap Operations](problems/1722.minimize-hamming-distance-after-swap-operations.cpp) | 🟡 Medium | C++ |
