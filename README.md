@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2472 solved** — 🟢 528 Easy · 🟡 1541 Medium · 🔴 393 Hard
+**2473 solved** — 🟢 528 Easy · 🟡 1542 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -708,6 +708,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1017](https://leetcode.com/problems/convert-to-base-2/) | [Convert to Base -2](problems/1017.convert-to-base-2.cpp) | 🟡 Medium | C++ |
 | [1018](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Binary Prefix Divisible By 5](problems/1018.binary-prefix-divisible-by-5.cpp) | 🟢 Easy | C++ |
 | [1019](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Next Greater Node In Linked List](problems/1019.next-greater-node-in-linked-list.cpp) | 🟡 Medium | C++ |
+| [1020](https://leetcode.com/problems/number-of-enclaves/) | [Number of Enclaves](problems/1020.number-of-enclaves.cpp) | 🟡 Medium | C++ |
 | [1021](https://leetcode.com/problems/remove-outermost-parentheses/) | [Remove Outermost Parentheses](problems/1021.remove-outermost-parentheses.cpp) | 🟢 Easy | C++ |
 | [1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Sum of Root To Leaf Binary Numbers](problems/1022.sum-of-root-to-leaf-binary-numbers.cpp) | 🟢 Easy | C++ |
 | [1023](https://leetcode.com/problems/camelcase-matching/) | [Camelcase Matching](problems/1023.camelcase-matching.cpp) | 🟡 Medium | C++ |
