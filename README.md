@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2725 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 631 Hard
+**2726 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 632 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1498,6 +1498,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2135](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | [Count Words Obtained After Adding a Letter](problems/2135.count-words-obtained-after-adding-a-letter.cpp) | 🟡 Medium | C++ |
 | [2139](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [Minimum Moves to Reach Target Score](problems/2139.minimum-moves-to-reach-target-score.cpp) | 🟡 Medium | C++ |
 | [2140](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Solving Questions With Brainpower](problems/2140.solving-questions-with-brainpower.cpp) | 🟡 Medium | C++ |
+| [2141](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [Maximum Running Time of N Computers](problems/2141.maximum-running-time-of-n-computers.cpp) | 🔴 Hard | C++ |
 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](problems/2144.minimum-cost-of-buying-candies-with-discount.cpp) | 🟢 Easy | C++ |
 | [2145](https://leetcode.com/problems/count-the-hidden-sequences/) | [Count the Hidden Sequences](problems/2145.count-the-hidden-sequences.cpp) | 🟡 Medium | C++ |
 | [2148](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [Count Elements With Strictly Smaller and Greater Elements ](problems/2148.count-elements-with-strictly-smaller-and-greater-elements.cpp) | 🟢 Easy | C++ |
