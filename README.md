@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2687 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 593 Hard
+**2688 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 594 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1400,6 +1400,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2027](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [Minimum Moves to Convert String](problems/2027.minimum-moves-to-convert-string.cpp) | 🟢 Easy | C++ |
 | [2028](https://leetcode.com/problems/find-missing-observations/) | [Find Missing Observations](problems/2028.find-missing-observations.cpp) | 🟡 Medium | C++ |
 | [2029](https://leetcode.com/problems/stone-game-ix/) | [Stone Game IX](problems/2029.stone-game-ix.cpp) | 🟡 Medium | C++ |
+| [2030](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/) | [Smallest K-Length Subsequence With Occurrences of a Letter](problems/2030.smallest-k-length-subsequence-with-occurrences-of-a-letter.cpp) | 🔴 Hard | C++ |
 | [2032](https://leetcode.com/problems/two-out-of-three/) | [Two Out of Three](problems/2032.two-out-of-three.cpp) | 🟢 Easy | C++ |
 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](problems/2033.minimum-operations-to-make-a-uni-value-grid.cpp) | 🟡 Medium | C++ |
 | [2034](https://leetcode.com/problems/stock-price-fluctuation/) | [Stock Price Fluctuation ](problems/2034.stock-price-fluctuation.cpp) | 🟡 Medium | C++ |
