@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2721 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 627 Hard
+**2722 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 628 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1052,6 +1052,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1486](https://leetcode.com/problems/xor-operation-in-an-array/) | [XOR Operation in an Array](problems/1486.xor-operation-in-an-array.cpp) | 🟢 Easy | C++ |
 | [1487](https://leetcode.com/problems/making-file-names-unique/) | [Making File Names Unique](problems/1487.making-file-names-unique.cpp) | 🟡 Medium | C++ |
 | [1488](https://leetcode.com/problems/avoid-flood-in-the-city/) | [Avoid Flood in The City](problems/1488.avoid-flood-in-the-city.cpp) | 🟡 Medium | C++ |
+| [1489](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](problems/1489.find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.cpp) | 🔴 Hard | C++ |
 | [1492](https://leetcode.com/problems/the-kth-factor-of-n/) | [The kth Factor of n](problems/1492.the-kth-factor-of-n.py) | 🟡 Medium | Python |
 | [1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](problems/1493.longest-subarray-of-1s-after-deleting-one-element.cpp) | 🟡 Medium | C++ |
 | [1494](https://leetcode.com/problems/parallel-courses-ii/) | [Parallel Courses II](problems/1494.parallel-courses-ii.cpp) | 🔴 Hard | C++ |
