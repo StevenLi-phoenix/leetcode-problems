@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2690 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 596 Hard
+**2691 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 597 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -772,6 +772,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1033](https://leetcode.com/problems/moving-stones-until-consecutive/) | [Moving Stones Until Consecutive](problems/1033.moving-stones-until-consecutive.cpp) | 🟡 Medium | C++ |
 | [1034](https://leetcode.com/problems/coloring-a-border/) | [Coloring A Border](problems/1034.coloring-a-border.cpp) | 🟡 Medium | C++ |
 | [1035](https://leetcode.com/problems/uncrossed-lines/) | [Uncrossed Lines](problems/1035.uncrossed-lines.cpp) | 🟡 Medium | C++ |
+| [1036](https://leetcode.com/problems/escape-a-large-maze/) | [Escape a Large Maze](problems/1036.escape-a-large-maze.cpp) | 🔴 Hard | C++ |
 | [1037](https://leetcode.com/problems/valid-boomerang/) | [Valid Boomerang](problems/1037.valid-boomerang.cpp) | 🟢 Easy | C++ |
 | [1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Binary Search Tree to Greater Sum Tree](problems/1038.binary-search-tree-to-greater-sum-tree.cpp) | 🟡 Medium | C++ |
 | [1039](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [Minimum Score Triangulation of Polygon](problems/1039.minimum-score-triangulation-of-polygon.cpp) | 🟡 Medium | C++ |
