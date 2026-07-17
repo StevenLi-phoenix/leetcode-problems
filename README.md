@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2620 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 527 Hard
+**2621 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 528 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1889,6 +1889,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2858](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [Minimum Edge Reversals So Every Node Is Reachable](problems/2858.minimum-edge-reversals-so-every-node-is-reachable.cpp) | 🔴 Hard | C++ |
 | [2860](https://leetcode.com/problems/happy-students/) | [Happy Students](problems/2860.happy-students.cpp) | 🟡 Medium | C++ |
 | [2861](https://leetcode.com/problems/maximum-number-of-alloys/) | [Maximum Number of Alloys](problems/2861.maximum-number-of-alloys.cpp) | 🟡 Medium | C++ |
+| [2862](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/) | [Maximum Element-Sum of a Complete Subset of Indices](problems/2862.maximum-element-sum-of-a-complete-subset-of-indices.cpp) | 🔴 Hard | C++ |
 | [2865](https://leetcode.com/problems/beautiful-towers-i/) | [Beautiful Towers I](problems/2865.beautiful-towers-i.cpp) | 🟡 Medium | C++ |
 | [2866](https://leetcode.com/problems/beautiful-towers-ii/) | [Beautiful Towers II](problems/2866.beautiful-towers-ii.cpp) | 🟡 Medium | C++ |
 | [2867](https://leetcode.com/problems/count-valid-paths-in-a-tree/) | [Count Valid Paths in a Tree](problems/2867.count-valid-paths-in-a-tree.cpp) | 🔴 Hard | C++ |
