@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2702 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 608 Hard
+**2703 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 609 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1368,6 +1368,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1961](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [Check If String Is a Prefix of Array](problems/1961.check-if-string-is-a-prefix-of-array.cpp) | 🟢 Easy | C++ |
 | [1962](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [Remove Stones to Minimize the Total](problems/1962.remove-stones-to-minimize-the-total.cpp) | 🟡 Medium | C++ |
 | [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [Minimum Number of Swaps to Make the String Balanced](problems/1963.minimum-number-of-swaps-to-make-the-string-balanced.cpp) | 🟡 Medium | C++ |
+| [1964](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/) | [Find the Longest Valid Obstacle Course at Each Position](problems/1964.find-the-longest-valid-obstacle-course-at-each-position.cpp) | 🔴 Hard | C++ |
 | [1967](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [Number of Strings That Appear as Substrings in Word](problems/1967.number-of-strings-that-appear-as-substrings-in-word.cpp) | 🟢 Easy | C++ |
 | [1968](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [Array With Elements Not Equal to Average of Neighbors](problems/1968.array-with-elements-not-equal-to-average-of-neighbors.cpp) | 🟡 Medium | C++ |
 | [1969](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | [Minimum Non-Zero Product of the Array Elements](problems/1969.minimum-non-zero-product-of-the-array-elements.cpp) | 🟡 Medium | C++ |
