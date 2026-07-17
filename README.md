@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2631 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 538 Hard
+**2632 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 539 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -686,6 +686,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [953](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Verifying an Alien Dictionary](problems/953.verifying-an-alien-dictionary.cpp) | 🟢 Easy | C++ |
 | [954](https://leetcode.com/problems/array-of-doubled-pairs/) | [Array of Doubled Pairs](problems/954.array-of-doubled-pairs.cpp) | 🟡 Medium | C++ |
 | [955](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Delete Columns to Make Sorted II](problems/955.delete-columns-to-make-sorted-ii.cpp) | 🟡 Medium | C++ |
+| [956](https://leetcode.com/problems/tallest-billboard/) | [Tallest Billboard](problems/956.tallest-billboard.cpp) | 🔴 Hard | C++ |
 | [957](https://leetcode.com/problems/prison-cells-after-n-days/) | [Prison Cells After N Days](problems/957.prison-cells-after-n-days.cpp) | 🟡 Medium | C++ |
 | [958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Check Completeness of a Binary Tree](problems/958.check-completeness-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [959](https://leetcode.com/problems/regions-cut-by-slashes/) | [Regions Cut By Slashes](problems/959.regions-cut-by-slashes.cpp) | 🟡 Medium | C++ |
