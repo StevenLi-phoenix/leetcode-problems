@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2500 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 409 Hard
+**2501 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 410 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -483,6 +483,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [706](https://leetcode.com/problems/design-hashmap/) | [Design HashMap](problems/706.design-hashmap.cpp) | 🟢 Easy | C++ |
 | [707](https://leetcode.com/problems/design-linked-list/) | [Design Linked List](problems/707.design-linked-list.cpp) | 🟡 Medium | C++ |
 | [709](https://leetcode.com/problems/to-lower-case/) | [To Lower Case](problems/709.to-lower-case.cpp) | 🟢 Easy | C++ |
+| [710](https://leetcode.com/problems/random-pick-with-blacklist/) | [Random Pick with Blacklist](problems/710.random-pick-with-blacklist.cpp) | 🔴 Hard | C++ |
 | [712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [Minimum ASCII Delete Sum for Two Strings](problems/712.minimum-ascii-delete-sum-for-two-strings.cpp) | 🟡 Medium | C++ |
 | [713](https://leetcode.com/problems/subarray-product-less-than-k/) | [Subarray Product Less Than K](problems/713.subarray-product-less-than-k.cpp) | 🟡 Medium | C++ |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Best Time to Buy and Sell Stock with Transaction Fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) | 🟡 Medium | C++ |
