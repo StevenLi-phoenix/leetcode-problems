@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2495 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 404 Hard
+**2496 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 405 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -959,6 +959,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1444](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Number of Ways of Cutting a Pizza](problems/1444.number-of-ways-of-cutting-a-pizza.cpp) | 🔴 Hard | C++ |
 | [1447](https://leetcode.com/problems/simplified-fractions/) | [Simplified Fractions](problems/1447.simplified-fractions.cpp) | 🟡 Medium | C++ |
 | [1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Count Good Nodes in Binary Tree](problems/1448.count-good-nodes-in-binary-tree.cpp) | 🟡 Medium | C++ |
+| [1449](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [Form Largest Integer With Digits That Add up to Target](problems/1449.form-largest-integer-with-digits-that-add-up-to-target.cpp) | 🔴 Hard | C++ |
 | [1450](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [Number of Students Doing Homework at a Given Time](problems/1450.number-of-students-doing-homework-at-a-given-time.cpp) | 🟢 Easy | C++ |
 | [1451](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Rearrange Words in a Sentence](problems/1451.rearrange-words-in-a-sentence.cpp) | 🟡 Medium | C++ |
 | [1452](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [People Whose List of Favorite Companies Is Not a Subset of Another List](problems/1452.people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.cpp) | 🟡 Medium | C++ |
