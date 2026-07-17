@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2485 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 394 Hard
+**2486 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 395 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1689,6 +1689,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Cousins in Binary Tree II](problems/2641.cousins-in-binary-tree-ii.cpp) | 🟡 Medium | C++ |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Design Graph With Shortest Path Calculator](problems/2642.design-graph-with-shortest-path-calculator.cpp) | 🔴 Hard | C++ |
 | [2645](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [Minimum Additions to Make Valid String](problems/2645.minimum-additions-to-make-valid-string.cpp) | 🟡 Medium | C++ |
+| [2646](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Minimize the Total Price of the Trips](problems/2646.minimize-the-total-price-of-the-trips.cpp) | 🔴 Hard | C++ |
 | [2649](https://leetcode.com/problems/nested-array-generator/) | [Nested Array Generator](problems/2649.nested-array-generator.js) | 🟡 Medium | JavaScript |
 | [2653](https://leetcode.com/problems/sliding-subarray-beauty/) | [Sliding Subarray Beauty](problems/2653.sliding-subarray-beauty.cpp) | 🟡 Medium | C++ |
 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp) | 🟡 Medium | C++ |
