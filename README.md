@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2686 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 592 Hard
+**2687 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 593 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2190,6 +2190,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3254](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/) | [Find the Power of K-Size Subarrays I](problems/3254.find-the-power-of-k-size-subarrays-i.cpp) | 🟡 Medium | C++ |
 | [3255](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/) | [Find the Power of K-Size Subarrays II](problems/3255.find-the-power-of-k-size-subarrays-ii.cpp) | 🟡 Medium | C++ |
 | [3256](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/) | [Maximum Value Sum by Placing Three Rooks I](problems/3256.maximum-value-sum-by-placing-three-rooks-i.cpp) | 🔴 Hard | C++ |
+| [3257](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/) | [Maximum Value Sum by Placing Three Rooks II](problems/3257.maximum-value-sum-by-placing-three-rooks-ii.cpp) | 🔴 Hard | C++ |
 | [3258](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | [Count Substrings That Satisfy K-Constraint I](problems/3258.count-substrings-that-satisfy-k-constraint-i.cpp) | 🟢 Easy | C++ |
 | [3259](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Energy Boost From Two Drinks](problems/3259.maximum-energy-boost-from-two-drinks.cpp) | 🟡 Medium | C++ |
 | [3260](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | [Find the Largest Palindrome Divisible by K](problems/3260.find-the-largest-palindrome-divisible-by-k.cpp) | 🔴 Hard | C++ |
