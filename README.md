@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2716 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 622 Hard
+**2717 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 623 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1588,6 +1588,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2278](https://leetcode.com/problems/percentage-of-letter-in-string/) | [Percentage of Letter in String](problems/2278.percentage-of-letter-in-string.cpp) | 🟢 Easy | C++ |
 | [2279](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [Maximum Bags With Full Capacity of Rocks](problems/2279.maximum-bags-with-full-capacity-of-rocks.cpp) | 🟡 Medium | C++ |
 | [2280](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | [Minimum Lines to Represent a Line Chart](problems/2280.minimum-lines-to-represent-a-line-chart.cpp) | 🟡 Medium | C++ |
+| [2281](https://leetcode.com/problems/sum-of-total-strength-of-wizards/) | [Sum of Total Strength of Wizards](problems/2281.sum-of-total-strength-of-wizards.cpp) | 🔴 Hard | C++ |
 | [2283](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [Check if Number Has Equal Digit Count and Digit Value](problems/2283.check-if-number-has-equal-digit-count-and-digit-value.cpp) | 🟢 Easy | C++ |
 | [2284](https://leetcode.com/problems/sender-with-largest-word-count/) | [Sender With Largest Word Count](problems/2284.sender-with-largest-word-count.cpp) | 🟡 Medium | C++ |
 | [2285](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [Maximum Total Importance of Roads](problems/2285.maximum-total-importance-of-roads.cpp) | 🟡 Medium | C++ |
