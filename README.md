@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2626 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 533 Hard
+**2627 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 534 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1037,6 +1037,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | [Number of Good Pairs](problems/1512.number-of-good-pairs.cpp) | 🟢 Easy | C++ |
 | [1513](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Number of Substrings With Only 1s](problems/1513.number-of-substrings-with-only-1s.cpp) | 🟡 Medium | C++ |
 | [1514](https://leetcode.com/problems/path-with-maximum-probability/) | [Path with Maximum Probability](problems/1514.path-with-maximum-probability.cpp) | 🟡 Medium | C++ |
+| [1515](https://leetcode.com/problems/best-position-for-a-service-centre/) | [Best Position for a Service Centre](problems/1515.best-position-for-a-service-centre.cpp) | 🔴 Hard | C++ |
 | [1517](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [Find Users With Valid E-Mails](problems/1517.find-users-with-valid-e-mails.sql) | 🟢 Easy | mysql |
 | [1518](https://leetcode.com/problems/water-bottles/) | [Water Bottles](problems/1518.water-bottles.cpp) | 🟢 Easy | C++ |
 | [1519](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [Number of Nodes in the Sub-Tree With the Same Label](problems/1519.number-of-nodes-in-the-sub-tree-with-the-same-label.cpp) | 🟡 Medium | C++ |
