@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2470 solved** — 🟢 528 Easy · 🟡 1539 Medium · 🔴 393 Hard
+**2471 solved** — 🟢 528 Easy · 🟡 1540 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2216,6 +2216,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3586](https://leetcode.com/problems/find-covid-recovery-patients/) | [Find COVID Recovery Patients](problems/3586.find-covid-recovery-patients.sql) | 🟡 Medium | mysql |
 | [3587](https://leetcode.com/problems/minimum-adjacent-swaps-to-alternate-parity/) | [Minimum Adjacent Swaps to Alternate Parity](problems/3587.minimum-adjacent-swaps-to-alternate-parity.cpp) | 🟡 Medium | C++ |
 | [3588](https://leetcode.com/problems/find-maximum-area-of-a-triangle/) | [Find Maximum Area of a Triangle](problems/3588.find-maximum-area-of-a-triangle.cpp) | 🟡 Medium | C++ |
+| [3589](https://leetcode.com/problems/count-prime-gap-balanced-subarrays/) | [Count Prime-Gap Balanced Subarrays](problems/3589.count-prime-gap-balanced-subarrays.cpp) | 🟡 Medium | C++ |
 | [3591](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Check if Any Element Has Prime Frequency](problems/3591.check-if-any-element-has-prime-frequency.cpp) | 🟢 Easy | C++ |
 | [3592](https://leetcode.com/problems/inverse-coin-change/) | [Inverse Coin Change](problems/3592.inverse-coin-change.cpp) | 🟡 Medium | C++ |
 | [3593](https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths/) | [Minimum Increments to Equalize Leaf Paths](problems/3593.minimum-increments-to-equalize-leaf-paths.cpp) | 🟡 Medium | C++ |
