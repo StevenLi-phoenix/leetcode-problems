@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2611 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 518 Hard
+**2612 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 519 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1366,6 +1366,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2032](https://leetcode.com/problems/two-out-of-three/) | [Two Out of Three](problems/2032.two-out-of-three.cpp) | 🟢 Easy | C++ |
 | [2033](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [Minimum Operations to Make a Uni-Value Grid](problems/2033.minimum-operations-to-make-a-uni-value-grid.cpp) | 🟡 Medium | C++ |
 | [2034](https://leetcode.com/problems/stock-price-fluctuation/) | [Stock Price Fluctuation ](problems/2034.stock-price-fluctuation.cpp) | 🟡 Medium | C++ |
+| [2035](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [Partition Array Into Two Arrays to Minimize Sum Difference](problems/2035.partition-array-into-two-arrays-to-minimize-sum-difference.cpp) | 🔴 Hard | C++ |
 | [2037](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [Minimum Number of Moves to Seat Everyone](problems/2037.minimum-number-of-moves-to-seat-everyone.cpp) | 🟢 Easy | C++ |
 | [2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [Remove Colored Pieces if Both Neighbors are the Same Color](problems/2038.remove-colored-pieces-if-both-neighbors-are-the-same-color.cpp) | 🟡 Medium | C++ |
 | [2039](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | [The Time When the Network Becomes Idle](problems/2039.the-time-when-the-network-becomes-idle.cpp) | 🟡 Medium | C++ |
