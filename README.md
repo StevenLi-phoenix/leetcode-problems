@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2639 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 545 Hard
+**2640 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 546 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1744,6 +1744,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2574](https://leetcode.com/problems/left-and-right-sum-differences/) | [Left and Right Sum Differences](problems/2574.left-and-right-sum-differences.cpp) | 🟢 Easy | C++ |
 | [2575](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/) | [Find the Divisibility Array of a String](problems/2575.find-the-divisibility-array-of-a-string.cpp) | 🟡 Medium | C++ |
 | [2576](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/) | [Find the Maximum Number of Marked Indices](problems/2576.find-the-maximum-number-of-marked-indices.cpp) | 🟡 Medium | C++ |
+| [2577](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Minimum Time to Visit a Cell In a Grid](problems/2577.minimum-time-to-visit-a-cell-in-a-grid.cpp) | 🔴 Hard | C++ |
 | [2579](https://leetcode.com/problems/count-total-number-of-colored-cells/) | [Count Total Number of Colored Cells](problems/2579.count-total-number-of-colored-cells.cpp) | 🟡 Medium | C++ |
 | [2580](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/) | [Count Ways to Group Overlapping Ranges](problems/2580.count-ways-to-group-overlapping-ranges.cpp) | 🟡 Medium | C++ |
 | [2581](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [Count Number of Possible Root Nodes](problems/2581.count-number-of-possible-root-nodes.cpp) | 🔴 Hard | C++ |
