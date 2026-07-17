@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2549 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 456 Hard
+**2550 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 457 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1648,6 +1648,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2528](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](problems/2528.maximize-the-minimum-powered-city.cpp) | 🔴 Hard | C++ |
 | [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Maximal Score After Applying K Operations](problems/2530.maximal-score-after-applying-k-operations.cpp) | 🟡 Medium | C++ |
 | [2531](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | [Make Number of Distinct Characters Equal](problems/2531.make-number-of-distinct-characters-equal.cpp) | 🟡 Medium | C++ |
+| [2532](https://leetcode.com/problems/time-to-cross-a-bridge/) | [Time to Cross a Bridge](problems/2532.time-to-cross-a-bridge.cpp) | 🔴 Hard | C++ |
 | [2535](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [Difference Between Element Sum and Digit Sum of an Array](problems/2535.difference-between-element-sum-and-digit-sum-of-an-array.cpp) | 🟢 Easy | C++ |
 | [2536](https://leetcode.com/problems/increment-submatrices-by-one/) | [Increment Submatrices by One](problems/2536.increment-submatrices-by-one.cpp) | 🟡 Medium | C++ |
 | [2537](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | [Count the Number of Good Subarrays](problems/2537.count-the-number-of-good-subarrays.cpp) | 🟡 Medium | C++ |
