@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2663 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 569 Hard
+**2664 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 570 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -650,6 +650,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [903](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [Valid Permutations for DI Sequence](problems/903.valid-permutations-for-di-sequence.cpp) | 🔴 Hard | C++ |
 | [904](https://leetcode.com/problems/fruit-into-baskets/) | [Fruit Into Baskets](problems/904.fruit-into-baskets.cpp) | 🟡 Medium | C++ |
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](problems/905.sort-array-by-parity.cpp) | 🟢 Easy | C++ |
+| [906](https://leetcode.com/problems/super-palindromes/) | [Super Palindromes](problems/906.super-palindromes.cpp) | 🔴 Hard | C++ |
 | [907](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Sum of Subarray Minimums](problems/907.sum-of-subarray-minimums.cpp) | 🟡 Medium | C++ |
 | [909](https://leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](problems/909.snakes-and-ladders.cpp) | 🟡 Medium | C++ |
 | [910](https://leetcode.com/problems/smallest-range-ii/) | [Smallest Range II](problems/910.smallest-range-ii.cpp) | 🟡 Medium | C++ |
