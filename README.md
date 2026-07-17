@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2610 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 517 Hard
+**2611 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 518 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1245,6 +1245,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1839](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Longest Substring Of All Vowels in Order](problems/1839.longest-substring-of-all-vowels-in-order.cpp) | 🟡 Medium | C++ |
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | [Seat Reservation Manager](problems/1845.seat-reservation-manager.cpp) | 🟡 Medium | C++ |
+| [1847](https://leetcode.com/problems/closest-room/) | [Closest Room](problems/1847.closest-room.cpp) | 🔴 Hard | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
 | [1849](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [Splitting a String Into Descending Consecutive Values](problems/1849.splitting-a-string-into-descending-consecutive-values.cpp) | 🟡 Medium | C++ |
 | [1850](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](problems/1850.minimum-adjacent-swaps-to-reach-the-kth-smallest-number.cpp) | 🟡 Medium | C++ |
