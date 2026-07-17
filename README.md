@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2625 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 532 Hard
+**2626 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 533 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1213,6 +1213,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](problems/1784.check-if-binary-string-has-at-most-one-segment-of-ones.cpp) | 🟢 Easy | C++ |
 | [1785](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Minimum Elements to Add to Form a Given Sum](problems/1785.minimum-elements-to-add-to-form-a-given-sum.cpp) | 🟡 Medium | C++ |
 | [1786](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Number of Restricted Paths From First to Last Node](problems/1786.number-of-restricted-paths-from-first-to-last-node.cpp) | 🟡 Medium | C++ |
+| [1787](https://leetcode.com/problems/make-the-xor-of-all-segments-equal-to-zero/) | [Make the XOR of All Segments Equal to Zero](problems/1787.make-the-xor-of-all-segments-equal-to-zero.cpp) | 🔴 Hard | C++ |
 | [1789](https://leetcode.com/problems/primary-department-for-each-employee/) | [Primary Department for Each Employee](problems/1789.primary-department-for-each-employee.sql) | 🟢 Easy | mysql |
 | [1790](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [Check if One String Swap Can Make Strings Equal](problems/1790.check-if-one-string-swap-can-make-strings-equal.cpp) | 🟢 Easy | C++ |
 | [1791](https://leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](problems/1791.find-center-of-star-graph.cpp) | 🟢 Easy | C++ |
