@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2486 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 395 Hard
+**2487 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 396 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2204,6 +2204,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3544](https://leetcode.com/problems/subtree-inversion-sum/) | [Subtree Inversion Sum](problems/3544.subtree-inversion-sum.cpp) | 🔴 Hard | C++ |
 | [3545](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [Minimum Deletions for At Most K Distinct Characters](problems/3545.minimum-deletions-for-at-most-k-distinct-characters.cpp) | 🟢 Easy | C++ |
 | [3546](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Equal Sum Grid Partition I](problems/3546.equal-sum-grid-partition-i.cpp) | 🟡 Medium | C++ |
+| [3547](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | [Maximum Sum of Edge Values in a Graph](problems/3547.maximum-sum-of-edge-values-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](problems/3548.equal-sum-grid-partition-ii.cpp) | 🔴 Hard | C++ |
 | [3551](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Minimum Swaps to Sort by Digit Sum](problems/3551.minimum-swaps-to-sort-by-digit-sum.cpp) | 🟡 Medium | C++ |
 | [3552](https://leetcode.com/problems/grid-teleportation-traversal/) | [Grid Teleportation Traversal](problems/3552.grid-teleportation-traversal.cpp) | 🟡 Medium | C++ |
