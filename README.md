@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2648 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 554 Hard
+**2649 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 555 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2180,6 +2180,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3289](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [The Two Sneaky Numbers of Digitville](problems/3289.the-two-sneaky-numbers-of-digitville.cpp) | 🟢 Easy | C++ |
 | [3290](https://leetcode.com/problems/maximum-multiplication-score/) | [Maximum Multiplication Score](problems/3290.maximum-multiplication-score.cpp) | 🟡 Medium | C++ |
 | [3291](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/) | [Minimum Number of Valid Strings to Form Target I](problems/3291.minimum-number-of-valid-strings-to-form-target-i.cpp) | 🟡 Medium | C++ |
+| [3292](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/) | [Minimum Number of Valid Strings to Form Target II](problems/3292.minimum-number-of-valid-strings-to-form-target-ii.cpp) | 🔴 Hard | C++ |
 | [3295](https://leetcode.com/problems/report-spam-message/) | [Report Spam Message](problems/3295.report-spam-message.cpp) | 🟡 Medium | C++ |
 | [3296](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Minimum Number of Seconds to Make Mountain Height Zero](problems/3296.minimum-number-of-seconds-to-make-mountain-height-zero.cpp) | 🟡 Medium | C++ |
 | [3297](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | [Count Substrings That Can Be Rearranged to Contain a String I](problems/3297.count-substrings-that-can-be-rearranged-to-contain-a-string-i.cpp) | 🟡 Medium | C++ |
