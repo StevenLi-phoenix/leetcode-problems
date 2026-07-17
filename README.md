@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2553 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 460 Hard
+**2554 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 461 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1073,6 +1073,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1603](https://leetcode.com/problems/design-parking-system/) | [Design Parking System](problems/1603.design-parking-system.cpp) | 🟢 Easy | C++ |
 | [1604](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [Alert Using Same Key-Card Three or More Times in a One Hour Period](problems/1604.alert-using-same-key-card-three-or-more-times-in-a-one-hour-period.cpp) | 🟡 Medium | C++ |
 | [1605](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [Find Valid Matrix Given Row and Column Sums](problems/1605.find-valid-matrix-given-row-and-column-sums.cpp) | 🟡 Medium | C++ |
+| [1606](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | [Find Servers That Handled Most Number of Requests](problems/1606.find-servers-that-handled-most-number-of-requests.cpp) | 🔴 Hard | C++ |
 | [1609](https://leetcode.com/problems/even-odd-tree/) | [Even Odd Tree](problems/1609.even-odd-tree.cpp) | 🟡 Medium | C++ |
 | [1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | [Minimum One Bit Operations to Make Integers Zero](problems/1611.minimum-one-bit-operations-to-make-integers-zero.cpp) | 🔴 Hard | C++ |
 | [1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Maximum Nesting Depth of the Parentheses](problems/1614.maximum-nesting-depth-of-the-parentheses.cpp) | 🟢 Easy | C++ |
