@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2614 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 521 Hard
+**2615 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 522 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -556,6 +556,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [796](https://leetcode.com/problems/rotate-string/) | [Rotate String](problems/796.rotate-string.cpp) | 🟢 Easy | C++ |
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/) | [All Paths From Source to Target](problems/797.all-paths-from-source-to-target.cpp) | 🟡 Medium | C++ |
 | [799](https://leetcode.com/problems/champagne-tower/) | [Champagne Tower](problems/799.champagne-tower.cpp) | 🟡 Medium | C++ |
+| [801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [Minimum Swaps To Make Sequences Increasing](problems/801.minimum-swaps-to-make-sequences-increasing.cpp) | 🔴 Hard | C++ |
 | [802](https://leetcode.com/problems/find-eventual-safe-states/) | [Find Eventual Safe States](problems/802.find-eventual-safe-states.cpp) | 🟡 Medium | C++ |
 | [804](https://leetcode.com/problems/unique-morse-code-words/) | [Unique Morse Code Words](problems/804.unique-morse-code-words.cpp) | 🟢 Easy | C++ |
 | [806](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Number of Lines To Write String](problems/806.number-of-lines-to-write-string.cpp) | 🟢 Easy | C++ |
