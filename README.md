@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2537 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 445 Hard
+**2538 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 446 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -999,6 +999,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1488](https://leetcode.com/problems/avoid-flood-in-the-city/) | [Avoid Flood in The City](problems/1488.avoid-flood-in-the-city.cpp) | 🟡 Medium | C++ |
 | [1492](https://leetcode.com/problems/the-kth-factor-of-n/) | [The kth Factor of n](problems/1492.the-kth-factor-of-n.py) | 🟡 Medium | Python |
 | [1493](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [Longest Subarray of 1's After Deleting One Element](problems/1493.longest-subarray-of-1s-after-deleting-one-element.cpp) | 🟡 Medium | C++ |
+| [1494](https://leetcode.com/problems/parallel-courses-ii/) | [Parallel Courses II](problems/1494.parallel-courses-ii.cpp) | 🔴 Hard | C++ |
 | [1496](https://leetcode.com/problems/path-crossing/) | [Path Crossing](problems/1496.path-crossing.cpp) | 🟢 Easy | C++ |
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Check If Array Pairs Are Divisible by k](problems/1497.check-if-array-pairs-are-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [1498](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Number of Subsequences That Satisfy the Given Sum Condition](problems/1498.number-of-subsequences-that-satisfy-the-given-sum-condition.cpp) | 🟡 Medium | C++ |
