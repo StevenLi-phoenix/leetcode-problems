@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2546 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 454 Hard
+**2547 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 454 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2549,6 +2549,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3980](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | [Minimum Operations to Transform Binary String](problems/3980.minimum-operations-to-transform-binary-string.cpp) | — | C++ |
 | [3983](https://leetcode.com/problems/subsequence-after-one-replacement/) | [Subsequence After One Replacement](problems/3983.subsequence-after-one-replacement.cpp) | — | C++ |
 | [3984](https://leetcode.com/problems/divisible-game/) | [Divisible Game](problems/3984.divisible-game.cpp) | — | C++ |
+| [3985](https://leetcode.com/problems/palindromic-subarray-sum/) | [Palindromic Subarray Sum](problems/3985.palindromic-subarray-sum.cpp) | — | C++ |
 | [3987](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | [Minimum Total Cost to Process All Elements](problems/3987.minimum-total-cost-to-process-all-elements.cpp) | — | C++ |
 | [3988](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/) | [Create Grid With Exactly K Paths I](problems/3988.create-grid-with-exactly-k-paths-i.cpp) | — | C++ |
 | [3989](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [Maximum Consistent Columns in a Grid](problems/3989.maximum-consistent-columns-in-a-grid.cpp) | — | C++ |
