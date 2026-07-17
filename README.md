@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2642 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 548 Hard
+**2643 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 549 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -985,6 +985,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1416](https://leetcode.com/problems/restore-the-array/) | [Restore The Array](problems/1416.restore-the-array.cpp) | 🔴 Hard | C++ |
 | [1418](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Display Table of Food Orders in a Restaurant](problems/1418.display-table-of-food-orders-in-a-restaurant.cpp) | 🟡 Medium | C++ |
 | [1419](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [Minimum Number of Frogs Croaking](problems/1419.minimum-number-of-frogs-croaking.cpp) | 🟡 Medium | C++ |
+| [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [Build Array Where You Can Find The Maximum Exactly K Comparisons](problems/1420.build-array-where-you-can-find-the-maximum-exactly-k-comparisons.cpp) | 🔴 Hard | C++ |
 | [1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Maximum Score After Splitting a String](problems/1422.maximum-score-after-splitting-a-string.cpp) | 🟢 Easy | C++ |
 | [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum Points You Can Obtain from Cards](problems/1423.maximum-points-you-can-obtain-from-cards.cpp) | 🟡 Medium | C++ |
 | [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | [Diagonal Traverse II](problems/1424.diagonal-traverse-ii.cpp) | 🟡 Medium | C++ |
