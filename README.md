@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2693 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 599 Hard
+**2694 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 600 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -563,6 +563,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Number of Subarrays with Bounded Maximum](problems/795.number-of-subarrays-with-bounded-maximum.cpp) | 🟡 Medium | C++ |
 | [796](https://leetcode.com/problems/rotate-string/) | [Rotate String](problems/796.rotate-string.cpp) | 🟢 Easy | C++ |
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/) | [All Paths From Source to Target](problems/797.all-paths-from-source-to-target.cpp) | 🟡 Medium | C++ |
+| [798](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Smallest Rotation with Highest Score](problems/798.smallest-rotation-with-highest-score.cpp) | 🔴 Hard | C++ |
 | [799](https://leetcode.com/problems/champagne-tower/) | [Champagne Tower](problems/799.champagne-tower.cpp) | 🟡 Medium | C++ |
 | [801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [Minimum Swaps To Make Sequences Increasing](problems/801.minimum-swaps-to-make-sequences-increasing.cpp) | 🔴 Hard | C++ |
 | [802](https://leetcode.com/problems/find-eventual-safe-states/) | [Find Eventual Safe States](problems/802.find-eventual-safe-states.cpp) | 🟡 Medium | C++ |
