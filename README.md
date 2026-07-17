@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2615 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 522 Hard
+**2616 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 523 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2346,6 +2346,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3591](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [Check if Any Element Has Prime Frequency](problems/3591.check-if-any-element-has-prime-frequency.cpp) | 🟢 Easy | C++ |
 | [3592](https://leetcode.com/problems/inverse-coin-change/) | [Inverse Coin Change](problems/3592.inverse-coin-change.cpp) | 🟡 Medium | C++ |
 | [3593](https://leetcode.com/problems/minimum-increments-to-equalize-leaf-paths/) | [Minimum Increments to Equalize Leaf Paths](problems/3593.minimum-increments-to-equalize-leaf-paths.cpp) | 🟡 Medium | C++ |
+| [3594](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) | [Minimum Time to Transport All Individuals](problems/3594.minimum-time-to-transport-all-individuals.cpp) | 🔴 Hard | C++ |
 | [3597](https://leetcode.com/problems/partition-string/) | [Partition String ](problems/3597.partition-string.cpp) | 🟡 Medium | C++ |
 | [3598](https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/) | [Longest Common Prefix Between Adjacent Strings After Removals](problems/3598.longest-common-prefix-between-adjacent-strings-after-removals.cpp) | 🟡 Medium | C++ |
 | [3599](https://leetcode.com/problems/partition-array-to-minimize-xor/) | [Partition Array to Minimize XOR](problems/3599.partition-array-to-minimize-xor.cpp) | 🟡 Medium | C++ |
