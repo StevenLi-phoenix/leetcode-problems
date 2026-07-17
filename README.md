@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2619 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 526 Hard
+**2620 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 527 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -846,6 +846,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1221](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Split a String in Balanced Strings](problems/1221.split-a-string-in-balanced-strings.cpp) | 🟢 Easy | C++ |
 | [1222](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [Queens That Can Attack the King](problems/1222.queens-that-can-attack-the-king.cpp) | 🟡 Medium | C++ |
 | [1223](https://leetcode.com/problems/dice-roll-simulation/) | [Dice Roll Simulation](problems/1223.dice-roll-simulation.cpp) | 🔴 Hard | C++ |
+| [1224](https://leetcode.com/problems/maximum-equal-frequency/) | [Maximum Equal Frequency](problems/1224.maximum-equal-frequency.cpp) | 🔴 Hard | C++ |
 | [1226](https://leetcode.com/problems/the-dining-philosophers/) | [The Dining Philosophers](problems/1226.the-dining-philosophers.cpp) | 🟡 Medium | C++ |
 | [1227](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Airplane Seat Assignment Probability](problems/1227.airplane-seat-assignment-probability.cpp) | 🟡 Medium | C++ |
 | [1232](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Check If It Is a Straight Line](problems/1232.check-if-it-is-a-straight-line.cpp) | 🟢 Easy | C++ |
