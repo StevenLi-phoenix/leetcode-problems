@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2622 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 529 Hard
+**2623 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 530 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -660,6 +660,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [924](https://leetcode.com/problems/minimize-malware-spread/) | [Minimize Malware Spread](problems/924.minimize-malware-spread.cpp) | 🔴 Hard | C++ |
 | [925](https://leetcode.com/problems/long-pressed-name/) | [Long Pressed Name](problems/925.long-pressed-name.cpp) | 🟢 Easy | C++ |
 | [926](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [Flip String to Monotone Increasing](problems/926.flip-string-to-monotone-increasing.cpp) | 🟡 Medium | C++ |
+| [928](https://leetcode.com/problems/minimize-malware-spread-ii/) | [Minimize Malware Spread II](problems/928.minimize-malware-spread-ii.cpp) | 🔴 Hard | C++ |
 | [930](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Binary Subarrays With Sum](problems/930.binary-subarrays-with-sum.cpp) | 🟡 Medium | C++ |
 | [931](https://leetcode.com/problems/minimum-falling-path-sum/) | [Minimum Falling Path Sum](problems/931.minimum-falling-path-sum.cpp) | 🟡 Medium | C++ |
 | [932](https://leetcode.com/problems/beautiful-array/) | [Beautiful Array](problems/932.beautiful-array.cpp) | 🟡 Medium | C++ |
