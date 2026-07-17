@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2599 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 506 Hard
+**2600 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 507 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2452,6 +2452,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3759](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values/) | [Count Elements With at Least K Greater Values](problems/3759.count-elements-with-at-least-k-greater-values.cpp) | 🟡 Medium | C++ |
 | [3760](https://leetcode.com/problems/maximum-substrings-with-distinct-start/) | [Maximum Substrings With Distinct Start](problems/3760.maximum-substrings-with-distinct-start.cpp) | 🟡 Medium | C++ |
 | [3761](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/) | [Minimum Absolute Distance Between Mirror Pairs](problems/3761.minimum-absolute-distance-between-mirror-pairs.cpp) | 🟡 Medium | C++ |
+| [3762](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [Minimum Operations to Equalize Subarrays](problems/3762.minimum-operations-to-equalize-subarrays.cpp) | 🔴 Hard | C++ |
 | [3764](https://leetcode.com/problems/most-common-course-pairs/) | [Most Common Course Pairs](problems/3764.most-common-course-pairs.sql) | 🔴 Hard | mysql |
 | [3765](https://leetcode.com/problems/complete-prime-number/) | [Complete Prime Number](problems/3765.complete-prime-number.cpp) | 🟡 Medium | C++ |
 | [3766](https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome/) | [Minimum Operations to Make Binary Palindrome](problems/3766.minimum-operations-to-make-binary-palindrome.cpp) | 🟡 Medium | C++ |
