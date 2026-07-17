@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2635 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 541 Hard
+**2636 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 542 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -729,6 +729,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [995](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Minimum Number of K Consecutive Bit Flips](problems/995.minimum-number-of-k-consecutive-bit-flips.cpp) | 🔴 Hard | C++ |
 | [996](https://leetcode.com/problems/number-of-squareful-arrays/) | [Number of Squareful Arrays](problems/996.number-of-squareful-arrays.cpp) | 🔴 Hard | C++ |
 | [998](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Maximum Binary Tree II](problems/998.maximum-binary-tree-ii.cpp) | 🟡 Medium | C++ |
+| [1000](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [Minimum Cost to Merge Stones](problems/1000.minimum-cost-to-merge-stones.cpp) | 🔴 Hard | C++ |
 | [1002](https://leetcode.com/problems/find-common-characters/) | [Find Common Characters](problems/1002.find-common-characters.cpp) | 🟢 Easy | C++ |
 | [1003](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [Check If Word Is Valid After Substitutions](problems/1003.check-if-word-is-valid-after-substitutions.cpp) | 🟡 Medium | C++ |
 | [1004](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Max Consecutive Ones III](problems/1004.max-consecutive-ones-iii.cpp) | 🟡 Medium | C++ |
