@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2512 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 421 Hard
+**2513 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 422 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2103,6 +2103,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](problems/3342.find-minimum-time-to-reach-last-room-ii.cpp) | 🟡 Medium | C++ |
 | [3343](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](problems/3343.count-number-of-balanced-permutations.cpp) | 🔴 Hard | C++ |
 | [3346](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Maximum Frequency of an Element After Performing Operations I](problems/3346.maximum-frequency-of-an-element-after-performing-operations-i.cpp) | 🟡 Medium | C++ |
+| [3347](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Maximum Frequency of an Element After Performing Operations II](problems/3347.maximum-frequency-of-an-element-after-performing-operations-ii.cpp) | 🔴 Hard | C++ |
 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](problems/3349.adjacent-increasing-subarrays-detection-i.cpp) | 🟢 Easy | C++ |
 | [3350](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | [Adjacent Increasing Subarrays Detection II](problems/3350.adjacent-increasing-subarrays-detection-ii.cpp) | 🟡 Medium | C++ |
 | [3352](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Count K-Reducible Numbers Less Than N](problems/3352.count-k-reducible-numbers-less-than-n.cpp) | 🔴 Hard | C++ |
