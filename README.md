@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2726 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 632 Hard
+**2727 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 633 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2692,6 +2692,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3925](https://leetcode.com/problems/concatenate-array-with-reverse/) | [Concatenate Array With Reverse](problems/3925.concatenate-array-with-reverse.cpp) | 🟢 Easy | C++ |
 | [3926](https://leetcode.com/problems/count-valid-word-occurrences/) | [Count Valid Word Occurrences](problems/3926.count-valid-word-occurrences.cpp) | 🟡 Medium | C++ |
 | [3927](https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements/) | [Minimize Array Sum Using Divisible Replacements](problems/3927.minimize-array-sum-using-divisible-replacements.cpp) | 🟡 Medium | C++ |
+| [3928](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | [Minimum Cost to Buy Apples II](problems/3928.minimum-cost-to-buy-apples-ii.cpp) | 🔴 Hard | C++ |
 | [3931](https://leetcode.com/problems/check-adjacent-digit-differences/) | [Check Adjacent Digit Differences](problems/3931.check-adjacent-digit-differences.cpp) | 🟢 Easy | C++ |
 | [3932](https://leetcode.com/problems/count-k-th-roots-in-a-range/) | [Count K-th Roots in a Range](problems/3932.count-k-th-roots-in-a-range.cpp) | 🟡 Medium | C++ |
 | [3933](https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/) | [Largest Local Values in a Matrix II](problems/3933.largest-local-values-in-a-matrix-ii.cpp) | 🟡 Medium | C++ |
