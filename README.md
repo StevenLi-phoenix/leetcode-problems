@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2535 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 443 Hard
+**2536 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 444 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1838,6 +1838,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2869](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | [Minimum Operations to Collect Elements](problems/2869.minimum-operations-to-collect-elements.cpp) | 🟢 Easy | C++ |
 | [2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | [Minimum Number of Operations to Make Array Empty](problems/2870.minimum-number-of-operations-to-make-array-empty.cpp) | 🟡 Medium | C++ |
 | [2871](https://leetcode.com/problems/split-array-into-maximum-number-of-subarrays/) | [Split Array Into Maximum Number of Subarrays](problems/2871.split-array-into-maximum-number-of-subarrays.cpp) | 🟡 Medium | C++ |
+| [2872](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | [Maximum Number of K-Divisible Components](problems/2872.maximum-number-of-k-divisible-components.cpp) | 🔴 Hard | C++ |
 | [2873](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [Maximum Value of an Ordered Triplet I](problems/2873.maximum-value-of-an-ordered-triplet-i.cpp) | 🟢 Easy | C++ |
 | [2875](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | [Minimum Size Subarray in Infinite Array](problems/2875.minimum-size-subarray-in-infinite-array.cpp) | 🟡 Medium | C++ |
 | [2879](https://leetcode.com/problems/display-the-first-three-rows/) | [Display the First Three Rows](problems/2879.display-the-first-three-rows.py) | 🟢 Easy | pythondata |
