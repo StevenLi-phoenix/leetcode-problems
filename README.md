@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2505 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 414 Hard
+**2506 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 415 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -841,6 +841,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1260](https://leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](problems/1260.shift-2d-grid.cpp) | 🟢 Easy | C++ |
 | [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [Find Elements in a Contaminated Binary Tree](problems/1261.find-elements-in-a-contaminated-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1262](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [Greatest Sum Divisible by Three](problems/1262.greatest-sum-divisible-by-three.cpp) | 🟡 Medium | C++ |
+| [1263](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) | [Minimum Moves to Move a Box to Their Target Location](problems/1263.minimum-moves-to-move-a-box-to-their-target-location.cpp) | 🔴 Hard | C++ |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](problems/1266.minimum-time-visiting-all-points.cpp) | 🟢 Easy | C++ |
 | [1267](https://leetcode.com/problems/count-servers-that-communicate/) | [Count Servers that Communicate](problems/1267.count-servers-that-communicate.cpp) | 🟡 Medium | C++ |
 | [1268](https://leetcode.com/problems/search-suggestions-system/) | [Search Suggestions System](problems/1268.search-suggestions-system.cpp) | 🟡 Medium | C++ |
