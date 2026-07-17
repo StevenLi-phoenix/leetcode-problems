@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2731 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 637 Hard
+**2732 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 638 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2193,6 +2193,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3197](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Find the Minimum Area to Cover All Ones II](problems/3197.find-the-minimum-area-to-cover-all-ones-ii.cpp) | 🔴 Hard | C++ |
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
 | [3202](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Find the Maximum Length of Valid Subsequence II](problems/3202.find-the-maximum-length-of-valid-subsequence-ii.cpp) | 🟡 Medium | C++ |
+| [3203](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Find Minimum Diameter After Merging Two Trees](problems/3203.find-minimum-diameter-after-merging-two-trees.cpp) | 🔴 Hard | C++ |
 | [3206](https://leetcode.com/problems/alternating-groups-i/) | [Alternating Groups I](problems/3206.alternating-groups-i.cpp) | 🟢 Easy | C++ |
 | [3207](https://leetcode.com/problems/maximum-points-after-enemy-battles/) | [Maximum Points After Enemy Battles](problems/3207.maximum-points-after-enemy-battles.cpp) | 🟡 Medium | C++ |
 | [3208](https://leetcode.com/problems/alternating-groups-ii/) | [Alternating Groups II](problems/3208.alternating-groups-ii.cpp) | 🟡 Medium | C++ |
