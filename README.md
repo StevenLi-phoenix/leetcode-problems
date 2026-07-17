@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2555 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 462 Hard
+**2556 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 463 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1367,6 +1367,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2073](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [Time Needed to Buy Tickets](problems/2073.time-needed-to-buy-tickets.cpp) | 🟢 Easy | C++ |
 | [2074](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [Reverse Nodes in Even Length Groups](problems/2074.reverse-nodes-in-even-length-groups.cpp) | 🟡 Medium | C++ |
 | [2075](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [Decode the Slanted Ciphertext](problems/2075.decode-the-slanted-ciphertext.cpp) | 🟡 Medium | C++ |
+| [2076](https://leetcode.com/problems/process-restricted-friend-requests/) | [Process Restricted Friend Requests](problems/2076.process-restricted-friend-requests.cpp) | 🔴 Hard | C++ |
 | [2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Two Furthest Houses With Different Colors](problems/2078.two-furthest-houses-with-different-colors.cpp) | 🟢 Easy | C++ |
 | [2079](https://leetcode.com/problems/watering-plants/) | [Watering Plants](problems/2079.watering-plants.cpp) | 🟡 Medium | C++ |
 | [2080](https://leetcode.com/problems/range-frequency-queries/) | [Range Frequency Queries](problems/2080.range-frequency-queries.cpp) | 🟡 Medium | C++ |
