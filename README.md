@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2507 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 416 Hard
+**2508 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 417 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2325,6 +2325,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3692](https://leetcode.com/problems/majority-frequency-characters/) | [Majority Frequency Characters](problems/3692.majority-frequency-characters.cpp) | 🟢 Easy | C++ |
 | [3693](https://leetcode.com/problems/climbing-stairs-ii/) | [Climbing Stairs II](problems/3693.climbing-stairs-ii.cpp) | 🟡 Medium | C++ |
 | [3694](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal/) | [Distinct Points Reachable After Substring Removal](problems/3694.distinct-points-reachable-after-substring-removal.cpp) | 🟡 Medium | C++ |
+| [3695](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | [Maximize Alternating Sum Using Swaps](problems/3695.maximize-alternating-sum-using-swaps.cpp) | 🔴 Hard | C++ |
 | [3697](https://leetcode.com/problems/compute-decimal-representation/) | [Compute Decimal Representation](problems/3697.compute-decimal-representation.cpp) | 🟢 Easy | C++ |
 | [3698](https://leetcode.com/problems/split-array-with-minimum-difference/) | [Split Array With Minimum Difference](problems/3698.split-array-with-minimum-difference.cpp) | 🟡 Medium | C++ |
 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](problems/3699.number-of-zigzag-arrays-i.cpp) | 🔴 Hard | C++ |
