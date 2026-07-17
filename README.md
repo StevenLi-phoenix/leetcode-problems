@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2543 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 451 Hard
+**2544 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 452 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2130,6 +2130,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3347](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Maximum Frequency of an Element After Performing Operations II](problems/3347.maximum-frequency-of-an-element-after-performing-operations-ii.cpp) | 🔴 Hard | C++ |
 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](problems/3349.adjacent-increasing-subarrays-detection-i.cpp) | 🟢 Easy | C++ |
 | [3350](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | [Adjacent Increasing Subarrays Detection II](problems/3350.adjacent-increasing-subarrays-detection-ii.cpp) | 🟡 Medium | C++ |
+| [3351](https://leetcode.com/problems/sum-of-good-subsequences/) | [Sum of Good Subsequences](problems/3351.sum-of-good-subsequences.cpp) | 🔴 Hard | C++ |
 | [3352](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Count K-Reducible Numbers Less Than N](problems/3352.count-k-reducible-numbers-less-than-n.cpp) | 🔴 Hard | C++ |
 | [3355](https://leetcode.com/problems/zero-array-transformation-i/) | [Zero Array Transformation I](problems/3355.zero-array-transformation-i.cpp) | 🟡 Medium | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
