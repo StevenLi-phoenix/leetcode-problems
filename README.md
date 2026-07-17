@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2758 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 664 Hard
+**2759 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 665 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2557,6 +2557,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](problems/3700.number-of-zigzag-arrays-ii.cpp) | 🔴 Hard | C++ |
 | [3702](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [Longest Subsequence With Non-Zero Bitwise XOR](problems/3702.longest-subsequence-with-non-zero-bitwise-xor.cpp) | 🟡 Medium | C++ |
 | [3703](https://leetcode.com/problems/remove-k-balanced-substrings/) | [Remove K-Balanced Substrings](problems/3703.remove-k-balanced-substrings.cpp) | 🟡 Medium | C++ |
+| [3704](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n/) | [Count No-Zero Pairs That Sum to N](problems/3704.count-no-zero-pairs-that-sum-to-n.cpp) | 🔴 Hard | C++ |
 | [3707](https://leetcode.com/problems/equal-score-substrings/) | [Equal Score Substrings](problems/3707.equal-score-substrings.cpp) | 🟢 Easy | C++ |
 | [3708](https://leetcode.com/problems/longest-fibonacci-subarray/) | [Longest Fibonacci Subarray](problems/3708.longest-fibonacci-subarray.cpp) | 🟡 Medium | C++ |
 | [3709](https://leetcode.com/problems/design-exam-scores-tracker/) | [Design Exam Scores Tracker](problems/3709.design-exam-scores-tracker.cpp) | 🟡 Medium | C++ |
