@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2473 solved** — 🟢 528 Easy · 🟡 1542 Medium · 🔴 393 Hard
+**2474 solved** — 🟢 528 Easy · 🟡 1543 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -827,6 +827,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1254](https://leetcode.com/problems/number-of-closed-islands/) | [Number of Closed Islands](problems/1254.number-of-closed-islands.cpp) | 🟡 Medium | C++ |
 | [1255](https://leetcode.com/problems/maximum-score-words-formed-by-letters/) | [Maximum Score Words Formed by Letters](problems/1255.maximum-score-words-formed-by-letters.cpp) | 🔴 Hard | C++ |
 | [1260](https://leetcode.com/problems/shift-2d-grid/) | [Shift 2D Grid](problems/1260.shift-2d-grid.cpp) | 🟢 Easy | C++ |
+| [1261](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [Find Elements in a Contaminated Binary Tree](problems/1261.find-elements-in-a-contaminated-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1262](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [Greatest Sum Divisible by Three](problems/1262.greatest-sum-divisible-by-three.cpp) | 🟡 Medium | C++ |
 | [1266](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [Minimum Time Visiting All Points](problems/1266.minimum-time-visiting-all-points.cpp) | 🟢 Easy | C++ |
 | [1267](https://leetcode.com/problems/count-servers-that-communicate/) | [Count Servers that Communicate](problems/1267.count-servers-that-communicate.cpp) | 🟡 Medium | C++ |
