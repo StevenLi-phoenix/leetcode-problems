@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2698 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 604 Hard
+**2699 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 605 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -975,6 +975,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](problems/1380.lucky-numbers-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Design a Stack With Increment Operation](problems/1381.design-a-stack-with-increment-operation.cpp) | 🟡 Medium | C++ |
 | [1382](https://leetcode.com/problems/balance-a-binary-search-tree/) | [Balance a Binary Search Tree](problems/1382.balance-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
+| [1383](https://leetcode.com/problems/maximum-performance-of-a-team/) | [Maximum Performance of a Team](problems/1383.maximum-performance-of-a-team.cpp) | 🔴 Hard | C++ |
 | [1385](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Find the Distance Value Between Two Arrays](problems/1385.find-the-distance-value-between-two-arrays.cpp) | 🟢 Easy | C++ |
 | [1386](https://leetcode.com/problems/cinema-seat-allocation/) | [Cinema Seat Allocation](problems/1386.cinema-seat-allocation.cpp) | 🟡 Medium | C++ |
 | [1387](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Sort Integers by The Power Value](problems/1387.sort-integers-by-the-power-value.cpp) | 🟡 Medium | C++ |
