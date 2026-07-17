@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2598 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 505 Hard
+**2599 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 506 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1922,6 +1922,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
 | [2929](https://leetcode.com/problems/distribute-candies-among-children-ii/) | [Distribute Candies Among Children II](problems/2929.distribute-candies-among-children-ii.cpp) | 🟡 Medium | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
+| [2931](https://leetcode.com/problems/maximum-spending-after-buying-items/) | [Maximum Spending After Buying Items](problems/2931.maximum-spending-after-buying-items.cpp) | 🔴 Hard | C++ |
 | [2932](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [Maximum Strong Pair XOR I](problems/2932.maximum-strong-pair-xor-i.cpp) | 🟢 Easy | C++ |
 | [2933](https://leetcode.com/problems/high-access-employees/) | [High-Access Employees](problems/2933.high-access-employees.cpp) | 🟡 Medium | C++ |
 | [2934](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/) | [Minimum Operations to Maximize Last Elements in Arrays](problems/2934.minimum-operations-to-maximize-last-elements-in-arrays.cpp) | 🟡 Medium | C++ |
