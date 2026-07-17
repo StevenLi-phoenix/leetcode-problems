@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2701 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 607 Hard
+**2702 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 608 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -526,6 +526,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [743](https://leetcode.com/problems/network-delay-time/) | [Network Delay Time](problems/743.network-delay-time.cpp) | 🟡 Medium | C++ |
 | [744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Find Smallest Letter Greater Than Target](problems/744.find-smallest-letter-greater-than-target.cpp) | 🟢 Easy | C++ |
 | [747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Largest Number At Least Twice of Others](problems/747.largest-number-at-least-twice-of-others.cpp) | 🟢 Easy | C++ |
+| [749](https://leetcode.com/problems/contain-virus/) | [Contain Virus](problems/749.contain-virus.cpp) | 🔴 Hard | C++ |
 | [752](https://leetcode.com/problems/open-the-lock/) | [Open the Lock](problems/752.open-the-lock.cpp) | 🟡 Medium | C++ |
 | [754](https://leetcode.com/problems/reach-a-number/) | [Reach a Number](problems/754.reach-a-number.cpp) | 🟡 Medium | C++ |
 | [756](https://leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](problems/756.pyramid-transition-matrix.cpp) | 🟡 Medium | C++ |
