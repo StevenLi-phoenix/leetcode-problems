@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2509 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 418 Hard
+**2510 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 419 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1235,6 +1235,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1893](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Check if All the Integers in a Range Are Covered](problems/1893.check-if-all-the-integers-in-a-range-are-covered.cpp) | 🟢 Easy | C++ |
 | [1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [Find the Student that Will Replace the Chalk](problems/1894.find-the-student-that-will-replace-the-chalk.cpp) | 🟡 Medium | C++ |
 | [1895](https://leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](problems/1895.largest-magic-square.cpp) | 🟡 Medium | C++ |
+| [1896](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/) | [Minimum Cost to Change the Final Value of Expression](problems/1896.minimum-cost-to-change-the-final-value-of-expression.cpp) | 🔴 Hard | C++ |
 | [1898](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [Maximum Number of Removable Characters](problems/1898.maximum-number-of-removable-characters.cpp) | 🟡 Medium | C++ |
 | [1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [Merge Triplets to Form Target Triplet](problems/1899.merge-triplets-to-form-target-triplet.cpp) | 🟡 Medium | C++ |
 | [1901](https://leetcode.com/problems/find-a-peak-element-ii/) | [Find a Peak Element II](problems/1901.find-a-peak-element-ii.cpp) | 🟡 Medium | C++ |
