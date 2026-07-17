@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2714 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 620 Hard
+**2715 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 621 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1073,6 +1073,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1518](https://leetcode.com/problems/water-bottles/) | [Water Bottles](problems/1518.water-bottles.cpp) | 🟢 Easy | C++ |
 | [1519](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [Number of Nodes in the Sub-Tree With the Same Label](problems/1519.number-of-nodes-in-the-sub-tree-with-the-same-label.cpp) | 🟡 Medium | C++ |
 | [1520](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Maximum Number of Non-Overlapping Substrings](problems/1520.maximum-number-of-non-overlapping-substrings.cpp) | 🔴 Hard | C++ |
+| [1521](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/) | [Find a Value of a Mysterious Function Closest to Target](problems/1521.find-a-value-of-a-mysterious-function-closest-to-target.cpp) | 🔴 Hard | C++ |
 | [1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Count Odd Numbers in an Interval Range](problems/1523.count-odd-numbers-in-an-interval-range.cpp) | 🟢 Easy | C++ |
 | [1524](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [Number of Sub-arrays With Odd Sum](problems/1524.number-of-sub-arrays-with-odd-sum.cpp) | 🟡 Medium | C++ |
 | [1525](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [Number of Good Ways to Split a String](problems/1525.number-of-good-ways-to-split-a-string.cpp) | 🟡 Medium | C++ |
