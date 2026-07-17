@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2587 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 494 Hard
+**2588 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 495 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -174,6 +174,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [184](https://leetcode.com/problems/department-highest-salary/) | [Department Highest Salary](problems/184.department-highest-salary.sql) | 🟡 Medium | mysql |
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
 | [187](https://leetcode.com/problems/repeated-dna-sequences/) | [Repeated DNA Sequences](problems/187.repeated-dna-sequences.cpp) | 🟡 Medium | C++ |
+| [188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Best Time to Buy and Sell Stock IV](problems/188.best-time-to-buy-and-sell-stock-iv.cpp) | 🔴 Hard | C++ |
 | [189](https://leetcode.com/problems/rotate-array/) | [Rotate Array](problems/189.rotate-array.cpp) | 🟡 Medium | C++ |
 | [190](https://leetcode.com/problems/reverse-bits/) | [Reverse Bits](problems/190.reverse-bits.cpp) | 🟢 Easy | C++ |
 | [191](https://leetcode.com/problems/number-of-1-bits/) | [Number of 1 Bits](problems/191.number-of-1-bits.cpp) | 🟢 Easy | C++ |
