@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2753 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 659 Hard
+**2754 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 660 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -636,6 +636,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [868](https://leetcode.com/problems/binary-gap/) | [Binary Gap](problems/868.binary-gap.cpp) | 🟢 Easy | C++ |
 | [869](https://leetcode.com/problems/reordered-power-of-2/) | [Reordered Power of 2](problems/869.reordered-power-of-2.cpp) | 🟡 Medium | C++ |
 | [870](https://leetcode.com/problems/advantage-shuffle/) | [Advantage Shuffle](problems/870.advantage-shuffle.cpp) | 🟡 Medium | C++ |
+| [871](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Minimum Number of Refueling Stops](problems/871.minimum-number-of-refueling-stops.cpp) | 🔴 Hard | C++ |
 | [872](https://leetcode.com/problems/leaf-similar-trees/) | [Leaf-Similar Trees](problems/872.leaf-similar-trees.cpp) | 🟢 Easy | C++ |
 | [873](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Length of Longest Fibonacci Subsequence](problems/873.length-of-longest-fibonacci-subsequence.cpp) | 🟡 Medium | C++ |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](problems/874.walking-robot-simulation.cpp) | 🟡 Medium | C++ |
