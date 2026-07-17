@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2588 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 495 Hard
+**2589 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 496 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1004,6 +1004,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1466](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [Reorder Routes to Make All Paths Lead to the City Zero](problems/1466.reorder-routes-to-make-all-paths-lead-to-the-city-zero.cpp) | 🟡 Medium | C++ |
 | [1471](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [The k Strongest Values in an Array](problems/1471.the-k-strongest-values-in-an-array.cpp) | 🟡 Medium | C++ |
 | [1472](https://leetcode.com/problems/design-browser-history/) | [Design Browser History](problems/1472.design-browser-history.cpp) | 🟡 Medium | C++ |
+| [1473](https://leetcode.com/problems/paint-house-iii/) | [Paint House III](problems/1473.paint-house-iii.cpp) | 🔴 Hard | C++ |
 | [1476](https://leetcode.com/problems/subrectangle-queries/) | [Subrectangle Queries](problems/1476.subrectangle-queries.cpp) | 🟡 Medium | C++ |
 | [1477](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [Find Two Non-overlapping Sub-arrays Each With Target Sum](problems/1477.find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [1478](https://leetcode.com/problems/allocate-mailboxes/) | [Allocate Mailboxes](problems/1478.allocate-mailboxes.cpp) | 🔴 Hard | C++ |
