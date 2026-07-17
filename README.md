@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2636 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 542 Hard
+**2637 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 543 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2164,6 +2164,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3283](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [Maximum Number of Moves to Kill All Pawns](problems/3283.maximum-number-of-moves-to-kill-all-pawns.cpp) | 🔴 Hard | C++ |
 | [3285](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [Find Indices of Stable Mountains](problems/3285.find-indices-of-stable-mountains.cpp) | 🟢 Easy | C++ |
 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](problems/3286.find-a-safe-walk-through-a-grid.cpp) | 🟡 Medium | C++ |
+| [3287](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/) | [Find the Maximum Sequence Value of Array](problems/3287.find-the-maximum-sequence-value-of-array.cpp) | 🔴 Hard | C++ |
 | [3288](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [Length of the Longest Increasing Path](problems/3288.length-of-the-longest-increasing-path.cpp) | 🔴 Hard | C++ |
 | [3289](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [The Two Sneaky Numbers of Digitville](problems/3289.the-two-sneaky-numbers-of-digitville.cpp) | 🟢 Easy | C++ |
 | [3290](https://leetcode.com/problems/maximum-multiplication-score/) | [Maximum Multiplication Score](problems/3290.maximum-multiplication-score.cpp) | 🟡 Medium | C++ |
