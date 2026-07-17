@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2591 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 498 Hard
+**2592 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 499 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1530,6 +1530,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [Calculate Amount Paid in Taxes](problems/2303.calculate-amount-paid-in-taxes.cpp) | 🟢 Easy | C++ |
 | [2304](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [Minimum Path Cost in a Grid](problems/2304.minimum-path-cost-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2305](https://leetcode.com/problems/fair-distribution-of-cookies/) | [Fair Distribution of Cookies](problems/2305.fair-distribution-of-cookies.cpp) | 🟡 Medium | C++ |
+| [2306](https://leetcode.com/problems/naming-a-company/) | [Naming a Company](problems/2306.naming-a-company.cpp) | 🔴 Hard | C++ |
 | [2309](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [Greatest English Letter in Upper and Lower Case](problems/2309.greatest-english-letter-in-upper-and-lower-case.cpp) | 🟢 Easy | C++ |
 | [2310](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/) | [Sum of Numbers With Units Digit K](problems/2310.sum-of-numbers-with-units-digit-k.cpp) | 🟡 Medium | C++ |
 | [2311](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [Longest Binary Subsequence Less Than or Equal to K](problems/2311.longest-binary-subsequence-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
