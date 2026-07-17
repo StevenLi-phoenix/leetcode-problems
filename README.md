@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2571 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 478 Hard
+**2572 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 479 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1316,6 +1316,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1978](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [Employees Whose Manager Left the Company](problems/1978.employees-whose-manager-left-the-company.sql) | 🟢 Easy | mysql |
 | [1979](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Find Greatest Common Divisor of Array](problems/1979.find-greatest-common-divisor-of-array.cpp) | 🟢 Easy | C++ |
 | [1980](https://leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](problems/1980.find-unique-binary-string.cpp) | 🟡 Medium | C++ |
+| [1982](https://leetcode.com/problems/find-array-given-subset-sums/) | [Find Array Given Subset Sums](problems/1982.find-array-given-subset-sums.cpp) | 🔴 Hard | C++ |
 | [1984](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [Minimum Difference Between Highest and Lowest of K Scores](problems/1984.minimum-difference-between-highest-and-lowest-of-k-scores.cpp) | 🟢 Easy | C++ |
 | [1985](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [Find the Kth Largest Integer in the Array](problems/1985.find-the-kth-largest-integer-in-the-array.cpp) | 🟡 Medium | C++ |
 | [1986](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) | [Minimum Number of Work Sessions to Finish the Tasks](problems/1986.minimum-number-of-work-sessions-to-finish-the-tasks.cpp) | 🟡 Medium | C++ |
