@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2637 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 543 Hard
+**2638 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 544 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1414,6 +1414,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2085](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [Count Common Words With One Occurrence](problems/2085.count-common-words-with-one-occurrence.cpp) | 🟢 Easy | C++ |
 | [2086](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | [Minimum Number of Food Buckets to Feed the Hamsters](problems/2086.minimum-number-of-food-buckets-to-feed-the-hamsters.cpp) | 🟡 Medium | C++ |
 | [2087](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | [Minimum Cost Homecoming of a Robot in a Grid](problems/2087.minimum-cost-homecoming-of-a-robot-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [2088](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/) | [Count Fertile Pyramids in a Land](problems/2088.count-fertile-pyramids-in-a-land.cpp) | 🔴 Hard | C++ |
 | [2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [Find Target Indices After Sorting Array](problems/2089.find-target-indices-after-sorting-array.cpp) | 🟢 Easy | C++ |
 | [2090](https://leetcode.com/problems/k-radius-subarray-averages/) | [K Radius Subarray Averages](problems/2090.k-radius-subarray-averages.cpp) | 🟡 Medium | C++ |
 | [2091](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Removing Minimum and Maximum From Array](problems/2091.removing-minimum-and-maximum-from-array.cpp) | 🟡 Medium | C++ |
