@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2715 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 621 Hard
+**2716 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 622 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -134,6 +134,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [129](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Sum Root to Leaf Numbers](problems/129.sum-root-to-leaf-numbers.cpp) | 🟡 Medium | C++ |
 | [130](https://leetcode.com/problems/surrounded-regions/) | [Surrounded Regions](problems/130.surrounded-regions.cpp) | 🟡 Medium | C++ |
 | [131](https://leetcode.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](problems/131.palindrome-partitioning.cpp) | 🟡 Medium | C++ |
+| [132](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Palindrome Partitioning II](problems/132.palindrome-partitioning-ii.cpp) | 🔴 Hard | C++ |
 | [133](https://leetcode.com/problems/clone-graph/) | [Clone Graph](problems/133.clone-graph.cpp) | 🟡 Medium | C++ |
 | [134](https://leetcode.com/problems/gas-station/) | [Gas Station](problems/134.gas-station.cpp) | 🟡 Medium | C++ |
 | [135](https://leetcode.com/problems/candy/) | [Candy](problems/135.candy.cpp) | 🔴 Hard | C++ |
