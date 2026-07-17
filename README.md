@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2581 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 488 Hard
+**2582 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 489 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -457,6 +457,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [664](https://leetcode.com/problems/strange-printer/) | [Strange Printer](problems/664.strange-printer.cpp) | 🔴 Hard | C++ |
 | [665](https://leetcode.com/problems/non-decreasing-array/) | [Non-decreasing Array](problems/665.non-decreasing-array.cpp) | 🟡 Medium | C++ |
 | [667](https://leetcode.com/problems/beautiful-arrangement-ii/) | [Beautiful Arrangement II](problems/667.beautiful-arrangement-ii.cpp) | 🟡 Medium | C++ |
+| [668](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Kth Smallest Number in Multiplication Table](problems/668.kth-smallest-number-in-multiplication-table.cpp) | 🔴 Hard | C++ |
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [670](https://leetcode.com/problems/maximum-swap/) | [Maximum Swap](problems/670.maximum-swap.cpp) | 🟡 Medium | C++ |
 | [672](https://leetcode.com/problems/bulb-switcher-ii/) | [Bulb Switcher II](problems/672.bulb-switcher-ii.cpp) | 🟡 Medium | C++ |
