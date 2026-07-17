@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2691 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 597 Hard
+**2692 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 598 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2200,6 +2200,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3260](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | [Find the Largest Palindrome Divisible by K](problems/3260.find-the-largest-palindrome-divisible-by-k.cpp) | 🔴 Hard | C++ |
 | [3261](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/) | [Count Substrings That Satisfy K-Constraint II](problems/3261.count-substrings-that-satisfy-k-constraint-ii.cpp) | 🔴 Hard | C++ |
 | [3265](https://leetcode.com/problems/count-almost-equal-pairs-i/) | [Count Almost Equal Pairs I](problems/3265.count-almost-equal-pairs-i.cpp) | 🟡 Medium | C++ |
+| [3267](https://leetcode.com/problems/count-almost-equal-pairs-ii/) | [Count Almost Equal Pairs II](problems/3267.count-almost-equal-pairs-ii.cpp) | 🔴 Hard | C++ |
 | [3271](https://leetcode.com/problems/hash-divided-string/) | [Hash Divided String](problems/3271.hash-divided-string.cpp) | 🟡 Medium | C++ |
 | [3272](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Find the Count of Good Integers](problems/3272.find-the-count-of-good-integers.cpp) | 🔴 Hard | C++ |
 | [3273](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [Minimum Amount of Damage Dealt to Bob](problems/3273.minimum-amount-of-damage-dealt-to-bob.cpp) | 🔴 Hard | C++ |
