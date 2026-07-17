@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2552 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 459 Hard
+**2553 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 460 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -803,6 +803,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1156](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [Swap For Longest Repeated Character Substring](problems/1156.swap-for-longest-repeated-character-substring.cpp) | 🟡 Medium | C++ |
 | [1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](problems/1161.maximum-level-sum-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1162](https://leetcode.com/problems/as-far-from-land-as-possible/) | [As Far from Land as Possible](problems/1162.as-far-from-land-as-possible.cpp) | 🟡 Medium | C++ |
+| [1163](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [Last Substring in Lexicographical Order](problems/1163.last-substring-in-lexicographical-order.cpp) | 🔴 Hard | C++ |
 | [1164](https://leetcode.com/problems/product-price-at-a-given-date/) | [Product Price at a Given Date](problems/1164.product-price-at-a-given-date.sql) | 🟡 Medium | mysql |
 | [1169](https://leetcode.com/problems/invalid-transactions/) | [Invalid Transactions](problems/1169.invalid-transactions.cpp) | 🟡 Medium | C++ |
 | [1170](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Compare Strings by Frequency of the Smallest Character](problems/1170.compare-strings-by-frequency-of-the-smallest-character.cpp) | 🟡 Medium | C++ |
