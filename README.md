@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2566 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 473 Hard
+**2567 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 474 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -198,6 +198,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Kth Largest Element in an Array](problems/215.kth-largest-element-in-an-array.cpp) | 🟡 Medium | C++ |
 | [216](https://leetcode.com/problems/combination-sum-iii/) | [Combination Sum III](problems/216.combination-sum-iii.cpp) | 🟡 Medium | C++ |
 | [218](https://leetcode.com/problems/the-skyline-problem/) | [The Skyline Problem](problems/218.the-skyline-problem.cpp) | 🔴 Hard | C++ |
+| [220](https://leetcode.com/problems/contains-duplicate-iii/) | [Contains Duplicate III](problems/220.contains-duplicate-iii.cpp) | 🔴 Hard | C++ |
 | [221](https://leetcode.com/problems/maximal-square/) | [Maximal Square](problems/221.maximal-square.cpp) | 🟡 Medium | C++ |
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
 | [223](https://leetcode.com/problems/rectangle-area/) | [Rectangle Area](problems/223.rectangle-area.cpp) | 🟡 Medium | C++ |
