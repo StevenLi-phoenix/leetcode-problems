@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2602 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 509 Hard
+**2603 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 510 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1513,6 +1513,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [ Check if There Is a Valid Parentheses String Path](problems/2267.check-if-there-is-a-valid-parentheses-string-path.cpp) | 🔴 Hard | C++ |
 | [2270](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](problems/2270.number-of-ways-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Maximum White Tiles Covered by a Carpet](problems/2271.maximum-white-tiles-covered-by-a-carpet.cpp) | 🟡 Medium | C++ |
+| [2272](https://leetcode.com/problems/substring-with-largest-variance/) | [Substring With Largest Variance](problems/2272.substring-with-largest-variance.cpp) | 🔴 Hard | C++ |
 | [2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Find Resultant Array After Removing Anagrams](problems/2273.find-resultant-array-after-removing-anagrams.cpp) | 🟢 Easy | C++ |
 | [2274](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Maximum Consecutive Floors Without Special Floors](problems/2274.maximum-consecutive-floors-without-special-floors.cpp) | 🟡 Medium | C++ |
 | [2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Largest Combination With Bitwise AND Greater Than Zero](problems/2275.largest-combination-with-bitwise-and-greater-than-zero.cpp) | 🟡 Medium | C++ |
