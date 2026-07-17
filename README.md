@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2545 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 453 Hard
+**2546 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 454 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -805,6 +805,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1169](https://leetcode.com/problems/invalid-transactions/) | [Invalid Transactions](problems/1169.invalid-transactions.cpp) | 🟡 Medium | C++ |
 | [1170](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [Compare Strings by Frequency of the Smallest Character](problems/1170.compare-strings-by-frequency-of-the-smallest-character.cpp) | 🟡 Medium | C++ |
 | [1171](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Remove Zero Sum Consecutive Nodes from Linked List](problems/1171.remove-zero-sum-consecutive-nodes-from-linked-list.cpp) | 🟡 Medium | C++ |
+| [1172](https://leetcode.com/problems/dinner-plate-stacks/) | [Dinner Plate Stacks](problems/1172.dinner-plate-stacks.cpp) | 🔴 Hard | C++ |
 | [1177](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [Can Make Palindrome from Substring](problems/1177.can-make-palindrome-from-substring.cpp) | 🟡 Medium | C++ |
 | [1178](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [Number of Valid Words for Each Puzzle](problems/1178.number-of-valid-words-for-each-puzzle.cpp) | 🔴 Hard | C++ |
 | [1186](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [Maximum Subarray Sum with One Deletion](problems/1186.maximum-subarray-sum-with-one-deletion.cpp) | 🟡 Medium | C++ |
