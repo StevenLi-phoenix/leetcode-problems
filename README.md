@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2697 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 603 Hard
+**2698 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 604 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2211,6 +2211,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3274](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [Check if Two Chessboard Squares Have the Same Color](problems/3274.check-if-two-chessboard-squares-have-the-same-color.cpp) | 🟢 Easy | C++ |
 | [3275](https://leetcode.com/problems/k-th-nearest-obstacle-queries/) | [K-th Nearest Obstacle Queries](problems/3275.k-th-nearest-obstacle-queries.cpp) | 🟡 Medium | C++ |
 | [3276](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/) | [Select Cells in Grid With Maximum Score](problems/3276.select-cells-in-grid-with-maximum-score.cpp) | 🔴 Hard | C++ |
+| [3277](https://leetcode.com/problems/maximum-xor-score-subarray-queries/) | [Maximum XOR Score Subarray Queries](problems/3277.maximum-xor-score-subarray-queries.cpp) | 🔴 Hard | C++ |
 | [3280](https://leetcode.com/problems/convert-date-to-binary/) | [Convert Date to Binary](problems/3280.convert-date-to-binary.cpp) | 🟢 Easy | C++ |
 | [3281](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Maximize Score of Numbers in Ranges](problems/3281.maximize-score-of-numbers-in-ranges.cpp) | 🟡 Medium | C++ |
 | [3282](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | [Reach End of Array With Max Score](problems/3282.reach-end-of-array-with-max-score.cpp) | 🟡 Medium | C++ |
