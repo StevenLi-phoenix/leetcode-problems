@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2762 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 668 Hard
+**2763 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 669 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1968,6 +1968,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2818](https://leetcode.com/problems/apply-operations-to-maximize-score/) | [Apply Operations to Maximize Score](problems/2818.apply-operations-to-maximize-score.cpp) | 🔴 Hard | C++ |
 | [2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Make String a Subsequence Using Cyclic Increments](problems/2825.make-string-a-subsequence-using-cyclic-increments.cpp) | 🟡 Medium | C++ |
 | [2826](https://leetcode.com/problems/sorting-three-groups/) | [Sorting Three Groups](problems/2826.sorting-three-groups.cpp) | 🟡 Medium | C++ |
+| [2827](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/) | [Number of Beautiful Integers in the Range](problems/2827.number-of-beautiful-integers-in-the-range.cpp) | 🔴 Hard | C++ |
 | [2829](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | [Determine the Minimum Sum of a k-avoiding Array](problems/2829.determine-the-minimum-sum-of-a-k-avoiding-array.cpp) | 🟡 Medium | C++ |
 | [2830](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/) | [Maximize the Profit as the Salesman](problems/2830.maximize-the-profit-as-the-salesman.cpp) | 🟡 Medium | C++ |
 | [2831](https://leetcode.com/problems/find-the-longest-equal-subarray/) | [Find the Longest Equal Subarray](problems/2831.find-the-longest-equal-subarray.cpp) | 🟡 Medium | C++ |
