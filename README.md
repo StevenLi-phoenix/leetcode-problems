@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2487 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 396 Hard
+**2488 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 397 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1777,6 +1777,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2811](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/) | [Check if it is Possible to Split Array](problems/2811.check-if-it-is-possible-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Double a Number Represented as a Linked List](problems/2816.double-a-number-represented-as-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2817](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | [Minimum Absolute Difference Between Elements With Constraint](problems/2817.minimum-absolute-difference-between-elements-with-constraint.cpp) | 🟡 Medium | C++ |
+| [2818](https://leetcode.com/problems/apply-operations-to-maximize-score/) | [Apply Operations to Maximize Score](problems/2818.apply-operations-to-maximize-score.cpp) | 🔴 Hard | C++ |
 | [2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Make String a Subsequence Using Cyclic Increments](problems/2825.make-string-a-subsequence-using-cyclic-increments.cpp) | 🟡 Medium | C++ |
 | [2826](https://leetcode.com/problems/sorting-three-groups/) | [Sorting Three Groups](problems/2826.sorting-three-groups.cpp) | 🟡 Medium | C++ |
 | [2829](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | [Determine the Minimum Sum of a k-avoiding Array](problems/2829.determine-the-minimum-sum-of-a-k-avoiding-array.cpp) | 🟡 Medium | C++ |
