@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2651 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 557 Hard
+**2652 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 558 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2326,6 +2326,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3515](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Shortest Path in a Weighted Tree](problems/3515.shortest-path-in-a-weighted-tree.cpp) | 🔴 Hard | C++ |
 | [3516](https://leetcode.com/problems/find-closest-person/) | [Find Closest Person](problems/3516.find-closest-person.cpp) | 🟢 Easy | C++ |
 | [3517](https://leetcode.com/problems/smallest-palindromic-rearrangement-i/) | [Smallest Palindromic Rearrangement I](problems/3517.smallest-palindromic-rearrangement-i.cpp) | 🟡 Medium | C++ |
+| [3518](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | [Smallest Palindromic Rearrangement II](problems/3518.smallest-palindromic-rearrangement-ii.cpp) | 🔴 Hard | C++ |
 | [3521](https://leetcode.com/problems/find-product-recommendation-pairs/) | [Find Product Recommendation Pairs](problems/3521.find-product-recommendation-pairs.sql) | 🟡 Medium | mysql |
 | [3522](https://leetcode.com/problems/calculate-score-after-performing-instructions/) | [Calculate Score After Performing Instructions](problems/3522.calculate-score-after-performing-instructions.cpp) | 🟡 Medium | C++ |
 | [3523](https://leetcode.com/problems/make-array-non-decreasing/) | [Make Array Non-decreasing](problems/3523.make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
