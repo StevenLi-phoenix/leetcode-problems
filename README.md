@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2616 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 523 Hard
+**2617 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 524 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2145,6 +2145,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3280](https://leetcode.com/problems/convert-date-to-binary/) | [Convert Date to Binary](problems/3280.convert-date-to-binary.cpp) | 🟢 Easy | C++ |
 | [3281](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/) | [Maximize Score of Numbers in Ranges](problems/3281.maximize-score-of-numbers-in-ranges.cpp) | 🟡 Medium | C++ |
 | [3282](https://leetcode.com/problems/reach-end-of-array-with-max-score/) | [Reach End of Array With Max Score](problems/3282.reach-end-of-array-with-max-score.cpp) | 🟡 Medium | C++ |
+| [3283](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [Maximum Number of Moves to Kill All Pawns](problems/3283.maximum-number-of-moves-to-kill-all-pawns.cpp) | 🔴 Hard | C++ |
 | [3285](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [Find Indices of Stable Mountains](problems/3285.find-indices-of-stable-mountains.cpp) | 🟢 Easy | C++ |
 | [3286](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/) | [Find a Safe Walk Through a Grid](problems/3286.find-a-safe-walk-through-a-grid.cpp) | 🟡 Medium | C++ |
 | [3288](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [Length of the Longest Increasing Path](problems/3288.length-of-the-longest-increasing-path.cpp) | 🔴 Hard | C++ |
