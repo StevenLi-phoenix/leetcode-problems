@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2579 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 486 Hard
+**2580 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 487 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1460,6 +1460,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2194](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [Cells in a Range on an Excel Sheet](problems/2194.cells-in-a-range-on-an-excel-sheet.cpp) | 🟢 Easy | C++ |
 | [2195](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [Append K Integers With Minimal Sum](problems/2195.append-k-integers-with-minimal-sum.cpp) | 🟡 Medium | C++ |
 | [2196](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [Create Binary Tree From Descriptions](problems/2196.create-binary-tree-from-descriptions.cpp) | 🟡 Medium | C++ |
+| [2197](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) | [Replace Non-Coprime Numbers in Array](problems/2197.replace-non-coprime-numbers-in-array.cpp) | 🔴 Hard | C++ |
 | [2200](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [Find All K-Distant Indices in an Array](problems/2200.find-all-k-distant-indices-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [Count Artifacts That Can Be Extracted](problems/2201.count-artifacts-that-can-be-extracted.cpp) | 🟡 Medium | C++ |
 | [2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [Maximize the Topmost Element After K Moves](problems/2202.maximize-the-topmost-element-after-k-moves.cpp) | 🟡 Medium | C++ |
