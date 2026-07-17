@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2556 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 463 Hard
+**2557 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 464 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1137,6 +1137,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [Determine if String Halves Are Alike](problems/1704.determine-if-string-halves-are-alike.cpp) | 🟢 Easy | C++ |
 | [1705](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [Maximum Number of Eaten Apples](problems/1705.maximum-number-of-eaten-apples.cpp) | 🟡 Medium | C++ |
 | [1706](https://leetcode.com/problems/where-will-the-ball-fall/) | [Where Will the Ball Fall](problems/1706.where-will-the-ball-fall.cpp) | 🟡 Medium | C++ |
+| [1707](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [Maximum XOR With an Element From Array](problems/1707.maximum-xor-with-an-element-from-array.cpp) | 🔴 Hard | C++ |
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Maximum Units on a Truck](problems/1710.maximum-units-on-a-truck.cpp) | 🟢 Easy | C++ |
 | [1711](https://leetcode.com/problems/count-good-meals/) | [Count Good Meals](problems/1711.count-good-meals.cpp) | 🟡 Medium | C++ |
 | [1712](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Ways to Split Array Into Three Subarrays](problems/1712.ways-to-split-array-into-three-subarrays.cpp) | 🟡 Medium | C++ |
