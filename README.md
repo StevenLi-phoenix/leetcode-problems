@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2657 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 563 Hard
+**2658 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 564 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2199,6 +2199,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3305](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | [Count of Substrings Containing Every Vowel and K Consonants I](problems/3305.count-of-substrings-containing-every-vowel-and-k-consonants-i.cpp) | 🟡 Medium | C++ |
 | [3309](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) | [Maximum Possible Number by Binary Concatenation](problems/3309.maximum-possible-number-by-binary-concatenation.cpp) | 🟡 Medium | C++ |
 | [3310](https://leetcode.com/problems/remove-methods-from-project/) | [Remove Methods From Project](problems/3310.remove-methods-from-project.cpp) | 🟡 Medium | C++ |
+| [3311](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [Construct 2D Grid Matching Graph Layout](problems/3311.construct-2d-grid-matching-graph-layout.cpp) | 🔴 Hard | C++ |
 | [3312](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [Sorted GCD Pair Queries](problems/3312.sorted-gcd-pair-queries.cpp) | 🔴 Hard | C++ |
 | [3314](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [Construct the Minimum Bitwise Array I](problems/3314.construct-the-minimum-bitwise-array-i.cpp) | 🟢 Easy | C++ |
 | [3315](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/) | [Construct the Minimum Bitwise Array II](problems/3315.construct-the-minimum-bitwise-array-ii.cpp) | 🟡 Medium | C++ |
