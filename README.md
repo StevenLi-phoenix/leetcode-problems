@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2667 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 573 Hard
+**2668 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 574 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1127,6 +1127,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [Largest Substring Between Two Equal Characters](problems/1624.largest-substring-between-two-equal-characters.cpp) | 🟢 Easy | C++ |
 | [1625](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [Lexicographically Smallest String After Applying Operations](problems/1625.lexicographically-smallest-string-after-applying-operations.cpp) | 🟡 Medium | C++ |
 | [1626](https://leetcode.com/problems/best-team-with-no-conflicts/) | [Best Team With No Conflicts](problems/1626.best-team-with-no-conflicts.cpp) | 🟡 Medium | C++ |
+| [1627](https://leetcode.com/problems/graph-connectivity-with-threshold/) | [Graph Connectivity With Threshold](problems/1627.graph-connectivity-with-threshold.cpp) | 🔴 Hard | C++ |
 | [1629](https://leetcode.com/problems/slowest-key/) | [Slowest Key](problems/1629.slowest-key.cpp) | 🟢 Easy | C++ |
 | [1630](https://leetcode.com/problems/arithmetic-subarrays/) | [Arithmetic Subarrays](problems/1630.arithmetic-subarrays.cpp) | 🟡 Medium | C++ |
 | [1631](https://leetcode.com/problems/path-with-minimum-effort/) | [Path With Minimum Effort](problems/1631.path-with-minimum-effort.cpp) | 🟡 Medium | C++ |
