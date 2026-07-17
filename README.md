@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2763 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 669 Hard
+**2764 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 670 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2020,6 +2020,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2899](https://leetcode.com/problems/last-visited-integers/) | [Last Visited Integers](problems/2899.last-visited-integers.cpp) | 🟢 Easy | C++ |
 | [2900](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [Longest Unequal Adjacent Groups Subsequence I](problems/2900.longest-unequal-adjacent-groups-subsequence-i.cpp) | 🟢 Easy | C++ |
 | [2901](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | [Longest Unequal Adjacent Groups Subsequence II](problems/2901.longest-unequal-adjacent-groups-subsequence-ii.cpp) | 🟡 Medium | C++ |
+| [2902](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/) | [Count of Sub-Multisets With Bounded Sum](problems/2902.count-of-sub-multisets-with-bounded-sum.cpp) | 🔴 Hard | C++ |
 | [2903](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | [Find Indices With Index and Value Difference I](problems/2903.find-indices-with-index-and-value-difference-i.cpp) | 🟢 Easy | C++ |
 | [2904](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | [Shortest and Lexicographically Smallest Beautiful String](problems/2904.shortest-and-lexicographically-smallest-beautiful-string.cpp) | 🟡 Medium | C++ |
 | [2905](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/) | [Find Indices With Index and Value Difference II](problems/2905.find-indices-with-index-and-value-difference-ii.cpp) | 🟡 Medium | C++ |
