@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2484 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 393 Hard
+**2485 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 394 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -271,6 +271,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [377](https://leetcode.com/problems/combination-sum-iv/) | [Combination Sum IV](problems/377.combination-sum-iv.cpp) | 🟡 Medium | C++ |
 | [378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [Kth Smallest Element in a Sorted Matrix](problems/378.kth-smallest-element-in-a-sorted-matrix.cpp) | 🟡 Medium | C++ |
 | [380](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Insert Delete GetRandom O(1)](problems/380.insert-delete-getrandom-o1.cpp) | 🟡 Medium | C++ |
+| [381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Insert Delete GetRandom O(1) - Duplicates allowed](problems/381.insert-delete-getrandom-o1-duplicates-allowed.cpp) | 🔴 Hard | C++ |
 | [382](https://leetcode.com/problems/linked-list-random-node/) | [Linked List Random Node](problems/382.linked-list-random-node.cpp) | 🟡 Medium | C++ |
 | [383](https://leetcode.com/problems/ransom-note/) | [Ransom Note](problems/383.ransom-note.cpp) | 🟢 Easy | C++ |
 | [384](https://leetcode.com/problems/shuffle-an-array/) | [Shuffle an Array](problems/384.shuffle-an-array.cpp) | 🟡 Medium | C++ |
