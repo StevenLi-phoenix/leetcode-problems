@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2713 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 619 Hard
+**2714 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 620 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1378,6 +1378,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Last Day Where You Can Still Cross](problems/1970.last-day-where-you-can-still-cross.cpp) | 🔴 Hard | C++ |
 | [1975](https://leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](problems/1975.maximum-matrix-sum.cpp) | 🟡 Medium | C++ |
 | [1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Number of Ways to Arrive at Destination](problems/1976.number-of-ways-to-arrive-at-destination.cpp) | 🟡 Medium | C++ |
+| [1977](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [Number of Ways to Separate Numbers](problems/1977.number-of-ways-to-separate-numbers.cpp) | 🔴 Hard | C++ |
 | [1978](https://leetcode.com/problems/employees-whose-manager-left-the-company/) | [Employees Whose Manager Left the Company](problems/1978.employees-whose-manager-left-the-company.sql) | 🟢 Easy | mysql |
 | [1979](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [Find Greatest Common Divisor of Array](problems/1979.find-greatest-common-divisor-of-array.cpp) | 🟢 Easy | C++ |
 | [1980](https://leetcode.com/problems/find-unique-binary-string/) | [Find Unique Binary String](problems/1980.find-unique-binary-string.cpp) | 🟡 Medium | C++ |
