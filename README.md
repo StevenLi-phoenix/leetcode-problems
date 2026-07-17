@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2695 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 601 Hard
+**2696 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 602 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2642,6 +2642,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3897](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [Maximum Value of Concatenated Binary Segments](problems/3897.maximum-value-of-concatenated-binary-segments.cpp) | 🔴 Hard | C++ |
 | [3899](https://leetcode.com/problems/angles-of-a-triangle/) | [Angles of a Triangle](problems/3899.angles-of-a-triangle.cpp) | 🟡 Medium | C++ |
 | [3900](https://leetcode.com/problems/longest-balanced-substring-after-one-swap/) | [Longest Balanced Substring After One Swap](problems/3900.longest-balanced-substring-after-one-swap.cpp) | 🟡 Medium | C++ |
+| [3901](https://leetcode.com/problems/good-subsequence-queries/) | [Good Subsequence Queries](problems/3901.good-subsequence-queries.cpp) | 🔴 Hard | C++ |
 | [3903](https://leetcode.com/problems/smallest-stable-index-i/) | [Smallest Stable Index I](problems/3903.smallest-stable-index-i.cpp) | 🟢 Easy | C++ |
 | [3904](https://leetcode.com/problems/smallest-stable-index-ii/) | [Smallest Stable Index II](problems/3904.smallest-stable-index-ii.cpp) | 🟡 Medium | C++ |
 | [3905](https://leetcode.com/problems/multi-source-flood-fill/) | [Multi Source Flood Fill](problems/3905.multi-source-flood-fill.cpp) | 🟡 Medium | C++ |
