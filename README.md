@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2729 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 635 Hard
+**2730 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 636 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1681,6 +1681,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2409](https://leetcode.com/problems/count-days-spent-together/) | [Count Days Spent Together](problems/2409.count-days-spent-together.cpp) | 🟢 Easy | C++ |
 | [2410](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [Maximum Matching of Players With Trainers](problems/2410.maximum-matching-of-players-with-trainers.cpp) | 🟡 Medium | C++ |
 | [2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [Smallest Subarrays With Maximum Bitwise OR](problems/2411.smallest-subarrays-with-maximum-bitwise-or.cpp) | 🟡 Medium | C++ |
+| [2412](https://leetcode.com/problems/minimum-money-required-before-transactions/) | [Minimum Money Required Before Transactions](problems/2412.minimum-money-required-before-transactions.cpp) | 🔴 Hard | C++ |
 | [2413](https://leetcode.com/problems/smallest-even-multiple/) | [Smallest Even Multiple](problems/2413.smallest-even-multiple.cpp) | 🟢 Easy | C++ |
 | [2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Length of the Longest Alphabetical Continuous Substring](problems/2414.length-of-the-longest-alphabetical-continuous-substring.cpp) | 🟡 Medium | C++ |
 | [2415](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [Reverse Odd Levels of Binary Tree](problems/2415.reverse-odd-levels-of-binary-tree.cpp) | 🟡 Medium | C++ |
