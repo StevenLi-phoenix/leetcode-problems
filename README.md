@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2662 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 568 Hard
+**2663 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 569 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1550,6 +1550,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2273](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [Find Resultant Array After Removing Anagrams](problems/2273.find-resultant-array-after-removing-anagrams.cpp) | 🟢 Easy | C++ |
 | [2274](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Maximum Consecutive Floors Without Special Floors](problems/2274.maximum-consecutive-floors-without-special-floors.cpp) | 🟡 Medium | C++ |
 | [2275](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [Largest Combination With Bitwise AND Greater Than Zero](problems/2275.largest-combination-with-bitwise-and-greater-than-zero.cpp) | 🟡 Medium | C++ |
+| [2276](https://leetcode.com/problems/count-integers-in-intervals/) | [Count Integers in Intervals](problems/2276.count-integers-in-intervals.cpp) | 🔴 Hard | C++ |
 | [2278](https://leetcode.com/problems/percentage-of-letter-in-string/) | [Percentage of Letter in String](problems/2278.percentage-of-letter-in-string.cpp) | 🟢 Easy | C++ |
 | [2279](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [Maximum Bags With Full Capacity of Rocks](problems/2279.maximum-bags-with-full-capacity-of-rocks.cpp) | 🟡 Medium | C++ |
 | [2280](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | [Minimum Lines to Represent a Line Chart](problems/2280.minimum-lines-to-represent-a-line-chart.cpp) | 🟡 Medium | C++ |
