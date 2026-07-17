@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2527 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 436 Hard
+**2528 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 437 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -593,6 +593,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [851](https://leetcode.com/problems/loud-and-rich/) | [Loud and Rich](problems/851.loud-and-rich.cpp) | 🟡 Medium | C++ |
 | [852](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Peak Index in a Mountain Array](problems/852.peak-index-in-a-mountain-array.cpp) | 🟡 Medium | C++ |
 | [853](https://leetcode.com/problems/car-fleet/) | [Car Fleet](problems/853.car-fleet.cpp) | 🟡 Medium | C++ |
+| [854](https://leetcode.com/problems/k-similar-strings/) | [K-Similar Strings](problems/854.k-similar-strings.cpp) | 🔴 Hard | C++ |
 | [855](https://leetcode.com/problems/exam-room/) | [Exam Room](problems/855.exam-room.cpp) | 🟡 Medium | C++ |
 | [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](problems/856.score-of-parentheses.cpp) | 🟡 Medium | C++ |
 | [857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](problems/857.minimum-cost-to-hire-k-workers.cpp) | 🔴 Hard | C++ |
