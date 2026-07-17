@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2516 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 425 Hard
+**2517 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 426 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2275,6 +2275,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Process String with Special Operations I](problems/3612.process-string-with-special-operations-i.cpp) | 🟡 Medium | C++ |
 | [3613](https://leetcode.com/problems/minimize-maximum-component-cost/) | [Minimize Maximum Component Cost](problems/3613.minimize-maximum-component-cost.cpp) | 🟡 Medium | C++ |
 | [3614](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [Process String with Special Operations II](problems/3614.process-string-with-special-operations-ii.cpp) | 🔴 Hard | C++ |
+| [3617](https://leetcode.com/problems/find-students-with-study-spiral-pattern/) | [Find Students with Study Spiral Pattern](problems/3617.find-students-with-study-spiral-pattern.sql) | 🔴 Hard | mysql |
 | [3618](https://leetcode.com/problems/split-array-by-prime-indices/) | [Split Array by Prime Indices](problems/3618.split-array-by-prime-indices.cpp) | 🟡 Medium | C++ |
 | [3619](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | [Count Islands With Total Value Divisible by K](problems/3619.count-islands-with-total-value-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [3621](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [Number of Integers With Popcount-Depth Equal to K I](problems/3621.number-of-integers-with-popcount-depth-equal-to-k-i.cpp) | 🔴 Hard | C++ |
