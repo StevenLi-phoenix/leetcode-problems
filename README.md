@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2650 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 556 Hard
+**2651 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 557 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1222,6 +1222,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Find Nearest Point That Has the Same X or Y Coordinate](problems/1779.find-nearest-point-that-has-the-same-x-or-y-coordinate.cpp) | 🟢 Easy | C++ |
 | [1780](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [Check if Number is a Sum of Powers of Three](problems/1780.check-if-number-is-a-sum-of-powers-of-three.cpp) | 🟡 Medium | C++ |
 | [1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Sum of Beauty of All Substrings](problems/1781.sum-of-beauty-of-all-substrings.cpp) | 🟡 Medium | C++ |
+| [1782](https://leetcode.com/problems/count-pairs-of-nodes/) | [Count Pairs Of Nodes](problems/1782.count-pairs-of-nodes.cpp) | 🔴 Hard | C++ |
 | [1784](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Check if Binary String Has at Most One Segment of Ones](problems/1784.check-if-binary-string-has-at-most-one-segment-of-ones.cpp) | 🟢 Easy | C++ |
 | [1785](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Minimum Elements to Add to Form a Given Sum](problems/1785.minimum-elements-to-add-to-form-a-given-sum.cpp) | 🟡 Medium | C++ |
 | [1786](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Number of Restricted Paths From First to Last Node](problems/1786.number-of-restricted-paths-from-first-to-last-node.cpp) | 🟡 Medium | C++ |
