@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2496 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 405 Hard
+**2497 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 406 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1148,6 +1148,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1763](https://leetcode.com/problems/longest-nice-substring/) | [Longest Nice Substring](problems/1763.longest-nice-substring.cpp) | 🟢 Easy | C++ |
 | [1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [Form Array by Concatenating Subarrays of Another Array](problems/1764.form-array-by-concatenating-subarrays-of-another-array.cpp) | 🟡 Medium | C++ |
 | [1765](https://leetcode.com/problems/map-of-highest-peak/) | [Map of Highest Peak](problems/1765.map-of-highest-peak.cpp) | 🟡 Medium | C++ |
+| [1766](https://leetcode.com/problems/tree-of-coprimes/) | [Tree of Coprimes](problems/1766.tree-of-coprimes.cpp) | 🔴 Hard | C++ |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | [Merge Strings Alternately](problems/1768.merge-strings-alternately.cpp) | 🟢 Easy | C++ |
 | [1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Minimum Number of Operations to Move All Balls to Each Box](problems/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.cpp) | 🟡 Medium | C++ |
 | [1774](https://leetcode.com/problems/closest-dessert-cost/) | [Closest Dessert Cost](problems/1774.closest-dessert-cost.cpp) | 🟡 Medium | C++ |
