@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2768 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 674 Hard
+**2769 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 675 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -935,6 +935,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1307](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [Verbal Arithmetic Puzzle](problems/1307.verbal-arithmetic-puzzle.cpp) | 🔴 Hard | C++ |
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](problems/1310.xor-queries-of-a-subarray.cpp) | 🟡 Medium | C++ |
 | [1311](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [Get Watched Videos by Your Friends](problems/1311.get-watched-videos-by-your-friends.cpp) | 🟡 Medium | C++ |
+| [1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Minimum Insertion Steps to Make a String Palindrome](problems/1312.minimum-insertion-steps-to-make-a-string-palindrome.cpp) | 🔴 Hard | C++ |
 | [1314](https://leetcode.com/problems/matrix-block-sum/) | [Matrix Block Sum](problems/1314.matrix-block-sum.cpp) | 🟡 Medium | C++ |
 | [1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [Sum of Nodes with Even-Valued Grandparent](problems/1315.sum-of-nodes-with-even-valued-grandparent.cpp) | 🟡 Medium | C++ |
 | [1316](https://leetcode.com/problems/distinct-echo-substrings/) | [Distinct Echo Substrings](problems/1316.distinct-echo-substrings.cpp) | 🔴 Hard | C++ |
