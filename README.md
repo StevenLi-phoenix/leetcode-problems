@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2767 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 673 Hard
+**2768 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 674 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1830,6 +1830,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2581](https://leetcode.com/problems/count-number-of-possible-root-nodes/) | [Count Number of Possible Root Nodes](problems/2581.count-number-of-possible-root-nodes.cpp) | 🔴 Hard | C++ |
 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | [Kth Largest Sum in a Binary Tree](problems/2583.kth-largest-sum-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2584](https://leetcode.com/problems/split-the-array-to-make-coprime-products/) | [Split the Array to Make Coprime Products](problems/2584.split-the-array-to-make-coprime-products.cpp) | 🔴 Hard | C++ |
+| [2585](https://leetcode.com/problems/number-of-ways-to-earn-points/) | [Number of Ways to Earn Points](problems/2585.number-of-ways-to-earn-points.cpp) | 🔴 Hard | C++ |
 | [2586](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Count the Number of Vowel Strings in Range](problems/2586.count-the-number-of-vowel-strings-in-range.cpp) | 🟢 Easy | C++ |
 | [2587](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [Rearrange Array to Maximize Prefix Score](problems/2587.rearrange-array-to-maximize-prefix-score.cpp) | 🟡 Medium | C++ |
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
