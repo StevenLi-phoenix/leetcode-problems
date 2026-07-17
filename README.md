@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2617 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 524 Hard
+**2618 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 525 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1199,6 +1199,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1766](https://leetcode.com/problems/tree-of-coprimes/) | [Tree of Coprimes](problems/1766.tree-of-coprimes.cpp) | 🔴 Hard | C++ |
 | [1768](https://leetcode.com/problems/merge-strings-alternately/) | [Merge Strings Alternately](problems/1768.merge-strings-alternately.cpp) | 🟢 Easy | C++ |
 | [1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Minimum Number of Operations to Move All Balls to Each Box](problems/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.cpp) | 🟡 Medium | C++ |
+| [1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [Maximum Score from Performing Multiplication Operations](problems/1770.maximum-score-from-performing-multiplication-operations.cpp) | 🔴 Hard | C++ |
 | [1771](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [Maximize Palindrome Length From Subsequences](problems/1771.maximize-palindrome-length-from-subsequences.cpp) | 🔴 Hard | C++ |
 | [1774](https://leetcode.com/problems/closest-dessert-cost/) | [Closest Dessert Cost](problems/1774.closest-dessert-cost.cpp) | 🟡 Medium | C++ |
 | [1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [Equal Sum Arrays With Minimum Number of Operations](problems/1775.equal-sum-arrays-with-minimum-number-of-operations.cpp) | 🟡 Medium | C++ |
