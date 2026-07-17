@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2646 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 552 Hard
+**2647 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 553 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -574,6 +574,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [815](https://leetcode.com/problems/bus-routes/) | [Bus Routes](problems/815.bus-routes.cpp) | 🔴 Hard | C++ |
 | [816](https://leetcode.com/problems/ambiguous-coordinates/) | [Ambiguous Coordinates](problems/816.ambiguous-coordinates.cpp) | 🟡 Medium | C++ |
 | [817](https://leetcode.com/problems/linked-list-components/) | [Linked List Components](problems/817.linked-list-components.cpp) | 🟡 Medium | C++ |
+| [818](https://leetcode.com/problems/race-car/) | [Race Car](problems/818.race-car.cpp) | 🔴 Hard | C++ |
 | [820](https://leetcode.com/problems/short-encoding-of-words/) | [Short Encoding of Words](problems/820.short-encoding-of-words.cpp) | 🟡 Medium | C++ |
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Shortest Distance to a Character](problems/821.shortest-distance-to-a-character.cpp) | 🟢 Easy | C++ |
 | [822](https://leetcode.com/problems/card-flipping-game/) | [Card Flipping Game](problems/822.card-flipping-game.cpp) | 🟡 Medium | C++ |
