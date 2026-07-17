@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2694 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 600 Hard
+**2695 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 601 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -669,6 +669,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [917](https://leetcode.com/problems/reverse-only-letters/) | [Reverse Only Letters](problems/917.reverse-only-letters.cpp) | 🟢 Easy | C++ |
 | [918](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Maximum Sum Circular Subarray](problems/918.maximum-sum-circular-subarray.cpp) | 🟡 Medium | C++ |
 | [919](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Complete Binary Tree Inserter](problems/919.complete-binary-tree-inserter.cpp) | 🟡 Medium | C++ |
+| [920](https://leetcode.com/problems/number-of-music-playlists/) | [Number of Music Playlists](problems/920.number-of-music-playlists.cpp) | 🔴 Hard | C++ |
 | [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Minimum Add to Make Parentheses Valid](problems/921.minimum-add-to-make-parentheses-valid.cpp) | 🟡 Medium | C++ |
 | [922](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Sort Array By Parity II](problems/922.sort-array-by-parity-ii.cpp) | 🟢 Easy | C++ |
 | [923](https://leetcode.com/problems/3sum-with-multiplicity/) | [3Sum With Multiplicity](problems/923.3sum-with-multiplicity.cpp) | 🟡 Medium | C++ |
