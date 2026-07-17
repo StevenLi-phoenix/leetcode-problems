@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2557 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 464 Hard
+**2558 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 465 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -721,6 +721,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1009](https://leetcode.com/problems/complement-of-base-10-integer/) | [Complement of Base 10 Integer](problems/1009.complement-of-base-10-integer.cpp) | 🟢 Easy | C++ |
 | [1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Pairs of Songs With Total Durations Divisible by 60](problems/1010.pairs-of-songs-with-total-durations-divisible-by-60.cpp) | 🟡 Medium | C++ |
 | [1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Capacity To Ship Packages Within D Days](problems/1011.capacity-to-ship-packages-within-d-days.cpp) | 🟡 Medium | C++ |
+| [1012](https://leetcode.com/problems/numbers-with-repeated-digits/) | [Numbers With Repeated Digits](problems/1012.numbers-with-repeated-digits.cpp) | 🔴 Hard | C++ |
 | [1014](https://leetcode.com/problems/best-sightseeing-pair/) | [Best Sightseeing Pair](problems/1014.best-sightseeing-pair.cpp) | 🟡 Medium | C++ |
 | [1015](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Smallest Integer Divisible by K](problems/1015.smallest-integer-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [1016](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Binary String With Substrings Representing 1 To N](problems/1016.binary-string-with-substrings-representing-1-to-n.cpp) | 🟡 Medium | C++ |
