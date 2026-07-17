@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2494 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 403 Hard
+**2495 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 404 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -986,6 +986,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1496](https://leetcode.com/problems/path-crossing/) | [Path Crossing](problems/1496.path-crossing.cpp) | 🟢 Easy | C++ |
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Check If Array Pairs Are Divisible by k](problems/1497.check-if-array-pairs-are-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [1498](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [Number of Subsequences That Satisfy the Given Sum Condition](problems/1498.number-of-subsequences-that-satisfy-the-given-sum-condition.cpp) | 🟡 Medium | C++ |
+| [1499](https://leetcode.com/problems/max-value-of-equation/) | [Max Value of Equation](problems/1499.max-value-of-equation.cpp) | 🔴 Hard | C++ |
 | [1502](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [Can Make Arithmetic Progression From Sequence](problems/1502.can-make-arithmetic-progression-from-sequence.cpp) | 🟢 Easy | C++ |
 | [1503](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Last Moment Before All Ants Fall Out of a Plank](problems/1503.last-moment-before-all-ants-fall-out-of-a-plank.cpp) | 🟡 Medium | C++ |
 | [1504](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [Count Submatrices With All Ones](problems/1504.count-submatrices-with-all-ones.cpp) | 🟡 Medium | C++ |
