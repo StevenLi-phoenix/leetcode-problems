@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2607 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 514 Hard
+**2608 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 515 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2228,6 +2228,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3421](https://leetcode.com/problems/find-students-who-improved/) | [Find Students Who Improved](problems/3421.find-students-who-improved.sql) | 🟡 Medium | mysql |
 | [3424](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/) | [Minimum Cost to Make Arrays Identical](problems/3424.minimum-cost-to-make-arrays-identical.cpp) | 🟡 Medium | C++ |
 | [3425](https://leetcode.com/problems/longest-special-path/) | [Longest Special Path](problems/3425.longest-special-path.cpp) | 🔴 Hard | C++ |
+| [3426](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/) | [Manhattan Distances of All Arrangements of Pieces](problems/3426.manhattan-distances-of-all-arrangements-of-pieces.cpp) | 🔴 Hard | C++ |
 | [3427](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [Sum of Variable Length Subarrays](problems/3427.sum-of-variable-length-subarrays.cpp) | 🟢 Easy | C++ |
 | [3429](https://leetcode.com/problems/paint-house-iv/) | [Paint House IV](problems/3429.paint-house-iv.cpp) | 🟡 Medium | C++ |
 | [3430](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | [Maximum and Minimum Sums of at Most Size K Subarrays](problems/3430.maximum-and-minimum-sums-of-at-most-size-k-subarrays.cpp) | 🔴 Hard | C++ |
