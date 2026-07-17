@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2567 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 474 Hard
+**2568 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 475 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1487,6 +1487,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Number of Flowers in Full Bloom](problems/2251.number-of-flowers-in-full-bloom.cpp) | 🔴 Hard | C++ |
 | [2256](https://leetcode.com/problems/minimum-average-difference/) | [Minimum Average Difference](problems/2256.minimum-average-difference.cpp) | 🟡 Medium | C++ |
 | [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Count Unguarded Cells in the Grid](problems/2257.count-unguarded-cells-in-the-grid.cpp) | 🟡 Medium | C++ |
+| [2258](https://leetcode.com/problems/escape-the-spreading-fire/) | [Escape the Spreading Fire](problems/2258.escape-the-spreading-fire.cpp) | 🔴 Hard | C++ |
 | [2259](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [Remove Digit From Number to Maximize Result](problems/2259.remove-digit-from-number-to-maximize-result.cpp) | 🟢 Easy | C++ |
 | [2260](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Minimum Consecutive Cards to Pick Up](problems/2260.minimum-consecutive-cards-to-pick-up.cpp) | 🟡 Medium | C++ |
 | [2261](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [K Divisible Elements Subarrays](problems/2261.k-divisible-elements-subarrays.cpp) | 🟡 Medium | C++ |
