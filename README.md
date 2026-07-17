@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2524 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 433 Hard
+**2525 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 434 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1879,6 +1879,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2937](https://leetcode.com/problems/make-three-strings-equal/) | [Make Three Strings Equal](problems/2937.make-three-strings-equal.cpp) | 🟢 Easy | C++ |
 | [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | [Separate Black and White Balls](problems/2938.separate-black-and-white-balls.cpp) | 🟡 Medium | C++ |
 | [2939](https://leetcode.com/problems/maximum-xor-product/) | [Maximum Xor Product](problems/2939.maximum-xor-product.cpp) | 🟡 Medium | C++ |
+| [2940](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/) | [Find Building Where Alice and Bob Can Meet](problems/2940.find-building-where-alice-and-bob-can-meet.cpp) | 🔴 Hard | C++ |
 | [2942](https://leetcode.com/problems/find-words-containing-character/) | [Find Words Containing Character](problems/2942.find-words-containing-character.cpp) | 🟢 Easy | C++ |
 | [2943](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/) | [Maximize Area of Square Hole in Grid](problems/2943.maximize-area-of-square-hole-in-grid.cpp) | 🟡 Medium | C++ |
 | [2944](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/) | [Minimum Number of Coins for Fruits](problems/2944.minimum-number-of-coins-for-fruits.cpp) | 🟡 Medium | C++ |
