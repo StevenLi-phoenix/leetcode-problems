@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2624 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 531 Hard
+**2625 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 532 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2131,6 +2131,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3240](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | [Minimum Number of Flips to Make Binary Grid Palindromic II](problems/3240.minimum-number-of-flips-to-make-binary-grid-palindromic-ii.cpp) | 🟡 Medium | C++ |
 | [3241](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Time Taken to Mark All Nodes](problems/3241.time-taken-to-mark-all-nodes.cpp) | 🔴 Hard | C++ |
 | [3243](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | [Shortest Distance After Road Addition Queries I](problems/3243.shortest-distance-after-road-addition-queries-i.cpp) | 🟡 Medium | C++ |
+| [3244](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [Shortest Distance After Road Addition Queries II](problems/3244.shortest-distance-after-road-addition-queries-ii.cpp) | 🔴 Hard | C++ |
 | [3249](https://leetcode.com/problems/count-the-number-of-good-nodes/) | [Count the Number of Good Nodes](problems/3249.count-the-number-of-good-nodes.cpp) | 🟡 Medium | C++ |
 | [3250](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | [Find the Count of Monotonic Pairs I](problems/3250.find-the-count-of-monotonic-pairs-i.cpp) | 🔴 Hard | C++ |
 | [3251](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/) | [Find the Count of Monotonic Pairs II](problems/3251.find-the-count-of-monotonic-pairs-ii.cpp) | 🔴 Hard | C++ |
