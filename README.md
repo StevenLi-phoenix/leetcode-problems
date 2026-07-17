@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2521 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 430 Hard
+**2522 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 431 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1616,6 +1616,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2503](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [Maximum Number of Points From Grid Queries](problems/2503.maximum-number-of-points-from-grid-queries.cpp) | 🔴 Hard | C++ |
 | [2506](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [Count Pairs Of Similar Strings](problems/2506.count-pairs-of-similar-strings.cpp) | 🟢 Easy | C++ |
 | [2507](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [Smallest Value After Replacing With Sum of Prime Factors](problems/2507.smallest-value-after-replacing-with-sum-of-prime-factors.cpp) | 🟡 Medium | C++ |
+| [2509](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) | [Cycle Length Queries in a Tree](problems/2509.cycle-length-queries-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2511](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [Maximum Enemy Forts That Can Be Captured](problems/2511.maximum-enemy-forts-that-can-be-captured.cpp) | 🟢 Easy | C++ |
 | [2512](https://leetcode.com/problems/reward-top-k-students/) | [Reward Top K Students](problems/2512.reward-top-k-students.cpp) | 🟡 Medium | C++ |
 | [2513](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Minimize the Maximum of Two Arrays](problems/2513.minimize-the-maximum-of-two-arrays.cpp) | 🟡 Medium | C++ |
