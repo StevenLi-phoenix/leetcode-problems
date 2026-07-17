@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2742 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 648 Hard
+**2743 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 649 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2606,6 +2606,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3782](https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations/) | [Last Remaining Integer After Alternating Deletion Operations](problems/3782.last-remaining-integer-after-alternating-deletion-operations.cpp) | 🔴 Hard | C++ |
 | [3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Mirror Distance of an Integer](problems/3783.mirror-distance-of-an-integer.cpp) | 🟢 Easy | C++ |
 | [3784](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/) | [Minimum Deletion Cost to Make All Characters Equal](problems/3784.minimum-deletion-cost-to-make-all-characters-equal.cpp) | 🟡 Medium | C++ |
+| [3785](https://leetcode.com/problems/minimum-swaps-to-avoid-forbidden-values/) | [Minimum Swaps to Avoid Forbidden Values](problems/3785.minimum-swaps-to-avoid-forbidden-values.cpp) | 🔴 Hard | C++ |
 | [3786](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups/) | [Total Sum of Interaction Cost in Tree Groups](problems/3786.total-sum-of-interaction-cost-in-tree-groups.cpp) | 🔴 Hard | C++ |
 | [3788](https://leetcode.com/problems/maximum-score-of-a-split/) | [Maximum Score of a Split](problems/3788.maximum-score-of-a-split.cpp) | 🟡 Medium | C++ |
 | [3789](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | [Minimum Cost to Acquire Required Items](problems/3789.minimum-cost-to-acquire-required-items.cpp) | 🟡 Medium | C++ |
