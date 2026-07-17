@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2493 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 402 Hard
+**2494 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 403 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -509,6 +509,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [752](https://leetcode.com/problems/open-the-lock/) | [Open the Lock](problems/752.open-the-lock.cpp) | 🟡 Medium | C++ |
 | [754](https://leetcode.com/problems/reach-a-number/) | [Reach a Number](problems/754.reach-a-number.cpp) | 🟡 Medium | C++ |
 | [756](https://leetcode.com/problems/pyramid-transition-matrix/) | [Pyramid Transition Matrix](problems/756.pyramid-transition-matrix.cpp) | 🟡 Medium | C++ |
+| [757](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Set Intersection Size At Least Two](problems/757.set-intersection-size-at-least-two.cpp) | 🔴 Hard | C++ |
 | [761](https://leetcode.com/problems/special-binary-string/) | [Special Binary String](problems/761.special-binary-string.cpp) | 🔴 Hard | C++ |
 | [762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Prime Number of Set Bits in Binary Representation](problems/762.prime-number-of-set-bits-in-binary-representation.cpp) | 🟢 Easy | C++ |
 | [763](https://leetcode.com/problems/partition-labels/) | [Partition Labels](problems/763.partition-labels.cpp) | 🟡 Medium | C++ |
