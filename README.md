@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2661 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 567 Hard
+**2662 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 568 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -951,6 +951,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](problems/1365.how-many-numbers-are-smaller-than-the-current-number.cpp) | 🟢 Easy | C++ |
 | [1366](https://leetcode.com/problems/rank-teams-by-votes/) | [Rank Teams by Votes](problems/1366.rank-teams-by-votes.cpp) | 🟡 Medium | C++ |
 | [1367](https://leetcode.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](problems/1367.linked-list-in-binary-tree.cpp) | 🟡 Medium | C++ |
+| [1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | [Minimum Cost to Make at Least One Valid Path in a Grid](problems/1368.minimum-cost-to-make-at-least-one-valid-path-in-a-grid.cpp) | 🔴 Hard | C++ |
 | [1370](https://leetcode.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](problems/1370.increasing-decreasing-string.cpp) | 🟢 Easy | C++ |
 | [1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Find the Longest Substring Containing Vowels in Even Counts](problems/1371.find-the-longest-substring-containing-vowels-in-even-counts.cpp) | 🟡 Medium | C++ |
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
