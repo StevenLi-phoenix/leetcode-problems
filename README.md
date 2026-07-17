@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2685 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 591 Hard
+**2686 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 592 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1780,6 +1780,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2586](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Count the Number of Vowel Strings in Range](problems/2586.count-the-number-of-vowel-strings-in-range.cpp) | 🟢 Easy | C++ |
 | [2587](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/) | [Rearrange Array to Maximize Prefix Score](problems/2587.rearrange-array-to-maximize-prefix-score.cpp) | 🟡 Medium | C++ |
 | [2588](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/) | [Count the Number of Beautiful Subarrays](problems/2588.count-the-number-of-beautiful-subarrays.cpp) | 🟡 Medium | C++ |
+| [2589](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/) | [Minimum Time to Complete All Tasks](problems/2589.minimum-time-to-complete-all-tasks.cpp) | 🔴 Hard | C++ |
 | [2591](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [Distribute Money to Maximum Children](problems/2591.distribute-money-to-maximum-children.cpp) | 🟢 Easy | C++ |
 | [2592](https://leetcode.com/problems/maximize-greatness-of-an-array/) | [Maximize Greatness of an Array](problems/2592.maximize-greatness-of-an-array.cpp) | 🟡 Medium | C++ |
 | [2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [Find Score of an Array After Marking All Elements](problems/2593.find-score-of-an-array-after-marking-all-elements.cpp) | 🟡 Medium | C++ |
