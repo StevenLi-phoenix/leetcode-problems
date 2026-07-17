@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2665 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 571 Hard
+**2666 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 572 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1808,6 +1808,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2645](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [Minimum Additions to Make Valid String](problems/2645.minimum-additions-to-make-valid-string.cpp) | 🟡 Medium | C++ |
 | [2646](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Minimize the Total Price of the Trips](problems/2646.minimize-the-total-price-of-the-trips.cpp) | 🔴 Hard | C++ |
 | [2649](https://leetcode.com/problems/nested-array-generator/) | [Nested Array Generator](problems/2649.nested-array-generator.js) | 🟡 Medium | JavaScript |
+| [2650](https://leetcode.com/problems/design-cancellable-function/) | [Design Cancellable Function](problems/2650.design-cancellable-function.js) | 🔴 Hard | JavaScript |
 | [2653](https://leetcode.com/problems/sliding-subarray-beauty/) | [Sliding Subarray Beauty](problems/2653.sliding-subarray-beauty.cpp) | 🟡 Medium | C++ |
 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp) | 🟡 Medium | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
