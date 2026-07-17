@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2703 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 609 Hard
+**2704 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 610 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1421,6 +1421,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2042](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [Check if Numbers Are Ascending in a Sentence](problems/2042.check-if-numbers-are-ascending-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2043](https://leetcode.com/problems/simple-bank-system/) | [Simple Bank System](problems/2043.simple-bank-system.cpp) | 🟡 Medium | C++ |
 | [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [Count Number of Maximum Bitwise-OR Subsets](problems/2044.count-number-of-maximum-bitwise-or-subsets.cpp) | 🟡 Medium | C++ |
+| [2045](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) | [Second Minimum Time to Reach Destination](problems/2045.second-minimum-time-to-reach-destination.cpp) | 🔴 Hard | C++ |
 | [2047](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [Number of Valid Words in a Sentence](problems/2047.number-of-valid-words-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [2048](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [Next Greater Numerically Balanced Number](problems/2048.next-greater-numerically-balanced-number.cpp) | 🟡 Medium | C++ |
 | [2049](https://leetcode.com/problems/count-nodes-with-the-highest-score/) | [Count Nodes With the Highest Score](problems/2049.count-nodes-with-the-highest-score.cpp) | 🟡 Medium | C++ |
