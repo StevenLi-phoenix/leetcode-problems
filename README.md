@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2565 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 472 Hard
+**2566 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 473 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -245,6 +245,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [316](https://leetcode.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](problems/316.remove-duplicate-letters.cpp) | 🟡 Medium | C++ |
 | [318](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Maximum Product of Word Lengths](problems/318.maximum-product-of-word-lengths.cpp) | 🟡 Medium | C++ |
 | [319](https://leetcode.com/problems/bulb-switcher/) | [Bulb Switcher](problems/319.bulb-switcher.cpp) | 🟡 Medium | C++ |
+| [321](https://leetcode.com/problems/create-maximum-number/) | [Create Maximum Number](problems/321.create-maximum-number.cpp) | 🔴 Hard | C++ |
 | [322](https://leetcode.com/problems/coin-change/) | [Coin Change](problems/322.coin-change.cpp) | 🟡 Medium | C++ |
 | [324](https://leetcode.com/problems/wiggle-sort-ii/) | [Wiggle Sort II](problems/324.wiggle-sort-ii.cpp) | 🟡 Medium | C++ |
 | [326](https://leetcode.com/problems/power-of-three/) | [Power of Three](problems/326.power-of-three.cpp) | 🟢 Easy | C++ |
