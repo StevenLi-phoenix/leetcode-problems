@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2574 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 481 Hard
+**2575 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 482 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -616,6 +616,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
 | [877](https://leetcode.com/problems/stone-game/) | [Stone Game](problems/877.stone-game.cpp) | 🟡 Medium | C++ |
 | [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](problems/878.nth-magical-number.cpp) | 🔴 Hard | C++ |
+| [879](https://leetcode.com/problems/profitable-schemes/) | [Profitable Schemes](problems/879.profitable-schemes.cpp) | 🔴 Hard | C++ |
 | [880](https://leetcode.com/problems/decoded-string-at-index/) | [Decoded String at Index](problems/880.decoded-string-at-index.cpp) | 🟡 Medium | C++ |
 | [881](https://leetcode.com/problems/boats-to-save-people/) | [Boats to Save People](problems/881.boats-to-save-people.cpp) | 🟡 Medium | C++ |
 | [883](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Projection Area of 3D Shapes](problems/883.projection-area-of-3d-shapes.cpp) | 🟢 Easy | C++ |
