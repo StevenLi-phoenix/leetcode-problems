@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2634 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 541 Hard
+**2635 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 541 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2634,6 +2634,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3977](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/) | [Minimum Time to Reach Target With Limited Power](problems/3977.minimum-time-to-reach-target-with-limited-power.cpp) | — | C++ |
 | [3979](https://leetcode.com/problems/maximum-valid-pair-sum/) | [Maximum Valid Pair Sum](problems/3979.maximum-valid-pair-sum.cpp) | — | C++ |
 | [3980](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | [Minimum Operations to Transform Binary String](problems/3980.minimum-operations-to-transform-binary-string.cpp) | — | C++ |
+| [3981](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | [Count Distinct Ways to Form Target from Two Strings](problems/3981.count-distinct-ways-to-form-target-from-two-strings.cpp) | — | C++ |
 | [3983](https://leetcode.com/problems/subsequence-after-one-replacement/) | [Subsequence After One Replacement](problems/3983.subsequence-after-one-replacement.cpp) | — | C++ |
 | [3984](https://leetcode.com/problems/divisible-game/) | [Divisible Game](problems/3984.divisible-game.cpp) | — | C++ |
 | [3985](https://leetcode.com/problems/palindromic-subarray-sum/) | [Palindromic Subarray Sum](problems/3985.palindromic-subarray-sum.cpp) | — | C++ |
