@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2706 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 612 Hard
+**2707 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 613 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -981,6 +981,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1385](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [Find the Distance Value Between Two Arrays](problems/1385.find-the-distance-value-between-two-arrays.cpp) | 🟢 Easy | C++ |
 | [1386](https://leetcode.com/problems/cinema-seat-allocation/) | [Cinema Seat Allocation](problems/1386.cinema-seat-allocation.cpp) | 🟡 Medium | C++ |
 | [1387](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [Sort Integers by The Power Value](problems/1387.sort-integers-by-the-power-value.cpp) | 🟡 Medium | C++ |
+| [1388](https://leetcode.com/problems/pizza-with-3n-slices/) | [Pizza With 3n Slices](problems/1388.pizza-with-3n-slices.cpp) | 🔴 Hard | C++ |
 | [1389](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Create Target Array in the Given Order](problems/1389.create-target-array-in-the-given-order.cpp) | 🟢 Easy | C++ |
 | [1390](https://leetcode.com/problems/four-divisors/) | [Four Divisors](problems/1390.four-divisors.cpp) | 🟡 Medium | C++ |
 | [1391](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Check if There is a Valid Path in a Grid](problems/1391.check-if-there-is-a-valid-path-in-a-grid.cpp) | 🟡 Medium | C++ |
