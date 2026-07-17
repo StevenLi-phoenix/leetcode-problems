@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2728 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 634 Hard
+**2729 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 635 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -772,6 +772,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1025](https://leetcode.com/problems/divisor-game/) | [Divisor Game](problems/1025.divisor-game.cpp) | 🟢 Easy | C++ |
 | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Maximum Difference Between Node and Ancestor](problems/1026.maximum-difference-between-node-and-ancestor.cpp) | 🟡 Medium | C++ |
 | [1027](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Longest Arithmetic Subsequence](problems/1027.longest-arithmetic-subsequence.cpp) | 🟡 Medium | C++ |
+| [1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Recover a Tree From Preorder Traversal](problems/1028.recover-a-tree-from-preorder-traversal.cpp) | 🔴 Hard | C++ |
 | [1029](https://leetcode.com/problems/two-city-scheduling/) | [Two City Scheduling](problems/1029.two-city-scheduling.cpp) | 🟡 Medium | C++ |
 | [1030](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](problems/1030.matrix-cells-in-distance-order.cpp) | 🟢 Easy | C++ |
 | [1031](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [Maximum Sum of Two Non-Overlapping Subarrays](problems/1031.maximum-sum-of-two-non-overlapping-subarrays.cpp) | 🟡 Medium | C++ |
