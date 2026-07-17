@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2757 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 663 Hard
+**2758 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 664 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2741,6 +2741,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3953](https://leetcode.com/problems/maximum-score-with-co-prime-element/) | [Maximum Score with Co-Prime Element](problems/3953.maximum-score-with-co-prime-element.cpp) | 🔴 Hard | C++ |
 | [3954](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Sum of Compatible Numbers in Range I](problems/3954.sum-of-compatible-numbers-in-range-i.cpp) | 🟢 Easy | C++ |
 | [3955](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | [Valid Binary Strings With Cost Limit](problems/3955.valid-binary-strings-with-cost-limit.cpp) | 🟡 Medium | C++ |
+| [3956](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/) | [Maximum Sum of M Non-Overlapping Subarrays I](problems/3956.maximum-sum-of-m-non-overlapping-subarrays-i.cpp) | 🔴 Hard | C++ |
 | [3959](https://leetcode.com/problems/check-good-integer/) | [Check Good Integer](problems/3959.check-good-integer.cpp) | 🟢 Easy | C++ |
 | [3960](https://leetcode.com/problems/frequency-balance-subarray/) | [Frequency Balance Subarray](problems/3960.frequency-balance-subarray.cpp) | 🟡 Medium | C++ |
 | [3961](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | [Maximize Sum of Device Ratings](problems/3961.maximize-sum-of-device-ratings.cpp) | 🟡 Medium | C++ |
