@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2623 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 530 Hard
+**2624 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 531 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2326,6 +2326,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3551](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Minimum Swaps to Sort by Digit Sum](problems/3551.minimum-swaps-to-sort-by-digit-sum.cpp) | 🟡 Medium | C++ |
 | [3552](https://leetcode.com/problems/grid-teleportation-traversal/) | [Grid Teleportation Traversal](problems/3552.grid-teleportation-traversal.cpp) | 🟡 Medium | C++ |
 | [3553](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [Minimum Weighted Subgraph With the Required Paths II](problems/3553.minimum-weighted-subgraph-with-the-required-paths-ii.cpp) | 🔴 Hard | C++ |
+| [3554](https://leetcode.com/problems/find-category-recommendation-pairs/) | [Find Category Recommendation Pairs](problems/3554.find-category-recommendation-pairs.sql) | 🔴 Hard | mysql |
 | [3556](https://leetcode.com/problems/sum-of-largest-prime-substrings/) | [Sum of Largest Prime Substrings](problems/3556.sum-of-largest-prime-substrings.cpp) | 🟡 Medium | C++ |
 | [3557](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings/) | [Find Maximum Number of Non Intersecting Substrings](problems/3557.find-maximum-number-of-non-intersecting-substrings.cpp) | 🟡 Medium | C++ |
 | [3558](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/) | [Number of Ways to Assign Edge Weights I](problems/3558.number-of-ways-to-assign-edge-weights-i.cpp) | 🟡 Medium | C++ |
