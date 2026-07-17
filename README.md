@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2737 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 643 Hard
+**2738 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 644 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2108,6 +2108,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3048](https://leetcode.com/problems/earliest-second-to-mark-indices-i/) | [Earliest Second to Mark Indices I](problems/3048.earliest-second-to-mark-indices-i.cpp) | 🟡 Medium | C++ |
 | [3066](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Minimum Operations to Exceed Threshold Value II](problems/3066.minimum-operations-to-exceed-threshold-value-ii.cpp) | 🟡 Medium | C++ |
 | [3067](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | [Count Pairs of Connectable Servers in a Weighted Tree Network](problems/3067.count-pairs-of-connectable-servers-in-a-weighted-tree-network.cpp) | 🟡 Medium | C++ |
+| [3068](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | [Find the Maximum Sum of Node Values](problems/3068.find-the-maximum-sum-of-node-values.cpp) | 🔴 Hard | C++ |
 | [3070](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/) | [Count Submatrices with Top-Left Element and Sum Less Than k](problems/3070.count-submatrices-with-top-left-element-and-sum-less-than-k.cpp) | 🟡 Medium | C++ |
 | [3071](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) | [Minimum Operations to Write the Letter Y on a Grid](problems/3071.minimum-operations-to-write-the-letter-y-on-a-grid.cpp) | 🟡 Medium | C++ |
 | [3072](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/) | [Distribute Elements Into Two Arrays II](problems/3072.distribute-elements-into-two-arrays-ii.cpp) | 🔴 Hard | C++ |
