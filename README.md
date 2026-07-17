@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2511 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 420 Hard
+**2512 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 421 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2489,6 +2489,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3933](https://leetcode.com/problems/largest-local-values-in-a-matrix-ii/) | [Largest Local Values in a Matrix II](problems/3933.largest-local-values-in-a-matrix-ii.cpp) | 🟡 Medium | C++ |
 | [3936](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [Minimum Swaps to Move Zeros to End](problems/3936.minimum-swaps-to-move-zeros-to-end.cpp) | 🟢 Easy | C++ |
 | [3937](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-i/) | [Minimum Operations to Make Array Modulo Alternating I](problems/3937.minimum-operations-to-make-array-modulo-alternating-i.cpp) | 🟡 Medium | C++ |
+| [3939](https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/) | [Count Non Adjacent Subsets in a Rooted Tree](problems/3939.count-non-adjacent-subsets-in-a-rooted-tree.cpp) | 🔴 Hard | C++ |
 | [3940](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [Limit Occurrences in Sorted Array](problems/3940.limit-occurrences-in-sorted-array.cpp) | 🟢 Easy | C++ |
 | [3941](https://leetcode.com/problems/password-strength/) | [Password Strength](problems/3941.password-strength.cpp) | 🟡 Medium | C++ |
 | [3942](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | [Minimum Operations to Sort a Permutation](problems/3942.minimum-operations-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
