@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2563 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 470 Hard
+**2564 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 471 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -658,6 +658,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Data in Log Files](problems/937.reorder-data-in-log-files.cpp) | 🟡 Medium | C++ |
 | [938](https://leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](problems/938.range-sum-of-bst.cpp) | 🟢 Easy | C++ |
 | [939](https://leetcode.com/problems/minimum-area-rectangle/) | [Minimum Area Rectangle](problems/939.minimum-area-rectangle.cpp) | 🟡 Medium | C++ |
+| [940](https://leetcode.com/problems/distinct-subsequences-ii/) | [Distinct Subsequences II](problems/940.distinct-subsequences-ii.cpp) | 🔴 Hard | C++ |
 | [942](https://leetcode.com/problems/di-string-match/) | [DI String Match](problems/942.di-string-match.cpp) | 🟢 Easy | C++ |
 | [943](https://leetcode.com/problems/find-the-shortest-superstring/) | [Find the Shortest Superstring](problems/943.find-the-shortest-superstring.cpp) | 🔴 Hard | C++ |
 | [944](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Delete Columns to Make Sorted](problems/944.delete-columns-to-make-sorted.cpp) | 🟢 Easy | C++ |
