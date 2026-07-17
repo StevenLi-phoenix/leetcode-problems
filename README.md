@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2679 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 585 Hard
+**2680 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 586 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1896,6 +1896,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2787](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) | [Ways to Express an Integer as Sum of Powers](problems/2787.ways-to-express-an-integer-as-sum-of-powers.cpp) | 🟡 Medium | C++ |
 | [2788](https://leetcode.com/problems/split-strings-by-separator/) | [Split Strings by Separator](problems/2788.split-strings-by-separator.cpp) | 🟢 Easy | C++ |
 | [2789](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/) | [Largest Element in an Array after Merge Operations](problems/2789.largest-element-in-an-array-after-merge-operations.cpp) | 🟡 Medium | C++ |
+| [2790](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/) | [Maximum Number of Groups With Increasing Length](problems/2790.maximum-number-of-groups-with-increasing-length.cpp) | 🔴 Hard | C++ |
 | [2791](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | [Count Paths That Can Form a Palindrome in a Tree](problems/2791.count-paths-that-can-form-a-palindrome-in-a-tree.cpp) | 🔴 Hard | C++ |
 | [2798](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Number of Employees Who Met the Target](problems/2798.number-of-employees-who-met-the-target.cpp) | 🟢 Easy | C++ |
 | [2799](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | [Count Complete Subarrays in an Array](problems/2799.count-complete-subarrays-in-an-array.cpp) | 🟡 Medium | C++ |
