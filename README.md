@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2491 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 400 Hard
+**2492 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 401 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -496,6 +496,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [729](https://leetcode.com/problems/my-calendar-i/) | [My Calendar I](problems/729.my-calendar-i.cpp) | 🟡 Medium | C++ |
 | [730](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [Count Different Palindromic Subsequences](problems/730.count-different-palindromic-subsequences.cpp) | 🔴 Hard | C++ |
 | [731](https://leetcode.com/problems/my-calendar-ii/) | [My Calendar II](problems/731.my-calendar-ii.cpp) | 🟡 Medium | C++ |
+| [732](https://leetcode.com/problems/my-calendar-iii/) | [My Calendar III](problems/732.my-calendar-iii.cpp) | 🔴 Hard | C++ |
 | [735](https://leetcode.com/problems/asteroid-collision/) | [Asteroid Collision](problems/735.asteroid-collision.cpp) | 🟡 Medium | C++ |
 | [736](https://leetcode.com/problems/parse-lisp-expression/) | [Parse Lisp Expression](problems/736.parse-lisp-expression.cpp) | 🔴 Hard | C++ |
 | [738](https://leetcode.com/problems/monotone-increasing-digits/) | [Monotone Increasing Digits](problems/738.monotone-increasing-digits.cpp) | 🟡 Medium | C++ |
