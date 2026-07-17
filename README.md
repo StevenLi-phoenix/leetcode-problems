@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2523 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 432 Hard
+**2524 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 433 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2322,6 +2322,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3668](https://leetcode.com/problems/restore-finishing-order/) | [Restore Finishing Order](problems/3668.restore-finishing-order.cpp) | 🟢 Easy | C++ |
 | [3669](https://leetcode.com/problems/balanced-k-factor-decomposition/) | [Balanced K-Factor Decomposition](problems/3669.balanced-k-factor-decomposition.cpp) | 🟡 Medium | C++ |
 | [3670](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits/) | [Maximum Product of Two Integers With No Common Bits](problems/3670.maximum-product-of-two-integers-with-no-common-bits.cpp) | 🟡 Medium | C++ |
+| [3671](https://leetcode.com/problems/sum-of-beautiful-subsequences/) | [Sum of Beautiful Subsequences](problems/3671.sum-of-beautiful-subsequences.cpp) | 🔴 Hard | C++ |
 | [3673](https://leetcode.com/problems/find-zombie-sessions/) | [Find Zombie Sessions](problems/3673.find-zombie-sessions.sql) | 🔴 Hard | mysql |
 | [3674](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [Minimum Operations to Equalize Array](problems/3674.minimum-operations-to-equalize-array.cpp) | 🟢 Easy | C++ |
 | [3676](https://leetcode.com/problems/count-bowl-subarrays/) | [Count Bowl Subarrays](problems/3676.count-bowl-subarrays.cpp) | 🟡 Medium | C++ |
