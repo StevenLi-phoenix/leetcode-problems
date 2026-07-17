@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2480 solved** — 🟢 528 Easy · 🟡 1549 Medium · 🔴 393 Hard
+**2481 solved** — 🟢 528 Easy · 🟡 1550 Medium · 🔴 393 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1933,6 +1933,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3092](https://leetcode.com/problems/most-frequent-ids/) | [Most Frequent IDs](problems/3092.most-frequent-ids.cpp) | 🟡 Medium | C++ |
 | [3093](https://leetcode.com/problems/longest-common-suffix-queries/) | [Longest Common Suffix Queries](problems/3093.longest-common-suffix-queries.cpp) | 🔴 Hard | C++ |
 | [3095](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [Shortest Subarray With OR at Least K I](problems/3095.shortest-subarray-with-or-at-least-k-i.cpp) | 🟢 Easy | C++ |
+| [3096](https://leetcode.com/problems/minimum-levels-to-gain-more-points/) | [Minimum Levels to Gain More Points](problems/3096.minimum-levels-to-gain-more-points.cpp) | 🟡 Medium | C++ |
 | [3097](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) | [Shortest Subarray With OR at Least K II](problems/3097.shortest-subarray-with-or-at-least-k-ii.cpp) | 🟡 Medium | C++ |
 | [3098](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/) | [Find the Sum of Subsequence Powers](problems/3098.find-the-sum-of-subsequence-powers.cpp) | 🔴 Hard | C++ |
 | [3099](https://leetcode.com/problems/harshad-number/) | [Harshad Number](problems/3099.harshad-number.cpp) | 🟢 Easy | C++ |
