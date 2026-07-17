@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2682 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 588 Hard
+**2683 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 589 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2616,6 +2616,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3876](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Construct Uniform Parity Array II](problems/3876.construct-uniform-parity-array-ii.cpp) | 🟡 Medium | C++ |
 | [3877](https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/) | [Minimum Removals to Achieve Target XOR](problems/3877.minimum-removals-to-achieve-target-xor.cpp) | 🟡 Medium | C++ |
 | [3882](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | [Minimum XOR Path in a Grid](problems/3882.minimum-xor-path-in-a-grid.cpp) | 🟡 Medium | C++ |
+| [3883](https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums/) | [Count Non Decreasing Arrays With Given Digit Sums](problems/3883.count-non-decreasing-arrays-with-given-digit-sums.cpp) | 🔴 Hard | C++ |
 | [3884](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [First Matching Character From Both Ends](problems/3884.first-matching-character-from-both-ends.cpp) | 🟢 Easy | C++ |
 | [3885](https://leetcode.com/problems/design-event-manager/) | [Design Event Manager](problems/3885.design-event-manager.cpp) | 🟡 Medium | C++ |
 | [3886](https://leetcode.com/problems/sum-of-sortable-integers/) | [Sum of Sortable Integers](problems/3886.sum-of-sortable-integers.cpp) | 🔴 Hard | C++ |
