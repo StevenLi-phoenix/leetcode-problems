@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2806 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 712 Hard
+**2807 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 713 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2789,6 +2789,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3954](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [Sum of Compatible Numbers in Range I](problems/3954.sum-of-compatible-numbers-in-range-i.cpp) | 🟢 Easy | C++ |
 | [3955](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | [Valid Binary Strings With Cost Limit](problems/3955.valid-binary-strings-with-cost-limit.cpp) | 🟡 Medium | C++ |
 | [3956](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/) | [Maximum Sum of M Non-Overlapping Subarrays I](problems/3956.maximum-sum-of-m-non-overlapping-subarrays-i.cpp) | 🔴 Hard | C++ |
+| [3957](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [Maximum Sum of M Non-Overlapping Subarrays II](problems/3957.maximum-sum-of-m-non-overlapping-subarrays-ii.cpp) | 🔴 Hard | C++ |
 | [3959](https://leetcode.com/problems/check-good-integer/) | [Check Good Integer](problems/3959.check-good-integer.cpp) | 🟢 Easy | C++ |
 | [3960](https://leetcode.com/problems/frequency-balance-subarray/) | [Frequency Balance Subarray](problems/3960.frequency-balance-subarray.cpp) | 🟡 Medium | C++ |
 | [3961](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | [Maximize Sum of Device Ratings](problems/3961.maximize-sum-of-device-ratings.cpp) | 🟡 Medium | C++ |
