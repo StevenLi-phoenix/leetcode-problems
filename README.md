@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2824 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 730 Hard
+**2825 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 731 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2358,6 +2358,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3343](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](problems/3343.count-number-of-balanced-permutations.cpp) | 🔴 Hard | C++ |
 | [3346](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Maximum Frequency of an Element After Performing Operations I](problems/3346.maximum-frequency-of-an-element-after-performing-operations-i.cpp) | 🟡 Medium | C++ |
 | [3347](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Maximum Frequency of an Element After Performing Operations II](problems/3347.maximum-frequency-of-an-element-after-performing-operations-ii.cpp) | 🔴 Hard | C++ |
+| [3348](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | [Smallest Divisible Digit Product II](problems/3348.smallest-divisible-digit-product-ii.cpp) | 🔴 Hard | C++ |
 | [3349](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [Adjacent Increasing Subarrays Detection I](problems/3349.adjacent-increasing-subarrays-detection-i.cpp) | 🟢 Easy | C++ |
 | [3350](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | [Adjacent Increasing Subarrays Detection II](problems/3350.adjacent-increasing-subarrays-detection-ii.cpp) | 🟡 Medium | C++ |
 | [3351](https://leetcode.com/problems/sum-of-good-subsequences/) | [Sum of Good Subsequences](problems/3351.sum-of-good-subsequences.cpp) | 🔴 Hard | C++ |
