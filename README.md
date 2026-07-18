@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2815 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 721 Hard
+**2816 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 722 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1646,6 +1646,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2296](https://leetcode.com/problems/design-a-text-editor/) | [Design a Text Editor](problems/2296.design-a-text-editor.cpp) | 🔴 Hard | C++ |
 | [2299](https://leetcode.com/problems/strong-password-checker-ii/) | [Strong Password Checker II](problems/2299.strong-password-checker-ii.cpp) | 🟢 Easy | C++ |
 | [2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Successful Pairs of Spells and Potions](problems/2300.successful-pairs-of-spells-and-potions.cpp) | 🟡 Medium | C++ |
+| [2301](https://leetcode.com/problems/match-substring-after-replacement/) | [Match Substring After Replacement](problems/2301.match-substring-after-replacement.cpp) | 🔴 Hard | C++ |
 | [2302](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | [Count Subarrays With Score Less Than K](problems/2302.count-subarrays-with-score-less-than-k.cpp) | 🔴 Hard | C++ |
 | [2303](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [Calculate Amount Paid in Taxes](problems/2303.calculate-amount-paid-in-taxes.cpp) | 🟢 Easy | C++ |
 | [2304](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [Minimum Path Cost in a Grid](problems/2304.minimum-path-cost-in-a-grid.cpp) | 🟡 Medium | C++ |
