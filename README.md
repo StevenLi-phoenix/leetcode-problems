@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2830 solved** — 🟢 528 Easy · 🟡 1557 Medium · 🔴 732 Hard
+**2831 solved** — 🟢 528 Easy · 🟡 1558 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2542,6 +2542,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3598](https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/) | [Longest Common Prefix Between Adjacent Strings After Removals](problems/3598.longest-common-prefix-between-adjacent-strings-after-removals.cpp) | 🟡 Medium | C++ |
 | [3599](https://leetcode.com/problems/partition-array-to-minimize-xor/) | [Partition Array to Minimize XOR](problems/3599.partition-array-to-minimize-xor.cpp) | 🟡 Medium | C++ |
 | [3600](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Maximize Spanning Tree Stability with Upgrades](problems/3600.maximize-spanning-tree-stability-with-upgrades.cpp) | 🔴 Hard | C++ |
+| [3601](https://leetcode.com/problems/find-drivers-with-improved-fuel-efficiency/) | [Find Drivers with Improved Fuel Efficiency](problems/3601.find-drivers-with-improved-fuel-efficiency.sql) | 🟡 Medium | mysql |
 | [3602](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [Hexadecimal and Hexatrigesimal Conversion](problems/3602.hexadecimal-and-hexatrigesimal-conversion.cpp) | 🟢 Easy | C++ |
 | [3603](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii/) | [Minimum Cost Path with Alternating Directions II](problems/3603.minimum-cost-path-with-alternating-directions-ii.cpp) | 🟡 Medium | C++ |
 | [3604](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | [Minimum Time to Reach Destination in Directed Graph](problems/3604.minimum-time-to-reach-destination-in-directed-graph.cpp) | 🟡 Medium | C++ |
