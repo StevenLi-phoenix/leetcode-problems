@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2825 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 731 Hard
+**2826 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2779,6 +2779,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3915](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](problems/3915.maximum-sum-of-alternating-subsequence-with-distance-at-least-k.cpp) | 🔴 Hard | C++ |
 | [3918](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | [Sum of Primes Between Number and Its Reverse](problems/3918.sum-of-primes-between-number-and-its-reverse.cpp) | 🟡 Medium | C++ |
 | [3919](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Minimum Cost to Move Between Indices](problems/3919.minimum-cost-to-move-between-indices.cpp) | 🟡 Medium | C++ |
+| [3920](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Maximize Fixed Points After Deletions](problems/3920.maximize-fixed-points-after-deletions.cpp) | 🔴 Hard | C++ |
 | [3921](https://leetcode.com/problems/score-validator/) | [Score Validator](problems/3921.score-validator.cpp) | 🟢 Easy | C++ |
 | [3922](https://leetcode.com/problems/minimum-flips-to-make-binary-string-coherent/) | [Minimum Flips to Make Binary String Coherent](problems/3922.minimum-flips-to-make-binary-string-coherent.cpp) | 🟡 Medium | C++ |
 | [3923](https://leetcode.com/problems/minimum-generations-to-target-point/) | [Minimum Generations to Target Point](problems/3923.minimum-generations-to-target-point.cpp) | 🟡 Medium | C++ |
