@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2774 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 680 Hard
+**2775 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 681 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1083,6 +1083,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1507](https://leetcode.com/problems/reformat-date/) | [Reformat Date](problems/1507.reformat-date.py) | 🟢 Easy | Python |
 | [1508](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | [Range Sum of Sorted Subarray Sums](problems/1508.range-sum-of-sorted-subarray-sums.cpp) | 🟡 Medium | C++ |
 | [1509](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [Minimum Difference Between Largest and Smallest Value in Three Moves](problems/1509.minimum-difference-between-largest-and-smallest-value-in-three-moves.cpp) | 🟡 Medium | C++ |
+| [1510](https://leetcode.com/problems/stone-game-iv/) | [Stone Game IV](problems/1510.stone-game-iv.cpp) | 🔴 Hard | C++ |
 | [1512](https://leetcode.com/problems/number-of-good-pairs/) | [Number of Good Pairs](problems/1512.number-of-good-pairs.cpp) | 🟢 Easy | C++ |
 | [1513](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Number of Substrings With Only 1s](problems/1513.number-of-substrings-with-only-1s.cpp) | 🟡 Medium | C++ |
 | [1514](https://leetcode.com/problems/path-with-maximum-probability/) | [Path with Maximum Probability](problems/1514.path-with-maximum-probability.cpp) | 🟡 Medium | C++ |
