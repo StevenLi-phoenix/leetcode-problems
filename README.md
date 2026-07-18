@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2834 solved** — 🟢 528 Easy · 🟡 1561 Medium · 🔴 732 Hard
+**2835 solved** — 🟢 528 Easy · 🟡 1562 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2520,6 +2520,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3563](https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals/) | [Lexicographically Smallest String After Adjacent Removals](problems/3563.lexicographically-smallest-string-after-adjacent-removals.cpp) | 🔴 Hard | C++ |
 | [3564](https://leetcode.com/problems/seasonal-sales-analysis/) | [Seasonal Sales Analysis](problems/3564.seasonal-sales-analysis.sql) | 🟡 Medium | mysql |
 | [3567](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/) | [Minimum Absolute Difference in Sliding Submatrix](problems/3567.minimum-absolute-difference-in-sliding-submatrix.cpp) | 🟡 Medium | C++ |
+| [3568](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Minimum Moves to Clean the Classroom](problems/3568.minimum-moves-to-clean-the-classroom.cpp) | 🟡 Medium | C++ |
 | [3569](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/) | [Maximize Count of Distinct Primes After Split](problems/3569.maximize-count-of-distinct-primes-after-split.cpp) | 🔴 Hard | C++ |
 | [3570](https://leetcode.com/problems/find-books-with-no-available-copies/) | [Find Books with No Available Copies](problems/3570.find-books-with-no-available-copies.sql) | 🟢 Easy | mysql |
 | [3572](https://leetcode.com/problems/maximize-ysum-by-picking-a-triplet-of-distinct-xvalues/) | [Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values](problems/3572.maximize-ysum-by-picking-a-triplet-of-distinct-xvalues.cpp) | 🟡 Medium | C++ |
