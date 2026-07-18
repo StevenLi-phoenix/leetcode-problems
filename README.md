@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2782 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 688 Hard
+**2783 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 689 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1224,6 +1224,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1710](https://leetcode.com/problems/maximum-units-on-a-truck/) | [Maximum Units on a Truck](problems/1710.maximum-units-on-a-truck.cpp) | 🟢 Easy | C++ |
 | [1711](https://leetcode.com/problems/count-good-meals/) | [Count Good Meals](problems/1711.count-good-meals.cpp) | 🟡 Medium | C++ |
 | [1712](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [Ways to Split Array Into Three Subarrays](problems/1712.ways-to-split-array-into-three-subarrays.cpp) | 🟡 Medium | C++ |
+| [1713](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/) | [Minimum Operations to Make a Subsequence](problems/1713.minimum-operations-to-make-a-subsequence.cpp) | 🔴 Hard | C++ |
 | [1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [Calculate Money in Leetcode Bank](problems/1716.calculate-money-in-leetcode-bank.cpp) | 🟢 Easy | C++ |
 | [1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [Maximum Score From Removing Substrings](problems/1717.maximum-score-from-removing-substrings.cpp) | 🟡 Medium | C++ |
 | [1718](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [Construct the Lexicographically Largest Valid Sequence](problems/1718.construct-the-lexicographically-largest-valid-sequence.cpp) | 🟡 Medium | C++ |
