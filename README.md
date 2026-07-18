@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2773 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 679 Hard
+**2774 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 680 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2684,6 +2684,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3849](https://leetcode.com/problems/maximum-bitwise-xor-after-rearrangement/) | [Maximum Bitwise XOR After Rearrangement](problems/3849.maximum-bitwise-xor-after-rearrangement.cpp) | 🟡 Medium | C++ |
 | [3850](https://leetcode.com/problems/count-sequences-to-k/) | [Count Sequences to K](problems/3850.count-sequences-to-k.cpp) | 🔴 Hard | C++ |
 | [3853](https://leetcode.com/problems/merge-close-characters/) | [Merge Close Characters](problems/3853.merge-close-characters.cpp) | 🟡 Medium | C++ |
+| [3855](https://leetcode.com/problems/sum-of-k-digit-numbers-in-a-range/) | [Sum of K-Digit Numbers in a Range](problems/3855.sum-of-k-digit-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
 | [3857](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | [Minimum Cost to Split into Ones](problems/3857.minimum-cost-to-split-into-ones.cpp) | 🟡 Medium | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
