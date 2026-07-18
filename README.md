@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2833 solved** — 🟢 528 Easy · 🟡 1560 Medium · 🔴 732 Hard
+**2834 solved** — 🟢 528 Easy · 🟡 1561 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1228,6 +1228,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Maximum Height by Stacking Cuboids ](problems/1691.maximum-height-by-stacking-cuboids.cpp) | 🔴 Hard | C++ |
 | [1694](https://leetcode.com/problems/reformat-phone-number/) | [Reformat Phone Number](problems/1694.reformat-phone-number.cpp) | 🟢 Easy | C++ |
 | [1695](https://leetcode.com/problems/maximum-erasure-value/) | [Maximum Erasure Value](problems/1695.maximum-erasure-value.cpp) | 🟡 Medium | C++ |
+| [1696](https://leetcode.com/problems/jump-game-vi/) | [Jump Game VI](problems/1696.jump-game-vi.cpp) | 🟡 Medium | C++ |
 | [1697](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/) | [Checking Existence of Edge Length Limited Paths](problems/1697.checking-existence-of-edge-length-limited-paths.cpp) | 🔴 Hard | C++ |
 | [1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [Number of Students Unable to Eat Lunch](problems/1700.number-of-students-unable-to-eat-lunch.cpp) | 🟢 Easy | C++ |
 | [1701](https://leetcode.com/problems/average-waiting-time/) | [Average Waiting Time](problems/1701.average-waiting-time.cpp) | 🟡 Medium | C++ |
