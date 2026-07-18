@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2828 solved** — 🟢 528 Easy · 🟡 1555 Medium · 🔴 732 Hard
+**2829 solved** — 🟢 528 Easy · 🟡 1556 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -708,6 +708,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [932](https://leetcode.com/problems/beautiful-array/) | [Beautiful Array](problems/932.beautiful-array.cpp) | 🟡 Medium | C++ |
 | [933](https://leetcode.com/problems/number-of-recent-calls/) | [Number of Recent Calls](problems/933.number-of-recent-calls.cpp) | 🟢 Easy | C++ |
 | [934](https://leetcode.com/problems/shortest-bridge/) | [Shortest Bridge](problems/934.shortest-bridge.cpp) | 🟡 Medium | C++ |
+| [935](https://leetcode.com/problems/knight-dialer/) | [Knight Dialer](problems/935.knight-dialer.cpp) | 🟡 Medium | C++ |
 | [936](https://leetcode.com/problems/stamping-the-sequence/) | [Stamping The Sequence](problems/936.stamping-the-sequence.cpp) | 🔴 Hard | C++ |
 | [937](https://leetcode.com/problems/reorder-data-in-log-files/) | [Reorder Data in Log Files](problems/937.reorder-data-in-log-files.cpp) | 🟡 Medium | C++ |
 | [938](https://leetcode.com/problems/range-sum-of-bst/) | [Range Sum of BST](problems/938.range-sum-of-bst.cpp) | 🟢 Easy | C++ |
