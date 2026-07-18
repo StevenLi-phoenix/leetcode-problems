@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2775 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 681 Hard
+**2776 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 682 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2295,6 +2295,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3303](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [Find the Occurrence of First Almost Equal Substring](problems/3303.find-the-occurrence-of-first-almost-equal-substring.cpp) | 🔴 Hard | C++ |
 | [3304](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [Find the K-th Character in String Game I](problems/3304.find-the-k-th-character-in-string-game-i.cpp) | 🟢 Easy | C++ |
 | [3305](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) | [Count of Substrings Containing Every Vowel and K Consonants I](problems/3305.count-of-substrings-containing-every-vowel-and-k-consonants-i.cpp) | 🟡 Medium | C++ |
+| [3307](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [Find the K-th Character in String Game II](problems/3307.find-the-k-th-character-in-string-game-ii.cpp) | 🔴 Hard | C++ |
 | [3309](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) | [Maximum Possible Number by Binary Concatenation](problems/3309.maximum-possible-number-by-binary-concatenation.cpp) | 🟡 Medium | C++ |
 | [3310](https://leetcode.com/problems/remove-methods-from-project/) | [Remove Methods From Project](problems/3310.remove-methods-from-project.cpp) | 🟡 Medium | C++ |
 | [3311](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [Construct 2D Grid Matching Graph Layout](problems/3311.construct-2d-grid-matching-graph-layout.cpp) | 🔴 Hard | C++ |
