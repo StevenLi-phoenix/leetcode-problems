@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2779 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 685 Hard
+**2780 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 686 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2647,6 +2647,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3794](https://leetcode.com/problems/reverse-string-prefix/) | [Reverse String Prefix](problems/3794.reverse-string-prefix.cpp) | 🟢 Easy | C++ |
 | [3795](https://leetcode.com/problems/minimum-subarray-length-with-distinct-sum-at-least-k/) | [Minimum Subarray Length With Distinct Sum At Least K](problems/3795.minimum-subarray-length-with-distinct-sum-at-least-k.cpp) | 🟡 Medium | C++ |
 | [3796](https://leetcode.com/problems/find-maximum-value-in-a-constrained-sequence/) | [Find Maximum Value in a Constrained Sequence](problems/3796.find-maximum-value-in-a-constrained-sequence.cpp) | 🟡 Medium | C++ |
+| [3797](https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid/) | [Count Routes to Climb a Rectangular Grid](problems/3797.count-routes-to-climb-a-rectangular-grid.cpp) | 🔴 Hard | C++ |
 | [3798](https://leetcode.com/problems/largest-even-number/) | [Largest Even Number](problems/3798.largest-even-number.cpp) | 🟢 Easy | C++ |
 | [3799](https://leetcode.com/problems/word-squares-ii/) | [Word Squares II](problems/3799.word-squares-ii.cpp) | 🟡 Medium | C++ |
 | [3800](https://leetcode.com/problems/minimum-cost-to-make-two-binary-strings-equal/) | [Minimum Cost to Make Two Binary Strings Equal](problems/3800.minimum-cost-to-make-two-binary-strings-equal.cpp) | 🟡 Medium | C++ |
