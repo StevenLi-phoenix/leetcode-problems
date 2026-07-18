@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2826 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 732 Hard
+**2827 solved** — 🟢 528 Easy · 🟡 1554 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1218,6 +1218,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1679](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Max Number of K-Sum Pairs](problems/1679.max-number-of-k-sum-pairs.cpp) | 🟡 Medium | C++ |
 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](problems/1680.concatenation-of-consecutive-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1683](https://leetcode.com/problems/invalid-tweets/) | [Invalid Tweets](problems/1683.invalid-tweets.sql) | 🟢 Easy | mysql |
+| [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [Sum of Absolute Differences in a Sorted Array](problems/1685.sum-of-absolute-differences-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [1686](https://leetcode.com/problems/stone-game-vi/) | [Stone Game VI](problems/1686.stone-game-vi.cpp) | 🟡 Medium | C++ |
 | [1687](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | [Delivering Boxes from Storage to Ports](problems/1687.delivering-boxes-from-storage-to-ports.cpp) | 🔴 Hard | C++ |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](problems/1689.partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | 🟡 Medium | C++ |
