@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2771 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 677 Hard
+**2772 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 678 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2475,6 +2475,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3575](https://leetcode.com/problems/maximum-good-subtree-score/) | [Maximum Good Subtree Score](problems/3575.maximum-good-subtree-score.cpp) | 🔴 Hard | C++ |
 | [3576](https://leetcode.com/problems/transform-array-to-all-equal-elements/) | [Transform Array to All Equal Elements](problems/3576.transform-array-to-all-equal-elements.cpp) | 🟡 Medium | C++ |
 | [3578](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | [Count Partitions With Max-Min Difference at Most K](problems/3578.count-partitions-with-max-min-difference-at-most-k.cpp) | 🟡 Medium | C++ |
+| [3579](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/) | [Minimum Steps to Convert String with Operations](problems/3579.minimum-steps-to-convert-string-with-operations.cpp) | 🔴 Hard | C++ |
 | [3580](https://leetcode.com/problems/find-consistently-improving-employees/) | [Find Consistently Improving Employees](problems/3580.find-consistently-improving-employees.sql) | 🟡 Medium | mysql |
 | [3582](https://leetcode.com/problems/generate-tag-for-video-caption/) | [Generate Tag for Video Caption](problems/3582.generate-tag-for-video-caption.cpp) | 🟢 Easy | C++ |
 | [3583](https://leetcode.com/problems/count-special-triplets/) | [Count Special Triplets](problems/3583.count-special-triplets.cpp) | 🟡 Medium | C++ |
