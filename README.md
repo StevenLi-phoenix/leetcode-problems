@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2776 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 682 Hard
+**2777 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 683 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2769,6 +2769,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3968](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/) | [Maximum Manhattan Distance After All Moves](problems/3968.maximum-manhattan-distance-after-all-moves.cpp) | 🟡 Medium | C++ |
 | [3969](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/) | [Valid Subarrays With Matching Sum Digits I](problems/3969.valid-subarrays-with-matching-sum-digits-i.cpp) | 🟡 Medium | C++ |
 | [3970](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Shortest Path With At Most K Consecutive Identical Characters](problems/3970.shortest-path-with-at-most-k-consecutive-identical-characters.cpp) | 🟡 Medium | C++ |
+| [3971](https://leetcode.com/problems/maximum-total-value/) | [Maximum Total Value](problems/3971.maximum-total-value.cpp) | 🔴 Hard | C++ |
 | [3974](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements/) | [Maximum Total Sum of K Selected Elements](problems/3974.maximum-total-sum-of-k-selected-elements.cpp) | — | C++ |
 | [3975](https://leetcode.com/problems/filter-occupied-intervals/) | [Filter Occupied Intervals](problems/3975.filter-occupied-intervals.cpp) | — | C++ |
 | [3976](https://leetcode.com/problems/maximum-subarray-sum-after-multiplier/) | [Maximum Subarray Sum After Multiplier](problems/3976.maximum-subarray-sum-after-multiplier.cpp) | — | C++ |
