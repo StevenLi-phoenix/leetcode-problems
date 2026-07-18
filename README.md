@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2797 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 703 Hard
+**2798 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 704 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1528,6 +1528,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2132](https://leetcode.com/problems/stamping-the-grid/) | [Stamping the Grid](problems/2132.stamping-the-grid.cpp) | 🔴 Hard | C++ |
 | [2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [Minimum Swaps to Group All 1's Together II](problems/2134.minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 Medium | C++ |
 | [2135](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | [Count Words Obtained After Adding a Letter](problems/2135.count-words-obtained-after-adding-a-letter.cpp) | 🟡 Medium | C++ |
+| [2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Earliest Possible Day of Full Bloom](problems/2136.earliest-possible-day-of-full-bloom.cpp) | 🔴 Hard | C++ |
 | [2139](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [Minimum Moves to Reach Target Score](problems/2139.minimum-moves-to-reach-target-score.cpp) | 🟡 Medium | C++ |
 | [2140](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Solving Questions With Brainpower](problems/2140.solving-questions-with-brainpower.cpp) | 🟡 Medium | C++ |
 | [2141](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [Maximum Running Time of N Computers](problems/2141.maximum-running-time-of-n-computers.cpp) | 🔴 Hard | C++ |
