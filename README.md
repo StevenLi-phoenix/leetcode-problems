@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2769 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 675 Hard
+**2770 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 676 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -434,6 +434,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [594](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](problems/594.longest-harmonious-subsequence.cpp) | 🟢 Easy | C++ |
 | [596](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Classes With at Least 5 Students](problems/596.classes-with-at-least-5-students.sql) | 🟢 Easy | mysql |
 | [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Minimum Index Sum of Two Lists](problems/599.minimum-index-sum-of-two-lists.cpp) | 🟢 Easy | C++ |
+| [601](https://leetcode.com/problems/human-traffic-of-stadium/) | [Human Traffic of Stadium](problems/601.human-traffic-of-stadium.sql) | 🔴 Hard | mysql |
 | [602](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Friend Requests II: Who Has the Most Friends](problems/602.friend-requests-ii-who-has-the-most-friends.sql) | 🟡 Medium | mysql |
 | [605](https://leetcode.com/problems/can-place-flowers/) | [Can Place Flowers](problems/605.can-place-flowers.cpp) | 🟢 Easy | C++ |
 | [606](https://leetcode.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](problems/606.construct-string-from-binary-tree.cpp) | 🟡 Medium | C++ |
