@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2770 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 676 Hard
+**2771 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 677 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -168,6 +168,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [171](https://leetcode.com/problems/excel-sheet-column-number/) | [Excel Sheet Column Number](problems/171.excel-sheet-column-number.cpp) | 🟢 Easy | C++ |
 | [172](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Factorial Trailing Zeroes](problems/172.factorial-trailing-zeroes.cpp) | 🟡 Medium | C++ |
 | [173](https://leetcode.com/problems/binary-search-tree-iterator/) | [Binary Search Tree Iterator](problems/173.binary-search-tree-iterator.cpp) | 🟡 Medium | C++ |
+| [174](https://leetcode.com/problems/dungeon-game/) | [Dungeon Game](problems/174.dungeon-game.cpp) | 🔴 Hard | C++ |
 | [176](https://leetcode.com/problems/second-highest-salary/) | [Second Highest Salary](problems/176.second-highest-salary.sql) | 🟡 Medium | mysql |
 | [177](https://leetcode.com/problems/nth-highest-salary/) | [Nth Highest Salary](problems/177.nth-highest-salary.sql) | 🟡 Medium | mysql |
 | [178](https://leetcode.com/problems/rank-scores/) | [Rank Scores](problems/178.rank-scores.sql) | 🟡 Medium | mysql |
