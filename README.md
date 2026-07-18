@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2827 solved** — 🟢 528 Easy · 🟡 1554 Medium · 🔴 732 Hard
+**2828 solved** — 🟢 528 Easy · 🟡 1555 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -454,6 +454,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [619](https://leetcode.com/problems/biggest-single-number/) | [Biggest Single Number](problems/619.biggest-single-number.sql) | 🟢 Easy | mysql |
 | [621](https://leetcode.com/problems/task-scheduler/) | [Task Scheduler](problems/621.task-scheduler.cpp) | 🟡 Medium | C++ |
 | [623](https://leetcode.com/problems/add-one-row-to-tree/) | [Add One Row to Tree](problems/623.add-one-row-to-tree.cpp) | 🟡 Medium | C++ |
+| [624](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Maximum Distance in Arrays](problems/624.maximum-distance-in-arrays.cpp) | 🟡 Medium | C++ |
 | [626](https://leetcode.com/problems/exchange-seats/) | [Exchange Seats](problems/626.exchange-seats.sql) | 🟡 Medium | mysql |
 | [628](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Product of Three Numbers](problems/628.maximum-product-of-three-numbers.cpp) | 🟢 Easy | C++ |
 | [629](https://leetcode.com/problems/k-inverse-pairs-array/) | [K Inverse Pairs Array](problems/629.k-inverse-pairs-array.cpp) | 🔴 Hard | C++ |
