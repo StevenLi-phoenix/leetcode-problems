@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2804 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 710 Hard
+**2805 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 711 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2432,6 +2432,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3482](https://leetcode.com/problems/analyze-organization-hierarchy/) | [Analyze Organization Hierarchy](problems/3482.analyze-organization-hierarchy.sql) | 🔴 Hard | mysql |
 | [3484](https://leetcode.com/problems/design-spreadsheet/) | [Design Spreadsheet](problems/3484.design-spreadsheet.cpp) | 🟡 Medium | C++ |
 | [3485](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/) | [Longest Common Prefix of K Strings After Removal](problems/3485.longest-common-prefix-of-k-strings-after-removal.cpp) | 🔴 Hard | C++ |
+| [3486](https://leetcode.com/problems/longest-special-path-ii/) | [Longest Special Path II](problems/3486.longest-special-path-ii.cpp) | 🔴 Hard | C++ |
 | [3487](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [Maximum Unique Subarray Sum After Deletion](problems/3487.maximum-unique-subarray-sum-after-deletion.cpp) | 🟢 Easy | C++ |
 | [3488](https://leetcode.com/problems/closest-equal-element-queries/) | [Closest Equal Element Queries](problems/3488.closest-equal-element-queries.cpp) | 🟡 Medium | C++ |
 | [3489](https://leetcode.com/problems/zero-array-transformation-iv/) | [Zero Array Transformation IV](problems/3489.zero-array-transformation-iv.cpp) | 🟡 Medium | C++ |
