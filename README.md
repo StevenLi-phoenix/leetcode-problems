@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2820 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 726 Hard
+**2821 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 727 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2006,6 +2006,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2831](https://leetcode.com/problems/find-the-longest-equal-subarray/) | [Find the Longest Equal Subarray](problems/2831.find-the-longest-equal-subarray.cpp) | 🟡 Medium | C++ |
 | [2833](https://leetcode.com/problems/furthest-point-from-origin/) | [Furthest Point From Origin](problems/2833.furthest-point-from-origin.cpp) | 🟢 Easy | C++ |
 | [2834](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/) | [Find the Minimum Possible Sum of a Beautiful Array](problems/2834.find-the-minimum-possible-sum-of-a-beautiful-array.cpp) | 🟡 Medium | C++ |
+| [2835](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/) | [Minimum Operations to Form Subsequence With Target Sum](problems/2835.minimum-operations-to-form-subsequence-with-target-sum.cpp) | 🔴 Hard | C++ |
 | [2836](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/) | [Maximize Value of Function in a Ball Passing Game](problems/2836.maximize-value-of-function-in-a-ball-passing-game.cpp) | 🔴 Hard | C++ |
 | [2839](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Check if Strings Can be Made Equal With Operations I](problems/2839.check-if-strings-can-be-made-equal-with-operations-i.cpp) | 🟢 Easy | C++ |
 | [2840](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/) | [Check if Strings Can be Made Equal With Operations II](problems/2840.check-if-strings-can-be-made-equal-with-operations-ii.cpp) | 🟡 Medium | C++ |
