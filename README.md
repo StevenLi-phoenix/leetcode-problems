@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2778 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 684 Hard
+**2779 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 685 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -406,6 +406,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [541](https://leetcode.com/problems/reverse-string-ii/) | [Reverse String II](problems/541.reverse-string-ii.cpp) | 🟢 Easy | C++ |
 | [542](https://leetcode.com/problems/01-matrix/) | [01 Matrix](problems/542.01-matrix.cpp) | 🟡 Medium | C++ |
 | [543](https://leetcode.com/problems/diameter-of-binary-tree/) | [Diameter of Binary Tree](problems/543.diameter-of-binary-tree.cpp) | 🟢 Easy | C++ |
+| [546](https://leetcode.com/problems/remove-boxes/) | [Remove Boxes](problems/546.remove-boxes.cpp) | 🔴 Hard | C++ |
 | [547](https://leetcode.com/problems/number-of-provinces/) | [Number of Provinces](problems/547.number-of-provinces.cpp) | 🟡 Medium | C++ |
 | [550](https://leetcode.com/problems/game-play-analysis-iv/) | [Game Play Analysis IV](problems/550.game-play-analysis-iv.sql) | 🟡 Medium | mysql |
 | [552](https://leetcode.com/problems/student-attendance-record-ii/) | [Student Attendance Record II](problems/552.student-attendance-record-ii.cpp) | 🔴 Hard | C++ |
