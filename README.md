@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2805 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 711 Hard
+**2806 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 712 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1790,6 +1790,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2511](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [Maximum Enemy Forts That Can Be Captured](problems/2511.maximum-enemy-forts-that-can-be-captured.cpp) | 🟢 Easy | C++ |
 | [2512](https://leetcode.com/problems/reward-top-k-students/) | [Reward Top K Students](problems/2512.reward-top-k-students.cpp) | 🟡 Medium | C++ |
 | [2513](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Minimize the Maximum of Two Arrays](problems/2513.minimize-the-maximum-of-two-arrays.cpp) | 🟡 Medium | C++ |
+| [2514](https://leetcode.com/problems/count-anagrams/) | [Count Anagrams](problems/2514.count-anagrams.cpp) | 🔴 Hard | C++ |
 | [2515](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [Shortest Distance to Target String in a Circular Array](problems/2515.shortest-distance-to-target-string-in-a-circular-array.cpp) | 🟢 Easy | C++ |
 | [2516](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) | [Take K of Each Character From Left and Right](problems/2516.take-k-of-each-character-from-left-and-right.cpp) | 🟡 Medium | C++ |
 | [2517](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/) | [Maximum Tastiness of Candy Basket](problems/2517.maximum-tastiness-of-candy-basket.cpp) | 🟡 Medium | C++ |
