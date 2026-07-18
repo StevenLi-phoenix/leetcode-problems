@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2787 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 693 Hard
+**2788 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 694 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -857,6 +857,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1147](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Longest Chunked Palindrome Decomposition](problems/1147.longest-chunked-palindrome-decomposition.cpp) | 🔴 Hard | C++ |
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Number of Dice Rolls With Target Sum](problems/1155.number-of-dice-rolls-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [1156](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [Swap For Longest Repeated Character Substring](problems/1156.swap-for-longest-repeated-character-substring.cpp) | 🟡 Medium | C++ |
+| [1157](https://leetcode.com/problems/online-majority-element-in-subarray/) | [Online Majority Element In Subarray](problems/1157.online-majority-element-in-subarray.cpp) | 🔴 Hard | C++ |
 | [1161](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [Maximum Level Sum of a Binary Tree](problems/1161.maximum-level-sum-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1162](https://leetcode.com/problems/as-far-from-land-as-possible/) | [As Far from Land as Possible](problems/1162.as-far-from-land-as-possible.cpp) | 🟡 Medium | C++ |
 | [1163](https://leetcode.com/problems/last-substring-in-lexicographical-order/) | [Last Substring in Lexicographical Order](problems/1163.last-substring-in-lexicographical-order.cpp) | 🔴 Hard | C++ |
