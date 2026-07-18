@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2817 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 723 Hard
+**2818 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 724 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1405,6 +1405,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1948](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Delete Duplicate Folders in System](problems/1948.delete-duplicate-folders-in-system.cpp) | 🔴 Hard | C++ |
 | [1953](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [Maximum Number of Weeks for Which You Can Work](problems/1953.maximum-number-of-weeks-for-which-you-can-work.cpp) | 🟡 Medium | C++ |
 | [1954](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [Minimum Garden Perimeter to Collect Enough Apples](problems/1954.minimum-garden-perimeter-to-collect-enough-apples.cpp) | 🟡 Medium | C++ |
+| [1955](https://leetcode.com/problems/count-number-of-special-subsequences/) | [Count Number of Special Subsequences](problems/1955.count-number-of-special-subsequences.cpp) | 🔴 Hard | C++ |
 | [1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [Delete Characters to Make Fancy String](problems/1957.delete-characters-to-make-fancy-string.cpp) | 🟢 Easy | C++ |
 | [1958](https://leetcode.com/problems/check-if-move-is-legal/) | [Check if Move is Legal](problems/1958.check-if-move-is-legal.cpp) | 🟡 Medium | C++ |
 | [1959](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [Minimum Total Space Wasted With K Resizing Operations](problems/1959.minimum-total-space-wasted-with-k-resizing-operations.cpp) | 🟡 Medium | C++ |
