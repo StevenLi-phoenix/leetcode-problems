@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2812 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 718 Hard
+**2813 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 719 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -327,6 +327,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [424](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Longest Repeating Character Replacement](problems/424.longest-repeating-character-replacement.cpp) | 🟡 Medium | C++ |
 | [429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [N-ary Tree Level Order Traversal](problems/429.n-ary-tree-level-order-traversal.cpp) | 🟡 Medium | C++ |
 | [430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](problems/430.flatten-a-multilevel-doubly-linked-list.cpp) | 🟡 Medium | C++ |
+| [432](https://leetcode.com/problems/all-oone-data-structure/) | [All O`one Data Structure](problems/432.all-oone-data-structure.cpp) | 🔴 Hard | C++ |
 | [433](https://leetcode.com/problems/minimum-genetic-mutation/) | [Minimum Genetic Mutation](problems/433.minimum-genetic-mutation.cpp) | 🟡 Medium | C++ |
 | [434](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Number of Segments in a String](problems/434.number-of-segments-in-a-string.cpp) | 🟢 Easy | C++ |
 | [435](https://leetcode.com/problems/non-overlapping-intervals/) | [Non-overlapping Intervals](problems/435.non-overlapping-intervals.cpp) | 🟡 Medium | C++ |
