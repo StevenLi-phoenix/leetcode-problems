@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2790 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 696 Hard
+**2791 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 697 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2408,6 +2408,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3457](https://leetcode.com/problems/eat-pizzas/) | [Eat Pizzas!](problems/3457.eat-pizzas.cpp) | 🟡 Medium | C++ |
 | [3458](https://leetcode.com/problems/select-k-disjoint-special-substrings/) | [Select K Disjoint Special Substrings](problems/3458.select-k-disjoint-special-substrings.cpp) | 🟡 Medium | C++ |
 | [3462](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/) | [Maximum Sum With at Most K Elements](problems/3462.maximum-sum-with-at-most-k-elements.cpp) | 🟡 Medium | C++ |
+| [3463](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | [Check If Digits Are Equal in String After Operations II](problems/3463.check-if-digits-are-equal-in-string-after-operations-ii.cpp) | 🔴 Hard | C++ |
 | [3464](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Maximize the Distance Between Points on a Square](problems/3464.maximize-the-distance-between-points-on-a-square.cpp) | 🔴 Hard | C++ |
 | [3467](https://leetcode.com/problems/transform-array-by-parity/) | [Transform Array by Parity](problems/3467.transform-array-by-parity.cpp) | 🟢 Easy | C++ |
 | [3468](https://leetcode.com/problems/find-the-number-of-copy-arrays/) | [Find the Number of Copy Arrays](problems/3468.find-the-number-of-copy-arrays.cpp) | 🟡 Medium | C++ |
