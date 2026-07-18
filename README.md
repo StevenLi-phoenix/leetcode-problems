@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2793 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 699 Hard
+**2794 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 700 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -260,6 +260,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [327](https://leetcode.com/problems/count-of-range-sum/) | [Count of Range Sum](problems/327.count-of-range-sum.cpp) | 🔴 Hard | C++ |
 | [328](https://leetcode.com/problems/odd-even-linked-list/) | [Odd Even Linked List](problems/328.odd-even-linked-list.cpp) | 🟡 Medium | C++ |
 | [329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [Longest Increasing Path in a Matrix](problems/329.longest-increasing-path-in-a-matrix.cpp) | 🔴 Hard | C++ |
+| [330](https://leetcode.com/problems/patching-array/) | [Patching Array](problems/330.patching-array.cpp) | 🔴 Hard | C++ |
 | [331](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Verify Preorder Serialization of a Binary Tree](problems/331.verify-preorder-serialization-of-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [332](https://leetcode.com/problems/reconstruct-itinerary/) | [Reconstruct Itinerary](problems/332.reconstruct-itinerary.cpp) | 🔴 Hard | C++ |
 | [334](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Increasing Triplet Subsequence](problems/334.increasing-triplet-subsequence.cpp) | 🟡 Medium | C++ |
