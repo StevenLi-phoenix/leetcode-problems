@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2786 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 692 Hard
+**2787 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 693 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -664,6 +664,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [888](https://leetcode.com/problems/fair-candy-swap/) | [Fair Candy Swap](problems/888.fair-candy-swap.cpp) | 🟢 Easy | C++ |
 | [889](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Construct Binary Tree from Preorder and Postorder Traversal](problems/889.construct-binary-tree-from-preorder-and-postorder-traversal.cpp) | 🟡 Medium | C++ |
 | [890](https://leetcode.com/problems/find-and-replace-pattern/) | [Find and Replace Pattern](problems/890.find-and-replace-pattern.cpp) | 🟡 Medium | C++ |
+| [891](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Sum of Subsequence Widths](problems/891.sum-of-subsequence-widths.cpp) | 🔴 Hard | C++ |
 | [893](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Groups of Special-Equivalent Strings](problems/893.groups-of-special-equivalent-strings.cpp) | 🟡 Medium | C++ |
 | [894](https://leetcode.com/problems/all-possible-full-binary-trees/) | [All Possible Full Binary Trees](problems/894.all-possible-full-binary-trees.cpp) | 🟡 Medium | C++ |
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
