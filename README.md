@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2792 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 698 Hard
+**2793 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 699 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2301,6 +2301,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3295](https://leetcode.com/problems/report-spam-message/) | [Report Spam Message](problems/3295.report-spam-message.cpp) | 🟡 Medium | C++ |
 | [3296](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/) | [Minimum Number of Seconds to Make Mountain Height Zero](problems/3296.minimum-number-of-seconds-to-make-mountain-height-zero.cpp) | 🟡 Medium | C++ |
 | [3297](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | [Count Substrings That Can Be Rearranged to Contain a String I](problems/3297.count-substrings-that-can-be-rearranged-to-contain-a-string-i.cpp) | 🟡 Medium | C++ |
+| [3298](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | [Count Substrings That Can Be Rearranged to Contain a String II](problems/3298.count-substrings-that-can-be-rearranged-to-contain-a-string-ii.cpp) | 🔴 Hard | C++ |
 | [3300](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [Minimum Element After Replacement With Digit Sum](problems/3300.minimum-element-after-replacement-with-digit-sum.cpp) | 🟢 Easy | C++ |
 | [3301](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/) | [Maximize the Total Height of Unique Towers](problems/3301.maximize-the-total-height-of-unique-towers.cpp) | 🟡 Medium | C++ |
 | [3302](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | [Find the Lexicographically Smallest Valid Sequence](problems/3302.find-the-lexicographically-smallest-valid-sequence.cpp) | 🟡 Medium | C++ |
