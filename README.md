@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2777 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 683 Hard
+**2778 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 684 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -238,6 +238,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](problems/287.find-the-duplicate-number.cpp) | 🟡 Medium | C++ |
 | [289](https://leetcode.com/problems/game-of-life/) | [Game of Life](problems/289.game-of-life.cpp) | 🟡 Medium | C++ |
 | [292](https://leetcode.com/problems/nim-game/) | [Nim Game](problems/292.nim-game.cpp) | 🟢 Easy | C++ |
+| [295](https://leetcode.com/problems/find-median-from-data-stream/) | [Find Median from Data Stream](problems/295.find-median-from-data-stream.cpp) | 🔴 Hard | C++ |
 | [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](problems/297.serialize-and-deserialize-binary-tree.cpp) | 🔴 Hard | C++ |
 | [299](https://leetcode.com/problems/bulls-and-cows/) | [Bulls and Cows](problems/299.bulls-and-cows.cpp) | 🟡 Medium | C++ |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](problems/300.longest-increasing-subsequence.cpp) | 🟡 Medium | C++ |
