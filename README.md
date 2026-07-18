@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2831 solved** — 🟢 528 Easy · 🟡 1558 Medium · 🔴 732 Hard
+**2832 solved** — 🟢 528 Easy · 🟡 1559 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1725,6 +1725,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2401](https://leetcode.com/problems/longest-nice-subarray/) | [Longest Nice Subarray](problems/2401.longest-nice-subarray.cpp) | 🟡 Medium | C++ |
 | [2402](https://leetcode.com/problems/meeting-rooms-iii/) | [Meeting Rooms III](problems/2402.meeting-rooms-iii.cpp) | 🔴 Hard | C++ |
 | [2404](https://leetcode.com/problems/most-frequent-even-element/) | [Most Frequent Even Element](problems/2404.most-frequent-even-element.cpp) | 🟢 Easy | C++ |
+| [2405](https://leetcode.com/problems/optimal-partition-of-string/) | [Optimal Partition of String](problems/2405.optimal-partition-of-string.cpp) | 🟡 Medium | C++ |
 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Divide Intervals Into Minimum Number of Groups](problems/2406.divide-intervals-into-minimum-number-of-groups.cpp) | 🟡 Medium | C++ |
 | [2407](https://leetcode.com/problems/longest-increasing-subsequence-ii/) | [Longest Increasing Subsequence II](problems/2407.longest-increasing-subsequence-ii.cpp) | 🔴 Hard | C++ |
 | [2409](https://leetcode.com/problems/count-days-spent-together/) | [Count Days Spent Together](problems/2409.count-days-spent-together.cpp) | 🟢 Easy | C++ |
