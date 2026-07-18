@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2800 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 706 Hard
+**2801 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 707 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1591,6 +1591,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2224](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [Minimum Number of Operations to Convert Time](problems/2224.minimum-number-of-operations-to-convert-time.cpp) | 🟢 Easy | C++ |
 | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [Find Players With Zero or One Losses](problems/2225.find-players-with-zero-or-one-losses.cpp) | 🟡 Medium | C++ |
 | [2226](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [Maximum Candies Allocated to K Children](problems/2226.maximum-candies-allocated-to-k-children.cpp) | 🟡 Medium | C++ |
+| [2227](https://leetcode.com/problems/encrypt-and-decrypt-strings/) | [Encrypt and Decrypt Strings](problems/2227.encrypt-and-decrypt-strings.cpp) | 🔴 Hard | C++ |
 | [2231](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [Largest Number After Digit Swaps by Parity](problems/2231.largest-number-after-digit-swaps-by-parity.cpp) | 🟢 Easy | C++ |
 | [2232](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [Minimize Result by Adding Parentheses to Expression](problems/2232.minimize-result-by-adding-parentheses-to-expression.cpp) | 🟡 Medium | C++ |
 | [2233](https://leetcode.com/problems/maximum-product-after-k-increments/) | [Maximum Product After K Increments](problems/2233.maximum-product-after-k-increments.cpp) | 🟡 Medium | C++ |
