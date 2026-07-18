@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2791 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 697 Hard
+**2792 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 698 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2121,6 +2121,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](problems/3016.minimum-number-of-pushes-to-type-word-ii.cpp) | 🟡 Medium | C++ |
 | [3019](https://leetcode.com/problems/number-of-changing-keys/) | [Number of Changing Keys](problems/3019.number-of-changing-keys.cpp) | 🟢 Easy | C++ |
 | [3021](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | [Alice and Bob Playing Flower Game](problems/3021.alice-and-bob-playing-flower-game.cpp) | 🟡 Medium | C++ |
+| [3022](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/) | [Minimize OR of Remaining Elements Using Operations](problems/3022.minimize-or-of-remaining-elements-using-operations.cpp) | 🔴 Hard | C++ |
 | [3024](https://leetcode.com/problems/type-of-triangle/) | [Type of Triangle](problems/3024.type-of-triangle.cpp) | 🟢 Easy | C++ |
 | [3025](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/) | [Find the Number of Ways to Place People I](problems/3025.find-the-number-of-ways-to-place-people-i.cpp) | 🟡 Medium | C++ |
 | [3026](https://leetcode.com/problems/maximum-good-subarray-sum/) | [Maximum Good Subarray Sum](problems/3026.maximum-good-subarray-sum.cpp) | 🟡 Medium | C++ |
