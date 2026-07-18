@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2809 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 715 Hard
+**2810 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 716 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2328,6 +2328,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3317](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [Find the Number of Possible Ways for an Event](problems/3317.find-the-number-of-possible-ways-for-an-event.cpp) | 🔴 Hard | C++ |
 | [3318](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [Find X-Sum of All K-Long Subarrays I](problems/3318.find-x-sum-of-all-k-long-subarrays-i.cpp) | 🟢 Easy | C++ |
 | [3319](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/) | [K-th Largest Perfect Subtree Size in Binary Tree](problems/3319.k-th-largest-perfect-subtree-size-in-binary-tree.cpp) | 🟡 Medium | C++ |
+| [3320](https://leetcode.com/problems/count-the-number-of-winning-sequences/) | [Count The Number of Winning Sequences](problems/3320.count-the-number-of-winning-sequences.cpp) | 🔴 Hard | C++ |
 | [3321](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [Find X-Sum of All K-Long Subarrays II](problems/3321.find-x-sum-of-all-k-long-subarrays-ii.cpp) | 🔴 Hard | C++ |
 | [3324](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/) | [Find the Sequence of Strings Appeared on the Screen](problems/3324.find-the-sequence-of-strings-appeared-on-the-screen.cpp) | 🟡 Medium | C++ |
 | [3325](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/) | [Count Substrings With K-Frequency Characters I](problems/3325.count-substrings-with-k-frequency-characters-i.cpp) | 🟡 Medium | C++ |
