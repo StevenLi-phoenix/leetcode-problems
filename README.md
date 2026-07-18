@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2798 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 704 Hard
+**2799 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 705 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -127,6 +127,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](problems/121.best-time-to-buy-and-sell-stock.cpp) | 🟢 Easy | C++ |
 | [122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](problems/122.best-time-to-buy-and-sell-stock-ii.cpp) | 🟡 Medium | C++ |
 | [123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Best Time to Buy and Sell Stock III](problems/123.best-time-to-buy-and-sell-stock-iii.cpp) | 🔴 Hard | C++ |
+| [124](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Binary Tree Maximum Path Sum](problems/124.binary-tree-maximum-path-sum.cpp) | 🔴 Hard | C++ |
 | [125](https://leetcode.com/problems/valid-palindrome/) | [Valid Palindrome](problems/125.valid-palindrome.cpp) | 🟢 Easy | C++ |
 | [126](https://leetcode.com/problems/word-ladder-ii/) | [Word Ladder II](problems/126.word-ladder-ii.cpp) | 🔴 Hard | C++ |
 | [127](https://leetcode.com/problems/word-ladder/) | [Word Ladder](problems/127.word-ladder.cpp) | 🔴 Hard | C++ |
