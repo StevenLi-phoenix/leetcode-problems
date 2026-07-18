@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2801 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 707 Hard
+**2802 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 708 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -677,6 +677,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [899](https://leetcode.com/problems/orderly-queue/) | [Orderly Queue](problems/899.orderly-queue.cpp) | 🔴 Hard | C++ |
 | [900](https://leetcode.com/problems/rle-iterator/) | [RLE Iterator](problems/900.rle-iterator.cpp) | 🟡 Medium | C++ |
 | [901](https://leetcode.com/problems/online-stock-span/) | [Online Stock Span](problems/901.online-stock-span.cpp) | 🟡 Medium | C++ |
+| [902](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Numbers At Most N Given Digit Set](problems/902.numbers-at-most-n-given-digit-set.cpp) | 🔴 Hard | C++ |
 | [903](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [Valid Permutations for DI Sequence](problems/903.valid-permutations-for-di-sequence.cpp) | 🔴 Hard | C++ |
 | [904](https://leetcode.com/problems/fruit-into-baskets/) | [Fruit Into Baskets](problems/904.fruit-into-baskets.cpp) | 🟡 Medium | C++ |
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](problems/905.sort-array-by-parity.cpp) | 🟢 Easy | C++ |
