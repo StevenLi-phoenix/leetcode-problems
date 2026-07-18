@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2816 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 722 Hard
+**2817 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 723 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2156,6 +2156,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) | [Count Prefix and Suffix Pairs II](problems/3045.count-prefix-and-suffix-pairs-ii.cpp) | 🔴 Hard | C++ |
 | [3047](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | [Find the Largest Area of Square Inside Two Rectangles](problems/3047.find-the-largest-area-of-square-inside-two-rectangles.cpp) | 🟡 Medium | C++ |
 | [3048](https://leetcode.com/problems/earliest-second-to-mark-indices-i/) | [Earliest Second to Mark Indices I](problems/3048.earliest-second-to-mark-indices-i.cpp) | 🟡 Medium | C++ |
+| [3049](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/) | [Earliest Second to Mark Indices II](problems/3049.earliest-second-to-mark-indices-ii.cpp) | 🔴 Hard | C++ |
 | [3066](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | [Minimum Operations to Exceed Threshold Value II](problems/3066.minimum-operations-to-exceed-threshold-value-ii.cpp) | 🟡 Medium | C++ |
 | [3067](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/) | [Count Pairs of Connectable Servers in a Weighted Tree Network](problems/3067.count-pairs-of-connectable-servers-in-a-weighted-tree-network.cpp) | 🟡 Medium | C++ |
 | [3068](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/) | [Find the Maximum Sum of Node Values](problems/3068.find-the-maximum-sum-of-node-values.cpp) | 🔴 Hard | C++ |
