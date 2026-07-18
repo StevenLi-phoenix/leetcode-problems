@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2819 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 725 Hard
+**2820 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 726 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2135,6 +2135,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3014](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [Minimum Number of Pushes to Type Word I](problems/3014.minimum-number-of-pushes-to-type-word-i.cpp) | 🟢 Easy | C++ |
 | [3015](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/) | [Count the Number of Houses at a Certain Distance I](problems/3015.count-the-number-of-houses-at-a-certain-distance-i.cpp) | 🟡 Medium | C++ |
 | [3016](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | [Minimum Number of Pushes to Type Word II](problems/3016.minimum-number-of-pushes-to-type-word-ii.cpp) | 🟡 Medium | C++ |
+| [3017](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/) | [Count the Number of Houses at a Certain Distance II](problems/3017.count-the-number-of-houses-at-a-certain-distance-ii.cpp) | 🔴 Hard | C++ |
 | [3019](https://leetcode.com/problems/number-of-changing-keys/) | [Number of Changing Keys](problems/3019.number-of-changing-keys.cpp) | 🟢 Easy | C++ |
 | [3021](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) | [Alice and Bob Playing Flower Game](problems/3021.alice-and-bob-playing-flower-game.cpp) | 🟡 Medium | C++ |
 | [3022](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/) | [Minimize OR of Remaining Elements Using Operations](problems/3022.minimize-or-of-remaining-elements-using-operations.cpp) | 🔴 Hard | C++ |
