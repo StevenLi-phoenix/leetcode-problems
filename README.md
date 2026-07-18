@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2829 solved** — 🟢 528 Easy · 🟡 1556 Medium · 🔴 732 Hard
+**2830 solved** — 🟢 528 Easy · 🟡 1557 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1381,6 +1381,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1907](https://leetcode.com/problems/count-salary-categories/) | [Count Salary Categories](problems/1907.count-salary-categories.sql) | 🟡 Medium | mysql |
 | [1909](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [Remove One Element to Make the Array Strictly Increasing](problems/1909.remove-one-element-to-make-the-array-strictly-increasing.cpp) | 🟢 Easy | C++ |
 | [1910](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [Remove All Occurrences of a Substring](problems/1910.remove-all-occurrences-of-a-substring.cpp) | 🟡 Medium | C++ |
+| [1911](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [Maximum Alternating Subsequence Sum](problems/1911.maximum-alternating-subsequence-sum.cpp) | 🟡 Medium | C++ |
 | [1912](https://leetcode.com/problems/design-movie-rental-system/) | [Design Movie Rental System](problems/1912.design-movie-rental-system.cpp) | 🔴 Hard | C++ |
 | [1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Maximum Product Difference Between Two Pairs](problems/1913.maximum-product-difference-between-two-pairs.cpp) | 🟢 Easy | C++ |
 | [1914](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Cyclically Rotating a Grid](problems/1914.cyclically-rotating-a-grid.cpp) | 🟡 Medium | C++ |
