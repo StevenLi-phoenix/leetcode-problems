@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2803 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 709 Hard
+**2804 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 710 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2541,6 +2541,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3627](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) | [Maximum Median Sum of Subsequences of Size 3](problems/3627.maximum-median-sum-of-subsequences-of-size-3.cpp) | 🟡 Medium | C++ |
 | [3628](https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/) | [Maximum Number of Subsequences After One Inserting](problems/3628.maximum-number-of-subsequences-after-one-inserting.cpp) | 🟡 Medium | C++ |
 | [3629](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Minimum Jumps to Reach End via Prime Teleportation](problems/3629.minimum-jumps-to-reach-end-via-prime-teleportation.cpp) | 🟡 Medium | C++ |
+| [3630](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [Partition Array for Maximum XOR and AND](problems/3630.partition-array-for-maximum-xor-and-and.cpp) | 🔴 Hard | C++ |
 | [3633](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [Earliest Finish Time for Land and Water Rides I](problems/3633.earliest-finish-time-for-land-and-water-rides-i.cpp) | 🟢 Easy | C++ |
 | [3634](https://leetcode.com/problems/minimum-removals-to-balance-array/) | [Minimum Removals to Balance Array](problems/3634.minimum-removals-to-balance-array.cpp) | 🟡 Medium | C++ |
 | [3635](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/) | [Earliest Finish Time for Land and Water Rides II](problems/3635.earliest-finish-time-for-land-and-water-rides-ii.cpp) | 🟡 Medium | C++ |
