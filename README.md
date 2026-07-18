@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2822 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 728 Hard
+**2823 solved** — 🟢 528 Easy · 🟡 1553 Medium · 🔴 729 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1350,6 +1350,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1866](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Number of Ways to Rearrange Sticks With K Sticks Visible](problems/1866.number-of-ways-to-rearrange-sticks-with-k-sticks-visible.cpp) | 🔴 Hard | C++ |
 | [1869](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Longer Contiguous Segments of Ones than Zeros](problems/1869.longer-contiguous-segments-of-ones-than-zeros.cpp) | 🟢 Easy | C++ |
 | [1871](https://leetcode.com/problems/jump-game-vii/) | [Jump Game VII](problems/1871.jump-game-vii.cpp) | 🟡 Medium | C++ |
+| [1872](https://leetcode.com/problems/stone-game-viii/) | [Stone Game VIII](problems/1872.stone-game-viii.cpp) | 🔴 Hard | C++ |
 | [1873](https://leetcode.com/problems/calculate-special-bonus/) | [Calculate Special Bonus](problems/1873.calculate-special-bonus.sql) | 🟢 Easy | mysql |
 | [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [Minimize Maximum Pair Sum in Array](problems/1877.minimize-maximum-pair-sum-in-array.cpp) | 🟡 Medium | C++ |
 | [1878](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Get Biggest Three Rhombus Sums in a Grid](problems/1878.get-biggest-three-rhombus-sums-in-a-grid.cpp) | 🟡 Medium | C++ |
