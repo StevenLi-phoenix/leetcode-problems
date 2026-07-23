@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2841 solved** — 🟢 531 Easy · 🟡 1565 Medium · 🔴 732 Hard
+**2842 solved** — 🟢 532 Easy · 🟡 1565 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1596,6 +1596,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2207](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/) | [Maximize Number of Subsequences in a String](problems/2207.maximize-number-of-subsequences-in-a-string.cpp) | 🟡 Medium | C++ |
 | [2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Minimum Operations to Halve Array Sum](problems/2208.minimum-operations-to-halve-array-sum.cpp) | 🟡 Medium | C++ |
 | [2209](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [Minimum White Tiles After Covering With Carpets](problems/2209.minimum-white-tiles-after-covering-with-carpets.cpp) | 🔴 Hard | C++ |
+| [2210](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [Count Hills and Valleys in an Array](problems/2210.count-hills-and-valleys-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2212](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Maximum Points in an Archery Competition](problems/2212.maximum-points-in-an-archery-competition.cpp) | 🟡 Medium | C++ |
 | [2213](https://leetcode.com/problems/longest-substring-of-one-repeating-character/) | [Longest Substring of One Repeating Character](problems/2213.longest-substring-of-one-repeating-character.cpp) | 🔴 Hard | C++ |
 | [2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [Find the Difference of Two Arrays](problems/2215.find-the-difference-of-two-arrays.cpp) | 🟢 Easy | C++ |
