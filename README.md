@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3034 solved** — 🟢 702 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3035 solved** — 🟢 703 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2519,6 +2519,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3325](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/) | [Count Substrings With K-Frequency Characters I](problems/3325.count-substrings-with-k-frequency-characters-i.cpp) | 🟡 Medium | C++ |
 | [3326](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/) | [Minimum Division Operations to Make Array Non Decreasing](problems/3326.minimum-division-operations-to-make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
 | [3327](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/) | [Check if DFS Strings Are Palindromes](problems/3327.check-if-dfs-strings-are-palindromes.cpp) | 🔴 Hard | C++ |
+| [3330](https://leetcode.com/problems/find-the-original-typed-string-i/) | [Find the Original Typed String I](problems/3330.find-the-original-typed-string-i.cpp) | 🟢 Easy | C++ |
 | [3331](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | [Find Subtree Sizes After Changes](problems/3331.find-subtree-sizes-after-changes.cpp) | 🟡 Medium | C++ |
 | [3332](https://leetcode.com/problems/maximum-points-tourist-can-earn/) | [Maximum Points Tourist Can Earn](problems/3332.maximum-points-tourist-can-earn.cpp) | 🟡 Medium | C++ |
 | [3333](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [Find the Original Typed String II](problems/3333.find-the-original-typed-string-ii.cpp) | 🔴 Hard | C++ |
