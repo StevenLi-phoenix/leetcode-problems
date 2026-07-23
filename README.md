@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2864 solved** — 🟢 546 Easy · 🟡 1571 Medium · 🔴 732 Hard
+**2865 solved** — 🟢 546 Easy · 🟡 1572 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -254,6 +254,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Best Time to Buy and Sell Stock with Cooldown](problems/309.best-time-to-buy-and-sell-stock-with-cooldown.cpp) | 🟡 Medium | C++ |
 | [310](https://leetcode.com/problems/minimum-height-trees/) | [Minimum Height Trees](problems/310.minimum-height-trees.cpp) | 🟡 Medium | C++ |
 | [312](https://leetcode.com/problems/burst-balloons/) | [Burst Balloons](problems/312.burst-balloons.cpp) | 🔴 Hard | C++ |
+| [313](https://leetcode.com/problems/super-ugly-number/) | [Super Ugly Number](problems/313.super-ugly-number.cpp) | 🟡 Medium | C++ |
 | [315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Count of Smaller Numbers After Self](problems/315.count-of-smaller-numbers-after-self.cpp) | 🔴 Hard | C++ |
 | [316](https://leetcode.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](problems/316.remove-duplicate-letters.cpp) | 🟡 Medium | C++ |
 | [318](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Maximum Product of Word Lengths](problems/318.maximum-product-of-word-lengths.cpp) | 🟡 Medium | C++ |
