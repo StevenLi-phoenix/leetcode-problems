@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2883 solved** — 🟢 559 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2884 solved** — 🟢 560 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2189,6 +2189,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3029](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i/) | [Minimum Time to Revert Word to Initial State I](problems/3029.minimum-time-to-revert-word-to-initial-state-i.cpp) | 🟡 Medium | C++ |
 | [3030](https://leetcode.com/problems/find-the-grid-of-region-average/) | [Find the Grid of Region Average](problems/3030.find-the-grid-of-region-average.cpp) | 🟡 Medium | C++ |
 | [3031](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/) | [Minimum Time to Revert Word to Initial State II](problems/3031.minimum-time-to-revert-word-to-initial-state-ii.cpp) | 🔴 Hard | C++ |
+| [3033](https://leetcode.com/problems/modify-the-matrix/) | [Modify the Matrix](problems/3033.modify-the-matrix.cpp) | 🟢 Easy | C++ |
 | [3034](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/) | [Number of Subarrays That Match a Pattern I](problems/3034.number-of-subarrays-that-match-a-pattern-i.cpp) | 🟡 Medium | C++ |
 | [3035](https://leetcode.com/problems/maximum-palindromes-after-operations/) | [Maximum Palindromes After Operations](problems/3035.maximum-palindromes-after-operations.cpp) | 🟡 Medium | C++ |
 | [3036](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/) | [Number of Subarrays That Match a Pattern II](problems/3036.number-of-subarrays-that-match-a-pattern-ii.cpp) | 🔴 Hard | C++ |
