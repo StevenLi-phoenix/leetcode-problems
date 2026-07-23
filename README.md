@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3005 solved** — 🟢 672 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3006 solved** — 🟢 673 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -295,6 +295,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [357](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](problems/357.count-numbers-with-unique-digits.cpp) | 🟡 Medium | C++ |
 | [363](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/) | [Max Sum of Rectangle No Larger Than K](problems/363.max-sum-of-rectangle-no-larger-than-k.cpp) | 🔴 Hard | C++ |
 | [365](https://leetcode.com/problems/water-and-jug-problem/) | [Water and Jug Problem](problems/365.water-and-jug-problem.cpp) | 🟡 Medium | C++ |
+| [367](https://leetcode.com/problems/valid-perfect-square/) | [Valid Perfect Square](problems/367.valid-perfect-square.cpp) | 🟢 Easy | C++ |
 | [368](https://leetcode.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](problems/368.largest-divisible-subset.cpp) | 🟡 Medium | C++ |
 | [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](problems/371.sum-of-two-integers.cpp) | 🟡 Medium | C++ |
 | [372](https://leetcode.com/problems/super-pow/) | [Super Pow](problems/372.super-pow.cpp) | 🟡 Medium | C++ |
