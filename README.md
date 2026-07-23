@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2954 solved** — 🟢 622 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2955 solved** — 🟢 623 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1597,6 +1597,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Maximum Twin Sum of a Linked List](problems/2130.maximum-twin-sum-of-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Longest Palindrome by Concatenating Two Letter Words](problems/2131.longest-palindrome-by-concatenating-two-letter-words.cpp) | 🟡 Medium | C++ |
 | [2132](https://leetcode.com/problems/stamping-the-grid/) | [Stamping the Grid](problems/2132.stamping-the-grid.cpp) | 🔴 Hard | C++ |
+| [2133](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | [Check if Every Row and Column Contains All Numbers](problems/2133.check-if-every-row-and-column-contains-all-numbers.cpp) | 🟢 Easy | C++ |
 | [2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [Minimum Swaps to Group All 1's Together II](problems/2134.minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 Medium | C++ |
 | [2135](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | [Count Words Obtained After Adding a Letter](problems/2135.count-words-obtained-after-adding-a-letter.cpp) | 🟡 Medium | C++ |
 | [2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Earliest Possible Day of Full Bloom](problems/2136.earliest-possible-day-of-full-bloom.cpp) | 🔴 Hard | C++ |
