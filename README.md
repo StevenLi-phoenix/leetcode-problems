@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2875 solved** — 🟢 553 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2876 solved** — 🟢 553 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2881,3 +2881,4 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3993](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | [Maximum Value of an Alternating Sequence](problems/3993.maximum-value-of-an-alternating-sequence.cpp) | — | C++ |
 | [3994](https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array/) | [Minimum Adjacent Swaps to Partition Array](problems/3994.minimum-adjacent-swaps-to-partition-array.cpp) | — | C++ |
 | [3995](https://leetcode.com/problems/minimum-cost-to-convert-string-iii/) | [Minimum Cost to Convert String III](problems/3995.minimum-cost-to-convert-string-iii.cpp) | — | C++ |
+| [3999](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/) | [Minimum Number of String Groups Through Transformations](problems/3999.minimum-number-of-string-groups-through-transformations.cpp) | — | C++ |
