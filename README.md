@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3006 solved** — 🟢 673 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3007 solved** — 🟢 674 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2387,6 +2387,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3175](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/) | [Find The First Player to win K Games in a Row](problems/3175.find-the-first-player-to-win-k-games-in-a-row.cpp) | 🟡 Medium | C++ |
 | [3176](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i/) | [Find the Maximum Length of a Good Subsequence I](problems/3176.find-the-maximum-length-of-a-good-subsequence-i.cpp) | 🟡 Medium | C++ |
 | [3177](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | [Find the Maximum Length of a Good Subsequence II](problems/3177.find-the-maximum-length-of-a-good-subsequence-ii.cpp) | 🔴 Hard | C++ |
+| [3178](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) | [Find the Child Who Has the Ball After K Seconds](problems/3178.find-the-child-who-has-the-ball-after-k-seconds.cpp) | 🟢 Easy | C++ |
 | [3179](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) | [Find the N-th Value After K Seconds](problems/3179.find-the-n-th-value-after-k-seconds.cpp) | 🟡 Medium | C++ |
 | [3180](https://leetcode.com/problems/maximum-total-reward-using-operations-i/) | [Maximum Total Reward Using Operations I](problems/3180.maximum-total-reward-using-operations-i.cpp) | 🟡 Medium | C++ |
 | [3181](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/) | [Maximum Total Reward Using Operations II](problems/3181.maximum-total-reward-using-operations-ii.cpp) | 🔴 Hard | C++ |
