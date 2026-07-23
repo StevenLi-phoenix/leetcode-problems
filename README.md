@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3065 solved** — 🟢 732 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3066 solved** — 🟢 733 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1915,6 +1915,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2461](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [Maximum Sum of Distinct Subarrays With Length K](problems/2461.maximum-sum-of-distinct-subarrays-with-length-k.cpp) | 🟡 Medium | C++ |
 | [2462](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [Total Cost to Hire K Workers](problems/2462.total-cost-to-hire-k-workers.cpp) | 🟡 Medium | C++ |
 | [2463](https://leetcode.com/problems/minimum-total-distance-traveled/) | [Minimum Total Distance Traveled](problems/2463.minimum-total-distance-traveled.cpp) | 🔴 Hard | C++ |
+| [2465](https://leetcode.com/problems/number-of-distinct-averages/) | [Number of Distinct Averages](problems/2465.number-of-distinct-averages.cpp) | 🟢 Easy | C++ |
 | [2466](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [Count Ways To Build Good Strings](problems/2466.count-ways-to-build-good-strings.cpp) | 🟡 Medium | C++ |
 | [2467](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Most Profitable Path in a Tree](problems/2467.most-profitable-path-in-a-tree.cpp) | 🟡 Medium | C++ |
 | [2468](https://leetcode.com/problems/split-message-based-on-limit/) | [Split Message Based on Limit](problems/2468.split-message-based-on-limit.cpp) | 🔴 Hard | C++ |
