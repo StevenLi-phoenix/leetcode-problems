@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2967 solved** — 🟢 635 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2968 solved** — 🟢 636 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -481,6 +481,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Smallest Range Covering Elements from K Lists](problems/632.smallest-range-covering-elements-from-k-lists.cpp) | 🔴 Hard | C++ |
 | [633](https://leetcode.com/problems/sum-of-square-numbers/) | [Sum of Square Numbers](problems/633.sum-of-square-numbers.cpp) | 🟡 Medium | C++ |
 | [636](https://leetcode.com/problems/exclusive-time-of-functions/) | [Exclusive Time of Functions](problems/636.exclusive-time-of-functions.cpp) | 🟡 Medium | C++ |
+| [637](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Average of Levels in Binary Tree](problems/637.average-of-levels-in-binary-tree.cpp) | 🟢 Easy | C++ |
 | [638](https://leetcode.com/problems/shopping-offers/) | [Shopping Offers](problems/638.shopping-offers.cpp) | 🟡 Medium | C++ |
 | [639](https://leetcode.com/problems/decode-ways-ii/) | [Decode Ways II](problems/639.decode-ways-ii.cpp) | 🔴 Hard | C++ |
 | [640](https://leetcode.com/problems/solve-the-equation/) | [Solve the Equation](problems/640.solve-the-equation.cpp) | 🟡 Medium | C++ |
