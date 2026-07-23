@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2863 solved** — 🟢 545 Easy · 🟡 1571 Medium · 🔴 732 Hard
+**2864 solved** — 🟢 546 Easy · 🟡 1571 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1231,6 +1231,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1679](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Max Number of K-Sum Pairs](problems/1679.max-number-of-k-sum-pairs.cpp) | 🟡 Medium | C++ |
 | [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Concatenation of Consecutive Binary Numbers](problems/1680.concatenation-of-consecutive-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1683](https://leetcode.com/problems/invalid-tweets/) | [Invalid Tweets](problems/1683.invalid-tweets.sql) | 🟢 Easy | mysql |
+| [1684](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [Count the Number of Consistent Strings](problems/1684.count-the-number-of-consistent-strings.cpp) | 🟢 Easy | C++ |
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [Sum of Absolute Differences in a Sorted Array](problems/1685.sum-of-absolute-differences-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [1686](https://leetcode.com/problems/stone-game-vi/) | [Stone Game VI](problems/1686.stone-game-vi.cpp) | 🟡 Medium | C++ |
 | [1687](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | [Delivering Boxes from Storage to Ports](problems/1687.delivering-boxes-from-storage-to-ports.cpp) | 🔴 Hard | C++ |
