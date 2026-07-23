@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2906 solved** — 🟢 578 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2907 solved** — 🟢 579 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2787,6 +2787,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3824](https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/) | [Minimum K to Reduce Array Within Limit](problems/3824.minimum-k-to-reduce-array-within-limit.cpp) | 🟡 Medium | C++ |
 | [3825](https://leetcode.com/problems/longest-strictly-increasing-subsequence-with-non-zero-bitwise-and/) | [Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND](problems/3825.longest-strictly-increasing-subsequence-with-non-zero-bitwise-and.cpp) | 🟡 Medium | C++ |
 | [3826](https://leetcode.com/problems/minimum-partition-score/) | [Minimum Partition Score](problems/3826.minimum-partition-score.cpp) | 🔴 Hard | C++ |
+| [3827](https://leetcode.com/problems/count-monobit-integers/) | [Count Monobit Integers](problems/3827.count-monobit-integers.cpp) | 🟢 Easy | C++ |
 | [3828](https://leetcode.com/problems/final-element-after-subarray-deletions/) | [Final Element After Subarray Deletions](problems/3828.final-element-after-subarray-deletions.cpp) | 🟡 Medium | C++ |
 | [3830](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | [Longest Alternating Subarray After Removing At Most One Element](problems/3830.longest-alternating-subarray-after-removing-at-most-one-element.cpp) | 🔴 Hard | C++ |
 | [3833](https://leetcode.com/problems/count-dominant-indices/) | [Count Dominant Indices](problems/3833.count-dominant-indices.cpp) | 🟢 Easy | C++ |
