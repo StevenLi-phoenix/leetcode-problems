@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2895 solved** — 🟢 568 Easy · 🟡 1577 Medium · 🔴 732 Hard
+**2896 solved** — 🟢 569 Easy · 🟡 1577 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1283,6 +1283,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1733](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [Minimum Number of People to Teach](problems/1733.minimum-number-of-people-to-teach.cpp) | 🟡 Medium | C++ |
 | [1734](https://leetcode.com/problems/decode-xored-permutation/) | [Decode XORed Permutation](problems/1734.decode-xored-permutation.cpp) | 🟡 Medium | C++ |
 | [1735](https://leetcode.com/problems/count-ways-to-make-array-with-product/) | [Count Ways to Make Array With Product](problems/1735.count-ways-to-make-array-with-product.cpp) | 🔴 Hard | C++ |
+| [1736](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [Latest Time by Replacing Hidden Digits](problems/1736.latest-time-by-replacing-hidden-digits.cpp) | 🟢 Easy | C++ |
 | [1737](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [Change Minimum Characters to Satisfy One of Three Conditions](problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.cpp) | 🟡 Medium | C++ |
 | [1738](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [Find Kth Largest XOR Coordinate Value](problems/1738.find-kth-largest-xor-coordinate-value.cpp) | 🟡 Medium | C++ |
 | [1739](https://leetcode.com/problems/building-boxes/) | [Building Boxes](problems/1739.building-boxes.cpp) | 🔴 Hard | C++ |
