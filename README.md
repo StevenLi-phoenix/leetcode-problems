@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3056 solved** — 🟢 724 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3057 solved** — 🟢 725 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2211,6 +2211,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2875](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | [Minimum Size Subarray in Infinite Array](problems/2875.minimum-size-subarray-in-infinite-array.cpp) | 🟡 Medium | C++ |
 | [2876](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/) | [Count Visited Nodes in a Directed Graph](problems/2876.count-visited-nodes-in-a-directed-graph.cpp) | 🔴 Hard | C++ |
 | [2877](https://leetcode.com/problems/create-a-dataframe-from-list/) | [Create a DataFrame from List](problems/2877.create-a-dataframe-from-list.py) | 🟢 Easy | pythondata |
+| [2878](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [Get the Size of a DataFrame](problems/2878.get-the-size-of-a-dataframe.py) | 🟢 Easy | pythondata |
 | [2879](https://leetcode.com/problems/display-the-first-three-rows/) | [Display the First Three Rows](problems/2879.display-the-first-three-rows.py) | 🟢 Easy | pythondata |
 | [2880](https://leetcode.com/problems/select-data/) | [Select Data](problems/2880.select-data.py) | 🟢 Easy | pythondata |
 | [2881](https://leetcode.com/problems/create-a-new-column/) | [Create a New Column](problems/2881.create-a-new-column.py) | 🟢 Easy | pythondata |
