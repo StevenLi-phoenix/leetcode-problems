@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2885 solved** — 🟢 561 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2886 solved** — 🟢 562 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -857,6 +857,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1115](https://leetcode.com/problems/print-foobar-alternately/) | [Print FooBar Alternately](problems/1115.print-foobar-alternately.cpp) | 🟡 Medium | C++ |
 | [1116](https://leetcode.com/problems/print-zero-even-odd/) | [Print Zero Even Odd](problems/1116.print-zero-even-odd.cpp) | 🟡 Medium | C++ |
 | [1117](https://leetcode.com/problems/building-h2o/) | [Building H2O](problems/1117.building-h2o.cpp) | 🟡 Medium | C++ |
+| [1122](https://leetcode.com/problems/relative-sort-array/) | [Relative Sort Array](problems/1122.relative-sort-array.cpp) | 🟢 Easy | C++ |
 | [1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](problems/1123.lowest-common-ancestor-of-deepest-leaves.cpp) | 🟡 Medium | C++ |
 | [1124](https://leetcode.com/problems/longest-well-performing-interval/) | [Longest Well-Performing Interval](problems/1124.longest-well-performing-interval.cpp) | 🟡 Medium | C++ |
 | [1125](https://leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](problems/1125.smallest-sufficient-team.cpp) | 🔴 Hard | C++ |
