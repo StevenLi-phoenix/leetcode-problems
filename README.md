@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3009 solved** — 🟢 676 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3010 solved** — 🟢 677 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -210,6 +210,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [214](https://leetcode.com/problems/shortest-palindrome/) | [Shortest Palindrome](problems/214.shortest-palindrome.cpp) | 🔴 Hard | C++ |
 | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Kth Largest Element in an Array](problems/215.kth-largest-element-in-an-array.cpp) | 🟡 Medium | C++ |
 | [216](https://leetcode.com/problems/combination-sum-iii/) | [Combination Sum III](problems/216.combination-sum-iii.cpp) | 🟡 Medium | C++ |
+| [217](https://leetcode.com/problems/contains-duplicate/) | [Contains Duplicate](problems/217.contains-duplicate.cpp) | 🟢 Easy | C++ |
 | [218](https://leetcode.com/problems/the-skyline-problem/) | [The Skyline Problem](problems/218.the-skyline-problem.cpp) | 🔴 Hard | C++ |
 | [219](https://leetcode.com/problems/contains-duplicate-ii/) | [Contains Duplicate II](problems/219.contains-duplicate-ii.cpp) | 🟢 Easy | C++ |
 | [220](https://leetcode.com/problems/contains-duplicate-iii/) | [Contains Duplicate III](problems/220.contains-duplicate-iii.cpp) | 🔴 Hard | C++ |
