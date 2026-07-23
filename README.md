@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3037 solved** — 🟢 705 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3038 solved** — 🟢 706 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -376,6 +376,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [458](https://leetcode.com/problems/poor-pigs/) | [Poor Pigs](problems/458.poor-pigs.cpp) | 🔴 Hard | C++ |
 | [459](https://leetcode.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](problems/459.repeated-substring-pattern.cpp) | 🟢 Easy | C++ |
 | [460](https://leetcode.com/problems/lfu-cache/) | [LFU Cache](problems/460.lfu-cache.cpp) | 🔴 Hard | C++ |
+| [461](https://leetcode.com/problems/hamming-distance/) | [Hamming Distance](problems/461.hamming-distance.cpp) | 🟢 Easy | C++ |
 | [462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Minimum Moves to Equal Array Elements II](problems/462.minimum-moves-to-equal-array-elements-ii.cpp) | 🟡 Medium | C++ |
 | [463](https://leetcode.com/problems/island-perimeter/) | [Island Perimeter](problems/463.island-perimeter.cpp) | 🟢 Easy | C++ |
 | [464](https://leetcode.com/problems/can-i-win/) | [Can I Win](problems/464.can-i-win.cpp) | 🟡 Medium | C++ |
