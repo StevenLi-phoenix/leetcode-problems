@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3033 solved** — 🟢 701 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3034 solved** — 🟢 702 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1917,6 +1917,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2490](https://leetcode.com/problems/circular-sentence/) | [Circular Sentence](problems/2490.circular-sentence.cpp) | 🟢 Easy | C++ |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [Divide Players Into Teams of Equal Skill](problems/2491.divide-players-into-teams-of-equal-skill.cpp) | 🟡 Medium | C++ |
 | [2493](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [Divide Nodes Into the Maximum Number of Groups](problems/2493.divide-nodes-into-the-maximum-number-of-groups.cpp) | 🔴 Hard | C++ |
+| [2496](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | [Maximum Value of a String in an Array](problems/2496.maximum-value-of-a-string-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2497](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | [Maximum Star Sum of a Graph](problems/2497.maximum-star-sum-of-a-graph.cpp) | 🟡 Medium | C++ |
 | [2498](https://leetcode.com/problems/frog-jump-ii/) | [Frog Jump II](problems/2498.frog-jump-ii.cpp) | 🟡 Medium | C++ |
 | [2499](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/) | [Minimum Total Cost to Make Arrays Unequal](problems/2499.minimum-total-cost-to-make-arrays-unequal.cpp) | 🔴 Hard | C++ |
