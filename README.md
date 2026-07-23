@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2968 solved** — 🟢 636 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2969 solved** — 🟢 637 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2347,6 +2347,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3163](https://leetcode.com/problems/string-compression-iii/) | [String Compression III](problems/3163.string-compression-iii.cpp) | 🟡 Medium | C++ |
 | [3164](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) | [Find the Number of Good Pairs II](problems/3164.find-the-number-of-good-pairs-ii.cpp) | 🟡 Medium | C++ |
 | [3165](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | [Maximum Sum of Subsequence With Non-adjacent Elements](problems/3165.maximum-sum-of-subsequence-with-non-adjacent-elements.cpp) | 🔴 Hard | C++ |
+| [3168](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | [Minimum Number of Chairs in a Waiting Room](problems/3168.minimum-number-of-chairs-in-a-waiting-room.cpp) | 🟢 Easy | C++ |
 | [3169](https://leetcode.com/problems/count-days-without-meetings/) | [Count Days Without Meetings](problems/3169.count-days-without-meetings.cpp) | 🟡 Medium | C++ |
 | [3170](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [Lexicographically Minimum String After Removing Stars](problems/3170.lexicographically-minimum-string-after-removing-stars.cpp) | 🟡 Medium | C++ |
 | [3171](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/) | [Find Subarray With Bitwise OR Closest to K](problems/3171.find-subarray-with-bitwise-or-closest-to-k.cpp) | 🔴 Hard | C++ |
