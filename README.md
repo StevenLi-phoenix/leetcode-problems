@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2955 solved** — 🟢 623 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2956 solved** — 🟢 624 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1351,6 +1351,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1791](https://leetcode.com/problems/find-center-of-star-graph/) | [Find Center of Star Graph](problems/1791.find-center-of-star-graph.cpp) | 🟢 Easy | C++ |
 | [1792](https://leetcode.com/problems/maximum-average-pass-ratio/) | [Maximum Average Pass Ratio](problems/1792.maximum-average-pass-ratio.cpp) | 🟡 Medium | C++ |
 | [1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/) | [Maximum Score of a Good Subarray](problems/1793.maximum-score-of-a-good-subarray.cpp) | 🔴 Hard | C++ |
+| [1795](https://leetcode.com/problems/rearrange-products-table/) | [Rearrange Products Table](problems/1795.rearrange-products-table.sql) | 🟢 Easy | mysql |
 | [1796](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [Second Largest Digit in a String](problems/1796.second-largest-digit-in-a-string.cpp) | 🟢 Easy | C++ |
 | [1797](https://leetcode.com/problems/design-authentication-manager/) | [Design Authentication Manager](problems/1797.design-authentication-manager.cpp) | 🟡 Medium | C++ |
 | [1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | [Maximum Number of Consecutive Values You Can Make](problems/1798.maximum-number-of-consecutive-values-you-can-make.cpp) | 🟡 Medium | C++ |
