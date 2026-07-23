@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2869 solved** — 🟢 548 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2870 solved** — 🟢 549 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2771,6 +2771,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3848](https://leetcode.com/problems/check-digitorial-permutation/) | [Check Digitorial Permutation](problems/3848.check-digitorial-permutation.cpp) | 🟡 Medium | C++ |
 | [3849](https://leetcode.com/problems/maximum-bitwise-xor-after-rearrangement/) | [Maximum Bitwise XOR After Rearrangement](problems/3849.maximum-bitwise-xor-after-rearrangement.cpp) | 🟡 Medium | C++ |
 | [3850](https://leetcode.com/problems/count-sequences-to-k/) | [Count Sequences to K](problems/3850.count-sequences-to-k.cpp) | 🔴 Hard | C++ |
+| [3852](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | [Smallest Pair With Different Frequencies](problems/3852.smallest-pair-with-different-frequencies.cpp) | 🟢 Easy | C++ |
 | [3853](https://leetcode.com/problems/merge-close-characters/) | [Merge Close Characters](problems/3853.merge-close-characters.cpp) | 🟡 Medium | C++ |
 | [3855](https://leetcode.com/problems/sum-of-k-digit-numbers-in-a-range/) | [Sum of K-Digit Numbers in a Range](problems/3855.sum-of-k-digit-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
