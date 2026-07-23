@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2888 solved** — 🟢 564 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2889 solved** — 🟢 564 Easy · 🟡 1575 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1573,6 +1573,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2141](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [Maximum Running Time of N Computers](problems/2141.maximum-running-time-of-n-computers.cpp) | 🔴 Hard | C++ |
 | [2144](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [Minimum Cost of Buying Candies With Discount](problems/2144.minimum-cost-of-buying-candies-with-discount.cpp) | 🟢 Easy | C++ |
 | [2145](https://leetcode.com/problems/count-the-hidden-sequences/) | [Count the Hidden Sequences](problems/2145.count-the-hidden-sequences.cpp) | 🟡 Medium | C++ |
+| [2146](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/) | [K Highest Ranked Items Within a Price Range](problems/2146.k-highest-ranked-items-within-a-price-range.cpp) | 🟡 Medium | C++ |
 | [2147](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | [Number of Ways to Divide a Long Corridor](problems/2147.number-of-ways-to-divide-a-long-corridor.cpp) | 🔴 Hard | C++ |
 | [2148](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [Count Elements With Strictly Smaller and Greater Elements ](problems/2148.count-elements-with-strictly-smaller-and-greater-elements.cpp) | 🟢 Easy | C++ |
 | [2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Rearrange Array Elements by Sign](problems/2149.rearrange-array-elements-by-sign.cpp) | 🟡 Medium | C++ |
