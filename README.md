@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2854 solved** — 🟢 539 Easy · 🟡 1569 Medium · 🔴 732 Hard
+**2855 solved** — 🟢 539 Easy · 🟡 1570 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -209,6 +209,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
 | [223](https://leetcode.com/problems/rectangle-area/) | [Rectangle Area](problems/223.rectangle-area.cpp) | 🟡 Medium | C++ |
 | [224](https://leetcode.com/problems/basic-calculator/) | [Basic Calculator](problems/224.basic-calculator.cpp) | 🔴 Hard | C++ |
+| [227](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](problems/227.basic-calculator-ii.cpp) | 🟡 Medium | C++ |
 | [228](https://leetcode.com/problems/summary-ranges/) | [Summary Ranges](problems/228.summary-ranges.cpp) | 🟢 Easy | C++ |
 | [229](https://leetcode.com/problems/majority-element-ii/) | [Majority Element II](problems/229.majority-element-ii.cpp) | 🟡 Medium | C++ |
 | [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Kth Smallest Element in a BST](problems/230.kth-smallest-element-in-a-bst.cpp) | 🟡 Medium | C++ |
