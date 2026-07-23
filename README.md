@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3012 solved** — 🟢 679 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3013 solved** — 🟢 680 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2564,6 +2564,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](problems/3418.maximum-amount-of-money-robot-can-earn.cpp) | 🟡 Medium | C++ |
 | [3419](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Minimize the Maximum Edge Weight of Graph](problems/3419.minimize-the-maximum-edge-weight-of-graph.cpp) | 🟡 Medium | C++ |
 | [3421](https://leetcode.com/problems/find-students-who-improved/) | [Find Students Who Improved](problems/3421.find-students-who-improved.sql) | 🟡 Medium | mysql |
+| [3423](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Maximum Difference Between Adjacent Elements in a Circular Array](problems/3423.maximum-difference-between-adjacent-elements-in-a-circular-array.cpp) | 🟢 Easy | C++ |
 | [3424](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/) | [Minimum Cost to Make Arrays Identical](problems/3424.minimum-cost-to-make-arrays-identical.cpp) | 🟡 Medium | C++ |
 | [3425](https://leetcode.com/problems/longest-special-path/) | [Longest Special Path](problems/3425.longest-special-path.cpp) | 🔴 Hard | C++ |
 | [3426](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/) | [Manhattan Distances of All Arrangements of Pieces](problems/3426.manhattan-distances-of-all-arrangements-of-pieces.cpp) | 🔴 Hard | C++ |
