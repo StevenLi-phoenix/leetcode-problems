@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2993 solved** — 🟢 660 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2994 solved** — 🟢 661 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2510,6 +2510,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3365](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/) | [Rearrange K Substrings to Form Target String](problems/3365.rearrange-k-substrings-to-form-target-string.cpp) | 🟡 Medium | C++ |
 | [3366](https://leetcode.com/problems/minimum-array-sum/) | [Minimum Array Sum](problems/3366.minimum-array-sum.cpp) | 🟡 Medium | C++ |
 | [3367](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [Maximize Sum of Weights after Edge Removals](problems/3367.maximize-sum-of-weights-after-edge-removals.cpp) | 🔴 Hard | C++ |
+| [3370](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [Smallest Number With All Set Bits](problems/3370.smallest-number-with-all-set-bits.cpp) | 🟢 Easy | C++ |
 | [3371](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/) | [Identify the Largest Outlier in an Array](problems/3371.identify-the-largest-outlier-in-an-array.cpp) | 🟡 Medium | C++ |
 | [3372](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) | [Maximize the Number of Target Nodes After Connecting Trees I](problems/3372.maximize-the-number-of-target-nodes-after-connecting-trees-i.cpp) | 🟡 Medium | C++ |
 | [3373](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [Maximize the Number of Target Nodes After Connecting Trees II](problems/3373.maximize-the-number-of-target-nodes-after-connecting-trees-ii.cpp) | 🔴 Hard | C++ |
