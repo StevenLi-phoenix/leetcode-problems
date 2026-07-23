@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2921 solved** — 🟢 592 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2922 solved** — 🟢 593 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -537,6 +537,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [713](https://leetcode.com/problems/subarray-product-less-than-k/) | [Subarray Product Less Than K](problems/713.subarray-product-less-than-k.cpp) | 🟡 Medium | C++ |
 | [714](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Best Time to Buy and Sell Stock with Transaction Fee](problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) | 🟡 Medium | C++ |
 | [715](https://leetcode.com/problems/range-module/) | [Range Module](problems/715.range-module.cpp) | 🔴 Hard | C++ |
+| [717](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [1-bit and 2-bit Characters](problems/717.1-bit-and-2-bit-characters.cpp) | 🟢 Easy | C++ |
 | [718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Maximum Length of Repeated Subarray](problems/718.maximum-length-of-repeated-subarray.cpp) | 🟡 Medium | C++ |
 | [719](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [Find K-th Smallest Pair Distance](problems/719.find-k-th-smallest-pair-distance.cpp) | 🔴 Hard | C++ |
 | [720](https://leetcode.com/problems/longest-word-in-dictionary/) | [Longest Word in Dictionary](problems/720.longest-word-in-dictionary.cpp) | 🟡 Medium | C++ |
