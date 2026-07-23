@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2851 solved** — 🟢 537 Easy · 🟡 1568 Medium · 🔴 732 Hard
+**2852 solved** — 🟢 538 Easy · 🟡 1568 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -938,6 +938,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1286](https://leetcode.com/problems/iterator-for-combination/) | [Iterator for Combination](problems/1286.iterator-for-combination.cpp) | 🟡 Medium | C++ |
 | [1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Element Appearing More Than 25% In Sorted Array](problems/1287.element-appearing-more-than-25-in-sorted-array.cpp) | 🟢 Easy | C++ |
 | [1289](https://leetcode.com/problems/minimum-falling-path-sum-ii/) | [Minimum Falling Path Sum II](problems/1289.minimum-falling-path-sum-ii.cpp) | 🔴 Hard | C++ |
+| [1290](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Convert Binary Number in a Linked List to Integer](problems/1290.convert-binary-number-in-a-linked-list-to-integer.cpp) | 🟢 Easy | C++ |
 | [1291](https://leetcode.com/problems/sequential-digits/) | [Sequential Digits](problems/1291.sequential-digits.cpp) | 🟡 Medium | C++ |
 | [1292](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](problems/1292.maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp) | 🟡 Medium | C++ |
 | [1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Shortest Path in a Grid with Obstacles Elimination](problems/1293.shortest-path-in-a-grid-with-obstacles-elimination.cpp) | 🔴 Hard | C++ |
