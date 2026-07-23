@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2990 solved** — 🟢 658 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2991 solved** — 🟢 659 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1220,6 +1220,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1589](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [Maximum Sum Obtained of Any Permutation](problems/1589.maximum-sum-obtained-of-any-permutation.cpp) | 🟡 Medium | C++ |
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](problems/1590.make-sum-divisible-by-p.cpp) | 🟡 Medium | C++ |
 | [1591](https://leetcode.com/problems/strange-printer-ii/) | [Strange Printer II](problems/1591.strange-printer-ii.cpp) | 🔴 Hard | C++ |
+| [1592](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Rearrange Spaces Between Words](problems/1592.rearrange-spaces-between-words.cpp) | 🟢 Easy | C++ |
 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](problems/1593.split-a-string-into-the-max-number-of-unique-substrings.cpp) | 🟡 Medium | C++ |
 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](problems/1594.maximum-non-negative-product-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [1595](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [Minimum Cost to Connect Two Groups of Points](problems/1595.minimum-cost-to-connect-two-groups-of-points.cpp) | 🔴 Hard | C++ |
