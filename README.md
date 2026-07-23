@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2928 solved** — 🟢 599 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2929 solved** — 🟢 600 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -841,6 +841,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1053](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Previous Permutation With One Swap](problems/1053.previous-permutation-with-one-swap.cpp) | 🟡 Medium | C++ |
 | [1054](https://leetcode.com/problems/distant-barcodes/) | [Distant Barcodes](problems/1054.distant-barcodes.cpp) | 🟡 Medium | C++ |
 | [1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [Lexicographically Smallest Equivalent String](problems/1061.lexicographically-smallest-equivalent-string.cpp) | 🟡 Medium | C++ |
+| [1068](https://leetcode.com/problems/product-sales-analysis-i/) | [Product Sales Analysis I](problems/1068.product-sales-analysis-i.sql) | 🟢 Easy | mysql |
 | [1070](https://leetcode.com/problems/product-sales-analysis-iii/) | [Product Sales Analysis III](problems/1070.product-sales-analysis-iii.sql) | 🟡 Medium | mysql |
 | [1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Greatest Common Divisor of Strings](problems/1071.greatest-common-divisor-of-strings.cpp) | 🟢 Easy | C++ |
 | [1072](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [Flip Columns For Maximum Number of Equal Rows](problems/1072.flip-columns-for-maximum-number-of-equal-rows.cpp) | 🟡 Medium | C++ |
