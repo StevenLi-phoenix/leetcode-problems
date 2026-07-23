@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2918 solved** — 🟢 589 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2919 solved** — 🟢 590 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -935,6 +935,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1248](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Count Number of Nice Subarrays](problems/1248.count-number-of-nice-subarrays.cpp) | 🟡 Medium | C++ |
 | [1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Minimum Remove to Make Valid Parentheses](problems/1249.minimum-remove-to-make-valid-parentheses.cpp) | 🟡 Medium | C++ |
 | [1250](https://leetcode.com/problems/check-if-it-is-a-good-array/) | [Check If It Is a Good Array](problems/1250.check-if-it-is-a-good-array.cpp) | 🔴 Hard | C++ |
+| [1251](https://leetcode.com/problems/average-selling-price/) | [Average Selling Price](problems/1251.average-selling-price.sql) | 🟢 Easy | mysql |
 | [1252](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [Cells with Odd Values in a Matrix](problems/1252.cells-with-odd-values-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1253](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | [Reconstruct a 2-Row Binary Matrix](problems/1253.reconstruct-a-2-row-binary-matrix.cpp) | 🟡 Medium | C++ |
 | [1254](https://leetcode.com/problems/number-of-closed-islands/) | [Number of Closed Islands](problems/1254.number-of-closed-islands.cpp) | 🟡 Medium | C++ |
