@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2867 solved** — 🟢 548 Easy · 🟡 1572 Medium · 🔴 732 Hard
+**2868 solved** — 🟢 548 Easy · 🟡 1573 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1166,6 +1166,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1585](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/) | [Check If String Is Transformable With Substring Sort Operations](problems/1585.check-if-string-is-transformable-with-substring-sort-operations.cpp) | 🔴 Hard | C++ |
 | [1587](https://leetcode.com/problems/bank-account-summary-ii/) | [Bank Account Summary II](problems/1587.bank-account-summary-ii.sql) | 🟢 Easy | mysql |
 | [1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [Sum of All Odd Length Subarrays](problems/1588.sum-of-all-odd-length-subarrays.cpp) | 🟢 Easy | C++ |
+| [1589](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [Maximum Sum Obtained of Any Permutation](problems/1589.maximum-sum-obtained-of-any-permutation.cpp) | 🟡 Medium | C++ |
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | [Make Sum Divisible by P](problems/1590.make-sum-divisible-by-p.cpp) | 🟡 Medium | C++ |
 | [1591](https://leetcode.com/problems/strange-printer-ii/) | [Strange Printer II](problems/1591.strange-printer-ii.cpp) | 🔴 Hard | C++ |
 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](problems/1593.split-a-string-into-the-max-number-of-unique-substrings.cpp) | 🟡 Medium | C++ |
