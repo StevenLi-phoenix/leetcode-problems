@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3039 solved** — 🟢 707 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3040 solved** — 🟢 708 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1873,6 +1873,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2428](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Maximum Sum of an Hourglass](problems/2428.maximum-sum-of-an-hourglass.cpp) | 🟡 Medium | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
 | [2430](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [Maximum Deletions on a String](problems/2430.maximum-deletions-on-a-string.cpp) | 🔴 Hard | C++ |
+| [2432](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [The Employee That Worked on the Longest Task](problems/2432.the-employee-that-worked-on-the-longest-task.cpp) | 🟢 Easy | C++ |
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Find The Original Array of Prefix Xor](problems/2433.find-the-original-array-of-prefix-xor.cpp) | 🟡 Medium | C++ |
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
 | [2435](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Paths in Matrix Whose Sum Is Divisible by K](problems/2435.paths-in-matrix-whose-sum-is-divisible-by-k.cpp) | 🔴 Hard | C++ |
