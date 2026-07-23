@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3063 solved** — 🟢 730 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3064 solved** — 🟢 731 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -824,6 +824,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [995](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Minimum Number of K Consecutive Bit Flips](problems/995.minimum-number-of-k-consecutive-bit-flips.cpp) | 🔴 Hard | C++ |
 | [996](https://leetcode.com/problems/number-of-squareful-arrays/) | [Number of Squareful Arrays](problems/996.number-of-squareful-arrays.cpp) | 🔴 Hard | C++ |
 | [998](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Maximum Binary Tree II](problems/998.maximum-binary-tree-ii.cpp) | 🟡 Medium | C++ |
+| [999](https://leetcode.com/problems/available-captures-for-rook/) | [Available Captures for Rook](problems/999.available-captures-for-rook.cpp) | 🟢 Easy | C++ |
 | [1000](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [Minimum Cost to Merge Stones](problems/1000.minimum-cost-to-merge-stones.cpp) | 🔴 Hard | C++ |
 | [1001](https://leetcode.com/problems/grid-illumination/) | [Grid Illumination](problems/1001.grid-illumination.cpp) | 🔴 Hard | C++ |
 | [1002](https://leetcode.com/problems/find-common-characters/) | [Find Common Characters](problems/1002.find-common-characters.cpp) | 🟢 Easy | C++ |
