@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2890 solved** — 🟢 564 Easy · 🟡 1576 Medium · 🔴 732 Hard
+**2891 solved** — 🟢 565 Easy · 🟡 1576 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -122,6 +122,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [115](https://leetcode.com/problems/distinct-subsequences/) | [Distinct Subsequences](problems/115.distinct-subsequences.cpp) | 🔴 Hard | C++ |
 | [116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Populating Next Right Pointers in Each Node](problems/116.populating-next-right-pointers-in-each-node.cpp) | 🟡 Medium | C++ |
 | [117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Populating Next Right Pointers in Each Node II](problems/117.populating-next-right-pointers-in-each-node-ii.cpp) | 🟡 Medium | C++ |
+| [118](https://leetcode.com/problems/pascals-triangle/) | [Pascal's Triangle](problems/118.pascals-triangle.cpp) | 🟢 Easy | C++ |
 | [119](https://leetcode.com/problems/pascals-triangle-ii/) | [Pascal's Triangle II](problems/119.pascals-triangle-ii.cpp) | 🟢 Easy | C++ |
 | [120](https://leetcode.com/problems/triangle/) | [Triangle](problems/120.triangle.cpp) | 🟡 Medium | C++ |
 | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](problems/121.best-time-to-buy-and-sell-stock.cpp) | 🟢 Easy | C++ |
