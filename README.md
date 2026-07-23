@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3076 solved** — 🟢 742 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3077 solved** — 🟢 743 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1035,6 +1035,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1319](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Number of Operations to Make Network Connected](problems/1319.number-of-operations-to-make-network-connected.cpp) | 🟡 Medium | C++ |
 | [1320](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/) | [Minimum Distance to Type a Word Using Two Fingers](problems/1320.minimum-distance-to-type-a-word-using-two-fingers.cpp) | 🔴 Hard | C++ |
 | [1321](https://leetcode.com/problems/restaurant-growth/) | [Restaurant Growth](problems/1321.restaurant-growth.sql) | 🟡 Medium | mysql |
+| [1323](https://leetcode.com/problems/maximum-69-number/) | [Maximum 69 Number](problems/1323.maximum-69-number.cpp) | 🟢 Easy | C++ |
 | [1324](https://leetcode.com/problems/print-words-vertically/) | [Print Words Vertically](problems/1324.print-words-vertically.cpp) | 🟡 Medium | C++ |
 | [1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Delete Leaves With a Given Value](problems/1325.delete-leaves-with-a-given-value.cpp) | 🟡 Medium | C++ |
 | [1326](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | [Minimum Number of Taps to Open to Water a Garden](problems/1326.minimum-number-of-taps-to-open-to-water-a-garden.cpp) | 🔴 Hard | C++ |
