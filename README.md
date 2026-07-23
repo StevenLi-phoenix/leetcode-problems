@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3064 solved** — 🟢 731 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3065 solved** — 🟢 732 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2343,6 +2343,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3039](https://leetcode.com/problems/apply-operations-to-make-string-empty/) | [Apply Operations to Make String Empty](problems/3039.apply-operations-to-make-string-empty.cpp) | 🟡 Medium | C++ |
 | [3040](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/) | [Maximum Number of Operations With the Same Score II](problems/3040.maximum-number-of-operations-with-the-same-score-ii.cpp) | 🟡 Medium | C++ |
 | [3041](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | [Maximize Consecutive Elements in an Array After Modification](problems/3041.maximize-consecutive-elements-in-an-array-after-modification.cpp) | 🔴 Hard | C++ |
+| [3042](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [Count Prefix and Suffix Pairs I](problems/3042.count-prefix-and-suffix-pairs-i.cpp) | 🟢 Easy | C++ |
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](problems/3043.find-the-length-of-the-longest-common-prefix.cpp) | 🟡 Medium | C++ |
 | [3044](https://leetcode.com/problems/most-frequent-prime/) | [Most Frequent Prime](problems/3044.most-frequent-prime.cpp) | 🟡 Medium | C++ |
 | [3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) | [Count Prefix and Suffix Pairs II](problems/3045.count-prefix-and-suffix-pairs-ii.cpp) | 🔴 Hard | C++ |
