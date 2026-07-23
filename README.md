@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2886 solved** — 🟢 562 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2887 solved** — 🟢 563 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1727,6 +1727,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2364](https://leetcode.com/problems/count-number-of-bad-pairs/) | [Count Number of Bad Pairs](problems/2364.count-number-of-bad-pairs.cpp) | 🟡 Medium | C++ |
 | [2365](https://leetcode.com/problems/task-scheduler-ii/) | [Task Scheduler II](problems/2365.task-scheduler-ii.cpp) | 🟡 Medium | C++ |
 | [2366](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | [Minimum Replacements to Sort the Array](problems/2366.minimum-replacements-to-sort-the-array.cpp) | 🔴 Hard | C++ |
+| [2367](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [Number of Arithmetic Triplets](problems/2367.number-of-arithmetic-triplets.cpp) | 🟢 Easy | C++ |
 | [2368](https://leetcode.com/problems/reachable-nodes-with-restrictions/) | [Reachable Nodes With Restrictions](problems/2368.reachable-nodes-with-restrictions.cpp) | 🟡 Medium | C++ |
 | [2369](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/) | [Check if There is a Valid Partition For The Array](problems/2369.check-if-there-is-a-valid-partition-for-the-array.cpp) | 🟡 Medium | C++ |
 | [2370](https://leetcode.com/problems/longest-ideal-subsequence/) | [Longest Ideal Subsequence](problems/2370.longest-ideal-subsequence.cpp) | 🟡 Medium | C++ |
