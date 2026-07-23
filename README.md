@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2958 solved** — 🟢 626 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2959 solved** — 🟢 627 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1066,6 +1066,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1404](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Number of Steps to Reduce a Number in Binary Representation to One](problems/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp) | 🟡 Medium | C++ |
 | [1405](https://leetcode.com/problems/longest-happy-string/) | [Longest Happy String](problems/1405.longest-happy-string.cpp) | 🟡 Medium | C++ |
 | [1406](https://leetcode.com/problems/stone-game-iii/) | [Stone Game III](problems/1406.stone-game-iii.cpp) | 🔴 Hard | C++ |
+| [1407](https://leetcode.com/problems/top-travellers/) | [Top Travellers](problems/1407.top-travellers.sql) | 🟢 Easy | mysql |
 | [1408](https://leetcode.com/problems/string-matching-in-an-array/) | [String Matching in an Array](problems/1408.string-matching-in-an-array.cpp) | 🟢 Easy | C++ |
 | [1409](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [Queries on a Permutation With Key](problems/1409.queries-on-a-permutation-with-key.cpp) | 🟡 Medium | C++ |
 | [1410](https://leetcode.com/problems/html-entity-parser/) | [HTML Entity Parser](problems/1410.html-entity-parser.cpp) | 🟡 Medium | C++ |
