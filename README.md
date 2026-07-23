@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2861 solved** — 🟢 544 Easy · 🟡 1571 Medium · 🔴 732 Hard
+**2862 solved** — 🟢 545 Easy · 🟡 1571 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -247,6 +247,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [299](https://leetcode.com/problems/bulls-and-cows/) | [Bulls and Cows](problems/299.bulls-and-cows.cpp) | 🟡 Medium | C++ |
 | [300](https://leetcode.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](problems/300.longest-increasing-subsequence.cpp) | 🟡 Medium | C++ |
 | [301](https://leetcode.com/problems/remove-invalid-parentheses/) | [Remove Invalid Parentheses](problems/301.remove-invalid-parentheses.cpp) | 🔴 Hard | C++ |
+| [303](https://leetcode.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](problems/303.range-sum-query-immutable.cpp) | 🟢 Easy | C++ |
 | [304](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Range Sum Query 2D - Immutable](problems/304.range-sum-query-2d-immutable.cpp) | 🟡 Medium | C++ |
 | [306](https://leetcode.com/problems/additive-number/) | [Additive Number](problems/306.additive-number.cpp) | 🟡 Medium | C++ |
 | [307](https://leetcode.com/problems/range-sum-query-mutable/) | [Range Sum Query - Mutable](problems/307.range-sum-query-mutable.cpp) | 🟡 Medium | C++ |
