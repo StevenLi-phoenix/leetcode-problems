@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3058 solved** — 🟢 726 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3059 solved** — 🟢 727 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -829,6 +829,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1002](https://leetcode.com/problems/find-common-characters/) | [Find Common Characters](problems/1002.find-common-characters.cpp) | 🟢 Easy | C++ |
 | [1003](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [Check If Word Is Valid After Substitutions](problems/1003.check-if-word-is-valid-after-substitutions.cpp) | 🟡 Medium | C++ |
 | [1004](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Max Consecutive Ones III](problems/1004.max-consecutive-ones-iii.cpp) | 🟡 Medium | C++ |
+| [1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Maximize Sum Of Array After K Negations](problems/1005.maximize-sum-of-array-after-k-negations.cpp) | 🟢 Easy | C++ |
 | [1006](https://leetcode.com/problems/clumsy-factorial/) | [Clumsy Factorial](problems/1006.clumsy-factorial.cpp) | 🟡 Medium | C++ |
 | [1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Minimum Domino Rotations For Equal Row](problems/1007.minimum-domino-rotations-for-equal-row.cpp) | 🟡 Medium | C++ |
 | [1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Construct Binary Search Tree from Preorder Traversal](problems/1008.construct-binary-search-tree-from-preorder-traversal.cpp) | 🟡 Medium | C++ |
