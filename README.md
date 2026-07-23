@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2996 solved** — 🟢 663 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2997 solved** — 🟢 664 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -179,6 +179,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [178](https://leetcode.com/problems/rank-scores/) | [Rank Scores](problems/178.rank-scores.sql) | 🟡 Medium | mysql |
 | [179](https://leetcode.com/problems/largest-number/) | [Largest Number](problems/179.largest-number.cpp) | 🟡 Medium | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
+| [181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [Employees Earning More Than Their Managers](problems/181.employees-earning-more-than-their-managers.sql) | 🟢 Easy | mysql |
 | [182](https://leetcode.com/problems/duplicate-emails/) | [Duplicate Emails](problems/182.duplicate-emails.sql) | 🟢 Easy | mysql |
 | [183](https://leetcode.com/problems/customers-who-never-order/) | [Customers Who Never Order](problems/183.customers-who-never-order.sql) | 🟢 Easy | mysql |
 | [184](https://leetcode.com/problems/department-highest-salary/) | [Department Highest Salary](problems/184.department-highest-salary.sql) | 🟡 Medium | mysql |
