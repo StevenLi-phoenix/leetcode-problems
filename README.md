@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2946 solved** — 🟢 615 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2947 solved** — 🟢 616 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2746,6 +2746,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3727](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Maximum Alternating Sum of Squares](problems/3727.maximum-alternating-sum-of-squares.cpp) | 🟡 Medium | C++ |
 | [3728](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/) | [Stable Subarrays With Equal Boundary and Interior Sum](problems/3728.stable-subarrays-with-equal-boundary-and-interior-sum.cpp) | 🟡 Medium | C++ |
 | [3729](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | [Count Distinct Subarrays Divisible by K in Sorted Array](problems/3729.count-distinct-subarrays-divisible-by-k-in-sorted-array.cpp) | 🔴 Hard | C++ |
+| [3731](https://leetcode.com/problems/find-missing-elements/) | [Find Missing Elements](problems/3731.find-missing-elements.cpp) | 🟢 Easy | C++ |
 | [3732](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | [Maximum Product of Three Elements After One Replacement](problems/3732.maximum-product-of-three-elements-after-one-replacement.cpp) | 🟡 Medium | C++ |
 | [3733](https://leetcode.com/problems/minimum-time-to-complete-all-deliveries/) | [Minimum Time to Complete All Deliveries](problems/3733.minimum-time-to-complete-all-deliveries.cpp) | 🟡 Medium | C++ |
 | [3734](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Lexicographically Smallest Palindromic Permutation Greater Than Target](problems/3734.lexicographically-smallest-palindromic-permutation-greater-than-target.cpp) | 🔴 Hard | C++ |
