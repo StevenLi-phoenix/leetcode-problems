@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2840 solved** — 🟢 531 Easy · 🟡 1564 Medium · 🔴 732 Hard
+**2841 solved** — 🟢 531 Easy · 🟡 1565 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2608,6 +2608,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3671](https://leetcode.com/problems/sum-of-beautiful-subsequences/) | [Sum of Beautiful Subsequences](problems/3671.sum-of-beautiful-subsequences.cpp) | 🔴 Hard | C++ |
 | [3673](https://leetcode.com/problems/find-zombie-sessions/) | [Find Zombie Sessions](problems/3673.find-zombie-sessions.sql) | 🔴 Hard | mysql |
 | [3674](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [Minimum Operations to Equalize Array](problems/3674.minimum-operations-to-equalize-array.cpp) | 🟢 Easy | C++ |
+| [3675](https://leetcode.com/problems/minimum-operations-to-transform-string/) | [Minimum Operations to Transform String](problems/3675.minimum-operations-to-transform-string.cpp) | 🟡 Medium | C++ |
 | [3676](https://leetcode.com/problems/count-bowl-subarrays/) | [Count Bowl Subarrays](problems/3676.count-bowl-subarrays.cpp) | 🟡 Medium | C++ |
 | [3677](https://leetcode.com/problems/count-binary-palindromic-numbers/) | [Count Binary Palindromic Numbers](problems/3677.count-binary-palindromic-numbers.cpp) | 🔴 Hard | C++ |
 | [3678](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [Smallest Absent Positive Greater Than Average](problems/3678.smallest-absent-positive-greater-than-average.cpp) | 🟢 Easy | C++ |
