@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2978 solved** — 🟢 646 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2979 solved** — 🟢 647 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -469,6 +469,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [607](https://leetcode.com/problems/sales-person/) | [Sales Person](problems/607.sales-person.sql) | 🟢 Easy | mysql |
 | [608](https://leetcode.com/problems/tree-node/) | [Tree Node](problems/608.tree-node.sql) | 🟡 Medium | mysql |
 | [609](https://leetcode.com/problems/find-duplicate-file-in-system/) | [Find Duplicate File in System](problems/609.find-duplicate-file-in-system.cpp) | 🟡 Medium | C++ |
+| [610](https://leetcode.com/problems/triangle-judgement/) | [Triangle Judgement](problems/610.triangle-judgement.sql) | 🟢 Easy | mysql |
 | [611](https://leetcode.com/problems/valid-triangle-number/) | [Valid Triangle Number](problems/611.valid-triangle-number.cpp) | 🟡 Medium | C++ |
 | [617](https://leetcode.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](problems/617.merge-two-binary-trees.cpp) | 🟢 Easy | C++ |
 | [619](https://leetcode.com/problems/biggest-single-number/) | [Biggest Single Number](problems/619.biggest-single-number.sql) | 🟢 Easy | mysql |
