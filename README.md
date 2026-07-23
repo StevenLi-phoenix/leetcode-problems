@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2982 solved** — 🟢 650 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2983 solved** — 🟢 651 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1177,6 +1177,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1535](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | [Find the Winner of an Array Game](problems/1535.find-the-winner-of-an-array-game.cpp) | 🟡 Medium | C++ |
 | [1536](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [Minimum Swaps to Arrange a Binary Grid](problems/1536.minimum-swaps-to-arrange-a-binary-grid.cpp) | 🟡 Medium | C++ |
 | [1537](https://leetcode.com/problems/get-the-maximum-score/) | [Get the Maximum Score](problems/1537.get-the-maximum-score.cpp) | 🔴 Hard | C++ |
+| [1539](https://leetcode.com/problems/kth-missing-positive-number/) | [Kth Missing Positive Number](problems/1539.kth-missing-positive-number.cpp) | 🟢 Easy | C++ |
 | [1540](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [Can Convert String in K Moves](problems/1540.can-convert-string-in-k-moves.cpp) | 🟡 Medium | C++ |
 | [1541](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Minimum Insertions to Balance a Parentheses String](problems/1541.minimum-insertions-to-balance-a-parentheses-string.cpp) | 🟡 Medium | C++ |
 | [1542](https://leetcode.com/problems/find-longest-awesome-substring/) | [Find Longest Awesome Substring](problems/1542.find-longest-awesome-substring.cpp) | 🔴 Hard | C++ |
