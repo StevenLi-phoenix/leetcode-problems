@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3014 solved** — 🟢 681 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3015 solved** — 🟢 682 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -288,6 +288,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [341](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Flatten Nested List Iterator](problems/341.flatten-nested-list-iterator.cpp) | 🟡 Medium | C++ |
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
 | [343](https://leetcode.com/problems/integer-break/) | [Integer Break](problems/343.integer-break.cpp) | 🟡 Medium | C++ |
+| [345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Reverse Vowels of a String](problems/345.reverse-vowels-of-a-string.cpp) | 🟢 Easy | C++ |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](problems/347.top-k-frequent-elements.cpp) | 🟡 Medium | C++ |
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/) | [Intersection of Two Arrays](problems/349.intersection-of-two-arrays.cpp) | 🟢 Easy | C++ |
 | [352](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Data Stream as Disjoint Intervals](problems/352.data-stream-as-disjoint-intervals.cpp) | 🔴 Hard | C++ |
