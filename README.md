@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2929 solved** — 🟢 600 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2930 solved** — 🟢 601 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1495,6 +1495,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2007](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Find Original Array From Doubled Array](problems/2007.find-original-array-from-doubled-array.cpp) | 🟡 Medium | C++ |
 | [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Maximum Earnings From Taxi](problems/2008.maximum-earnings-from-taxi.cpp) | 🟡 Medium | C++ |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Minimum Number of Operations to Make Array Continuous](problems/2009.minimum-number-of-operations-to-make-array-continuous.cpp) | 🔴 Hard | C++ |
+| [2011](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Final Value of Variable After Performing Operations](problems/2011.final-value-of-variable-after-performing-operations.cpp) | 🟢 Easy | C++ |
 | [2012](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | [Sum of Beauty in the Array](problems/2012.sum-of-beauty-in-the-array.cpp) | 🟡 Medium | C++ |
 | [2013](https://leetcode.com/problems/detect-squares/) | [Detect Squares](problems/2013.detect-squares.cpp) | 🟡 Medium | C++ |
 | [2014](https://leetcode.com/problems/longest-subsequence-repeated-k-times/) | [Longest Subsequence Repeated k Times](problems/2014.longest-subsequence-repeated-k-times.cpp) | 🔴 Hard | C++ |
