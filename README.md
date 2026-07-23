@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2844 solved** — 🟢 533 Easy · 🟡 1566 Medium · 🔴 732 Hard
+**2845 solved** — 🟢 533 Easy · 🟡 1567 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1735,6 +1735,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2405](https://leetcode.com/problems/optimal-partition-of-string/) | [Optimal Partition of String](problems/2405.optimal-partition-of-string.cpp) | 🟡 Medium | C++ |
 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | [Divide Intervals Into Minimum Number of Groups](problems/2406.divide-intervals-into-minimum-number-of-groups.cpp) | 🟡 Medium | C++ |
 | [2407](https://leetcode.com/problems/longest-increasing-subsequence-ii/) | [Longest Increasing Subsequence II](problems/2407.longest-increasing-subsequence-ii.cpp) | 🔴 Hard | C++ |
+| [2408](https://leetcode.com/problems/design-sql/) | [Design SQL](problems/2408.design-sql.cpp) | 🟡 Medium | C++ |
 | [2409](https://leetcode.com/problems/count-days-spent-together/) | [Count Days Spent Together](problems/2409.count-days-spent-together.cpp) | 🟢 Easy | C++ |
 | [2410](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [Maximum Matching of Players With Trainers](problems/2410.maximum-matching-of-players-with-trainers.cpp) | 🟡 Medium | C++ |
 | [2411](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [Smallest Subarrays With Maximum Bitwise OR](problems/2411.smallest-subarrays-with-maximum-bitwise-or.cpp) | 🟡 Medium | C++ |
