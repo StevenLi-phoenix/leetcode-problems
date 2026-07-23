@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2842 solved** — 🟢 532 Easy · 🟡 1565 Medium · 🔴 732 Hard
+**2843 solved** — 🟢 532 Easy · 🟡 1566 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -269,6 +269,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [336](https://leetcode.com/problems/palindrome-pairs/) | [Palindrome Pairs](problems/336.palindrome-pairs.cpp) | 🔴 Hard | C++ |
 | [337](https://leetcode.com/problems/house-robber-iii/) | [House Robber III](problems/337.house-robber-iii.cpp) | 🟡 Medium | C++ |
 | [338](https://leetcode.com/problems/counting-bits/) | [Counting Bits](problems/338.counting-bits.cpp) | 🟢 Easy | C++ |
+| [341](https://leetcode.com/problems/flatten-nested-list-iterator/) | [Flatten Nested List Iterator](problems/341.flatten-nested-list-iterator.cpp) | 🟡 Medium | C++ |
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
 | [343](https://leetcode.com/problems/integer-break/) | [Integer Break](problems/343.integer-break.cpp) | 🟡 Medium | C++ |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](problems/347.top-k-frequent-elements.cpp) | 🟡 Medium | C++ |
