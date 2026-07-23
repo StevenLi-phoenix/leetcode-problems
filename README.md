@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3061 solved** — 🟢 728 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3062 solved** — 🟢 729 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1433,6 +1433,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1828](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [Queries on Number of Points Inside a Circle](problems/1828.queries-on-number-of-points-inside-a-circle.cpp) | 🟡 Medium | C++ |
 | [1829](https://leetcode.com/problems/maximum-xor-for-each-query/) | [Maximum XOR for Each Query](problems/1829.maximum-xor-for-each-query.cpp) | 🟡 Medium | C++ |
 | [1830](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/) | [Minimum Number of Operations to Make String Sorted](problems/1830.minimum-number-of-operations-to-make-string-sorted.cpp) | 🔴 Hard | C++ |
+| [1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Check if the Sentence Is Pangram](problems/1832.check-if-the-sentence-is-pangram.cpp) | 🟢 Easy | C++ |
 | [1833](https://leetcode.com/problems/maximum-ice-cream-bars/) | [Maximum Ice Cream Bars](problems/1833.maximum-ice-cream-bars.cpp) | 🟡 Medium | C++ |
 | [1834](https://leetcode.com/problems/single-threaded-cpu/) | [Single-Threaded CPU](problems/1834.single-threaded-cpu.cpp) | 🟡 Medium | C++ |
 | [1835](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/) | [Find XOR Sum of All Pairs Bitwise AND](problems/1835.find-xor-sum-of-all-pairs-bitwise-and.cpp) | 🔴 Hard | C++ |
