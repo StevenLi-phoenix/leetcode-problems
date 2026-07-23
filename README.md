@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2961 solved** — 🟢 629 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2962 solved** — 🟢 630 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1246,6 +1246,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1647](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [Minimum Deletions to Make Character Frequencies Unique](problems/1647.minimum-deletions-to-make-character-frequencies-unique.cpp) | 🟡 Medium | C++ |
 | [1648](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [Sell Diminishing-Valued Colored Balls](problems/1648.sell-diminishing-valued-colored-balls.cpp) | 🟡 Medium | C++ |
 | [1649](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Create Sorted Array through Instructions](problems/1649.create-sorted-array-through-instructions.cpp) | 🔴 Hard | C++ |
+| [1652](https://leetcode.com/problems/defuse-the-bomb/) | [Defuse the Bomb](problems/1652.defuse-the-bomb.cpp) | 🟢 Easy | C++ |
 | [1653](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [Minimum Deletions to Make String Balanced](problems/1653.minimum-deletions-to-make-string-balanced.cpp) | 🟡 Medium | C++ |
 | [1654](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [Minimum Jumps to Reach Home](problems/1654.minimum-jumps-to-reach-home.cpp) | 🟡 Medium | C++ |
 | [1655](https://leetcode.com/problems/distribute-repeating-integers/) | [Distribute Repeating Integers](problems/1655.distribute-repeating-integers.cpp) | 🔴 Hard | C++ |
