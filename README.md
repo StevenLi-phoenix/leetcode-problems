@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2972 solved** — 🟢 640 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2973 solved** — 🟢 641 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1490,6 +1490,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1969](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | [Minimum Non-Zero Product of the Array Elements](problems/1969.minimum-non-zero-product-of-the-array-elements.cpp) | 🟡 Medium | C++ |
 | [1970](https://leetcode.com/problems/last-day-where-you-can-still-cross/) | [Last Day Where You Can Still Cross](problems/1970.last-day-where-you-can-still-cross.cpp) | 🔴 Hard | C++ |
 | [1971](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [Find if Path Exists in Graph](problems/1971.find-if-path-exists-in-graph.cpp) | 🟢 Easy | C++ |
+| [1974](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | [Minimum Time to Type Word Using Special Typewriter](problems/1974.minimum-time-to-type-word-using-special-typewriter.cpp) | 🟢 Easy | C++ |
 | [1975](https://leetcode.com/problems/maximum-matrix-sum/) | [Maximum Matrix Sum](problems/1975.maximum-matrix-sum.cpp) | 🟡 Medium | C++ |
 | [1976](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Number of Ways to Arrive at Destination](problems/1976.number-of-ways-to-arrive-at-destination.cpp) | 🟡 Medium | C++ |
 | [1977](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [Number of Ways to Separate Numbers](problems/1977.number-of-ways-to-separate-numbers.cpp) | 🔴 Hard | C++ |
