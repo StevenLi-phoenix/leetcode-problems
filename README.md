@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2912 solved** — 🟢 584 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2913 solved** — 🟢 585 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -654,6 +654,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [856](https://leetcode.com/problems/score-of-parentheses/) | [Score of Parentheses](problems/856.score-of-parentheses.cpp) | 🟡 Medium | C++ |
 | [857](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Minimum Cost to Hire K Workers](problems/857.minimum-cost-to-hire-k-workers.cpp) | 🔴 Hard | C++ |
 | [858](https://leetcode.com/problems/mirror-reflection/) | [Mirror Reflection](problems/858.mirror-reflection.cpp) | 🟡 Medium | C++ |
+| [859](https://leetcode.com/problems/buddy-strings/) | [Buddy Strings](problems/859.buddy-strings.cpp) | 🟢 Easy | C++ |
 | [860](https://leetcode.com/problems/lemonade-change/) | [Lemonade Change](problems/860.lemonade-change.cpp) | 🟢 Easy | C++ |
 | [861](https://leetcode.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](problems/861.score-after-flipping-matrix.cpp) | 🟡 Medium | C++ |
 | [862](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [Shortest Subarray with Sum at Least K](problems/862.shortest-subarray-with-sum-at-least-k.cpp) | 🔴 Hard | C++ |
