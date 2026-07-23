@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2911 solved** — 🟢 583 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2912 solved** — 🟢 584 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2892,6 +2892,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3959](https://leetcode.com/problems/check-good-integer/) | [Check Good Integer](problems/3959.check-good-integer.cpp) | 🟢 Easy | C++ |
 | [3960](https://leetcode.com/problems/frequency-balance-subarray/) | [Frequency Balance Subarray](problems/3960.frequency-balance-subarray.cpp) | 🟡 Medium | C++ |
 | [3961](https://leetcode.com/problems/maximize-sum-of-device-ratings/) | [Maximize Sum of Device Ratings](problems/3961.maximize-sum-of-device-ratings.cpp) | 🟡 Medium | C++ |
+| [3963](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [Create Grid With Exactly One Path](problems/3963.create-grid-with-exactly-one-path.cpp) | 🟢 Easy | C++ |
 | [3964](https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/) | [Minimum Lights to Illuminate a Road](problems/3964.minimum-lights-to-illuminate-a-road.cpp) | 🟡 Medium | C++ |
 | [3965](https://leetcode.com/problems/finish-time-of-tasks-i/) | [Finish Time of Tasks I](problems/3965.finish-time-of-tasks-i.cpp) | 🟡 Medium | C++ |
 | [3966](https://leetcode.com/problems/count-good-integers-in-a-range/) | [Count Good Integers in a Range](problems/3966.count-good-integers-in-a-range.cpp) | 🔴 Hard | C++ |
