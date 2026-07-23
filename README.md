@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3030 solved** — 🟢 698 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3031 solved** — 🟢 699 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2093,6 +2093,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2722](https://leetcode.com/problems/join-two-arrays-by-id/) | [Join Two Arrays by ID](problems/2722.join-two-arrays-by-id.js) | 🟡 Medium | JavaScript |
 | [2723](https://leetcode.com/problems/add-two-promises/) | [Add Two Promises](problems/2723.add-two-promises.js) | 🟢 Easy | JavaScript |
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
+| [2725](https://leetcode.com/problems/interval-cancellation/) | [Interval Cancellation](problems/2725.interval-cancellation.js) | 🟢 Easy | JavaScript |
 | [2726](https://leetcode.com/problems/calculator-with-method-chaining/) | [Calculator with Method Chaining](problems/2726.calculator-with-method-chaining.js) | 🟢 Easy | JavaScript |
 | [2727](https://leetcode.com/problems/is-object-empty/) | [Is Object Empty](problems/2727.is-object-empty.js) | 🟢 Easy | JavaScript |
 | [2729](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [Check if The Number is Fascinating](problems/2729.check-if-the-number-is-fascinating.cpp) | 🟢 Easy | C++ |
