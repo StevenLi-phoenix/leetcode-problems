@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3049 solved** — 🟢 717 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3050 solved** — 🟢 718 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2636,6 +2636,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3468](https://leetcode.com/problems/find-the-number-of-copy-arrays/) | [Find the Number of Copy Arrays](problems/3468.find-the-number-of-copy-arrays.cpp) | 🟡 Medium | C++ |
 | [3469](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | [Find Minimum Cost to Remove Array Elements](problems/3469.find-minimum-cost-to-remove-array-elements.cpp) | 🟡 Medium | C++ |
 | [3470](https://leetcode.com/problems/permutations-iv/) | [Permutations IV](problems/3470.permutations-iv.cpp) | 🔴 Hard | C++ |
+| [3471](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [Find the Largest Almost Missing Integer](problems/3471.find-the-largest-almost-missing-integer.cpp) | 🟢 Easy | C++ |
 | [3472](https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/) | [Longest Palindromic Subsequence After at Most K Operations](problems/3472.longest-palindromic-subsequence-after-at-most-k-operations.cpp) | 🟡 Medium | C++ |
 | [3473](https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m/) | [Sum of K Subarrays With Length at Least M](problems/3473.sum-of-k-subarrays-with-length-at-least-m.cpp) | 🟡 Medium | C++ |
 | [3474](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [Lexicographically Smallest Generated String](problems/3474.lexicographically-smallest-generated-string.cpp) | 🔴 Hard | C++ |
