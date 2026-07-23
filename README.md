@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3040 solved** — 🟢 708 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3041 solved** — 🟢 709 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1138,6 +1138,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1451](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Rearrange Words in a Sentence](problems/1451.rearrange-words-in-a-sentence.cpp) | 🟡 Medium | C++ |
 | [1452](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [People Whose List of Favorite Companies Is Not a Subset of Another List](problems/1452.people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list.cpp) | 🟡 Medium | C++ |
 | [1453](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | [Maximum Number of Darts Inside of a Circular Dartboard](problems/1453.maximum-number-of-darts-inside-of-a-circular-dartboard.cpp) | 🔴 Hard | C++ |
+| [1455](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](problems/1455.check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence.cpp) | 🟢 Easy | C++ |
 | [1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Maximum Number of Vowels in a Substring of Given Length](problems/1456.maximum-number-of-vowels-in-a-substring-of-given-length.py) | 🟡 Medium | Python |
 | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [Pseudo-Palindromic Paths in a Binary Tree](problems/1457.pseudo-palindromic-paths-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | [Max Dot Product of Two Subsequences](problems/1458.max-dot-product-of-two-subsequences.cpp) | 🔴 Hard | C++ |
