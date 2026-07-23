@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2896 solved** — 🟢 569 Easy · 🟡 1577 Medium · 🔴 732 Hard
+**2897 solved** — 🟢 570 Easy · 🟡 1577 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -496,6 +496,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [668](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [Kth Smallest Number in Multiplication Table](problems/668.kth-smallest-number-in-multiplication-table.cpp) | 🔴 Hard | C++ |
 | [669](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Trim a Binary Search Tree](problems/669.trim-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [670](https://leetcode.com/problems/maximum-swap/) | [Maximum Swap](problems/670.maximum-swap.cpp) | 🟡 Medium | C++ |
+| [671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Second Minimum Node In a Binary Tree](problems/671.second-minimum-node-in-a-binary-tree.cpp) | 🟢 Easy | C++ |
 | [672](https://leetcode.com/problems/bulb-switcher-ii/) | [Bulb Switcher II](problems/672.bulb-switcher-ii.cpp) | 🟡 Medium | C++ |
 | [673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Number of Longest Increasing Subsequence](problems/673.number-of-longest-increasing-subsequence.cpp) | 🟡 Medium | C++ |
 | [675](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Cut Off Trees for Golf Event](problems/675.cut-off-trees-for-golf-event.cpp) | 🔴 Hard | C++ |
