@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2997 solved** — 🟢 664 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2998 solved** — 🟢 665 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2294,6 +2294,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3043](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Find the Length of the Longest Common Prefix](problems/3043.find-the-length-of-the-longest-common-prefix.cpp) | 🟡 Medium | C++ |
 | [3044](https://leetcode.com/problems/most-frequent-prime/) | [Most Frequent Prime](problems/3044.most-frequent-prime.cpp) | 🟡 Medium | C++ |
 | [3045](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/) | [Count Prefix and Suffix Pairs II](problems/3045.count-prefix-and-suffix-pairs-ii.cpp) | 🔴 Hard | C++ |
+| [3046](https://leetcode.com/problems/split-the-array/) | [Split the Array](problems/3046.split-the-array.cpp) | 🟢 Easy | C++ |
 | [3047](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/) | [Find the Largest Area of Square Inside Two Rectangles](problems/3047.find-the-largest-area-of-square-inside-two-rectangles.cpp) | 🟡 Medium | C++ |
 | [3048](https://leetcode.com/problems/earliest-second-to-mark-indices-i/) | [Earliest Second to Mark Indices I](problems/3048.earliest-second-to-mark-indices-i.cpp) | 🟡 Medium | C++ |
 | [3049](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/) | [Earliest Second to Mark Indices II](problems/3049.earliest-second-to-mark-indices-ii.cpp) | 🔴 Hard | C++ |
