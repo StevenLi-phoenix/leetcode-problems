@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2855 solved** — 🟢 539 Easy · 🟡 1570 Medium · 🔴 732 Hard
+**2856 solved** — 🟢 540 Easy · 🟡 1570 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2805,6 +2805,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3913](https://leetcode.com/problems/sort-vowels-by-frequency/) | [Sort Vowels by Frequency](problems/3913.sort-vowels-by-frequency.cpp) | 🟡 Medium | C++ |
 | [3914](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/) | [Minimum Operations to Make Array Non Decreasing](problems/3914.minimum-operations-to-make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
 | [3915](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](problems/3915.maximum-sum-of-alternating-subsequence-with-distance-at-least-k.cpp) | 🔴 Hard | C++ |
+| [3917](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Count Indices With Opposite Parity](problems/3917.count-indices-with-opposite-parity.cpp) | 🟢 Easy | C++ |
 | [3918](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | [Sum of Primes Between Number and Its Reverse](problems/3918.sum-of-primes-between-number-and-its-reverse.cpp) | 🟡 Medium | C++ |
 | [3919](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Minimum Cost to Move Between Indices](problems/3919.minimum-cost-to-move-between-indices.cpp) | 🟡 Medium | C++ |
 | [3920](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [Maximize Fixed Points After Deletions](problems/3920.maximize-fixed-points-after-deletions.cpp) | 🔴 Hard | C++ |
