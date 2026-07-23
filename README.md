@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3077 solved** — 🟢 743 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3078 solved** — 🟢 744 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2564,6 +2564,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3341](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/) | [Find Minimum Time to Reach Last Room I](problems/3341.find-minimum-time-to-reach-last-room-i.cpp) | 🟡 Medium | C++ |
 | [3342](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/) | [Find Minimum Time to Reach Last Room II](problems/3342.find-minimum-time-to-reach-last-room-ii.cpp) | 🟡 Medium | C++ |
 | [3343](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [Count Number of Balanced Permutations](problems/3343.count-number-of-balanced-permutations.cpp) | 🔴 Hard | C++ |
+| [3345](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [Smallest Divisible Digit Product I](problems/3345.smallest-divisible-digit-product-i.cpp) | 🟢 Easy | C++ |
 | [3346](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | [Maximum Frequency of an Element After Performing Operations I](problems/3346.maximum-frequency-of-an-element-after-performing-operations-i.cpp) | 🟡 Medium | C++ |
 | [3347](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [Maximum Frequency of an Element After Performing Operations II](problems/3347.maximum-frequency-of-an-element-after-performing-operations-ii.cpp) | 🔴 Hard | C++ |
 | [3348](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | [Smallest Divisible Digit Product II](problems/3348.smallest-divisible-digit-product-ii.cpp) | 🔴 Hard | C++ |
