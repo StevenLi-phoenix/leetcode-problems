@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2966 solved** — 🟢 634 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2967 solved** — 🟢 635 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1781,6 +1781,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2374](https://leetcode.com/problems/node-with-highest-edge-score/) | [Node With Highest Edge Score](problems/2374.node-with-highest-edge-score.cpp) | 🟡 Medium | C++ |
 | [2375](https://leetcode.com/problems/construct-smallest-number-from-di-string/) | [Construct Smallest Number From DI String](problems/2375.construct-smallest-number-from-di-string.cpp) | 🟡 Medium | C++ |
 | [2376](https://leetcode.com/problems/count-special-integers/) | [Count Special Integers](problems/2376.count-special-integers.cpp) | 🔴 Hard | C++ |
+| [2379](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [Minimum Recolors to Get K Consecutive Black Blocks](problems/2379.minimum-recolors-to-get-k-consecutive-black-blocks.cpp) | 🟢 Easy | C++ |
 | [2380](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/) | [Time Needed to Rearrange a Binary String](problems/2380.time-needed-to-rearrange-a-binary-string.cpp) | 🟡 Medium | C++ |
 | [2381](https://leetcode.com/problems/shifting-letters-ii/) | [Shifting Letters II](problems/2381.shifting-letters-ii.cpp) | 🟡 Medium | C++ |
 | [2382](https://leetcode.com/problems/maximum-segment-sum-after-removals/) | [Maximum Segment Sum After Removals](problems/2382.maximum-segment-sum-after-removals.cpp) | 🔴 Hard | C++ |
