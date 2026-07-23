@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2902 solved** — 🟢 574 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2903 solved** — 🟢 575 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1604,6 +1604,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2177](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [Find Three Consecutive Integers That Sum to a Given Number](problems/2177.find-three-consecutive-integers-that-sum-to-a-given-number.cpp) | 🟡 Medium | C++ |
 | [2178](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [Maximum Split of Positive Even Integers](problems/2178.maximum-split-of-positive-even-integers.cpp) | 🟡 Medium | C++ |
 | [2179](https://leetcode.com/problems/count-good-triplets-in-an-array/) | [Count Good Triplets in an Array](problems/2179.count-good-triplets-in-an-array.cpp) | 🔴 Hard | C++ |
+| [2180](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [Count Integers With Even Digit Sum](problems/2180.count-integers-with-even-digit-sum.cpp) | 🟢 Easy | C++ |
 | [2181](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [Merge Nodes in Between Zeros](problems/2181.merge-nodes-in-between-zeros.cpp) | 🟡 Medium | C++ |
 | [2182](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [Construct String With Repeat Limit](problems/2182.construct-string-with-repeat-limit.cpp) | 🟡 Medium | C++ |
 | [2183](https://leetcode.com/problems/count-array-pairs-divisible-by-k/) | [Count Array Pairs Divisible by K](problems/2183.count-array-pairs-divisible-by-k.cpp) | 🔴 Hard | C++ |
