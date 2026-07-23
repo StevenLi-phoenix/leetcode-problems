@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2952 solved** — 🟢 621 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2953 solved** — 🟢 622 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1886,6 +1886,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2526](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Find Consecutive Integers from a Data Stream](problems/2526.find-consecutive-integers-from-a-data-stream.cpp) | 🟡 Medium | C++ |
 | [2527](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Find Xor-Beauty of Array](problems/2527.find-xor-beauty-of-array.cpp) | 🟡 Medium | C++ |
 | [2528](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [Maximize the Minimum Powered City](problems/2528.maximize-the-minimum-powered-city.cpp) | 🔴 Hard | C++ |
+| [2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [Maximum Count of Positive Integer and Negative Integer](problems/2529.maximum-count-of-positive-integer-and-negative-integer.cpp) | 🟢 Easy | C++ |
 | [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [Maximal Score After Applying K Operations](problems/2530.maximal-score-after-applying-k-operations.cpp) | 🟡 Medium | C++ |
 | [2531](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | [Make Number of Distinct Characters Equal](problems/2531.make-number-of-distinct-characters-equal.cpp) | 🟡 Medium | C++ |
 | [2532](https://leetcode.com/problems/time-to-cross-a-bridge/) | [Time to Cross a Bridge](problems/2532.time-to-cross-a-bridge.cpp) | 🔴 Hard | C++ |
