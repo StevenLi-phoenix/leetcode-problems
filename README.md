@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2971 solved** — 🟢 639 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2972 solved** — 🟢 640 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -552,6 +552,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [724](https://leetcode.com/problems/find-pivot-index/) | [Find Pivot Index](problems/724.find-pivot-index.cpp) | 🟢 Easy | C++ |
 | [725](https://leetcode.com/problems/split-linked-list-in-parts/) | [Split Linked List in Parts](problems/725.split-linked-list-in-parts.cpp) | 🟡 Medium | C++ |
 | [726](https://leetcode.com/problems/number-of-atoms/) | [Number of Atoms](problems/726.number-of-atoms.cpp) | 🔴 Hard | C++ |
+| [728](https://leetcode.com/problems/self-dividing-numbers/) | [Self Dividing Numbers](problems/728.self-dividing-numbers.cpp) | 🟢 Easy | C++ |
 | [729](https://leetcode.com/problems/my-calendar-i/) | [My Calendar I](problems/729.my-calendar-i.cpp) | 🟡 Medium | C++ |
 | [730](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [Count Different Palindromic Subsequences](problems/730.count-different-palindromic-subsequences.cpp) | 🔴 Hard | C++ |
 | [731](https://leetcode.com/problems/my-calendar-ii/) | [My Calendar II](problems/731.my-calendar-ii.cpp) | 🟡 Medium | C++ |
