@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2873 solved** — 🟢 551 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2874 solved** — 🟢 552 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -858,6 +858,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1123](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Lowest Common Ancestor of Deepest Leaves](problems/1123.lowest-common-ancestor-of-deepest-leaves.cpp) | 🟡 Medium | C++ |
 | [1124](https://leetcode.com/problems/longest-well-performing-interval/) | [Longest Well-Performing Interval](problems/1124.longest-well-performing-interval.cpp) | 🟡 Medium | C++ |
 | [1125](https://leetcode.com/problems/smallest-sufficient-team/) | [Smallest Sufficient Team](problems/1125.smallest-sufficient-team.cpp) | 🔴 Hard | C++ |
+| [1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [Number of Equivalent Domino Pairs](problems/1128.number-of-equivalent-domino-pairs.cpp) | 🟢 Easy | C++ |
 | [1129](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Shortest Path with Alternating Colors](problems/1129.shortest-path-with-alternating-colors.cpp) | 🟡 Medium | C++ |
 | [1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Minimum Cost Tree From Leaf Values](problems/1130.minimum-cost-tree-from-leaf-values.cpp) | 🟡 Medium | C++ |
 | [1131](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [Maximum of Absolute Value Expression](problems/1131.maximum-of-absolute-value-expression.cpp) | 🟡 Medium | C++ |
