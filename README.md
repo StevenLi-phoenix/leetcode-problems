@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3066 solved** — 🟢 733 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3067 solved** — 🟢 734 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -588,6 +588,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [745](https://leetcode.com/problems/prefix-and-suffix-search/) | [Prefix and Suffix Search](problems/745.prefix-and-suffix-search.cpp) | 🔴 Hard | C++ |
 | [746](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](problems/746.min-cost-climbing-stairs.cpp) | 🟢 Easy | C++ |
 | [747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Largest Number At Least Twice of Others](problems/747.largest-number-at-least-twice-of-others.cpp) | 🟢 Easy | C++ |
+| [748](https://leetcode.com/problems/shortest-completing-word/) | [Shortest Completing Word](problems/748.shortest-completing-word.cpp) | 🟢 Easy | C++ |
 | [749](https://leetcode.com/problems/contain-virus/) | [Contain Virus](problems/749.contain-virus.cpp) | 🔴 Hard | C++ |
 | [752](https://leetcode.com/problems/open-the-lock/) | [Open the Lock](problems/752.open-the-lock.cpp) | 🟡 Medium | C++ |
 | [754](https://leetcode.com/problems/reach-a-number/) | [Reach a Number](problems/754.reach-a-number.cpp) | 🟡 Medium | C++ |
