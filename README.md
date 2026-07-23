@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3051 solved** — 🟢 719 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3052 solved** — 🟢 720 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1847,6 +1847,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2390](https://leetcode.com/problems/removing-stars-from-a-string/) | [Removing Stars From a String](problems/2390.removing-stars-from-a-string.cpp) | 🟡 Medium | C++ |
 | [2391](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/) | [Minimum Amount of Time to Collect Garbage](problems/2391.minimum-amount-of-time-to-collect-garbage.cpp) | 🟡 Medium | C++ |
 | [2392](https://leetcode.com/problems/build-a-matrix-with-conditions/) | [Build a Matrix With Conditions](problems/2392.build-a-matrix-with-conditions.cpp) | 🔴 Hard | C++ |
+| [2395](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [Find Subarrays With Equal Sum](problems/2395.find-subarrays-with-equal-sum.cpp) | 🟢 Easy | C++ |
 | [2396](https://leetcode.com/problems/strictly-palindromic-number/) | [Strictly Palindromic Number](problems/2396.strictly-palindromic-number.cpp) | 🟡 Medium | C++ |
 | [2397](https://leetcode.com/problems/maximum-rows-covered-by-columns/) | [Maximum Rows Covered by Columns](problems/2397.maximum-rows-covered-by-columns.cpp) | 🟡 Medium | C++ |
 | [2398](https://leetcode.com/problems/maximum-number-of-robots-within-budget/) | [Maximum Number of Robots Within Budget](problems/2398.maximum-number-of-robots-within-budget.cpp) | 🔴 Hard | C++ |
