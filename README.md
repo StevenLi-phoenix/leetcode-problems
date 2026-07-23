@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2979 solved** — 🟢 647 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2980 solved** — 🟢 648 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1529,6 +1529,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2017](https://leetcode.com/problems/grid-game/) | [Grid Game](problems/2017.grid-game.cpp) | 🟡 Medium | C++ |
 | [2018](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [Check if Word Can Be Placed In Crossword](problems/2018.check-if-word-can-be-placed-in-crossword.cpp) | 🟡 Medium | C++ |
 | [2019](https://leetcode.com/problems/the-score-of-students-solving-math-expression/) | [The Score of Students Solving Math Expression](problems/2019.the-score-of-students-solving-math-expression.cpp) | 🔴 Hard | C++ |
+| [2022](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [Convert 1D Array Into 2D Array](problems/2022.convert-1d-array-into-2d-array.cpp) | 🟢 Easy | C++ |
 | [2023](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [Number of Pairs of Strings With Concatenation Equal to Target](problems/2023.number-of-pairs-of-strings-with-concatenation-equal-to-target.cpp) | 🟡 Medium | C++ |
 | [2024](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [Maximize the Confusion of an Exam](problems/2024.maximize-the-confusion-of-an-exam.cpp) | 🟡 Medium | C++ |
 | [2025](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/) | [Maximum Number of Ways to Partition an Array](problems/2025.maximum-number-of-ways-to-partition-an-array.cpp) | 🔴 Hard | C++ |
