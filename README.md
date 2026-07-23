@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2916 solved** — 🟢 587 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2917 solved** — 🟢 588 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -971,6 +971,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [All Elements in Two Binary Search Trees](problems/1305.all-elements-in-two-binary-search-trees.cpp) | 🟡 Medium | C++ |
 | [1306](https://leetcode.com/problems/jump-game-iii/) | [Jump Game III](problems/1306.jump-game-iii.cpp) | 🟡 Medium | C++ |
 | [1307](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | [Verbal Arithmetic Puzzle](problems/1307.verbal-arithmetic-puzzle.cpp) | 🔴 Hard | C++ |
+| [1309](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Decrypt String from Alphabet to Integer Mapping](problems/1309.decrypt-string-from-alphabet-to-integer-mapping.cpp) | 🟢 Easy | C++ |
 | [1310](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](problems/1310.xor-queries-of-a-subarray.cpp) | 🟡 Medium | C++ |
 | [1311](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [Get Watched Videos by Your Friends](problems/1311.get-watched-videos-by-your-friends.cpp) | 🟡 Medium | C++ |
 | [1312](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Minimum Insertion Steps to Make a String Palindrome](problems/1312.minimum-insertion-steps-to-make-a-string-palindrome.cpp) | 🔴 Hard | C++ |
