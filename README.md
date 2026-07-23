@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2963 solved** — 🟢 631 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2964 solved** — 🟢 632 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -388,6 +388,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
 | [486](https://leetcode.com/problems/predict-the-winner/) | [Predict the Winner](problems/486.predict-the-winner.cpp) | 🟡 Medium | C++ |
 | [491](https://leetcode.com/problems/non-decreasing-subsequences/) | [Non-decreasing Subsequences](problems/491.non-decreasing-subsequences.cpp) | 🟡 Medium | C++ |
+| [492](https://leetcode.com/problems/construct-the-rectangle/) | [Construct the Rectangle](problems/492.construct-the-rectangle.cpp) | 🟢 Easy | C++ |
 | [493](https://leetcode.com/problems/reverse-pairs/) | [Reverse Pairs](problems/493.reverse-pairs.cpp) | 🔴 Hard | C++ |
 | [494](https://leetcode.com/problems/target-sum/) | [Target Sum](problems/494.target-sum.cpp) | 🟡 Medium | C++ |
 | [495](https://leetcode.com/problems/teemo-attacking/) | [Teemo Attacking](problems/495.teemo-attacking.cpp) | 🟢 Easy | C++ |
