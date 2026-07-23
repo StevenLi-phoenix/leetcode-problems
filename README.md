@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2853 solved** — 🟢 538 Easy · 🟡 1569 Medium · 🔴 732 Hard
+**2854 solved** — 🟢 539 Easy · 🟡 1569 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1022,6 +1022,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1391](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Check if There is a Valid Path in a Grid](problems/1391.check-if-there-is-a-valid-path-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [1392](https://leetcode.com/problems/longest-happy-prefix/) | [Longest Happy Prefix](problems/1392.longest-happy-prefix.cpp) | 🔴 Hard | C++ |
 | [1393](https://leetcode.com/problems/capital-gainloss/) | [Capital Gain/Loss](problems/1393.capital-gainloss.sql) | 🟡 Medium | mysql |
+| [1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [Find Lucky Integer in an Array](problems/1394.find-lucky-integer-in-an-array.cpp) | 🟢 Easy | C++ |
 | [1395](https://leetcode.com/problems/count-number-of-teams/) | [Count Number of Teams](problems/1395.count-number-of-teams.cpp) | 🟡 Medium | C++ |
 | [1396](https://leetcode.com/problems/design-underground-system/) | [Design Underground System](problems/1396.design-underground-system.cpp) | 🟡 Medium | C++ |
 | [1397](https://leetcode.com/problems/find-all-good-strings/) | [Find All Good Strings](problems/1397.find-all-good-strings.cpp) | 🔴 Hard | C++ |
