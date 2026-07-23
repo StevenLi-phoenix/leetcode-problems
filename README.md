@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3052 solved** — 🟢 720 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3053 solved** — 🟢 721 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2701,6 +2701,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3546](https://leetcode.com/problems/equal-sum-grid-partition-i/) | [Equal Sum Grid Partition I](problems/3546.equal-sum-grid-partition-i.cpp) | 🟡 Medium | C++ |
 | [3547](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | [Maximum Sum of Edge Values in a Graph](problems/3547.maximum-sum-of-edge-values-in-a-graph.cpp) | 🔴 Hard | C++ |
 | [3548](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [Equal Sum Grid Partition II](problems/3548.equal-sum-grid-partition-ii.cpp) | 🔴 Hard | C++ |
+| [3550](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Smallest Index With Digit Sum Equal to Index](problems/3550.smallest-index-with-digit-sum-equal-to-index.cpp) | 🟢 Easy | C++ |
 | [3551](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | [Minimum Swaps to Sort by Digit Sum](problems/3551.minimum-swaps-to-sort-by-digit-sum.cpp) | 🟡 Medium | C++ |
 | [3552](https://leetcode.com/problems/grid-teleportation-traversal/) | [Grid Teleportation Traversal](problems/3552.grid-teleportation-traversal.cpp) | 🟡 Medium | C++ |
 | [3553](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [Minimum Weighted Subgraph With the Required Paths II](problems/3553.minimum-weighted-subgraph-with-the-required-paths-ii.cpp) | 🔴 Hard | C++ |
