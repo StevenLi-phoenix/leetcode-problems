@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3059 solved** — 🟢 727 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3060 solved** — 🟢 727 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -3047,6 +3047,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3975](https://leetcode.com/problems/filter-occupied-intervals/) | [Filter Occupied Intervals](problems/3975.filter-occupied-intervals.cpp) | — | C++ |
 | [3976](https://leetcode.com/problems/maximum-subarray-sum-after-multiplier/) | [Maximum Subarray Sum After Multiplier](problems/3976.maximum-subarray-sum-after-multiplier.cpp) | — | C++ |
 | [3977](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/) | [Minimum Time to Reach Target With Limited Power](problems/3977.minimum-time-to-reach-target-with-limited-power.cpp) | — | C++ |
+| [3978](https://leetcode.com/problems/unique-middle-element/) | [Unique Middle Element](problems/3978.unique-middle-element.cpp) | — | C++ |
 | [3979](https://leetcode.com/problems/maximum-valid-pair-sum/) | [Maximum Valid Pair Sum](problems/3979.maximum-valid-pair-sum.cpp) | — | C++ |
 | [3980](https://leetcode.com/problems/minimum-operations-to-transform-binary-string/) | [Minimum Operations to Transform Binary String](problems/3980.minimum-operations-to-transform-binary-string.cpp) | — | C++ |
 | [3981](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | [Count Distinct Ways to Form Target from Two Strings](problems/3981.count-distinct-ways-to-form-target-from-two-strings.cpp) | — | C++ |
