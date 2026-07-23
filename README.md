@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3011 solved** — 🟢 678 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3012 solved** — 🟢 679 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2130,6 +2130,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2807](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Insert Greatest Common Divisors in Linked List](problems/2807.insert-greatest-common-divisors-in-linked-list.cpp) | 🟡 Medium | C++ |
 | [2808](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/) | [Minimum Seconds to Equalize a Circular Array](problems/2808.minimum-seconds-to-equalize-a-circular-array.cpp) | 🟡 Medium | C++ |
 | [2809](https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/) | [Minimum Time to Make Array Sum At Most x](problems/2809.minimum-time-to-make-array-sum-at-most-x.cpp) | 🔴 Hard | C++ |
+| [2810](https://leetcode.com/problems/faulty-keyboard/) | [Faulty Keyboard](problems/2810.faulty-keyboard.cpp) | 🟢 Easy | C++ |
 | [2811](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/) | [Check if it is Possible to Split Array](problems/2811.check-if-it-is-possible-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2813](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/) | [Maximum Elegance of a K-Length Subsequence](problems/2813.maximum-elegance-of-a-k-length-subsequence.cpp) | 🔴 Hard | C++ |
 | [2815](https://leetcode.com/problems/max-pair-sum-in-an-array/) | [Max Pair Sum in an Array](problems/2815.max-pair-sum-in-an-array.cpp) | 🟢 Easy | C++ |
