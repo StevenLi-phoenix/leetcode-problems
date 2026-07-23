@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2936 solved** — 🟢 606 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2937 solved** — 🟢 607 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -958,6 +958,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1276](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [Number of Burgers with No Waste of Ingredients](problems/1276.number-of-burgers-with-no-waste-of-ingredients.cpp) | 🟡 Medium | C++ |
 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Count Square Submatrices with All Ones](problems/1277.count-square-submatrices-with-all-ones.cpp) | 🟡 Medium | C++ |
 | [1278](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Palindrome Partitioning III](problems/1278.palindrome-partitioning-iii.cpp) | 🔴 Hard | C++ |
+| [1280](https://leetcode.com/problems/students-and-examinations/) | [Students and Examinations](problems/1280.students-and-examinations.sql) | 🟢 Easy | mysql |
 | [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Subtract the Product and Sum of Digits of an Integer](problems/1281.subtract-the-product-and-sum-of-digits-of-an-integer.cpp) | 🟢 Easy | C++ |
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Group the People Given the Group Size They Belong To](problems/1282.group-the-people-given-the-group-size-they-belong-to.cpp) | 🟡 Medium | C++ |
 | [1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Find the Smallest Divisor Given a Threshold](problems/1283.find-the-smallest-divisor-given-a-threshold.cpp) | 🟡 Medium | C++ |
