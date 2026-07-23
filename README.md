@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2960 solved** — 🟢 628 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2961 solved** — 🟢 629 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -295,6 +295,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [371](https://leetcode.com/problems/sum-of-two-integers/) | [Sum of Two Integers](problems/371.sum-of-two-integers.cpp) | 🟡 Medium | C++ |
 | [372](https://leetcode.com/problems/super-pow/) | [Super Pow](problems/372.super-pow.cpp) | 🟡 Medium | C++ |
 | [373](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [Find K Pairs with Smallest Sums](problems/373.find-k-pairs-with-smallest-sums.cpp) | 🟡 Medium | C++ |
+| [374](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Guess Number Higher or Lower](problems/374.guess-number-higher-or-lower.cpp) | 🟢 Easy | C++ |
 | [375](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](problems/375.guess-number-higher-or-lower-ii.cpp) | 🟡 Medium | C++ |
 | [376](https://leetcode.com/problems/wiggle-subsequence/) | [Wiggle Subsequence](problems/376.wiggle-subsequence.cpp) | 🟡 Medium | C++ |
 | [377](https://leetcode.com/problems/combination-sum-iv/) | [Combination Sum IV](problems/377.combination-sum-iv.cpp) | 🟡 Medium | C++ |
