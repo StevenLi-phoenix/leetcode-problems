@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3054 solved** — 🟢 722 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3055 solved** — 🟢 723 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2416,6 +2416,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3159](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | [Find Occurrences of an Element in an Array](problems/3159.find-occurrences-of-an-element-in-an-array.cpp) | 🟡 Medium | C++ |
 | [3160](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/) | [Find the Number of Distinct Colors Among the Balls](problems/3160.find-the-number-of-distinct-colors-among-the-balls.cpp) | 🟡 Medium | C++ |
 | [3161](https://leetcode.com/problems/block-placement-queries/) | [Block Placement Queries](problems/3161.block-placement-queries.cpp) | 🔴 Hard | C++ |
+| [3162](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | [Find the Number of Good Pairs I](problems/3162.find-the-number-of-good-pairs-i.cpp) | 🟢 Easy | C++ |
 | [3163](https://leetcode.com/problems/string-compression-iii/) | [String Compression III](problems/3163.string-compression-iii.cpp) | 🟡 Medium | C++ |
 | [3164](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/) | [Find the Number of Good Pairs II](problems/3164.find-the-number-of-good-pairs-ii.cpp) | 🟡 Medium | C++ |
 | [3165](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | [Maximum Sum of Subsequence With Non-adjacent Elements](problems/3165.maximum-sum-of-subsequence-with-non-adjacent-elements.cpp) | 🔴 Hard | C++ |
