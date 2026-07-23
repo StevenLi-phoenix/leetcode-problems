@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3035 solved** — 🟢 703 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3036 solved** — 🟢 704 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2471,6 +2471,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3259](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/) | [Maximum Energy Boost From Two Drinks](problems/3259.maximum-energy-boost-from-two-drinks.cpp) | 🟡 Medium | C++ |
 | [3260](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | [Find the Largest Palindrome Divisible by K](problems/3260.find-the-largest-palindrome-divisible-by-k.cpp) | 🔴 Hard | C++ |
 | [3261](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/) | [Count Substrings That Satisfy K-Constraint II](problems/3261.count-substrings-that-satisfy-k-constraint-ii.cpp) | 🔴 Hard | C++ |
+| [3264](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Final Array State After K Multiplication Operations I](problems/3264.final-array-state-after-k-multiplication-operations-i.cpp) | 🟢 Easy | C++ |
 | [3265](https://leetcode.com/problems/count-almost-equal-pairs-i/) | [Count Almost Equal Pairs I](problems/3265.count-almost-equal-pairs-i.cpp) | 🟡 Medium | C++ |
 | [3267](https://leetcode.com/problems/count-almost-equal-pairs-ii/) | [Count Almost Equal Pairs II](problems/3267.count-almost-equal-pairs-ii.cpp) | 🔴 Hard | C++ |
 | [3271](https://leetcode.com/problems/hash-divided-string/) | [Hash Divided String](problems/3271.hash-divided-string.cpp) | 🟡 Medium | C++ |
