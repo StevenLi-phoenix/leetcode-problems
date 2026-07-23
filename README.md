@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2932 solved** — 🟢 603 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2933 solved** — 🟢 604 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2002,6 +2002,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [Minimum String Length After Removing Substrings](problems/2696.minimum-string-length-after-removing-substrings.cpp) | 🟢 Easy | C++ |
 | [2697](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [Lexicographically Smallest Palindrome](problems/2697.lexicographically-smallest-palindrome.cpp) | 🟢 Easy | C++ |
 | [2698](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/) | [Find the Punishment Number of an Integer](problems/2698.find-the-punishment-number-of-an-integer.cpp) | 🟡 Medium | C++ |
+| [2703](https://leetcode.com/problems/return-length-of-arguments-passed/) | [Return Length of Arguments Passed](problems/2703.return-length-of-arguments-passed.js) | 🟢 Easy | JavaScript |
 | [2704](https://leetcode.com/problems/to-be-or-not-to-be/) | [To Be Or Not To Be](problems/2704.to-be-or-not-to-be.js) | 🟢 Easy | JavaScript |
 | [2705](https://leetcode.com/problems/compact-object/) | [Compact Object](problems/2705.compact-object.js) | 🟡 Medium | JavaScript |
 | [2706](https://leetcode.com/problems/buy-two-chocolates/) | [Buy Two Chocolates](problems/2706.buy-two-chocolates.cpp) | 🟢 Easy | C++ |
