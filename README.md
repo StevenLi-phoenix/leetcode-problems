@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2892 solved** — 🟢 566 Easy · 🟡 1576 Medium · 🔴 732 Hard
+**2893 solved** — 🟢 567 Easy · 🟡 1576 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -867,6 +867,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1129](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Shortest Path with Alternating Colors](problems/1129.shortest-path-with-alternating-colors.cpp) | 🟡 Medium | C++ |
 | [1130](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [Minimum Cost Tree From Leaf Values](problems/1130.minimum-cost-tree-from-leaf-values.cpp) | 🟡 Medium | C++ |
 | [1131](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [Maximum of Absolute Value Expression](problems/1131.maximum-of-absolute-value-expression.cpp) | 🟡 Medium | C++ |
+| [1137](https://leetcode.com/problems/n-th-tribonacci-number/) | [N-th Tribonacci Number](problems/1137.n-th-tribonacci-number.cpp) | 🟢 Easy | C++ |
 | [1138](https://leetcode.com/problems/alphabet-board-path/) | [Alphabet Board Path](problems/1138.alphabet-board-path.cpp) | 🟡 Medium | C++ |
 | [1139](https://leetcode.com/problems/largest-1-bordered-square/) | [Largest 1-Bordered Square](problems/1139.largest-1-bordered-square.cpp) | 🟡 Medium | C++ |
 | [1140](https://leetcode.com/problems/stone-game-ii/) | [Stone Game II](problems/1140.stone-game-ii.cpp) | 🟡 Medium | C++ |
