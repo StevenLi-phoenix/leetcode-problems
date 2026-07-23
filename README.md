@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2909 solved** — 🟢 581 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2910 solved** — 🟢 582 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -178,6 +178,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [179](https://leetcode.com/problems/largest-number/) | [Largest Number](problems/179.largest-number.cpp) | 🟡 Medium | C++ |
 | [180](https://leetcode.com/problems/consecutive-numbers/) | [Consecutive Numbers](problems/180.consecutive-numbers.sql) | 🟡 Medium | mysql |
 | [182](https://leetcode.com/problems/duplicate-emails/) | [Duplicate Emails](problems/182.duplicate-emails.sql) | 🟢 Easy | mysql |
+| [183](https://leetcode.com/problems/customers-who-never-order/) | [Customers Who Never Order](problems/183.customers-who-never-order.sql) | 🟢 Easy | mysql |
 | [184](https://leetcode.com/problems/department-highest-salary/) | [Department Highest Salary](problems/184.department-highest-salary.sql) | 🟡 Medium | mysql |
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | [Department Top Three Salaries](problems/185.department-top-three-salaries.sql) | 🔴 Hard | mysql |
 | [187](https://leetcode.com/problems/repeated-dna-sequences/) | [Repeated DNA Sequences](problems/187.repeated-dna-sequences.cpp) | 🟡 Medium | C++ |
