@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3067 solved** — 🟢 734 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3068 solved** — 🟢 734 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -3066,6 +3066,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3987](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/) | [Minimum Total Cost to Process All Elements](problems/3987.minimum-total-cost-to-process-all-elements.cpp) | — | C++ |
 | [3988](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i/) | [Create Grid With Exactly K Paths I](problems/3988.create-grid-with-exactly-k-paths-i.cpp) | — | C++ |
 | [3989](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [Maximum Consistent Columns in a Grid](problems/3989.maximum-consistent-columns-in-a-grid.cpp) | — | C++ |
+| [3992](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | [Rearrange String to Avoid Character Pair](problems/3992.rearrange-string-to-avoid-character-pair.cpp) | — | C++ |
 | [3993](https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/) | [Maximum Value of an Alternating Sequence](problems/3993.maximum-value-of-an-alternating-sequence.cpp) | — | C++ |
 | [3994](https://leetcode.com/problems/minimum-adjacent-swaps-to-partition-array/) | [Minimum Adjacent Swaps to Partition Array](problems/3994.minimum-adjacent-swaps-to-partition-array.cpp) | — | C++ |
 | [3995](https://leetcode.com/problems/minimum-cost-to-convert-string-iii/) | [Minimum Cost to Convert String III](problems/3995.minimum-cost-to-convert-string-iii.cpp) | — | C++ |
