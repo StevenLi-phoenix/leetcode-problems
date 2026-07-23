@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3042 solved** — 🟢 710 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3043 solved** — 🟢 711 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1878,6 +1878,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2433](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Find The Original Array of Prefix Xor](problems/2433.find-the-original-array-of-prefix-xor.cpp) | 🟡 Medium | C++ |
 | [2434](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Using a Robot to Print the Lexicographically Smallest String](problems/2434.using-a-robot-to-print-the-lexicographically-smallest-string.cpp) | 🟡 Medium | C++ |
 | [2435](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Paths in Matrix Whose Sum Is Divisible by K](problems/2435.paths-in-matrix-whose-sum-is-divisible-by-k.cpp) | 🔴 Hard | C++ |
+| [2437](https://leetcode.com/problems/number-of-valid-clock-times/) | [Number of Valid Clock Times](problems/2437.number-of-valid-clock-times.cpp) | 🟢 Easy | C++ |
 | [2438](https://leetcode.com/problems/range-product-queries-of-powers/) | [Range Product Queries of Powers](problems/2438.range-product-queries-of-powers.cpp) | 🟡 Medium | C++ |
 | [2439](https://leetcode.com/problems/minimize-maximum-of-array/) | [Minimize Maximum of Array](problems/2439.minimize-maximum-of-array.cpp) | 🟡 Medium | C++ |
 | [2440](https://leetcode.com/problems/create-components-with-same-value/) | [Create Components With Same Value](problems/2440.create-components-with-same-value.cpp) | 🔴 Hard | C++ |
