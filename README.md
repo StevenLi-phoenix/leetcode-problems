@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2934 solved** — 🟢 604 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2935 solved** — 🟢 605 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -625,6 +625,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [821](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Shortest Distance to a Character](problems/821.shortest-distance-to-a-character.cpp) | 🟢 Easy | C++ |
 | [822](https://leetcode.com/problems/card-flipping-game/) | [Card Flipping Game](problems/822.card-flipping-game.cpp) | 🟡 Medium | C++ |
 | [823](https://leetcode.com/problems/binary-trees-with-factors/) | [Binary Trees With Factors](problems/823.binary-trees-with-factors.py) | 🟡 Medium | Python |
+| [824](https://leetcode.com/problems/goat-latin/) | [Goat Latin](problems/824.goat-latin.cpp) | 🟢 Easy | C++ |
 | [825](https://leetcode.com/problems/friends-of-appropriate-ages/) | [Friends Of Appropriate Ages](problems/825.friends-of-appropriate-ages.cpp) | 🟡 Medium | C++ |
 | [826](https://leetcode.com/problems/most-profit-assigning-work/) | [Most Profit Assigning Work](problems/826.most-profit-assigning-work.cpp) | 🟡 Medium | C++ |
 | [827](https://leetcode.com/problems/making-a-large-island/) | [Making A Large Island](problems/827.making-a-large-island.cpp) | 🔴 Hard | C++ |
