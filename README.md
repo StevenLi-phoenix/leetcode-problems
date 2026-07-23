@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2950 solved** — 🟢 619 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2951 solved** — 🟢 620 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1950,6 +1950,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2601](https://leetcode.com/problems/prime-subtraction-operation/) | [Prime Subtraction Operation](problems/2601.prime-subtraction-operation.cpp) | 🟡 Medium | C++ |
 | [2602](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/) | [Minimum Operations to Make All Array Elements Equal](problems/2602.minimum-operations-to-make-all-array-elements-equal.cpp) | 🟡 Medium | C++ |
 | [2603](https://leetcode.com/problems/collect-coins-in-a-tree/) | [Collect Coins in a Tree](problems/2603.collect-coins-in-a-tree.cpp) | 🔴 Hard | C++ |
+| [2605](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [Form Smallest Number From Two Digit Arrays](problems/2605.form-smallest-number-from-two-digit-arrays.cpp) | 🟢 Easy | C++ |
 | [2606](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [Find the Substring With Maximum Cost](problems/2606.find-the-substring-with-maximum-cost.cpp) | 🟡 Medium | C++ |
 | [2607](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [Make K-Subarray Sums Equal](problems/2607.make-k-subarray-sums-equal.cpp) | 🟡 Medium | C++ |
 | [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Shortest Cycle in a Graph](problems/2608.shortest-cycle-in-a-graph.cpp) | 🔴 Hard | C++ |
