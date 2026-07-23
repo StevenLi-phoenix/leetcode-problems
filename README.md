@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2859 solved** — 🟢 542 Easy · 🟡 1571 Medium · 🔴 732 Hard
+**2860 solved** — 🟢 543 Easy · 🟡 1571 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2768,6 +2768,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
 | [3857](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | [Minimum Cost to Split into Ones](problems/3857.minimum-cost-to-split-into-ones.cpp) | 🟡 Medium | C++ |
 | [3859](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [Count Subarrays With K Distinct Integers](problems/3859.count-subarrays-with-k-distinct-integers.cpp) | 🔴 Hard | C++ |
+| [3861](https://leetcode.com/problems/minimum-capacity-box/) | [Minimum Capacity Box](problems/3861.minimum-capacity-box.cpp) | 🟢 Easy | C++ |
 | [3862](https://leetcode.com/problems/find-the-smallest-balanced-index/) | [Find the Smallest Balanced Index](problems/3862.find-the-smallest-balanced-index.cpp) | 🟡 Medium | C++ |
 | [3864](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [Minimum Cost to Partition a Binary String](problems/3864.minimum-cost-to-partition-a-binary-string.cpp) | 🔴 Hard | C++ |
 | [3866](https://leetcode.com/problems/first-unique-even-element/) | [First Unique Even Element](problems/3866.first-unique-even-element.cpp) | 🟢 Easy | C++ |
