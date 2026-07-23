@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2871 solved** — 🟢 549 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2872 solved** — 🟢 550 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1350,6 +1350,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1838](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Frequency of the Most Frequent Element](problems/1838.frequency-of-the-most-frequent-element.cpp) | 🟡 Medium | C++ |
 | [1839](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [Longest Substring Of All Vowels in Order](problems/1839.longest-substring-of-all-vowels-in-order.cpp) | 🟡 Medium | C++ |
 | [1840](https://leetcode.com/problems/maximum-building-height/) | [Maximum Building Height](problems/1840.maximum-building-height.cpp) | 🔴 Hard | C++ |
+| [1844](https://leetcode.com/problems/replace-all-digits-with-characters/) | [Replace All Digits with Characters](problems/1844.replace-all-digits-with-characters.cpp) | 🟢 Easy | C++ |
 | [1845](https://leetcode.com/problems/seat-reservation-manager/) | [Seat Reservation Manager](problems/1845.seat-reservation-manager.cpp) | 🟡 Medium | C++ |
 | [1847](https://leetcode.com/problems/closest-room/) | [Closest Room](problems/1847.closest-room.cpp) | 🔴 Hard | C++ |
 | [1848](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [Minimum Distance to the Target Element](problems/1848.minimum-distance-to-the-target-element.cpp) | 🟢 Easy | C++ |
