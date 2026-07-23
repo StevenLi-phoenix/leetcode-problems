@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2931 solved** — 🟢 602 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2932 solved** — 🟢 603 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -284,6 +284,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [342](https://leetcode.com/problems/power-of-four/) | [Power of Four](problems/342.power-of-four.cpp) | 🟢 Easy | C++ |
 | [343](https://leetcode.com/problems/integer-break/) | [Integer Break](problems/343.integer-break.cpp) | 🟡 Medium | C++ |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](problems/347.top-k-frequent-elements.cpp) | 🟡 Medium | C++ |
+| [349](https://leetcode.com/problems/intersection-of-two-arrays/) | [Intersection of Two Arrays](problems/349.intersection-of-two-arrays.cpp) | 🟢 Easy | C++ |
 | [352](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Data Stream as Disjoint Intervals](problems/352.data-stream-as-disjoint-intervals.cpp) | 🔴 Hard | C++ |
 | [354](https://leetcode.com/problems/russian-doll-envelopes/) | [Russian Doll Envelopes](problems/354.russian-doll-envelopes.cpp) | 🔴 Hard | C++ |
 | [355](https://leetcode.com/problems/design-twitter/) | [Design Twitter](problems/355.design-twitter.cpp) | 🟡 Medium | C++ |
