@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2908 solved** — 🟢 580 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2909 solved** — 🟢 581 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -212,6 +212,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [222](https://leetcode.com/problems/count-complete-tree-nodes/) | [Count Complete Tree Nodes](problems/222.count-complete-tree-nodes.cpp) | 🟢 Easy | C++ |
 | [223](https://leetcode.com/problems/rectangle-area/) | [Rectangle Area](problems/223.rectangle-area.cpp) | 🟡 Medium | C++ |
 | [224](https://leetcode.com/problems/basic-calculator/) | [Basic Calculator](problems/224.basic-calculator.cpp) | 🔴 Hard | C++ |
+| [226](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](problems/226.invert-binary-tree.cpp) | 🟢 Easy | C++ |
 | [227](https://leetcode.com/problems/basic-calculator-ii/) | [Basic Calculator II](problems/227.basic-calculator-ii.cpp) | 🟡 Medium | C++ |
 | [228](https://leetcode.com/problems/summary-ranges/) | [Summary Ranges](problems/228.summary-ranges.cpp) | 🟢 Easy | C++ |
 | [229](https://leetcode.com/problems/majority-element-ii/) | [Majority Element II](problems/229.majority-element-ii.cpp) | 🟡 Medium | C++ |
