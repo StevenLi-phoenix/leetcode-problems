@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3073 solved** — 🟢 739 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3074 solved** — 🟢 740 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1728,6 +1728,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2216](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) | [Minimum Deletions to Make Array Beautiful](problems/2216.minimum-deletions-to-make-array-beautiful.cpp) | 🟡 Medium | C++ |
 | [2217](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | [Find Palindrome With Fixed Length](problems/2217.find-palindrome-with-fixed-length.cpp) | 🟡 Medium | C++ |
 | [2218](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/) | [Maximum Value of K Coins From Piles](problems/2218.maximum-value-of-k-coins-from-piles.cpp) | 🔴 Hard | C++ |
+| [2220](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [Minimum Bit Flips to Convert Number](problems/2220.minimum-bit-flips-to-convert-number.cpp) | 🟢 Easy | C++ |
 | [2222](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [Number of Ways to Select Buildings](problems/2222.number-of-ways-to-select-buildings.cpp) | 🟡 Medium | C++ |
 | [2223](https://leetcode.com/problems/sum-of-scores-of-built-strings/) | [Sum of Scores of Built Strings](problems/2223.sum-of-scores-of-built-strings.cpp) | 🔴 Hard | C++ |
 | [2224](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [Minimum Number of Operations to Convert Time](problems/2224.minimum-number-of-operations-to-convert-time.cpp) | 🟢 Easy | C++ |
