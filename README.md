@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2924 solved** — 🟢 595 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2925 solved** — 🟢 596 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1084,6 +1084,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1442](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Count Triplets That Can Form Two Arrays of Equal XOR](problems/1442.count-triplets-that-can-form-two-arrays-of-equal-xor.cpp) | 🟡 Medium | C++ |
 | [1443](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [Minimum Time to Collect All Apples in a Tree](problems/1443.minimum-time-to-collect-all-apples-in-a-tree.cpp) | 🟡 Medium | C++ |
 | [1444](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/) | [Number of Ways of Cutting a Pizza](problems/1444.number-of-ways-of-cutting-a-pizza.cpp) | 🔴 Hard | C++ |
+| [1446](https://leetcode.com/problems/consecutive-characters/) | [Consecutive Characters](problems/1446.consecutive-characters.cpp) | 🟢 Easy | C++ |
 | [1447](https://leetcode.com/problems/simplified-fractions/) | [Simplified Fractions](problems/1447.simplified-fractions.cpp) | 🟡 Medium | C++ |
 | [1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Count Good Nodes in Binary Tree](problems/1448.count-good-nodes-in-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1449](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | [Form Largest Integer With Digits That Add up to Target](problems/1449.form-largest-integer-with-digits-that-add-up-to-target.cpp) | 🔴 Hard | C++ |
