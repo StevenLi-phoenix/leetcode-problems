@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2913 solved** — 🟢 585 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2914 solved** — 🟢 586 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1970,6 +1970,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2661](https://leetcode.com/problems/first-completely-painted-row-or-column/) | [First Completely Painted Row or Column](problems/2661.first-completely-painted-row-or-column.cpp) | 🟡 Medium | C++ |
 | [2662](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/) | [Minimum Cost of a Path With Special Roads](problems/2662.minimum-cost-of-a-path-with-special-roads.cpp) | 🟡 Medium | C++ |
 | [2663](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [Lexicographically Smallest Beautiful String](problems/2663.lexicographically-smallest-beautiful-string.cpp) | 🔴 Hard | C++ |
+| [2665](https://leetcode.com/problems/counter-ii/) | [Counter II](problems/2665.counter-ii.js) | 🟢 Easy | JavaScript |
 | [2666](https://leetcode.com/problems/allow-one-function-call/) | [Allow One Function Call](problems/2666.allow-one-function-call.js) | 🟢 Easy | JavaScript |
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
 | [2672](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | [Number of Adjacent Elements With the Same Color](problems/2672.number-of-adjacent-elements-with-the-same-color.cpp) | 🟡 Medium | C++ |
