@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3072 solved** — 🟢 738 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3073 solved** — 🟢 739 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2082,6 +2082,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2663](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/) | [Lexicographically Smallest Beautiful String](problems/2663.lexicographically-smallest-beautiful-string.cpp) | 🔴 Hard | C++ |
 | [2665](https://leetcode.com/problems/counter-ii/) | [Counter II](problems/2665.counter-ii.js) | 🟢 Easy | JavaScript |
 | [2666](https://leetcode.com/problems/allow-one-function-call/) | [Allow One Function Call](problems/2666.allow-one-function-call.js) | 🟢 Easy | JavaScript |
+| [2670](https://leetcode.com/problems/find-the-distinct-difference-array/) | [Find the Distinct Difference Array](problems/2670.find-the-distinct-difference-array.cpp) | 🟢 Easy | C++ |
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
 | [2672](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | [Number of Adjacent Elements With the Same Color](problems/2672.number-of-adjacent-elements-with-the-same-color.cpp) | 🟡 Medium | C++ |
 | [2673](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | [Make Costs of Paths Equal in a Binary Tree](problems/2673.make-costs-of-paths-equal-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
