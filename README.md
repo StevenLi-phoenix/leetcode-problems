@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2917 solved** — 🟢 588 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2918 solved** — 🟢 589 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1831,6 +1831,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Difference Between Ones and Zeros in Row and Column](problems/2482.difference-between-ones-and-zeros-in-row-and-column.cpp) | 🟡 Medium | C++ |
 | [2483](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](problems/2483.minimum-penalty-for-a-shop.cpp) | 🟡 Medium | C++ |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | [Count Palindromic Subsequences](problems/2484.count-palindromic-subsequences.cpp) | 🔴 Hard | C++ |
+| [2485](https://leetcode.com/problems/find-the-pivot-integer/) | [Find the Pivot Integer](problems/2485.find-the-pivot-integer.cpp) | 🟢 Easy | C++ |
 | [2486](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [Append Characters to String to Make Subsequence](problems/2486.append-characters-to-string-to-make-subsequence.cpp) | 🟡 Medium | C++ |
 | [2487](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [Remove Nodes From Linked List](problems/2487.remove-nodes-from-linked-list.cpp) | 🟡 Medium | C++ |
 | [2488](https://leetcode.com/problems/count-subarrays-with-median-k/) | [Count Subarrays With Median K](problems/2488.count-subarrays-with-median-k.cpp) | 🔴 Hard | C++ |
