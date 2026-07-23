@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2964 solved** — 🟢 632 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2965 solved** — 🟢 633 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -909,6 +909,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1175](https://leetcode.com/problems/prime-arrangements/) | [Prime Arrangements](problems/1175.prime-arrangements.cpp) | 🟢 Easy | C++ |
 | [1177](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [Can Make Palindrome from Substring](problems/1177.can-make-palindrome-from-substring.cpp) | 🟡 Medium | C++ |
 | [1178](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [Number of Valid Words for Each Puzzle](problems/1178.number-of-valid-words-for-each-puzzle.cpp) | 🔴 Hard | C++ |
+| [1185](https://leetcode.com/problems/day-of-the-week/) | [Day of the Week](problems/1185.day-of-the-week.cpp) | 🟢 Easy | C++ |
 | [1186](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [Maximum Subarray Sum with One Deletion](problems/1186.maximum-subarray-sum-with-one-deletion.cpp) | 🟡 Medium | C++ |
 | [1187](https://leetcode.com/problems/make-array-strictly-increasing/) | [Make Array Strictly Increasing](problems/1187.make-array-strictly-increasing.cpp) | 🔴 Hard | C++ |
 | [1189](https://leetcode.com/problems/maximum-number-of-balloons/) | [Maximum Number of Balloons](problems/1189.maximum-number-of-balloons.cpp) | 🟢 Easy | C++ |
