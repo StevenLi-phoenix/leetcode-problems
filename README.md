@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2843 solved** — 🟢 532 Easy · 🟡 1566 Medium · 🔴 732 Hard
+**2844 solved** — 🟢 533 Easy · 🟡 1566 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1403,6 +1403,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1931](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) | [Painting a Grid With Three Different Colors](problems/1931.painting-a-grid-with-three-different-colors.cpp) | 🔴 Hard | C++ |
 | [1932](https://leetcode.com/problems/merge-bsts-to-create-single-bst/) | [Merge BSTs to Create Single BST](problems/1932.merge-bsts-to-create-single-bst.cpp) | 🔴 Hard | C++ |
 | [1934](https://leetcode.com/problems/confirmation-rate/) | [Confirmation Rate](problems/1934.confirmation-rate.sql) | 🟡 Medium | mysql |
+| [1935](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [Maximum Number of Words You Can Type](problems/1935.maximum-number-of-words-you-can-type.cpp) | 🟢 Easy | C++ |
 | [1936](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [Add Minimum Number of Rungs](problems/1936.add-minimum-number-of-rungs.cpp) | 🟡 Medium | C++ |
 | [1937](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [Maximum Number of Points with Cost](problems/1937.maximum-number-of-points-with-cost.cpp) | 🟡 Medium | C++ |
 | [1938](https://leetcode.com/problems/maximum-genetic-difference-query/) | [Maximum Genetic Difference Query](problems/1938.maximum-genetic-difference-query.cpp) | 🔴 Hard | C++ |
