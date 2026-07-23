@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2856 solved** — 🟢 540 Easy · 🟡 1570 Medium · 🔴 732 Hard
+**2857 solved** — 🟢 541 Easy · 🟡 1570 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2294,6 +2294,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3218](https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/) | [Minimum Cost for Cutting Cake I](problems/3218.minimum-cost-for-cutting-cake-i.cpp) | 🟡 Medium | C++ |
 | [3219](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/) | [Minimum Cost for Cutting Cake II](problems/3219.minimum-cost-for-cutting-cake-ii.cpp) | 🔴 Hard | C++ |
 | [3220](https://leetcode.com/problems/odd-and-even-transactions/) | [Odd and Even Transactions](problems/3220.odd-and-even-transactions.sql) | 🟡 Medium | mysql |
+| [3222](https://leetcode.com/problems/find-the-winning-player-in-coin-game/) | [Find the Winning Player in Coin Game](problems/3222.find-the-winning-player-in-coin-game.cpp) | 🟢 Easy | C++ |
 | [3223](https://leetcode.com/problems/minimum-length-of-string-after-operations/) | [Minimum Length of String After Operations](problems/3223.minimum-length-of-string-after-operations.cpp) | 🟡 Medium | C++ |
 | [3224](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/) | [Minimum Array Changes to Make Differences Equal](problems/3224.minimum-array-changes-to-make-differences-equal.cpp) | 🟡 Medium | C++ |
 | [3225](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [Maximum Score From Grid Operations](problems/3225.maximum-score-from-grid-operations.cpp) | 🔴 Hard | C++ |
