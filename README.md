@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2881 solved** — 🟢 558 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2882 solved** — 🟢 559 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1056,6 +1056,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum Points You Can Obtain from Cards](problems/1423.maximum-points-you-can-obtain-from-cards.cpp) | 🟡 Medium | C++ |
 | [1424](https://leetcode.com/problems/diagonal-traverse-ii/) | [Diagonal Traverse II](problems/1424.diagonal-traverse-ii.cpp) | 🟡 Medium | C++ |
 | [1425](https://leetcode.com/problems/constrained-subsequence-sum/) | [Constrained Subsequence Sum](problems/1425.constrained-subsequence-sum.cpp) | 🔴 Hard | C++ |
+| [1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Kids With the Greatest Number of Candies](problems/1431.kids-with-the-greatest-number-of-candies.cpp) | 🟢 Easy | C++ |
 | [1432](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [Max Difference You Can Get From Changing an Integer](problems/1432.max-difference-you-can-get-from-changing-an-integer.cpp) | 🟡 Medium | C++ |
 | [1433](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [Check If a String Can Break Another String](problems/1433.check-if-a-string-can-break-another-string.cpp) | 🟡 Medium | C++ |
 | [1434](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Number of Ways to Wear Different Hats to Each Other](problems/1434.number-of-ways-to-wear-different-hats-to-each-other.cpp) | 🔴 Hard | C++ |
