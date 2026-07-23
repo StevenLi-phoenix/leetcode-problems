@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2894 solved** — 🟢 567 Easy · 🟡 1577 Medium · 🔴 732 Hard
+**2895 solved** — 🟢 568 Easy · 🟡 1577 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1768,6 +1768,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Length of the Longest Alphabetical Continuous Substring](problems/2414.length-of-the-longest-alphabetical-continuous-substring.cpp) | 🟡 Medium | C++ |
 | [2415](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [Reverse Odd Levels of Binary Tree](problems/2415.reverse-odd-levels-of-binary-tree.cpp) | 🟡 Medium | C++ |
 | [2416](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [Sum of Prefix Scores of Strings](problems/2416.sum-of-prefix-scores-of-strings.cpp) | 🔴 Hard | C++ |
+| [2418](https://leetcode.com/problems/sort-the-people/) | [Sort the People](problems/2418.sort-the-people.cpp) | 🟢 Easy | C++ |
 | [2419](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [Longest Subarray With Maximum Bitwise AND](problems/2419.longest-subarray-with-maximum-bitwise-and.cpp) | 🟡 Medium | C++ |
 | [2420](https://leetcode.com/problems/find-all-good-indices/) | [Find All Good Indices](problems/2420.find-all-good-indices.cpp) | 🟡 Medium | C++ |
 | [2421](https://leetcode.com/problems/number-of-good-paths/) | [Number of Good Paths](problems/2421.number-of-good-paths.cpp) | 🔴 Hard | C++ |
