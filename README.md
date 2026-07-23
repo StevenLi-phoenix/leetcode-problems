@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2857 solved** — 🟢 541 Easy · 🟡 1570 Medium · 🔴 732 Hard
+**2858 solved** — 🟢 542 Easy · 🟡 1570 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1138,6 +1138,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1551](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [Minimum Operations to Make Array Equal](problems/1551.minimum-operations-to-make-array-equal.cpp) | 🟡 Medium | C++ |
 | [1552](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Magnetic Force Between Two Balls](problems/1552.magnetic-force-between-two-balls.cpp) | 🟡 Medium | C++ |
 | [1553](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/) | [Minimum Number of Days to Eat N Oranges](problems/1553.minimum-number-of-days-to-eat-n-oranges.cpp) | 🔴 Hard | C++ |
+| [1556](https://leetcode.com/problems/thousand-separator/) | [Thousand Separator](problems/1556.thousand-separator.cpp) | 🟢 Easy | C++ |
 | [1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [Minimum Number of Vertices to Reach All Nodes](problems/1557.minimum-number-of-vertices-to-reach-all-nodes.cpp) | 🟡 Medium | C++ |
 | [1558](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | [Minimum Numbers of Function Calls to Make Target Array](problems/1558.minimum-numbers-of-function-calls-to-make-target-array.cpp) | 🟡 Medium | C++ |
 | [1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [Detect Cycles in 2D Grid](problems/1559.detect-cycles-in-2d-grid.cpp) | 🟡 Medium | C++ |
