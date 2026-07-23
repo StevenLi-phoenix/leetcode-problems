@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2973 solved** — 🟢 641 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2974 solved** — 🟢 642 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -871,6 +871,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1104](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [Path In Zigzag Labelled Binary Tree](problems/1104.path-in-zigzag-labelled-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1105](https://leetcode.com/problems/filling-bookcase-shelves/) | [Filling Bookcase Shelves](problems/1105.filling-bookcase-shelves.cpp) | 🟡 Medium | C++ |
 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Parsing A Boolean Expression](problems/1106.parsing-a-boolean-expression.cpp) | 🔴 Hard | C++ |
+| [1108](https://leetcode.com/problems/defanging-an-ip-address/) | [Defanging an IP Address](problems/1108.defanging-an-ip-address.cpp) | 🟢 Easy | C++ |
 | [1109](https://leetcode.com/problems/corporate-flight-bookings/) | [Corporate Flight Bookings](problems/1109.corporate-flight-bookings.cpp) | 🟡 Medium | C++ |
 | [1110](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Delete Nodes And Return Forest](problems/1110.delete-nodes-and-return-forest.cpp) | 🟡 Medium | C++ |
 | [1111](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Maximum Nesting Depth of Two Valid Parentheses Strings](problems/1111.maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) | 🟡 Medium | C++ |
