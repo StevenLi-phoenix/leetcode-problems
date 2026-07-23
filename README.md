@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3026 solved** — 🟢 693 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3027 solved** — 🟢 694 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2562,6 +2562,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3397](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | [Maximum Number of Distinct Elements After Operations](problems/3397.maximum-number-of-distinct-elements-after-operations.cpp) | 🟡 Medium | C++ |
 | [3398](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [Smallest Substring With Identical Characters I](problems/3398.smallest-substring-with-identical-characters-i.cpp) | 🔴 Hard | C++ |
 | [3399](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/) | [Smallest Substring With Identical Characters II](problems/3399.smallest-substring-with-identical-characters-ii.cpp) | 🔴 Hard | C++ |
+| [3402](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/) | [Minimum Operations to Make Columns Strictly Increasing](problems/3402.minimum-operations-to-make-columns-strictly-increasing.cpp) | 🟢 Easy | C++ |
 | [3403](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/) | [Find the Lexicographically Largest String From the Box I](problems/3403.find-the-lexicographically-largest-string-from-the-box-i.cpp) | 🟡 Medium | C++ |
 | [3404](https://leetcode.com/problems/count-special-subsequences/) | [Count Special Subsequences](problems/3404.count-special-subsequences.cpp) | 🟡 Medium | C++ |
 | [3405](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [Count the Number of Arrays with K Matching Adjacent Elements](problems/3405.count-the-number-of-arrays-with-k-matching-adjacent-elements.cpp) | 🔴 Hard | C++ |
