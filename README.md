@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2904 solved** — 🟢 576 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2905 solved** — 🟢 577 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2092,6 +2092,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2874](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) | [Maximum Value of an Ordered Triplet II](problems/2874.maximum-value-of-an-ordered-triplet-ii.cpp) | 🟡 Medium | C++ |
 | [2875](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | [Minimum Size Subarray in Infinite Array](problems/2875.minimum-size-subarray-in-infinite-array.cpp) | 🟡 Medium | C++ |
 | [2876](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/) | [Count Visited Nodes in a Directed Graph](problems/2876.count-visited-nodes-in-a-directed-graph.cpp) | 🔴 Hard | C++ |
+| [2877](https://leetcode.com/problems/create-a-dataframe-from-list/) | [Create a DataFrame from List](problems/2877.create-a-dataframe-from-list.py) | 🟢 Easy | pythondata |
 | [2879](https://leetcode.com/problems/display-the-first-three-rows/) | [Display the First Three Rows](problems/2879.display-the-first-three-rows.py) | 🟢 Easy | pythondata |
 | [2881](https://leetcode.com/problems/create-a-new-column/) | [Create a New Column](problems/2881.create-a-new-column.py) | 🟢 Easy | pythondata |
 | [2882](https://leetcode.com/problems/drop-duplicate-rows/) | [Drop Duplicate Rows](problems/2882.drop-duplicate-rows.py) | 🟢 Easy | pythondata |
