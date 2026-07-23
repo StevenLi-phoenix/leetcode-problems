@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2981 solved** — 🟢 649 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2982 solved** — 🟢 650 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1180,6 +1180,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1540](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [Can Convert String in K Moves](problems/1540.can-convert-string-in-k-moves.cpp) | 🟡 Medium | C++ |
 | [1541](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Minimum Insertions to Balance a Parentheses String](problems/1541.minimum-insertions-to-balance-a-parentheses-string.cpp) | 🟡 Medium | C++ |
 | [1542](https://leetcode.com/problems/find-longest-awesome-substring/) | [Find Longest Awesome Substring](problems/1542.find-longest-awesome-substring.cpp) | 🔴 Hard | C++ |
+| [1544](https://leetcode.com/problems/make-the-string-great/) | [Make The String Great](problems/1544.make-the-string-great.cpp) | 🟢 Easy | C++ |
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [Find Kth Bit in Nth Binary String](problems/1545.find-kth-bit-in-nth-binary-string.cpp) | 🟡 Medium | C++ |
 | [1546](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](problems/1546.maximum-number-of-non-overlapping-subarrays-with-sum-equals-target.cpp) | 🟡 Medium | C++ |
 | [1547](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Minimum Cost to Cut a Stick](problems/1547.minimum-cost-to-cut-a-stick.cpp) | 🔴 Hard | C++ |
