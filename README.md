@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2944 solved** — 🟢 614 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2945 solved** — 🟢 615 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2127,6 +2127,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2876](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/) | [Count Visited Nodes in a Directed Graph](problems/2876.count-visited-nodes-in-a-directed-graph.cpp) | 🔴 Hard | C++ |
 | [2877](https://leetcode.com/problems/create-a-dataframe-from-list/) | [Create a DataFrame from List](problems/2877.create-a-dataframe-from-list.py) | 🟢 Easy | pythondata |
 | [2879](https://leetcode.com/problems/display-the-first-three-rows/) | [Display the First Three Rows](problems/2879.display-the-first-three-rows.py) | 🟢 Easy | pythondata |
+| [2880](https://leetcode.com/problems/select-data/) | [Select Data](problems/2880.select-data.py) | 🟢 Easy | pythondata |
 | [2881](https://leetcode.com/problems/create-a-new-column/) | [Create a New Column](problems/2881.create-a-new-column.py) | 🟢 Easy | pythondata |
 | [2882](https://leetcode.com/problems/drop-duplicate-rows/) | [Drop Duplicate Rows](problems/2882.drop-duplicate-rows.py) | 🟢 Easy | pythondata |
 | [2883](https://leetcode.com/problems/drop-missing-data/) | [Drop Missing Data](problems/2883.drop-missing-data.py) | 🟢 Easy | pythondata |
