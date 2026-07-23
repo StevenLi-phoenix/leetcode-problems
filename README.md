@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3071 solved** — 🟢 737 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3072 solved** — 🟢 738 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2485,6 +2485,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3239](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | [Minimum Number of Flips to Make Binary Grid Palindromic I](problems/3239.minimum-number-of-flips-to-make-binary-grid-palindromic-i.cpp) | 🟡 Medium | C++ |
 | [3240](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | [Minimum Number of Flips to Make Binary Grid Palindromic II](problems/3240.minimum-number-of-flips-to-make-binary-grid-palindromic-ii.cpp) | 🟡 Medium | C++ |
 | [3241](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Time Taken to Mark All Nodes](problems/3241.time-taken-to-mark-all-nodes.cpp) | 🔴 Hard | C++ |
+| [3242](https://leetcode.com/problems/design-neighbor-sum-service/) | [Design Neighbor Sum Service](problems/3242.design-neighbor-sum-service.cpp) | 🟢 Easy | C++ |
 | [3243](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) | [Shortest Distance After Road Addition Queries I](problems/3243.shortest-distance-after-road-addition-queries-i.cpp) | 🟡 Medium | C++ |
 | [3244](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [Shortest Distance After Road Addition Queries II](problems/3244.shortest-distance-after-road-addition-queries-ii.cpp) | 🔴 Hard | C++ |
 | [3248](https://leetcode.com/problems/snake-in-matrix/) | [Snake in Matrix](problems/3248.snake-in-matrix.cpp) | 🟢 Easy | C++ |
