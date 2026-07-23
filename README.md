@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2999 solved** — 🟢 666 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3000 solved** — 🟢 667 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1623,6 +1623,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [Number of Laser Beams in a Bank](problems/2125.number-of-laser-beams-in-a-bank.cpp) | 🟡 Medium | C++ |
 | [2126](https://leetcode.com/problems/destroying-asteroids/) | [Destroying Asteroids](problems/2126.destroying-asteroids.cpp) | 🟡 Medium | C++ |
 | [2127](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/) | [Maximum Employees to Be Invited to a Meeting](problems/2127.maximum-employees-to-be-invited-to-a-meeting.cpp) | 🔴 Hard | C++ |
+| [2129](https://leetcode.com/problems/capitalize-the-title/) | [Capitalize the Title](problems/2129.capitalize-the-title.cpp) | 🟢 Easy | C++ |
 | [2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Maximum Twin Sum of a Linked List](problems/2130.maximum-twin-sum-of-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2131](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Longest Palindrome by Concatenating Two Letter Words](problems/2131.longest-palindrome-by-concatenating-two-letter-words.cpp) | 🟡 Medium | C++ |
 | [2132](https://leetcode.com/problems/stamping-the-grid/) | [Stamping the Grid](problems/2132.stamping-the-grid.cpp) | 🔴 Hard | C++ |
