@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2998 solved** — 🟢 665 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2999 solved** — 🟢 666 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -462,6 +462,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [592](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Fraction Addition and Subtraction](problems/592.fraction-addition-and-subtraction.cpp) | 🟡 Medium | C++ |
 | [593](https://leetcode.com/problems/valid-square/) | [Valid Square](problems/593.valid-square.cpp) | 🟡 Medium | C++ |
 | [594](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](problems/594.longest-harmonious-subsequence.cpp) | 🟢 Easy | C++ |
+| [595](https://leetcode.com/problems/big-countries/) | [Big Countries](problems/595.big-countries.sql) | 🟢 Easy | mysql |
 | [596](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Classes With at Least 5 Students](problems/596.classes-with-at-least-5-students.sql) | 🟢 Easy | mysql |
 | [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Minimum Index Sum of Two Lists](problems/599.minimum-index-sum-of-two-lists.cpp) | 🟢 Easy | C++ |
 | [600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Non-negative Integers without Consecutive Ones](problems/600.non-negative-integers-without-consecutive-ones.cpp) | 🔴 Hard | C++ |
