@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2891 solved** — 🟢 565 Easy · 🟡 1576 Medium · 🔴 732 Hard
+**2892 solved** — 🟢 566 Easy · 🟡 1576 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1960,6 +1960,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2671](https://leetcode.com/problems/frequency-tracker/) | [Frequency Tracker](problems/2671.frequency-tracker.cpp) | 🟡 Medium | C++ |
 | [2672](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/) | [Number of Adjacent Elements With the Same Color](problems/2672.number-of-adjacent-elements-with-the-same-color.cpp) | 🟡 Medium | C++ |
 | [2673](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | [Make Costs of Paths Equal in a Binary Tree](problems/2673.make-costs-of-paths-equal-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
+| [2677](https://leetcode.com/problems/chunk-array/) | [Chunk Array](problems/2677.chunk-array.js) | 🟢 Easy | JavaScript |
 | [2678](https://leetcode.com/problems/number-of-senior-citizens/) | [Number of Senior Citizens](problems/2678.number-of-senior-citizens.cpp) | 🟢 Easy | C++ |
 | [2679](https://leetcode.com/problems/sum-in-a-matrix/) | [Sum in a Matrix](problems/2679.sum-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [2680](https://leetcode.com/problems/maximum-or/) | [Maximum OR](problems/2680.maximum-or.cpp) | 🟡 Medium | C++ |
