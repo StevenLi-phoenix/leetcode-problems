@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2897 solved** — 🟢 570 Easy · 🟡 1577 Medium · 🔴 732 Hard
+**2898 solved** — 🟢 570 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2440,6 +2440,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3381](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | [Maximum Subarray Sum With Length Divisible by K](problems/3381.maximum-subarray-sum-with-length-divisible-by-k.cpp) | 🟡 Medium | C++ |
 | [3386](https://leetcode.com/problems/button-with-longest-push-time/) | [Button with Longest Push Time](problems/3386.button-with-longest-push-time.cpp) | 🟢 Easy | C++ |
 | [3387](https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/) | [Maximize Amount After Two Days of Conversions](problems/3387.maximize-amount-after-two-days-of-conversions.cpp) | 🟡 Medium | C++ |
+| [3388](https://leetcode.com/problems/count-beautiful-splits-in-an-array/) | [Count Beautiful Splits in an Array](problems/3388.count-beautiful-splits-in-an-array.cpp) | 🟡 Medium | C++ |
 | [3389](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/) | [Minimum Operations to Make Character Frequencies Equal](problems/3389.minimum-operations-to-make-character-frequencies-equal.cpp) | 🔴 Hard | C++ |
 | [3392](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [Count Subarrays of Length Three With a Condition](problems/3392.count-subarrays-of-length-three-with-a-condition.cpp) | 🟢 Easy | C++ |
 | [3393](https://leetcode.com/problems/count-paths-with-the-given-xor-value/) | [Count Paths With the Given XOR Value](problems/3393.count-paths-with-the-given-xor-value.cpp) | 🟡 Medium | C++ |
