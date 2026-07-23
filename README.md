@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2925 solved** — 🟢 596 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2926 solved** — 🟢 597 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -954,6 +954,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1276](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [Number of Burgers with No Waste of Ingredients](problems/1276.number-of-burgers-with-no-waste-of-ingredients.cpp) | 🟡 Medium | C++ |
 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Count Square Submatrices with All Ones](problems/1277.count-square-submatrices-with-all-ones.cpp) | 🟡 Medium | C++ |
 | [1278](https://leetcode.com/problems/palindrome-partitioning-iii/) | [Palindrome Partitioning III](problems/1278.palindrome-partitioning-iii.cpp) | 🔴 Hard | C++ |
+| [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Subtract the Product and Sum of Digits of an Integer](problems/1281.subtract-the-product-and-sum-of-digits-of-an-integer.cpp) | 🟢 Easy | C++ |
 | [1282](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Group the People Given the Group Size They Belong To](problems/1282.group-the-people-given-the-group-size-they-belong-to.cpp) | 🟡 Medium | C++ |
 | [1283](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Find the Smallest Divisor Given a Threshold](problems/1283.find-the-smallest-divisor-given-a-threshold.cpp) | 🟡 Medium | C++ |
 | [1284](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](problems/1284.minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.cpp) | 🔴 Hard | C++ |
