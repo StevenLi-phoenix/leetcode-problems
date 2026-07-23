@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3023 solved** — 🟢 690 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3024 solved** — 🟢 691 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1065,6 +1065,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1371](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [Find the Longest Substring Containing Vowels in Even Counts](problems/1371.find-the-longest-substring-containing-vowels-in-even-counts.cpp) | 🟡 Medium | C++ |
 | [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Longest ZigZag Path in a Binary Tree](problems/1372.longest-zigzag-path-in-a-binary-tree.cpp) | 🟡 Medium | C++ |
 | [1373](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Maximum Sum BST in Binary Tree](problems/1373.maximum-sum-bst-in-binary-tree.cpp) | 🔴 Hard | C++ |
+| [1374](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Generate a String With Characters That Have Odd Counts](problems/1374.generate-a-string-with-characters-that-have-odd-counts.cpp) | 🟢 Easy | C++ |
 | [1375](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [Number of Times Binary String Is Prefix-Aligned](problems/1375.number-of-times-binary-string-is-prefix-aligned.cpp) | 🟡 Medium | C++ |
 | [1376](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Time Needed to Inform All Employees](problems/1376.time-needed-to-inform-all-employees.cpp) | 🟡 Medium | C++ |
 | [1377](https://leetcode.com/problems/frog-position-after-t-seconds/) | [Frog Position After T Seconds](problems/1377.frog-position-after-t-seconds.cpp) | 🔴 Hard | C++ |
