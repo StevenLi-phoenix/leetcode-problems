@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2901 solved** — 🟢 573 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2902 solved** — 🟢 574 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -701,6 +701,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [911](https://leetcode.com/problems/online-election/) | [Online Election](problems/911.online-election.cpp) | 🟡 Medium | C++ |
 | [912](https://leetcode.com/problems/sort-an-array/) | [Sort an Array](problems/912.sort-an-array.cpp) | 🟡 Medium | C++ |
 | [913](https://leetcode.com/problems/cat-and-mouse/) | [Cat and Mouse](problems/913.cat-and-mouse.cpp) | 🔴 Hard | C++ |
+| [914](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [X of a Kind in a Deck of Cards](problems/914.x-of-a-kind-in-a-deck-of-cards.cpp) | 🟢 Easy | C++ |
 | [915](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Partition Array into Disjoint Intervals](problems/915.partition-array-into-disjoint-intervals.cpp) | 🟡 Medium | C++ |
 | [916](https://leetcode.com/problems/word-subsets/) | [Word Subsets](problems/916.word-subsets.cpp) | 🟡 Medium | C++ |
 | [917](https://leetcode.com/problems/reverse-only-letters/) | [Reverse Only Letters](problems/917.reverse-only-letters.cpp) | 🟢 Easy | C++ |
