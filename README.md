@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2988 solved** — 🟢 656 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2989 solved** — 🟢 657 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2632,6 +2632,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3537](https://leetcode.com/problems/fill-a-special-grid/) | [Fill a Special Grid](problems/3537.fill-a-special-grid.cpp) | 🟡 Medium | C++ |
 | [3538](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/) | [Merge Operations for Minimum Travel Time](problems/3538.merge-operations-for-minimum-travel-time.cpp) | 🔴 Hard | C++ |
 | [3539](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [Find Sum of Array Product of Magical Sequences](problems/3539.find-sum-of-array-product-of-magical-sequences.cpp) | 🔴 Hard | C++ |
+| [3541](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [Find Most Frequent Vowel and Consonant](problems/3541.find-most-frequent-vowel-and-consonant.cpp) | 🟢 Easy | C++ |
 | [3542](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | [Minimum Operations to Convert All Elements to Zero](problems/3542.minimum-operations-to-convert-all-elements-to-zero.cpp) | 🟡 Medium | C++ |
 | [3543](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Maximum Weighted K-Edge Path](problems/3543.maximum-weighted-k-edge-path.cpp) | 🟡 Medium | C++ |
 | [3544](https://leetcode.com/problems/subtree-inversion-sum/) | [Subtree Inversion Sum](problems/3544.subtree-inversion-sum.cpp) | 🔴 Hard | C++ |
