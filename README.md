@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2940 solved** — 🟢 610 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2941 solved** — 🟢 611 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1956,6 +1956,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Minimize the Maximum Difference of Pairs](problems/2616.minimize-the-maximum-difference-of-pairs.cpp) | 🟡 Medium | C++ |
 | [2617](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [Minimum Number of Visited Cells in a Grid](problems/2617.minimum-number-of-visited-cells-in-a-grid.cpp) | 🔴 Hard | C++ |
 | [2618](https://leetcode.com/problems/check-if-object-instance-of-class/) | [Check if Object Instance of Class](problems/2618.check-if-object-instance-of-class.js) | 🟡 Medium | JavaScript |
+| [2620](https://leetcode.com/problems/counter/) | [Counter](problems/2620.counter.js) | 🟢 Easy | JavaScript |
 | [2621](https://leetcode.com/problems/sleep/) | [Sleep](problems/2621.sleep.js) | 🟢 Easy | JavaScript |
 | [2622](https://leetcode.com/problems/cache-with-time-limit/) | [Cache With Time Limit](problems/2622.cache-with-time-limit.js) | 🟡 Medium | JavaScript |
 | [2623](https://leetcode.com/problems/memoize/) | [Memoize](problems/2623.memoize.js) | 🟡 Medium | JavaScript |
