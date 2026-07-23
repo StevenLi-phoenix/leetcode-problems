@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2874 solved** — 🟢 552 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2875 solved** — 🟢 553 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2760,6 +2760,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3826](https://leetcode.com/problems/minimum-partition-score/) | [Minimum Partition Score](problems/3826.minimum-partition-score.cpp) | 🔴 Hard | C++ |
 | [3828](https://leetcode.com/problems/final-element-after-subarray-deletions/) | [Final Element After Subarray Deletions](problems/3828.final-element-after-subarray-deletions.cpp) | 🟡 Medium | C++ |
 | [3830](https://leetcode.com/problems/longest-alternating-subarray-after-removing-at-most-one-element/) | [Longest Alternating Subarray After Removing At Most One Element](problems/3830.longest-alternating-subarray-after-removing-at-most-one-element.cpp) | 🔴 Hard | C++ |
+| [3833](https://leetcode.com/problems/count-dominant-indices/) | [Count Dominant Indices](problems/3833.count-dominant-indices.cpp) | 🟢 Easy | C++ |
 | [3834](https://leetcode.com/problems/merge-adjacent-equal-elements/) | [Merge Adjacent Equal Elements](problems/3834.merge-adjacent-equal-elements.cpp) | 🟡 Medium | C++ |
 | [3835](https://leetcode.com/problems/count-subarrays-with-cost-less-than-or-equal-to-k/) | [Count Subarrays With Cost Less Than or Equal to K](problems/3835.count-subarrays-with-cost-less-than-or-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [3836](https://leetcode.com/problems/maximum-score-using-exactly-k-pairs/) | [Maximum Score Using Exactly K Pairs](problems/3836.maximum-score-using-exactly-k-pairs.cpp) | 🔴 Hard | C++ |
