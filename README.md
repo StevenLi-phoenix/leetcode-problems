@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3068 solved** — 🟢 734 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3069 solved** — 🟢 735 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1324,6 +1324,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [Sum of Absolute Differences in a Sorted Array](problems/1685.sum-of-absolute-differences-in-a-sorted-array.cpp) | 🟡 Medium | C++ |
 | [1686](https://leetcode.com/problems/stone-game-vi/) | [Stone Game VI](problems/1686.stone-game-vi.cpp) | 🟡 Medium | C++ |
 | [1687](https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/) | [Delivering Boxes from Storage to Ports](problems/1687.delivering-boxes-from-storage-to-ports.cpp) | 🔴 Hard | C++ |
+| [1688](https://leetcode.com/problems/count-of-matches-in-tournament/) | [Count of Matches in Tournament](problems/1688.count-of-matches-in-tournament.cpp) | 🟢 Easy | C++ |
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](problems/1689.partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1690](https://leetcode.com/problems/stone-game-vii/) | [Stone Game VII](problems/1690.stone-game-vii.cpp) | 🟡 Medium | C++ |
 | [1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Maximum Height by Stacking Cuboids ](problems/1691.maximum-height-by-stacking-cuboids.cpp) | 🔴 Hard | C++ |
