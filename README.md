@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3028 solved** — 🟢 695 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3028 solved** — 🟢 696 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -917,6 +917,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1145](https://leetcode.com/problems/binary-tree-coloring-game/) | [Binary Tree Coloring Game](problems/1145.binary-tree-coloring-game.cpp) | 🟡 Medium | C++ |
 | [1146](https://leetcode.com/problems/snapshot-array/) | [Snapshot Array](problems/1146.snapshot-array.cpp) | 🟡 Medium | C++ |
 | [1147](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [Longest Chunked Palindrome Decomposition](problems/1147.longest-chunked-palindrome-decomposition.cpp) | 🔴 Hard | C++ |
+| [1148](https://leetcode.com/problems/article-views-i/) | [Article Views I](problems/1148.article-views-i.sql) | 🟢 Easy | mysql |
 | [1154](https://leetcode.com/problems/day-of-the-year/) | [Day of the Year](problems/1154.day-of-the-year.cpp) | 🟢 Easy | C++ |
 | [1155](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Number of Dice Rolls With Target Sum](problems/1155.number-of-dice-rolls-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [1156](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [Swap For Longest Repeated Character Substring](problems/1156.swap-for-longest-repeated-character-substring.cpp) | 🟡 Medium | C++ |
@@ -1296,7 +1297,6 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1667](https://leetcode.com/problems/fix-names-in-a-table/) | [Fix Names in a Table](problems/1667.fix-names-in-a-table.sql) | 🟢 Easy | mysql |
 | [1668](https://leetcode.com/problems/maximum-repeating-substring/) | [Maximum Repeating Substring](problems/1668.maximum-repeating-substring.cpp) | 🟢 Easy | C++ |
 | [1669](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](problems/1669.merge-in-between-linked-lists.cpp) | 🟡 Medium | C++ |
-| [1670](https://leetcode.com/problems/design-front-middle-back-queue/) | [Design Front Middle Back Queue](problems/1670.design-front-middle-back-queue.cpp) | 🟡 Medium | C++ |
 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Minimum Number of Removals to Make Mountain Array](problems/1671.minimum-number-of-removals-to-make-mountain-array.cpp) | 🔴 Hard | C++ |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](problems/1672.richest-customer-wealth.cpp) | 🟢 Easy | C++ |
 | [1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Find the Most Competitive Subsequence](problems/1673.find-the-most-competitive-subsequence.cpp) | 🟡 Medium | C++ |
