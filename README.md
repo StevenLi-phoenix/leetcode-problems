@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3003 solved** — 🟢 670 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3004 solved** — 🟢 671 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -424,6 +424,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [526](https://leetcode.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](problems/526.beautiful-arrangement.cpp) | 🟡 Medium | C++ |
 | [528](https://leetcode.com/problems/random-pick-with-weight/) | [Random Pick with Weight](problems/528.random-pick-with-weight.cpp) | 🟡 Medium | C++ |
 | [529](https://leetcode.com/problems/minesweeper/) | [Minesweeper](problems/529.minesweeper.cpp) | 🟡 Medium | C++ |
+| [530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Minimum Absolute Difference in BST](problems/530.minimum-absolute-difference-in-bst.cpp) | 🟢 Easy | C++ |
 | [532](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [K-diff Pairs in an Array](problems/532.k-diff-pairs-in-an-array.cpp) | 🟡 Medium | C++ |
 | [535](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Encode and Decode TinyURL](problems/535.encode-and-decode-tinyurl.cpp) | 🟡 Medium | C++ |
 | [537](https://leetcode.com/problems/complex-number-multiplication/) | [Complex Number Multiplication](problems/537.complex-number-multiplication.cpp) | 🟡 Medium | C++ |
