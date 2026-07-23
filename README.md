@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3028 solved** — 🟢 696 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3029 solved** — 🟢 697 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1231,6 +1231,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1577](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](problems/1577.number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers.cpp) | 🟡 Medium | C++ |
 | [1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Minimum Time to Make Rope Colorful](problems/1578.minimum-time-to-make-rope-colorful.cpp) | 🟡 Medium | C++ |
 | [1579](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | [Remove Max Number of Edges to Keep Graph Fully Traversable](problems/1579.remove-max-number-of-edges-to-keep-graph-fully-traversable.cpp) | 🔴 Hard | C++ |
+| [1581](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [Customer Who Visited but Did Not Make Any Transactions](problems/1581.customer-who-visited-but-did-not-make-any-transactions.sql) | 🟢 Easy | mysql |
 | [1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [Special Positions in a Binary Matrix](problems/1582.special-positions-in-a-binary-matrix.cpp) | 🟢 Easy | C++ |
 | [1583](https://leetcode.com/problems/count-unhappy-friends/) | [Count Unhappy Friends](problems/1583.count-unhappy-friends.cpp) | 🟡 Medium | C++ |
 | [1584](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [Min Cost to Connect All Points](problems/1584.min-cost-to-connect-all-points.cpp) | 🟡 Medium | C++ |
