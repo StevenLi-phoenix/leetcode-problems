@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2991 solved** — 🟢 659 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2992 solved** — 🟢 660 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -686,6 +686,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [873](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Length of Longest Fibonacci Subsequence](problems/873.length-of-longest-fibonacci-subsequence.cpp) | 🟡 Medium | C++ |
 | [874](https://leetcode.com/problems/walking-robot-simulation/) | [Walking Robot Simulation](problems/874.walking-robot-simulation.cpp) | 🟡 Medium | C++ |
 | [875](https://leetcode.com/problems/koko-eating-bananas/) | [Koko Eating Bananas](problems/875.koko-eating-bananas.cpp) | 🟡 Medium | C++ |
+| [876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](problems/876.middle-of-the-linked-list.cpp) | 🟢 Easy | C++ |
 | [877](https://leetcode.com/problems/stone-game/) | [Stone Game](problems/877.stone-game.cpp) | 🟡 Medium | C++ |
 | [878](https://leetcode.com/problems/nth-magical-number/) | [Nth Magical Number](problems/878.nth-magical-number.cpp) | 🔴 Hard | C++ |
 | [879](https://leetcode.com/problems/profitable-schemes/) | [Profitable Schemes](problems/879.profitable-schemes.cpp) | 🔴 Hard | C++ |
