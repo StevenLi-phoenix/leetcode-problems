@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2986 solved** — 🟢 654 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2987 solved** — 🟢 655 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1836,6 +1836,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2424](https://leetcode.com/problems/longest-uploaded-prefix/) | [Longest Uploaded Prefix](problems/2424.longest-uploaded-prefix.cpp) | 🟡 Medium | C++ |
 | [2425](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [Bitwise XOR of All Pairings](problems/2425.bitwise-xor-of-all-pairings.cpp) | 🟡 Medium | C++ |
 | [2426](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Number of Pairs Satisfying Inequality](problems/2426.number-of-pairs-satisfying-inequality.cpp) | 🔴 Hard | C++ |
+| [2427](https://leetcode.com/problems/number-of-common-factors/) | [Number of Common Factors](problems/2427.number-of-common-factors.cpp) | 🟢 Easy | C++ |
 | [2428](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Maximum Sum of an Hourglass](problems/2428.maximum-sum-of-an-hourglass.cpp) | 🟡 Medium | C++ |
 | [2429](https://leetcode.com/problems/minimize-xor/) | [Minimize XOR](problems/2429.minimize-xor.cpp) | 🟡 Medium | C++ |
 | [2430](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [Maximum Deletions on a String](problems/2430.maximum-deletions-on-a-string.cpp) | 🔴 Hard | C++ |
