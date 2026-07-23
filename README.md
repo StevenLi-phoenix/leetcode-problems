@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2947 solved** — 🟢 616 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2948 solved** — 🟢 617 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2559,6 +2559,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3494](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) | [Find the Minimum Amount of Time to Brew Potions](problems/3494.find-the-minimum-amount-of-time-to-brew-potions.cpp) | 🟡 Medium | C++ |
 | [3495](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [Minimum Operations to Make Array Elements Zero](problems/3495.minimum-operations-to-make-array-elements-zero.cpp) | 🔴 Hard | C++ |
 | [3497](https://leetcode.com/problems/analyze-subscription-conversion/) | [Analyze Subscription Conversion ](problems/3497.analyze-subscription-conversion.sql) | 🟡 Medium | mysql |
+| [3498](https://leetcode.com/problems/reverse-degree-of-a-string/) | [Reverse Degree of a String](problems/3498.reverse-degree-of-a-string.cpp) | 🟢 Easy | C++ |
 | [3499](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | [Maximize Active Section with Trade I](problems/3499.maximize-active-section-with-trade-i.cpp) | 🟡 Medium | C++ |
 | [3500](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [Minimum Cost to Divide Array Into Subarrays](problems/3500.minimum-cost-to-divide-array-into-subarrays.cpp) | 🔴 Hard | C++ |
 | [3501](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [Maximize Active Section with Trade II](problems/3501.maximize-active-section-with-trade-ii.cpp) | 🔴 Hard | C++ |
