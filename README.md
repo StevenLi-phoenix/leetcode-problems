@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2975 solved** — 🟢 643 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2976 solved** — 🟢 644 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1580,6 +1580,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2090](https://leetcode.com/problems/k-radius-subarray-averages/) | [K Radius Subarray Averages](problems/2090.k-radius-subarray-averages.cpp) | 🟡 Medium | C++ |
 | [2091](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Removing Minimum and Maximum From Array](problems/2091.removing-minimum-and-maximum-from-array.cpp) | 🟡 Medium | C++ |
 | [2092](https://leetcode.com/problems/find-all-people-with-secret/) | [Find All People With Secret](problems/2092.find-all-people-with-secret.cpp) | 🔴 Hard | C++ |
+| [2094](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [Finding 3-Digit Even Numbers](problems/2094.finding-3-digit-even-numbers.cpp) | 🟢 Easy | C++ |
 | [2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Delete the Middle Node of a Linked List](problems/2095.delete-the-middle-node-of-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2096](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [Step-By-Step Directions From a Binary Tree Node to Another](problems/2096.step-by-step-directions-from-a-binary-tree-node-to-another.cpp) | 🟡 Medium | C++ |
 | [2097](https://leetcode.com/problems/valid-arrangement-of-pairs/) | [Valid Arrangement of Pairs](problems/2097.valid-arrangement-of-pairs.cpp) | 🔴 Hard | C++ |
