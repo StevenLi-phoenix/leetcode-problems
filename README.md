@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3053 solved** — 🟢 721 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3054 solved** — 🟢 722 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -870,6 +870,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1044](https://leetcode.com/problems/longest-duplicate-substring/) | [Longest Duplicate Substring](problems/1044.longest-duplicate-substring.cpp) | 🔴 Hard | C++ |
 | [1045](https://leetcode.com/problems/customers-who-bought-all-products/) | [Customers Who Bought All Products](problems/1045.customers-who-bought-all-products.sql) | 🟡 Medium | mysql |
 | [1046](https://leetcode.com/problems/last-stone-weight/) | [Last Stone Weight](problems/1046.last-stone-weight.cpp) | 🟢 Easy | C++ |
+| [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Remove All Adjacent Duplicates In String](problems/1047.remove-all-adjacent-duplicates-in-string.cpp) | 🟢 Easy | C++ |
 | [1048](https://leetcode.com/problems/longest-string-chain/) | [Longest String Chain](problems/1048.longest-string-chain.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
 | [1052](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Grumpy Bookstore Owner](problems/1052.grumpy-bookstore-owner.cpp) | 🟡 Medium | C++ |
