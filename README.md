@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2879 solved** — 🟢 556 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2880 solved** — 🟢 557 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2030,6 +2030,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2809](https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/) | [Minimum Time to Make Array Sum At Most x](problems/2809.minimum-time-to-make-array-sum-at-most-x.cpp) | 🔴 Hard | C++ |
 | [2811](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/) | [Check if it is Possible to Split Array](problems/2811.check-if-it-is-possible-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2813](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/) | [Maximum Elegance of a K-Length Subsequence](problems/2813.maximum-elegance-of-a-k-length-subsequence.cpp) | 🔴 Hard | C++ |
+| [2815](https://leetcode.com/problems/max-pair-sum-in-an-array/) | [Max Pair Sum in an Array](problems/2815.max-pair-sum-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Double a Number Represented as a Linked List](problems/2816.double-a-number-represented-as-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2817](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | [Minimum Absolute Difference Between Elements With Constraint](problems/2817.minimum-absolute-difference-between-elements-with-constraint.cpp) | 🟡 Medium | C++ |
 | [2818](https://leetcode.com/problems/apply-operations-to-maximize-score/) | [Apply Operations to Maximize Score](problems/2818.apply-operations-to-maximize-score.cpp) | 🔴 Hard | C++ |
