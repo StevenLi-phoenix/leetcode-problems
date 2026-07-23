@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2974 solved** — 🟢 642 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2975 solved** — 🟢 643 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1511,6 +1511,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [The Number of Weak Characters in the Game](problems/1996.the-number-of-weak-characters-in-the-game.cpp) | 🟡 Medium | C++ |
 | [1997](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [First Day Where You Have Been in All the Rooms](problems/1997.first-day-where-you-have-been-in-all-the-rooms.cpp) | 🟡 Medium | C++ |
 | [1998](https://leetcode.com/problems/gcd-sort-of-an-array/) | [GCD Sort of an Array](problems/1998.gcd-sort-of-an-array.cpp) | 🔴 Hard | C++ |
+| [2000](https://leetcode.com/problems/reverse-prefix-of-word/) | [Reverse Prefix of Word](problems/2000.reverse-prefix-of-word.cpp) | 🟢 Easy | C++ |
 | [2001](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Number of Pairs of Interchangeable Rectangles](problems/2001.number-of-pairs-of-interchangeable-rectangles.cpp) | 🟡 Medium | C++ |
 | [2002](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [Maximum Product of the Length of Two Palindromic Subsequences](problems/2002.maximum-product-of-the-length-of-two-palindromic-subsequences.cpp) | 🟡 Medium | C++ |
 | [2003](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [Smallest Missing Genetic Value in Each Subtree](problems/2003.smallest-missing-genetic-value-in-each-subtree.cpp) | 🔴 Hard | C++ |
