@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3021 solved** — 🟢 688 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3022 solved** — 🟢 689 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -387,6 +387,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [473](https://leetcode.com/problems/matchsticks-to-square/) | [Matchsticks to Square](problems/473.matchsticks-to-square.cpp) | 🟡 Medium | C++ |
 | [474](https://leetcode.com/problems/ones-and-zeroes/) | [Ones and Zeroes](problems/474.ones-and-zeroes.cpp) | 🟡 Medium | C++ |
 | [475](https://leetcode.com/problems/heaters/) | [Heaters](problems/475.heaters.cpp) | 🟡 Medium | C++ |
+| [476](https://leetcode.com/problems/number-complement/) | [Number Complement](problems/476.number-complement.cpp) | 🟢 Easy | C++ |
 | [477](https://leetcode.com/problems/total-hamming-distance/) | [Total Hamming Distance](problems/477.total-hamming-distance.cpp) | 🟡 Medium | C++ |
 | [478](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Generate Random Point in a Circle](problems/478.generate-random-point-in-a-circle.cpp) | 🟡 Medium | C++ |
 | [479](https://leetcode.com/problems/largest-palindrome-product/) | [Largest Palindrome Product](problems/479.largest-palindrome-product.cpp) | 🔴 Hard | C++ |
