@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2935 solved** — 🟢 605 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2936 solved** — 🟢 606 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2052,6 +2052,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2770](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Maximum Number of Jumps to Reach the Last Index](problems/2770.maximum-number-of-jumps-to-reach-the-last-index.cpp) | 🟡 Medium | C++ |
 | [2771](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/) | [Longest Non-decreasing Subarray From Two Arrays](problems/2771.longest-non-decreasing-subarray-from-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2772](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/) | [Apply Operations to Make All Array Elements Equal to Zero](problems/2772.apply-operations-to-make-all-array-elements-equal-to-zero.cpp) | 🟡 Medium | C++ |
+| [2778](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [Sum of Squares of Special Elements ](problems/2778.sum-of-squares-of-special-elements.cpp) | 🟢 Easy | C++ |
 | [2779](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Maximum Beauty of an Array After Applying Operation](problems/2779.maximum-beauty-of-an-array-after-applying-operation.cpp) | 🟡 Medium | C++ |
 | [2780](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | [Minimum Index of a Valid Split](problems/2780.minimum-index-of-a-valid-split.cpp) | 🟡 Medium | C++ |
 | [2781](https://leetcode.com/problems/length-of-the-longest-valid-substring/) | [Length of the Longest Valid Substring](problems/2781.length-of-the-longest-valid-substring.cpp) | 🔴 Hard | C++ |
