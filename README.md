@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3017 solved** — 🟢 684 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3018 solved** — 🟢 685 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -716,6 +716,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [894](https://leetcode.com/problems/all-possible-full-binary-trees/) | [All Possible Full Binary Trees](problems/894.all-possible-full-binary-trees.cpp) | 🟡 Medium | C++ |
 | [895](https://leetcode.com/problems/maximum-frequency-stack/) | [Maximum Frequency Stack](problems/895.maximum-frequency-stack.cpp) | 🔴 Hard | C++ |
 | [896](https://leetcode.com/problems/monotonic-array/) | [Monotonic Array](problems/896.monotonic-array.cpp) | 🟢 Easy | C++ |
+| [897](https://leetcode.com/problems/increasing-order-search-tree/) | [Increasing Order Search Tree](problems/897.increasing-order-search-tree.cpp) | 🟢 Easy | C++ |
 | [898](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Bitwise ORs of Subarrays](problems/898.bitwise-ors-of-subarrays.cpp) | 🟡 Medium | C++ |
 | [899](https://leetcode.com/problems/orderly-queue/) | [Orderly Queue](problems/899.orderly-queue.cpp) | 🔴 Hard | C++ |
 | [900](https://leetcode.com/problems/rle-iterator/) | [RLE Iterator](problems/900.rle-iterator.cpp) | 🟡 Medium | C++ |
