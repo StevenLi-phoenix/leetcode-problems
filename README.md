@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3013 solved** — 🟢 680 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3014 solved** — 🟢 681 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1097,6 +1097,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1414](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](problems/1414.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k.cpp) | 🟡 Medium | C++ |
 | [1415](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](problems/1415.the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.cpp) | 🟡 Medium | C++ |
 | [1416](https://leetcode.com/problems/restore-the-array/) | [Restore The Array](problems/1416.restore-the-array.cpp) | 🔴 Hard | C++ |
+| [1417](https://leetcode.com/problems/reformat-the-string/) | [Reformat The String](problems/1417.reformat-the-string.cpp) | 🟢 Easy | C++ |
 | [1418](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [Display Table of Food Orders in a Restaurant](problems/1418.display-table-of-food-orders-in-a-restaurant.cpp) | 🟡 Medium | C++ |
 | [1419](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [Minimum Number of Frogs Croaking](problems/1419.minimum-number-of-frogs-croaking.cpp) | 🟡 Medium | C++ |
 | [1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | [Build Array Where You Can Find The Maximum Exactly K Comparisons](problems/1420.build-array-where-you-can-find-the-maximum-exactly-k-comparisons.cpp) | 🔴 Hard | C++ |
