@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2850 solved** — 🟢 537 Easy · 🟡 1567 Medium · 🔴 732 Hard
+**2851 solved** — 🟢 537 Easy · 🟡 1568 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2609,6 +2609,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3661](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [Maximum Walls Destroyed by Robots](problems/3661.maximum-walls-destroyed-by-robots.cpp) | 🔴 Hard | C++ |
 | [3663](https://leetcode.com/problems/find-the-least-frequent-digit/) | [Find The Least Frequent Digit](problems/3663.find-the-least-frequent-digit.cpp) | 🟢 Easy | C++ |
 | [3664](https://leetcode.com/problems/two-letter-card-game/) | [Two-Letter Card Game](problems/3664.two-letter-card-game.cpp) | 🟡 Medium | C++ |
+| [3665](https://leetcode.com/problems/twisted-mirror-path-count/) | [Twisted Mirror Path Count](problems/3665.twisted-mirror-path-count.cpp) | 🟡 Medium | C++ |
 | [3666](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [Minimum Operations to Equalize Binary String](problems/3666.minimum-operations-to-equalize-binary-string.cpp) | 🔴 Hard | C++ |
 | [3668](https://leetcode.com/problems/restore-finishing-order/) | [Restore Finishing Order](problems/3668.restore-finishing-order.cpp) | 🟢 Easy | C++ |
 | [3669](https://leetcode.com/problems/balanced-k-factor-decomposition/) | [Balanced K-Factor Decomposition](problems/3669.balanced-k-factor-decomposition.cpp) | 🟡 Medium | C++ |
