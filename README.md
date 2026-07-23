@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2987 solved** — 🟢 655 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2988 solved** — 🟢 656 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1972,6 +1972,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2592](https://leetcode.com/problems/maximize-greatness-of-an-array/) | [Maximize Greatness of an Array](problems/2592.maximize-greatness-of-an-array.cpp) | 🟡 Medium | C++ |
 | [2593](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/) | [Find Score of an Array After Marking All Elements](problems/2593.find-score-of-an-array-after-marking-all-elements.cpp) | 🟡 Medium | C++ |
 | [2594](https://leetcode.com/problems/minimum-time-to-repair-cars/) | [Minimum Time to Repair Cars](problems/2594.minimum-time-to-repair-cars.cpp) | 🟡 Medium | C++ |
+| [2595](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [Number of Even and Odd Bits](problems/2595.number-of-even-and-odd-bits.cpp) | 🟢 Easy | C++ |
 | [2596](https://leetcode.com/problems/check-knight-tour-configuration/) | [Check Knight Tour Configuration](problems/2596.check-knight-tour-configuration.cpp) | 🟡 Medium | C++ |
 | [2597](https://leetcode.com/problems/the-number-of-beautiful-subsets/) | [The Number of Beautiful Subsets](problems/2597.the-number-of-beautiful-subsets.cpp) | 🟡 Medium | C++ |
 | [2598](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | [Smallest Missing Non-negative Integer After Operations](problems/2598.smallest-missing-non-negative-integer-after-operations.cpp) | 🟡 Medium | C++ |
