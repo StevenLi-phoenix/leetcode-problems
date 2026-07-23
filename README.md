@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3048 solved** — 🟢 716 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3049 solved** — 🟢 717 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -735,6 +735,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [905](https://leetcode.com/problems/sort-array-by-parity/) | [Sort Array By Parity](problems/905.sort-array-by-parity.cpp) | 🟢 Easy | C++ |
 | [906](https://leetcode.com/problems/super-palindromes/) | [Super Palindromes](problems/906.super-palindromes.cpp) | 🔴 Hard | C++ |
 | [907](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Sum of Subarray Minimums](problems/907.sum-of-subarray-minimums.cpp) | 🟡 Medium | C++ |
+| [908](https://leetcode.com/problems/smallest-range-i/) | [Smallest Range I](problems/908.smallest-range-i.cpp) | 🟢 Easy | C++ |
 | [909](https://leetcode.com/problems/snakes-and-ladders/) | [Snakes and Ladders](problems/909.snakes-and-ladders.cpp) | 🟡 Medium | C++ |
 | [910](https://leetcode.com/problems/smallest-range-ii/) | [Smallest Range II](problems/910.smallest-range-ii.cpp) | 🟡 Medium | C++ |
 | [911](https://leetcode.com/problems/online-election/) | [Online Election](problems/911.online-election.cpp) | 🟡 Medium | C++ |
