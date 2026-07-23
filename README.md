@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2878 solved** — 🟢 555 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2879 solved** — 🟢 556 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2033,6 +2033,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2816](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | [Double a Number Represented as a Linked List](problems/2816.double-a-number-represented-as-a-linked-list.cpp) | 🟡 Medium | C++ |
 | [2817](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | [Minimum Absolute Difference Between Elements With Constraint](problems/2817.minimum-absolute-difference-between-elements-with-constraint.cpp) | 🟡 Medium | C++ |
 | [2818](https://leetcode.com/problems/apply-operations-to-maximize-score/) | [Apply Operations to Maximize Score](problems/2818.apply-operations-to-maximize-score.cpp) | 🔴 Hard | C++ |
+| [2824](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Count Pairs Whose Sum is Less than Target](problems/2824.count-pairs-whose-sum-is-less-than-target.cpp) | 🟢 Easy | C++ |
 | [2825](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Make String a Subsequence Using Cyclic Increments](problems/2825.make-string-a-subsequence-using-cyclic-increments.cpp) | 🟡 Medium | C++ |
 | [2826](https://leetcode.com/problems/sorting-three-groups/) | [Sorting Three Groups](problems/2826.sorting-three-groups.cpp) | 🟡 Medium | C++ |
 | [2827](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/) | [Number of Beautiful Integers in the Range](problems/2827.number-of-beautiful-integers-in-the-range.cpp) | 🔴 Hard | C++ |
