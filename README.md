@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2845 solved** — 🟢 533 Easy · 🟡 1567 Medium · 🔴 732 Hard
+**2846 solved** — 🟢 534 Easy · 🟡 1567 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2131,6 +2131,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2975](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/) | [Maximum Square Area by Removing Fences From a Field](problems/2975.maximum-square-area-by-removing-fences-from-a-field.cpp) | 🟡 Medium | C++ |
 | [2976](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) | [Minimum Cost to Convert String I](problems/2976.minimum-cost-to-convert-string-i.cpp) | 🟡 Medium | C++ |
 | [2977](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Minimum Cost to Convert String II](problems/2977.minimum-cost-to-convert-string-ii.cpp) | 🔴 Hard | C++ |
+| [2980](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | [Check if Bitwise OR Has Trailing Zeros](problems/2980.check-if-bitwise-or-has-trailing-zeros.cpp) | 🟢 Easy | C++ |
 | [2981](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/) | [Find Longest Special Substring That Occurs Thrice I](problems/2981.find-longest-special-substring-that-occurs-thrice-i.cpp) | 🟡 Medium | C++ |
 | [2982](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-ii/) | [Find Longest Special Substring That Occurs Thrice II](problems/2982.find-longest-special-substring-that-occurs-thrice-ii.cpp) | 🟡 Medium | C++ |
 | [2983](https://leetcode.com/problems/palindrome-rearrangement-queries/) | [Palindrome Rearrangement Queries](problems/2983.palindrome-rearrangement-queries.cpp) | 🔴 Hard | C++ |
