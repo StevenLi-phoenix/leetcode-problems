@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2877 solved** — 🟢 554 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2878 solved** — 🟢 555 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1932,6 +1932,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | [Cousins in Binary Tree II](problems/2641.cousins-in-binary-tree-ii.cpp) | 🟡 Medium | C++ |
 | [2642](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Design Graph With Shortest Path Calculator](problems/2642.design-graph-with-shortest-path-calculator.cpp) | 🔴 Hard | C++ |
 | [2643](https://leetcode.com/problems/row-with-maximum-ones/) | [Row With Maximum Ones](problems/2643.row-with-maximum-ones.cpp) | 🟢 Easy | C++ |
+| [2644](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [Find the Maximum Divisibility Score](problems/2644.find-the-maximum-divisibility-score.cpp) | 🟢 Easy | C++ |
 | [2645](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [Minimum Additions to Make Valid String](problems/2645.minimum-additions-to-make-valid-string.cpp) | 🟡 Medium | C++ |
 | [2646](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Minimize the Total Price of the Trips](problems/2646.minimize-the-total-price-of-the-trips.cpp) | 🔴 Hard | C++ |
 | [2648](https://leetcode.com/problems/generate-fibonacci-sequence/) | [Generate Fibonacci Sequence](problems/2648.generate-fibonacci-sequence.js) | 🟢 Easy | JavaScript |
