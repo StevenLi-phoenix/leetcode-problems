@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2865 solved** — 🟢 546 Easy · 🟡 1572 Medium · 🔴 732 Hard
+**2866 solved** — 🟢 547 Easy · 🟡 1572 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1929,6 +1929,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2643](https://leetcode.com/problems/row-with-maximum-ones/) | [Row With Maximum Ones](problems/2643.row-with-maximum-ones.cpp) | 🟢 Easy | C++ |
 | [2645](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | [Minimum Additions to Make Valid String](problems/2645.minimum-additions-to-make-valid-string.cpp) | 🟡 Medium | C++ |
 | [2646](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Minimize the Total Price of the Trips](problems/2646.minimize-the-total-price-of-the-trips.cpp) | 🔴 Hard | C++ |
+| [2648](https://leetcode.com/problems/generate-fibonacci-sequence/) | [Generate Fibonacci Sequence](problems/2648.generate-fibonacci-sequence.js) | 🟢 Easy | JavaScript |
 | [2649](https://leetcode.com/problems/nested-array-generator/) | [Nested Array Generator](problems/2649.nested-array-generator.js) | 🟡 Medium | JavaScript |
 | [2650](https://leetcode.com/problems/design-cancellable-function/) | [Design Cancellable Function](problems/2650.design-cancellable-function.js) | 🔴 Hard | JavaScript |
 | [2651](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [Calculate Delayed Arrival Time](problems/2651.calculate-delayed-arrival-time.cpp) | 🟢 Easy | C++ |
