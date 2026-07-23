@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2852 solved** — 🟢 538 Easy · 🟡 1568 Medium · 🔴 732 Hard
+**2853 solved** — 🟢 538 Easy · 🟡 1569 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1359,6 +1359,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1865](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [Finding Pairs With a Certain Sum](problems/1865.finding-pairs-with-a-certain-sum.cpp) | 🟡 Medium | C++ |
 | [1866](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/) | [Number of Ways to Rearrange Sticks With K Sticks Visible](problems/1866.number-of-ways-to-rearrange-sticks-with-k-sticks-visible.cpp) | 🔴 Hard | C++ |
 | [1869](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [Longer Contiguous Segments of Ones than Zeros](problems/1869.longer-contiguous-segments-of-ones-than-zeros.cpp) | 🟢 Easy | C++ |
+| [1870](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [Minimum Speed to Arrive on Time](problems/1870.minimum-speed-to-arrive-on-time.cpp) | 🟡 Medium | C++ |
 | [1871](https://leetcode.com/problems/jump-game-vii/) | [Jump Game VII](problems/1871.jump-game-vii.cpp) | 🟡 Medium | C++ |
 | [1872](https://leetcode.com/problems/stone-game-viii/) | [Stone Game VIII](problems/1872.stone-game-viii.cpp) | 🔴 Hard | C++ |
 | [1873](https://leetcode.com/problems/calculate-special-bonus/) | [Calculate Special Bonus](problems/1873.calculate-special-bonus.sql) | 🟢 Easy | mysql |
