@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2969 solved** — 🟢 637 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2970 solved** — 🟢 638 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2047,6 +2047,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2723](https://leetcode.com/problems/add-two-promises/) | [Add Two Promises](problems/2723.add-two-promises.js) | 🟢 Easy | JavaScript |
 | [2724](https://leetcode.com/problems/sort-by/) | [Sort By](problems/2724.sort-by.ts) | 🟢 Easy | TypeScript |
 | [2726](https://leetcode.com/problems/calculator-with-method-chaining/) | [Calculator with Method Chaining](problems/2726.calculator-with-method-chaining.js) | 🟢 Easy | JavaScript |
+| [2727](https://leetcode.com/problems/is-object-empty/) | [Is Object Empty](problems/2727.is-object-empty.js) | 🟢 Easy | JavaScript |
 | [2729](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [Check if The Number is Fascinating](problems/2729.check-if-the-number-is-fascinating.cpp) | 🟢 Easy | C++ |
 | [2730](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/) | [Find the Longest Semi-Repetitive Substring](problems/2730.find-the-longest-semi-repetitive-substring.cpp) | 🟡 Medium | C++ |
 | [2731](https://leetcode.com/problems/movement-of-robots/) | [Movement of Robots](problems/2731.movement-of-robots.cpp) | 🟡 Medium | C++ |
