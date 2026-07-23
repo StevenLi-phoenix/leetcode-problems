@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3038 solved** — 🟢 706 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3039 solved** — 🟢 707 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -292,6 +292,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [345](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Reverse Vowels of a String](problems/345.reverse-vowels-of-a-string.cpp) | 🟢 Easy | C++ |
 | [347](https://leetcode.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](problems/347.top-k-frequent-elements.cpp) | 🟡 Medium | C++ |
 | [349](https://leetcode.com/problems/intersection-of-two-arrays/) | [Intersection of Two Arrays](problems/349.intersection-of-two-arrays.cpp) | 🟢 Easy | C++ |
+| [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Intersection of Two Arrays II](problems/350.intersection-of-two-arrays-ii.cpp) | 🟢 Easy | C++ |
 | [352](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Data Stream as Disjoint Intervals](problems/352.data-stream-as-disjoint-intervals.cpp) | 🔴 Hard | C++ |
 | [354](https://leetcode.com/problems/russian-doll-envelopes/) | [Russian Doll Envelopes](problems/354.russian-doll-envelopes.cpp) | 🔴 Hard | C++ |
 | [355](https://leetcode.com/problems/design-twitter/) | [Design Twitter](problems/355.design-twitter.cpp) | 🟡 Medium | C++ |
