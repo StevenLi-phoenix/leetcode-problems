@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3000 solved** — 🟢 667 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3001 solved** — 🟢 668 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1228,6 +1228,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](problems/1593.split-a-string-into-the-max-number-of-unique-substrings.cpp) | 🟡 Medium | C++ |
 | [1594](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [Maximum Non Negative Product in a Matrix](problems/1594.maximum-non-negative-product-in-a-matrix.cpp) | 🟡 Medium | C++ |
 | [1595](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [Minimum Cost to Connect Two Groups of Points](problems/1595.minimum-cost-to-connect-two-groups-of-points.cpp) | 🔴 Hard | C++ |
+| [1598](https://leetcode.com/problems/crawler-log-folder/) | [Crawler Log Folder](problems/1598.crawler-log-folder.cpp) | 🟢 Easy | C++ |
 | [1599](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [Maximum Profit of Operating a Centennial Wheel](problems/1599.maximum-profit-of-operating-a-centennial-wheel.cpp) | 🟡 Medium | C++ |
 | [1600](https://leetcode.com/problems/throne-inheritance/) | [Throne Inheritance](problems/1600.throne-inheritance.cpp) | 🟡 Medium | C++ |
 | [1601](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/) | [Maximum Number of Achievable Transfer Requests](problems/1601.maximum-number-of-achievable-transfer-requests.cpp) | 🔴 Hard | C++ |
