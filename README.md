@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3015 solved** — 🟢 682 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3016 solved** — 🟢 683 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2271,6 +2271,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/) | [Minimum Number of Operations to Make Array XOR Equal to K](problems/2997.minimum-number-of-operations-to-make-array-xor-equal-to-k.cpp) | 🟡 Medium | C++ |
 | [2998](https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal/) | [Minimum Number of Operations to Make X and Y Equal](problems/2998.minimum-number-of-operations-to-make-x-and-y-equal.cpp) | 🟡 Medium | C++ |
 | [2999](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | [Count the Number of Powerful Integers](problems/2999.count-the-number-of-powerful-integers.cpp) | 🔴 Hard | C++ |
+| [3000](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [Maximum Area of Longest Diagonal Rectangle](problems/3000.maximum-area-of-longest-diagonal-rectangle.cpp) | 🟢 Easy | C++ |
 | [3001](https://leetcode.com/problems/minimum-moves-to-capture-the-queen/) | [Minimum Moves to Capture The Queen](problems/3001.minimum-moves-to-capture-the-queen.cpp) | 🟡 Medium | C++ |
 | [3002](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/) | [Maximum Size of a Set After Removals](problems/3002.maximum-size-of-a-set-after-removals.cpp) | 🟡 Medium | C++ |
 | [3003](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | [Maximize the Number of Partitions After Operations](problems/3003.maximize-the-number-of-partitions-after-operations.cpp) | 🔴 Hard | C++ |
