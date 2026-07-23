@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3062 solved** — 🟢 729 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3063 solved** — 🟢 730 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1748,6 +1748,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2249](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | [Count Lattice Points Inside a Circle](problems/2249.count-lattice-points-inside-a-circle.cpp) | 🟡 Medium | C++ |
 | [2250](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | [Count Number of Rectangles Containing Each Point](problems/2250.count-number-of-rectangles-containing-each-point.cpp) | 🟡 Medium | C++ |
 | [2251](https://leetcode.com/problems/number-of-flowers-in-full-bloom/) | [Number of Flowers in Full Bloom](problems/2251.number-of-flowers-in-full-bloom.cpp) | 🔴 Hard | C++ |
+| [2255](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [Count Prefixes of a Given String](problems/2255.count-prefixes-of-a-given-string.cpp) | 🟢 Easy | C++ |
 | [2256](https://leetcode.com/problems/minimum-average-difference/) | [Minimum Average Difference](problems/2256.minimum-average-difference.cpp) | 🟡 Medium | C++ |
 | [2257](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [Count Unguarded Cells in the Grid](problems/2257.count-unguarded-cells-in-the-grid.cpp) | 🟡 Medium | C++ |
 | [2258](https://leetcode.com/problems/escape-the-spreading-fire/) | [Escape the Spreading Fire](problems/2258.escape-the-spreading-fire.cpp) | 🔴 Hard | C++ |
