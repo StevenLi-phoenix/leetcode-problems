@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3025 solved** — 🟢 692 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3026 solved** — 🟢 693 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1312,6 +1312,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [Partitioning Into Minimum Number Of Deci-Binary Numbers](problems/1689.partitioning-into-minimum-number-of-deci-binary-numbers.cpp) | 🟡 Medium | C++ |
 | [1690](https://leetcode.com/problems/stone-game-vii/) | [Stone Game VII](problems/1690.stone-game-vii.cpp) | 🟡 Medium | C++ |
 | [1691](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/) | [Maximum Height by Stacking Cuboids ](problems/1691.maximum-height-by-stacking-cuboids.cpp) | 🔴 Hard | C++ |
+| [1693](https://leetcode.com/problems/daily-leads-and-partners/) | [Daily Leads and Partners](problems/1693.daily-leads-and-partners.sql) | 🟢 Easy | mysql |
 | [1694](https://leetcode.com/problems/reformat-phone-number/) | [Reformat Phone Number](problems/1694.reformat-phone-number.cpp) | 🟢 Easy | C++ |
 | [1695](https://leetcode.com/problems/maximum-erasure-value/) | [Maximum Erasure Value](problems/1695.maximum-erasure-value.cpp) | 🟡 Medium | C++ |
 | [1696](https://leetcode.com/problems/jump-game-vi/) | [Jump Game VI](problems/1696.jump-game-vi.cpp) | 🟡 Medium | C++ |
