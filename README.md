@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2903 solved** — 🟢 575 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**2904 solved** — 🟢 576 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2498,6 +2498,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3462](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/) | [Maximum Sum With at Most K Elements](problems/3462.maximum-sum-with-at-most-k-elements.cpp) | 🟡 Medium | C++ |
 | [3463](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | [Check If Digits Are Equal in String After Operations II](problems/3463.check-if-digits-are-equal-in-string-after-operations-ii.cpp) | 🔴 Hard | C++ |
 | [3464](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [Maximize the Distance Between Points on a Square](problems/3464.maximize-the-distance-between-points-on-a-square.cpp) | 🔴 Hard | C++ |
+| [3465](https://leetcode.com/problems/find-products-with-valid-serial-numbers/) | [Find Products with Valid Serial Numbers](problems/3465.find-products-with-valid-serial-numbers.sql) | 🟢 Easy | mysql |
 | [3467](https://leetcode.com/problems/transform-array-by-parity/) | [Transform Array by Parity](problems/3467.transform-array-by-parity.cpp) | 🟢 Easy | C++ |
 | [3468](https://leetcode.com/problems/find-the-number-of-copy-arrays/) | [Find the Number of Copy Arrays](problems/3468.find-the-number-of-copy-arrays.cpp) | 🟡 Medium | C++ |
 | [3469](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | [Find Minimum Cost to Remove Array Elements](problems/3469.find-minimum-cost-to-remove-array-elements.cpp) | 🟡 Medium | C++ |
