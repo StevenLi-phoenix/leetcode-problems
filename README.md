@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2957 solved** — 🟢 625 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2958 solved** — 🟢 626 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2895,6 +2895,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3909](https://leetcode.com/problems/compare-sums-of-bitonic-parts/) | [Compare Sums of Bitonic Parts](problems/3909.compare-sums-of-bitonic-parts.cpp) | 🟡 Medium | C++ |
 | [3910](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Count Connected Subgraphs with Even Node Sum](problems/3910.count-connected-subgraphs-with-even-node-sum.cpp) | 🔴 Hard | C++ |
 | [3911](https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/) | [K-th Smallest Remaining Even Integer in Subarray Queries](problems/3911.k-th-smallest-remaining-even-integer-in-subarray-queries.cpp) | 🔴 Hard | C++ |
+| [3912](https://leetcode.com/problems/valid-elements-in-an-array/) | [Valid Elements in an Array](problems/3912.valid-elements-in-an-array.cpp) | 🟢 Easy | C++ |
 | [3913](https://leetcode.com/problems/sort-vowels-by-frequency/) | [Sort Vowels by Frequency](problems/3913.sort-vowels-by-frequency.cpp) | 🟡 Medium | C++ |
 | [3914](https://leetcode.com/problems/minimum-operations-to-make-array-non-decreasing/) | [Minimum Operations to Make Array Non Decreasing](problems/3914.minimum-operations-to-make-array-non-decreasing.cpp) | 🟡 Medium | C++ |
 | [3915](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [Maximum Sum of Alternating Subsequence With Distance at Least K](problems/3915.maximum-sum-of-alternating-subsequence-with-distance-at-least-k.cpp) | 🔴 Hard | C++ |
