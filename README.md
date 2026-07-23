@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2989 solved** — 🟢 657 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2990 solved** — 🟢 658 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2201,6 +2201,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2924](https://leetcode.com/problems/find-champion-ii/) | [Find Champion II](problems/2924.find-champion-ii.cpp) | 🟡 Medium | C++ |
 | [2925](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/) | [Maximum Score After Applying Operations on a Tree](problems/2925.maximum-score-after-applying-operations-on-a-tree.cpp) | 🟡 Medium | C++ |
 | [2926](https://leetcode.com/problems/maximum-balanced-subsequence-sum/) | [Maximum Balanced Subsequence Sum](problems/2926.maximum-balanced-subsequence-sum.cpp) | 🔴 Hard | C++ |
+| [2928](https://leetcode.com/problems/distribute-candies-among-children-i/) | [Distribute Candies Among Children I](problems/2928.distribute-candies-among-children-i.cpp) | 🟢 Easy | C++ |
 | [2929](https://leetcode.com/problems/distribute-candies-among-children-ii/) | [Distribute Candies Among Children II](problems/2929.distribute-candies-among-children-ii.cpp) | 🟡 Medium | C++ |
 | [2930](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/) | [Number of Strings Which Can Be Rearranged to Contain Substring](problems/2930.number-of-strings-which-can-be-rearranged-to-contain-substring.cpp) | 🟡 Medium | C++ |
 | [2931](https://leetcode.com/problems/maximum-spending-after-buying-items/) | [Maximum Spending After Buying Items](problems/2931.maximum-spending-after-buying-items.cpp) | 🔴 Hard | C++ |
