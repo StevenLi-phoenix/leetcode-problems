@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2965 solved** — 🟢 633 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2966 solved** — 🟢 634 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1369,6 +1369,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1806](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [Minimum Number of Operations to Reinitialize a Permutation](problems/1806.minimum-number-of-operations-to-reinitialize-a-permutation.cpp) | 🟡 Medium | C++ |
 | [1807](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [Evaluate the Bracket Pairs of a String](problems/1807.evaluate-the-bracket-pairs-of-a-string.cpp) | 🟡 Medium | C++ |
 | [1808](https://leetcode.com/problems/maximize-number-of-nice-divisors/) | [Maximize Number of Nice Divisors](problems/1808.maximize-number-of-nice-divisors.cpp) | 🔴 Hard | C++ |
+| [1812](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [Determine Color of a Chessboard Square](problems/1812.determine-color-of-a-chessboard-square.cpp) | 🟢 Easy | C++ |
 | [1813](https://leetcode.com/problems/sentence-similarity-iii/) | [Sentence Similarity III](problems/1813.sentence-similarity-iii.cpp) | 🟡 Medium | C++ |
 | [1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [Count Nice Pairs in an Array](problems/1814.count-nice-pairs-in-an-array.cpp) | 🟡 Medium | C++ |
 | [1815](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/) | [Maximum Number of Groups Getting Fresh Donuts](problems/1815.maximum-number-of-groups-getting-fresh-donuts.cpp) | 🔴 Hard | C++ |
