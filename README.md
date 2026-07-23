@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2887 solved** — 🟢 563 Easy · 🟡 1574 Medium · 🔴 732 Hard
+**2888 solved** — 🟢 564 Easy · 🟡 1574 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -401,6 +401,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [518](https://leetcode.com/problems/coin-change-ii/) | [Coin Change II](problems/518.coin-change-ii.cpp) | 🟡 Medium | C++ |
 | [519](https://leetcode.com/problems/random-flip-matrix/) | [Random Flip Matrix](problems/519.random-flip-matrix.cpp) | 🟡 Medium | C++ |
 | [520](https://leetcode.com/problems/detect-capital/) | [Detect Capital](problems/520.detect-capital.cpp) | 🟢 Easy | C++ |
+| [521](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Longest Uncommon Subsequence I](problems/521.longest-uncommon-subsequence-i.cpp) | 🟢 Easy | C++ |
 | [522](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Longest Uncommon Subsequence II](problems/522.longest-uncommon-subsequence-ii.cpp) | 🟡 Medium | C++ |
 | [523](https://leetcode.com/problems/continuous-subarray-sum/) | [Continuous Subarray Sum](problems/523.continuous-subarray-sum.cpp) | 🟡 Medium | C++ |
 | [524](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Longest Word in Dictionary through Deleting](problems/524.longest-word-in-dictionary-through-deleting.cpp) | 🟡 Medium | C++ |
