@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2836 solved** — 🟢 528 Easy · 🟡 1563 Medium · 🔴 732 Hard
+**2838 solved** — 🟢 529 Easy · 🟡 1564 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1212,6 +1212,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1667](https://leetcode.com/problems/fix-names-in-a-table/) | [Fix Names in a Table](problems/1667.fix-names-in-a-table.sql) | 🟢 Easy | mysql |
 | [1668](https://leetcode.com/problems/maximum-repeating-substring/) | [Maximum Repeating Substring](problems/1668.maximum-repeating-substring.cpp) | 🟢 Easy | C++ |
 | [1669](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](problems/1669.merge-in-between-linked-lists.cpp) | 🟡 Medium | C++ |
+| [1670](https://leetcode.com/problems/design-front-middle-back-queue/) | [Design Front Middle Back Queue](problems/1670.design-front-middle-back-queue.cpp) | 🟡 Medium | C++ |
 | [1671](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | [Minimum Number of Removals to Make Mountain Array](problems/1671.minimum-number-of-removals-to-make-mountain-array.cpp) | 🔴 Hard | C++ |
 | [1672](https://leetcode.com/problems/richest-customer-wealth/) | [Richest Customer Wealth](problems/1672.richest-customer-wealth.cpp) | 🟢 Easy | C++ |
 | [1673](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Find the Most Competitive Subsequence](problems/1673.find-the-most-competitive-subsequence.cpp) | 🟡 Medium | C++ |
@@ -2626,6 +2627,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3698](https://leetcode.com/problems/split-array-with-minimum-difference/) | [Split Array With Minimum Difference](problems/3698.split-array-with-minimum-difference.cpp) | 🟡 Medium | C++ |
 | [3699](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [Number of ZigZag Arrays I](problems/3699.number-of-zigzag-arrays-i.cpp) | 🔴 Hard | C++ |
 | [3700](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [Number of ZigZag Arrays II](problems/3700.number-of-zigzag-arrays-ii.cpp) | 🔴 Hard | C++ |
+| [3701](https://leetcode.com/problems/compute-alternating-sum/) | [Compute Alternating Sum](problems/3701.compute-alternating-sum.cpp) | 🟢 Easy | C++ |
 | [3702](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | [Longest Subsequence With Non-Zero Bitwise XOR](problems/3702.longest-subsequence-with-non-zero-bitwise-xor.cpp) | 🟡 Medium | C++ |
 | [3703](https://leetcode.com/problems/remove-k-balanced-substrings/) | [Remove K-Balanced Substrings](problems/3703.remove-k-balanced-substrings.cpp) | 🟡 Medium | C++ |
 | [3704](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n/) | [Count No-Zero Pairs That Sum to N](problems/3704.count-no-zero-pairs-that-sum-to-n.cpp) | 🔴 Hard | C++ |
