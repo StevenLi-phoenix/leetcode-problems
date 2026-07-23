@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3057 solved** — 🟢 725 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3058 solved** — 🟢 726 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2564,6 +2564,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3361](https://leetcode.com/problems/shift-distance-between-two-strings/) | [Shift Distance Between Two Strings](problems/3361.shift-distance-between-two-strings.cpp) | 🟡 Medium | C++ |
 | [3362](https://leetcode.com/problems/zero-array-transformation-iii/) | [Zero Array Transformation III](problems/3362.zero-array-transformation-iii.cpp) | 🟡 Medium | C++ |
 | [3363](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [Find the Maximum Number of Fruits Collected](problems/3363.find-the-maximum-number-of-fruits-collected.cpp) | 🔴 Hard | C++ |
+| [3364](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [Minimum Positive Sum Subarray ](problems/3364.minimum-positive-sum-subarray.cpp) | 🟢 Easy | C++ |
 | [3365](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/) | [Rearrange K Substrings to Form Target String](problems/3365.rearrange-k-substrings-to-form-target-string.cpp) | 🟡 Medium | C++ |
 | [3366](https://leetcode.com/problems/minimum-array-sum/) | [Minimum Array Sum](problems/3366.minimum-array-sum.cpp) | 🟡 Medium | C++ |
 | [3367](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [Maximize Sum of Weights after Edge Removals](problems/3367.maximize-sum-of-weights-after-edge-removals.cpp) | 🔴 Hard | C++ |
