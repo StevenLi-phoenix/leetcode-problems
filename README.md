@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3004 solved** — 🟢 671 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3005 solved** — 🟢 672 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2889,6 +2889,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3839](https://leetcode.com/problems/number-of-prefix-connected-groups/) | [Number of Prefix Connected Groups](problems/3839.number-of-prefix-connected-groups.cpp) | 🟡 Medium | C++ |
 | [3840](https://leetcode.com/problems/house-robber-v/) | [House Robber V](problems/3840.house-robber-v.cpp) | 🟡 Medium | C++ |
 | [3841](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | [Palindromic Path Queries in a Tree](problems/3841.palindromic-path-queries-in-a-tree.cpp) | 🔴 Hard | C++ |
+| [3842](https://leetcode.com/problems/toggle-light-bulbs/) | [Toggle Light Bulbs](problems/3842.toggle-light-bulbs.cpp) | 🟢 Easy | C++ |
 | [3843](https://leetcode.com/problems/first-element-with-unique-frequency/) | [First Element with Unique Frequency](problems/3843.first-element-with-unique-frequency.cpp) | 🟡 Medium | C++ |
 | [3844](https://leetcode.com/problems/longest-almost-palindromic-substring/) | [Longest Almost-Palindromic Substring](problems/3844.longest-almost-palindromic-substring.cpp) | 🟡 Medium | C++ |
 | [3845](https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/) | [Maximum Subarray XOR with Bounded Range](problems/3845.maximum-subarray-xor-with-bounded-range.cpp) | 🔴 Hard | C++ |
