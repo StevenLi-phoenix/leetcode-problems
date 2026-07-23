@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3075 solved** — 🟢 741 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3076 solved** — 🟢 742 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2689,6 +2689,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3508](https://leetcode.com/problems/implement-router/) | [Implement Router](problems/3508.implement-router.cpp) | 🟡 Medium | C++ |
 | [3509](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [Maximum Product of Subsequences With an Alternating Sum Equal to K](problems/3509.maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k.cpp) | 🔴 Hard | C++ |
 | [3510](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [Minimum Pair Removal to Sort Array II](problems/3510.minimum-pair-removal-to-sort-array-ii.cpp) | 🔴 Hard | C++ |
+| [3512](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [Minimum Operations to Make Array Sum Divisible by K](problems/3512.minimum-operations-to-make-array-sum-divisible-by-k.cpp) | 🟢 Easy | C++ |
 | [3513](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | [Number of Unique XOR Triplets I](problems/3513.number-of-unique-xor-triplets-i.cpp) | 🟡 Medium | C++ |
 | [3514](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/) | [Number of Unique XOR Triplets II](problems/3514.number-of-unique-xor-triplets-ii.cpp) | 🟡 Medium | C++ |
 | [3515](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [Shortest Path in a Weighted Tree](problems/3515.shortest-path-in-a-weighted-tree.cpp) | 🔴 Hard | C++ |
