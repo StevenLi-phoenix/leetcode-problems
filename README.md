@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2985 solved** — 🟢 653 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2986 solved** — 🟢 654 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -989,6 +989,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1296](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [Divide Array in Sets of K Consecutive Numbers](problems/1296.divide-array-in-sets-of-k-consecutive-numbers.cpp) | 🟡 Medium | C++ |
 | [1297](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [Maximum Number of Occurrences of a Substring](problems/1297.maximum-number-of-occurrences-of-a-substring.cpp) | 🟡 Medium | C++ |
 | [1298](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | [Maximum Candies You Can Get from Boxes](problems/1298.maximum-candies-you-can-get-from-boxes.cpp) | 🔴 Hard | C++ |
+| [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [Replace Elements with Greatest Element on Right Side](problems/1299.replace-elements-with-greatest-element-on-right-side.cpp) | 🟢 Easy | C++ |
 | [1300](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [Sum of Mutated Array Closest to Target](problems/1300.sum-of-mutated-array-closest-to-target.cpp) | 🟡 Medium | C++ |
 | [1302](https://leetcode.com/problems/deepest-leaves-sum/) | [Deepest Leaves Sum](problems/1302.deepest-leaves-sum.cpp) | 🟡 Medium | C++ |
 | [1304](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [Find N Unique Integers Sum up to Zero](problems/1304.find-n-unique-integers-sum-up-to-zero.cpp) | 🟢 Easy | C++ |
