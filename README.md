@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**2976 solved** — 🟢 644 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**2977 solved** — 🟢 645 Easy · 🟡 1579 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -93,6 +93,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [85](https://leetcode.com/problems/maximal-rectangle/) | [Maximal Rectangle](problems/85.maximal-rectangle.cpp) | 🔴 Hard | C++ |
 | [86](https://leetcode.com/problems/partition-list/) | [Partition List](problems/86.partition-list.cpp) | 🟡 Medium | C++ |
 | [87](https://leetcode.com/problems/scramble-string/) | [Scramble String](problems/87.scramble-string.cpp) | 🔴 Hard | C++ |
+| [88](https://leetcode.com/problems/merge-sorted-array/) | [Merge Sorted Array](problems/88.merge-sorted-array.cpp) | 🟢 Easy | C++ |
 | [89](https://leetcode.com/problems/gray-code/) | [Gray Code](problems/89.gray-code.cpp) | 🟡 Medium | C++ |
 | [90](https://leetcode.com/problems/subsets-ii/) | [Subsets II](problems/90.subsets-ii.cpp) | 🟡 Medium | C++ |
 | [91](https://leetcode.com/problems/decode-ways/) | [Decode Ways](problems/91.decode-ways.cpp) | 🟡 Medium | C++ |
