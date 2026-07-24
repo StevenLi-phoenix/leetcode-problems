@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3113 solved** — 🟢 779 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3114 solved** — 🟢 780 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2440,6 +2440,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3132](https://leetcode.com/problems/find-the-integer-added-to-array-ii/) | [Find the Integer Added to Array II](problems/3132.find-the-integer-added-to-array-ii.cpp) | 🟡 Medium | C++ |
 | [3133](https://leetcode.com/problems/minimum-array-end/) | [Minimum Array End](problems/3133.minimum-array-end.cpp) | 🟡 Medium | C++ |
 | [3134](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) | [Find the Median of the Uniqueness Array](problems/3134.find-the-median-of-the-uniqueness-array.cpp) | 🔴 Hard | C++ |
+| [3136](https://leetcode.com/problems/valid-word/) | [Valid Word](problems/3136.valid-word.cpp) | 🟢 Easy | C++ |
 | [3137](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/) | [Minimum Number of Operations to Make Word K-Periodic](problems/3137.minimum-number-of-operations-to-make-word-k-periodic.cpp) | 🟡 Medium | C++ |
 | [3138](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/) | [Minimum Length of Anagram Concatenation](problems/3138.minimum-length-of-anagram-concatenation.cpp) | 🟡 Medium | C++ |
 | [3139](https://leetcode.com/problems/minimum-cost-to-equalize-array/) | [Minimum Cost to Equalize Array](problems/3139.minimum-cost-to-equalize-array.cpp) | 🔴 Hard | C++ |
