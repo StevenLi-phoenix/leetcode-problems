@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3081 solved** — 🟢 747 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3082 solved** — 🟢 748 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -963,6 +963,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Remove All Adjacent Duplicates in String II](problems/1209.remove-all-adjacent-duplicates-in-string-ii.cpp) | 🟡 Medium | C++ |
 | [1210](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/) | [Minimum Moves to Reach Target with Rotations](problems/1210.minimum-moves-to-reach-target-with-rotations.cpp) | 🔴 Hard | C++ |
 | [1211](https://leetcode.com/problems/queries-quality-and-percentage/) | [Queries Quality and Percentage](problems/1211.queries-quality-and-percentage.sql) | 🟢 Easy | mysql |
+| [1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Minimum Cost to Move Chips to The Same Position](problems/1217.minimum-cost-to-move-chips-to-the-same-position.cpp) | 🟢 Easy | C++ |
 | [1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Longest Arithmetic Subsequence of Given Difference](problems/1218.longest-arithmetic-subsequence-of-given-difference.cpp) | 🟡 Medium | C++ |
 | [1219](https://leetcode.com/problems/path-with-maximum-gold/) | [Path with Maximum Gold](problems/1219.path-with-maximum-gold.cpp) | 🟡 Medium | C++ |
 | [1220](https://leetcode.com/problems/count-vowels-permutation/) | [Count Vowels Permutation](problems/1220.count-vowels-permutation.cpp) | 🔴 Hard | C++ |
