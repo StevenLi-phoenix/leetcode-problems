@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3089 solved** — 🟢 755 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3090 solved** — 🟢 756 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1086,6 +1086,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1375](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [Number of Times Binary String Is Prefix-Aligned](problems/1375.number-of-times-binary-string-is-prefix-aligned.cpp) | 🟡 Medium | C++ |
 | [1376](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [Time Needed to Inform All Employees](problems/1376.time-needed-to-inform-all-employees.cpp) | 🟡 Medium | C++ |
 | [1377](https://leetcode.com/problems/frog-position-after-t-seconds/) | [Frog Position After T Seconds](problems/1377.frog-position-after-t-seconds.cpp) | 🔴 Hard | C++ |
+| [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | [Replace Employee ID With The Unique Identifier](problems/1378.replace-employee-id-with-the-unique-identifier.sql) | 🟢 Easy | mysql |
 | [1379](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](problems/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cpp) | 🟢 Easy | C++ |
 | [1380](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Lucky Numbers in a Matrix](problems/1380.lucky-numbers-in-a-matrix.cpp) | 🟢 Easy | C++ |
 | [1381](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Design a Stack With Increment Operation](problems/1381.design-a-stack-with-increment-operation.cpp) | 🟡 Medium | C++ |
