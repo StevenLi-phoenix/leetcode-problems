@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3130 solved** — 🟢 796 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3131 solved** — 🟢 797 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -834,6 +834,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [994](https://leetcode.com/problems/rotting-oranges/) | [Rotting Oranges](problems/994.rotting-oranges.cpp) | 🟡 Medium | C++ |
 | [995](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Minimum Number of K Consecutive Bit Flips](problems/995.minimum-number-of-k-consecutive-bit-flips.cpp) | 🔴 Hard | C++ |
 | [996](https://leetcode.com/problems/number-of-squareful-arrays/) | [Number of Squareful Arrays](problems/996.number-of-squareful-arrays.cpp) | 🔴 Hard | C++ |
+| [997](https://leetcode.com/problems/find-the-town-judge/) | [Find the Town Judge](problems/997.find-the-town-judge.cpp) | 🟢 Easy | C++ |
 | [998](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Maximum Binary Tree II](problems/998.maximum-binary-tree-ii.cpp) | 🟡 Medium | C++ |
 | [999](https://leetcode.com/problems/available-captures-for-rook/) | [Available Captures for Rook](problems/999.available-captures-for-rook.cpp) | 🟢 Easy | C++ |
 | [1000](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [Minimum Cost to Merge Stones](problems/1000.minimum-cost-to-merge-stones.cpp) | 🔴 Hard | C++ |
