@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3135 solved** — 🟢 801 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3136 solved** — 🟢 802 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1700,6 +1700,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2134](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [Minimum Swaps to Group All 1's Together II](problems/2134.minimum-swaps-to-group-all-1s-together-ii.cpp) | 🟡 Medium | C++ |
 | [2135](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | [Count Words Obtained After Adding a Letter](problems/2135.count-words-obtained-after-adding-a-letter.cpp) | 🟡 Medium | C++ |
 | [2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Earliest Possible Day of Full Bloom](problems/2136.earliest-possible-day-of-full-bloom.cpp) | 🔴 Hard | C++ |
+| [2138](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [Divide a String Into Groups of Size k](problems/2138.divide-a-string-into-groups-of-size-k.cpp) | 🟢 Easy | C++ |
 | [2139](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [Minimum Moves to Reach Target Score](problems/2139.minimum-moves-to-reach-target-score.cpp) | 🟡 Medium | C++ |
 | [2140](https://leetcode.com/problems/solving-questions-with-brainpower/) | [Solving Questions With Brainpower](problems/2140.solving-questions-with-brainpower.cpp) | 🟡 Medium | C++ |
 | [2141](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [Maximum Running Time of N Computers](problems/2141.maximum-running-time-of-n-computers.cpp) | 🔴 Hard | C++ |
