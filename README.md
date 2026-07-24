@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3097 solved** — 🟢 763 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3098 solved** — 🟢 764 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -396,6 +396,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [479](https://leetcode.com/problems/largest-palindrome-product/) | [Largest Palindrome Product](problems/479.largest-palindrome-product.cpp) | 🔴 Hard | C++ |
 | [480](https://leetcode.com/problems/sliding-window-median/) | [Sliding Window Median](problems/480.sliding-window-median.cpp) | 🔴 Hard | C++ |
 | [481](https://leetcode.com/problems/magical-string/) | [Magical String](problems/481.magical-string.cpp) | 🟡 Medium | C++ |
+| [482](https://leetcode.com/problems/license-key-formatting/) | [License Key Formatting](problems/482.license-key-formatting.cpp) | 🟢 Easy | C++ |
 | [483](https://leetcode.com/problems/smallest-good-base/) | [Smallest Good Base](problems/483.smallest-good-base.cpp) | 🔴 Hard | C++ |
 | [485](https://leetcode.com/problems/max-consecutive-ones/) | [Max Consecutive Ones](problems/485.max-consecutive-ones.cpp) | 🟢 Easy | C++ |
 | [486](https://leetcode.com/problems/predict-the-winner/) | [Predict the Winner](problems/486.predict-the-winner.cpp) | 🟡 Medium | C++ |
