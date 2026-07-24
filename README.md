@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3119 solved** — 🟢 785 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3120 solved** — 🟢 786 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1729,6 +1729,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [Minimum Number of Steps to Make Two Strings Anagram II](problems/2186.minimum-number-of-steps-to-make-two-strings-anagram-ii.cpp) | 🟡 Medium | C++ |
 | [2187](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Minimum Time to Complete Trips](problems/2187.minimum-time-to-complete-trips.cpp) | 🟡 Medium | C++ |
 | [2188](https://leetcode.com/problems/minimum-time-to-finish-the-race/) | [Minimum Time to Finish the Race](problems/2188.minimum-time-to-finish-the-race.cpp) | 🔴 Hard | C++ |
+| [2190](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) | [Most Frequent Number Following Key In an Array](problems/2190.most-frequent-number-following-key-in-an-array.cpp) | 🟢 Easy | C++ |
 | [2191](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [Sort the Jumbled Numbers](problems/2191.sort-the-jumbled-numbers.cpp) | 🟡 Medium | C++ |
 | [2192](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | [All Ancestors of a Node in a Directed Acyclic Graph](problems/2192.all-ancestors-of-a-node-in-a-directed-acyclic-graph.cpp) | 🟡 Medium | C++ |
 | [2193](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/) | [Minimum Number of Moves to Make Palindrome](problems/2193.minimum-number-of-moves-to-make-palindrome.cpp) | 🔴 Hard | C++ |
