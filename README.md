@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3092 solved** — 🟢 758 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3093 solved** — 🟢 759 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1573,6 +1573,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2001](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [Number of Pairs of Interchangeable Rectangles](problems/2001.number-of-pairs-of-interchangeable-rectangles.cpp) | 🟡 Medium | C++ |
 | [2002](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [Maximum Product of the Length of Two Palindromic Subsequences](problems/2002.maximum-product-of-the-length-of-two-palindromic-subsequences.cpp) | 🟡 Medium | C++ |
 | [2003](https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/) | [Smallest Missing Genetic Value in Each Subtree](problems/2003.smallest-missing-genetic-value-in-each-subtree.cpp) | 🔴 Hard | C++ |
+| [2006](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [Count Number of Pairs With Absolute Difference K](problems/2006.count-number-of-pairs-with-absolute-difference-k.cpp) | 🟢 Easy | C++ |
 | [2007](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [Find Original Array From Doubled Array](problems/2007.find-original-array-from-doubled-array.cpp) | 🟡 Medium | C++ |
 | [2008](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [Maximum Earnings From Taxi](problems/2008.maximum-earnings-from-taxi.cpp) | 🟡 Medium | C++ |
 | [2009](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/) | [Minimum Number of Operations to Make Array Continuous](problems/2009.minimum-number-of-operations-to-make-array-continuous.cpp) | 🔴 Hard | C++ |
