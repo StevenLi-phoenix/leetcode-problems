@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3142 solved** — 🟢 808 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3143 solved** — 🟢 809 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2661,6 +2661,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3393](https://leetcode.com/problems/count-paths-with-the-given-xor-value/) | [Count Paths With the Given XOR Value](problems/3393.count-paths-with-the-given-xor-value.cpp) | 🟡 Medium | C++ |
 | [3394](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/) | [Check if Grid can be Cut into Sections](problems/3394.check-if-grid-can-be-cut-into-sections.cpp) | 🟡 Medium | C++ |
 | [3395](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/) | [Subsequences with a Unique Middle Mode I](problems/3395.subsequences-with-a-unique-middle-mode-i.cpp) | 🔴 Hard | C++ |
+| [3396](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | [Minimum Number of Operations to Make Elements in Array Distinct](problems/3396.minimum-number-of-operations-to-make-elements-in-array-distinct.cpp) | 🟢 Easy | C++ |
 | [3397](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | [Maximum Number of Distinct Elements After Operations](problems/3397.maximum-number-of-distinct-elements-after-operations.cpp) | 🟡 Medium | C++ |
 | [3398](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [Smallest Substring With Identical Characters I](problems/3398.smallest-substring-with-identical-characters-i.cpp) | 🔴 Hard | C++ |
 | [3399](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/) | [Smallest Substring With Identical Characters II](problems/3399.smallest-substring-with-identical-characters-ii.cpp) | 🔴 Hard | C++ |
