@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3148 solved** — 🟢 810 Easy · 🟡 1582 Medium · 🔴 732 Hard
+**3149 solved** — 🟢 810 Easy · 🟡 1582 Medium · 🔴 733 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2680,6 +2680,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3417](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [Zigzag Grid Traversal With Skip](problems/3417.zigzag-grid-traversal-with-skip.cpp) | 🟢 Easy | C++ |
 | [3418](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/) | [Maximum Amount of Money Robot Can Earn](problems/3418.maximum-amount-of-money-robot-can-earn.cpp) | 🟡 Medium | C++ |
 | [3419](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Minimize the Maximum Edge Weight of Graph](problems/3419.minimize-the-maximum-edge-weight-of-graph.cpp) | 🟡 Medium | C++ |
+| [3420](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [Count Non-Decreasing Subarrays After K Operations](problems/3420.count-non-decreasing-subarrays-after-k-operations.cpp) | 🔴 Hard | C++ |
 | [3421](https://leetcode.com/problems/find-students-who-improved/) | [Find Students Who Improved](problems/3421.find-students-who-improved.sql) | 🟡 Medium | mysql |
 | [3423](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [Maximum Difference Between Adjacent Elements in a Circular Array](problems/3423.maximum-difference-between-adjacent-elements-in-a-circular-array.cpp) | 🟢 Easy | C++ |
 | [3424](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/) | [Minimum Cost to Make Arrays Identical](problems/3424.minimum-cost-to-make-arrays-identical.cpp) | 🟡 Medium | C++ |
