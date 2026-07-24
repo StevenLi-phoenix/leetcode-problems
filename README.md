@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3136 solved** — 🟢 802 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3137 solved** — 🟢 803 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2626,6 +2626,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3350](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | [Adjacent Increasing Subarrays Detection II](problems/3350.adjacent-increasing-subarrays-detection-ii.cpp) | 🟡 Medium | C++ |
 | [3351](https://leetcode.com/problems/sum-of-good-subsequences/) | [Sum of Good Subsequences](problems/3351.sum-of-good-subsequences.cpp) | 🔴 Hard | C++ |
 | [3352](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [Count K-Reducible Numbers Less Than N](problems/3352.count-k-reducible-numbers-less-than-n.cpp) | 🔴 Hard | C++ |
+| [3354](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [Make Array Elements Equal to Zero](problems/3354.make-array-elements-equal-to-zero.cpp) | 🟢 Easy | C++ |
 | [3355](https://leetcode.com/problems/zero-array-transformation-i/) | [Zero Array Transformation I](problems/3355.zero-array-transformation-i.cpp) | 🟡 Medium | C++ |
 | [3356](https://leetcode.com/problems/zero-array-transformation-ii/) | [Zero Array Transformation II](problems/3356.zero-array-transformation-ii.cpp) | 🟡 Medium | C++ |
 | [3357](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [Minimize the Maximum Adjacent Element Difference](problems/3357.minimize-the-maximum-adjacent-element-difference.cpp) | 🔴 Hard | C++ |
