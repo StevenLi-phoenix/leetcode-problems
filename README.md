@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3103 solved** — 🟢 769 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3104 solved** — 🟢 770 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2164,6 +2164,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2761](https://leetcode.com/problems/prime-pairs-with-target-sum/) | [Prime Pairs With Target Sum](problems/2761.prime-pairs-with-target-sum.cpp) | 🟡 Medium | C++ |
 | [2762](https://leetcode.com/problems/continuous-subarrays/) | [Continuous Subarrays](problems/2762.continuous-subarrays.cpp) | 🟡 Medium | C++ |
 | [2763](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/) | [Sum of Imbalance Numbers of All Subarrays](problems/2763.sum-of-imbalance-numbers-of-all-subarrays.cpp) | 🔴 Hard | C++ |
+| [2765](https://leetcode.com/problems/longest-alternating-subarray/) | [Longest Alternating Subarray](problems/2765.longest-alternating-subarray.cpp) | 🟢 Easy | C++ |
 | [2766](https://leetcode.com/problems/relocate-marbles/) | [Relocate Marbles](problems/2766.relocate-marbles.cpp) | 🟡 Medium | C++ |
 | [2767](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/) | [Partition String Into Minimum Beautiful Substrings](problems/2767.partition-string-into-minimum-beautiful-substrings.cpp) | 🟡 Medium | C++ |
 | [2768](https://leetcode.com/problems/number-of-black-blocks/) | [Number of Black Blocks](problems/2768.number-of-black-blocks.cpp) | 🟡 Medium | C++ |
