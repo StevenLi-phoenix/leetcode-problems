@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3082 solved** — 🟢 748 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3083 solved** — 🟢 749 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2462,6 +2462,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3195](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) | [Find the Minimum Area to Cover All Ones I](problems/3195.find-the-minimum-area-to-cover-all-ones-i.cpp) | 🟡 Medium | C++ |
 | [3196](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) | [Maximize Total Cost of Alternating Subarrays](problems/3196.maximize-total-cost-of-alternating-subarrays.cpp) | 🟡 Medium | C++ |
 | [3197](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [Find the Minimum Area to Cover All Ones II](problems/3197.find-the-minimum-area-to-cover-all-ones-ii.cpp) | 🔴 Hard | C++ |
+| [3200](https://leetcode.com/problems/maximum-height-of-a-triangle/) | [Maximum Height of a Triangle](problems/3200.maximum-height-of-a-triangle.cpp) | 🟢 Easy | C++ |
 | [3201](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/) | [Find the Maximum Length of Valid Subsequence I](problems/3201.find-the-maximum-length-of-valid-subsequence-i.cpp) | 🟡 Medium | C++ |
 | [3202](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/) | [Find the Maximum Length of Valid Subsequence II](problems/3202.find-the-maximum-length-of-valid-subsequence-ii.cpp) | 🟡 Medium | C++ |
 | [3203](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Find Minimum Diameter After Merging Two Trees](problems/3203.find-minimum-diameter-after-merging-two-trees.cpp) | 🔴 Hard | C++ |
