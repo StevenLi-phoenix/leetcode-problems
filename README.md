@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3102 solved** — 🟢 768 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3103 solved** — 🟢 769 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -556,6 +556,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [699](https://leetcode.com/problems/falling-squares/) | [Falling Squares](problems/699.falling-squares.cpp) | 🔴 Hard | C++ |
 | [700](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Search in a Binary Search Tree](problems/700.search-in-a-binary-search-tree.cpp) | 🟢 Easy | C++ |
 | [701](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Insert into a Binary Search Tree](problems/701.insert-into-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
+| [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Kth Largest Element in a Stream](problems/703.kth-largest-element-in-a-stream.cpp) | 🟢 Easy | C++ |
 | [704](https://leetcode.com/problems/binary-search/) | [Binary Search](problems/704.binary-search.cpp) | 🟢 Easy | C++ |
 | [705](https://leetcode.com/problems/design-hashset/) | [Design HashSet](problems/705.design-hashset.cpp) | 🟢 Easy | C++ |
 | [706](https://leetcode.com/problems/design-hashmap/) | [Design HashMap](problems/706.design-hashmap.cpp) | 🟢 Easy | C++ |
