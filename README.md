@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3086 solved** — 🟢 752 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3087 solved** — 🟢 753 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -3008,6 +3008,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3895](https://leetcode.com/problems/count-digit-appearances/) | [Count Digit Appearances](problems/3895.count-digit-appearances.cpp) | 🟡 Medium | C++ |
 | [3896](https://leetcode.com/problems/minimum-operations-to-transform-array-into-alternating-prime/) | [Minimum Operations to Transform Array into Alternating Prime](problems/3896.minimum-operations-to-transform-array-into-alternating-prime.cpp) | 🟡 Medium | C++ |
 | [3897](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [Maximum Value of Concatenated Binary Segments](problems/3897.maximum-value-of-concatenated-binary-segments.cpp) | 🔴 Hard | C++ |
+| [3898](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Find the Degree of Each Vertex](problems/3898.find-the-degree-of-each-vertex.cpp) | 🟢 Easy | C++ |
 | [3899](https://leetcode.com/problems/angles-of-a-triangle/) | [Angles of a Triangle](problems/3899.angles-of-a-triangle.cpp) | 🟡 Medium | C++ |
 | [3900](https://leetcode.com/problems/longest-balanced-substring-after-one-swap/) | [Longest Balanced Substring After One Swap](problems/3900.longest-balanced-substring-after-one-swap.cpp) | 🟡 Medium | C++ |
 | [3901](https://leetcode.com/problems/good-subsequence-queries/) | [Good Subsequence Queries](problems/3901.good-subsequence-queries.cpp) | 🔴 Hard | C++ |
