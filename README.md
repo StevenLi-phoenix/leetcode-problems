@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3137 solved** — 🟢 803 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3138 solved** — 🟢 804 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1417,6 +1417,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1769](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Minimum Number of Operations to Move All Balls to Each Box](problems/1769.minimum-number-of-operations-to-move-all-balls-to-each-box.cpp) | 🟡 Medium | C++ |
 | [1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [Maximum Score from Performing Multiplication Operations](problems/1770.maximum-score-from-performing-multiplication-operations.cpp) | 🔴 Hard | C++ |
 | [1771](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/) | [Maximize Palindrome Length From Subsequences](problems/1771.maximize-palindrome-length-from-subsequences.cpp) | 🔴 Hard | C++ |
+| [1773](https://leetcode.com/problems/count-items-matching-a-rule/) | [Count Items Matching a Rule](problems/1773.count-items-matching-a-rule.cpp) | 🟢 Easy | C++ |
 | [1774](https://leetcode.com/problems/closest-dessert-cost/) | [Closest Dessert Cost](problems/1774.closest-dessert-cost.cpp) | 🟡 Medium | C++ |
 | [1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [Equal Sum Arrays With Minimum Number of Operations](problems/1775.equal-sum-arrays-with-minimum-number-of-operations.cpp) | 🟡 Medium | C++ |
 | [1776](https://leetcode.com/problems/car-fleet-ii/) | [Car Fleet II](problems/1776.car-fleet-ii.cpp) | 🔴 Hard | C++ |
