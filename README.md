@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3106 solved** — 🟢 772 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3107 solved** — 🟢 773 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2510,6 +2510,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3233](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/) | [Find the Count of Numbers Which Are Not Special](problems/3233.find-the-count-of-numbers-which-are-not-special.cpp) | 🟡 Medium | C++ |
 | [3234](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Count the Number of Substrings With Dominant Ones](problems/3234.count-the-number-of-substrings-with-dominant-ones.cpp) | 🟡 Medium | C++ |
 | [3235](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [Check if the Rectangle Corner Is Reachable](problems/3235.check-if-the-rectangle-corner-is-reachable.cpp) | 🔴 Hard | C++ |
+| [3238](https://leetcode.com/problems/find-the-number-of-winning-players/) | [Find the Number of Winning Players](problems/3238.find-the-number-of-winning-players.cpp) | 🟢 Easy | C++ |
 | [3239](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/) | [Minimum Number of Flips to Make Binary Grid Palindromic I](problems/3239.minimum-number-of-flips-to-make-binary-grid-palindromic-i.cpp) | 🟡 Medium | C++ |
 | [3240](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/) | [Minimum Number of Flips to Make Binary Grid Palindromic II](problems/3240.minimum-number-of-flips-to-make-binary-grid-palindromic-ii.cpp) | 🟡 Medium | C++ |
 | [3241](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Time Taken to Mark All Nodes](problems/3241.time-taken-to-mark-all-nodes.cpp) | 🔴 Hard | C++ |
