@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3138 solved** — 🟢 804 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3139 solved** — 🟢 805 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2912,6 +2912,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3708](https://leetcode.com/problems/longest-fibonacci-subarray/) | [Longest Fibonacci Subarray](problems/3708.longest-fibonacci-subarray.cpp) | 🟡 Medium | C++ |
 | [3709](https://leetcode.com/problems/design-exam-scores-tracker/) | [Design Exam Scores Tracker](problems/3709.design-exam-scores-tracker.cpp) | 🟡 Medium | C++ |
 | [3710](https://leetcode.com/problems/maximum-partition-factor/) | [Maximum Partition Factor](problems/3710.maximum-partition-factor.cpp) | 🔴 Hard | C++ |
+| [3712](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | [Sum of Elements With Frequency Divisible by K](problems/3712.sum-of-elements-with-frequency-divisible-by-k.cpp) | 🟢 Easy | C++ |
 | [3713](https://leetcode.com/problems/longest-balanced-substring-i/) | [Longest Balanced Substring I](problems/3713.longest-balanced-substring-i.cpp) | 🟡 Medium | C++ |
 | [3714](https://leetcode.com/problems/longest-balanced-substring-ii/) | [Longest Balanced Substring II](problems/3714.longest-balanced-substring-ii.cpp) | 🟡 Medium | C++ |
 | [3715](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | [Sum of Perfect Square Ancestors](problems/3715.sum-of-perfect-square-ancestors.cpp) | 🔴 Hard | C++ |
