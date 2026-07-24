@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3147 solved** — 🟢 810 Easy · 🟡 1581 Medium · 🔴 732 Hard
+**3148 solved** — 🟢 810 Easy · 🟡 1582 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2862,6 +2862,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3642](https://leetcode.com/problems/find-books-with-polarized-opinions/) | [Find Books with Polarized Opinions](problems/3642.find-books-with-polarized-opinions.sql) | 🟡 Medium | mysql |
 | [3643](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [Flip Square Submatrix Vertically](problems/3643.flip-square-submatrix-vertically.cpp) | 🟢 Easy | C++ |
 | [3644](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | [Maximum K to Sort a Permutation](problems/3644.maximum-k-to-sort-a-permutation.cpp) | 🟡 Medium | C++ |
+| [3645](https://leetcode.com/problems/maximum-total-from-optimal-activation-order/) | [Maximum Total from Optimal Activation Order](problems/3645.maximum-total-from-optimal-activation-order.cpp) | 🟡 Medium | C++ |
 | [3646](https://leetcode.com/problems/next-special-palindrome-number/) | [Next Special Palindrome Number](problems/3646.next-special-palindrome-number.cpp) | 🔴 Hard | C++ |
 | [3648](https://leetcode.com/problems/minimum-sensors-to-cover-grid/) | [Minimum Sensors to Cover Grid](problems/3648.minimum-sensors-to-cover-grid.cpp) | 🟡 Medium | C++ |
 | [3649](https://leetcode.com/problems/number-of-perfect-pairs/) | [Number of Perfect Pairs](problems/3649.number-of-perfect-pairs.cpp) | 🟡 Medium | C++ |
