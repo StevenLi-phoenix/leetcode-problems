@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3098 solved** — 🟢 764 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3099 solved** — 🟢 765 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1312,6 +1312,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Determine if Two Strings Are Close](problems/1657.determine-if-two-strings-are-close.cpp) | 🟡 Medium | C++ |
 | [1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Minimum Operations to Reduce X to Zero](problems/1658.minimum-operations-to-reduce-x-to-zero.cpp) | 🟡 Medium | C++ |
 | [1659](https://leetcode.com/problems/maximize-grid-happiness/) | [Maximize Grid Happiness](problems/1659.maximize-grid-happiness.cpp) | 🔴 Hard | C++ |
+| [1661](https://leetcode.com/problems/average-time-of-process-per-machine/) | [Average Time of Process per Machine](problems/1661.average-time-of-process-per-machine.sql) | 🟢 Easy | mysql |
 | [1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Check If Two String Arrays are Equivalent](problems/1662.check-if-two-string-arrays-are-equivalent.cpp) | 🟢 Easy | C++ |
 | [1663](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Smallest String With A Given Numeric Value](problems/1663.smallest-string-with-a-given-numeric-value.cpp) | 🟡 Medium | C++ |
 | [1664](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [Ways to Make a Fair Array](problems/1664.ways-to-make-a-fair-array.cpp) | 🟡 Medium | C++ |
