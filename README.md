@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3091 solved** — 🟢 757 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3092 solved** — 🟢 758 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2492,6 +2492,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3227](https://leetcode.com/problems/vowels-game-in-a-string/) | [Vowels Game in a String](problems/3227.vowels-game-in-a-string.cpp) | 🟡 Medium | C++ |
 | [3228](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | [Maximum Number of Operations to Move Ones to the End](problems/3228.maximum-number-of-operations-to-move-ones-to-the-end.cpp) | 🟡 Medium | C++ |
 | [3229](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [Minimum Operations to Make Array Equal to Target](problems/3229.minimum-operations-to-make-array-equal-to-target.cpp) | 🔴 Hard | C++ |
+| [3232](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [Find if Digit Game Can Be Won](problems/3232.find-if-digit-game-can-be-won.cpp) | 🟢 Easy | C++ |
 | [3233](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/) | [Find the Count of Numbers Which Are Not Special](problems/3233.find-the-count-of-numbers-which-are-not-special.cpp) | 🟡 Medium | C++ |
 | [3234](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | [Count the Number of Substrings With Dominant Ones](problems/3234.count-the-number-of-substrings-with-dominant-ones.cpp) | 🟡 Medium | C++ |
 | [3235](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [Check if the Rectangle Corner Is Reachable](problems/3235.check-if-the-rectangle-corner-is-reachable.cpp) | 🔴 Hard | C++ |
