@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3141 solved** — 🟢 807 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3142 solved** — 🟢 808 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1754,6 +1754,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2201](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [Count Artifacts That Can Be Extracted](problems/2201.count-artifacts-that-can-be-extracted.cpp) | 🟡 Medium | C++ |
 | [2202](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [Maximize the Topmost Element After K Moves](problems/2202.maximize-the-topmost-element-after-k-moves.cpp) | 🟡 Medium | C++ |
 | [2203](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/) | [Minimum Weighted Subgraph With the Required Paths](problems/2203.minimum-weighted-subgraph-with-the-required-paths.cpp) | 🔴 Hard | C++ |
+| [2206](https://leetcode.com/problems/divide-array-into-equal-pairs/) | [Divide Array Into Equal Pairs](problems/2206.divide-array-into-equal-pairs.cpp) | 🟢 Easy | C++ |
 | [2207](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/) | [Maximize Number of Subsequences in a String](problems/2207.maximize-number-of-subsequences-in-a-string.cpp) | 🟡 Medium | C++ |
 | [2208](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [Minimum Operations to Halve Array Sum](problems/2208.minimum-operations-to-halve-array-sum.cpp) | 🟡 Medium | C++ |
 | [2209](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/) | [Minimum White Tiles After Covering With Carpets](problems/2209.minimum-white-tiles-after-covering-with-carpets.cpp) | 🔴 Hard | C++ |
