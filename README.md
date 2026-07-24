@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3124 solved** — 🟢 790 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3125 solved** — 🟢 791 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1501,6 +1501,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1887](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [Reduction Operations to Make the Array Elements Equal](problems/1887.reduction-operations-to-make-the-array-elements-equal.cpp) | 🟡 Medium | C++ |
 | [1888](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [Minimum Number of Flips to Make the Binary String Alternating](problems/1888.minimum-number-of-flips-to-make-the-binary-string-alternating.cpp) | 🟡 Medium | C++ |
 | [1889](https://leetcode.com/problems/minimum-space-wasted-from-packaging/) | [Minimum Space Wasted From Packaging](problems/1889.minimum-space-wasted-from-packaging.cpp) | 🔴 Hard | C++ |
+| [1890](https://leetcode.com/problems/the-latest-login-in-2020/) | [The Latest Login in 2020](problems/1890.the-latest-login-in-2020.sql) | 🟢 Easy | mysql |
 | [1893](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [Check if All the Integers in a Range Are Covered](problems/1893.check-if-all-the-integers-in-a-range-are-covered.cpp) | 🟢 Easy | C++ |
 | [1894](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [Find the Student that Will Replace the Chalk](problems/1894.find-the-student-that-will-replace-the-chalk.cpp) | 🟡 Medium | C++ |
 | [1895](https://leetcode.com/problems/largest-magic-square/) | [Largest Magic Square](problems/1895.largest-magic-square.cpp) | 🟡 Medium | C++ |
