@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3101 solved** — 🟢 767 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3102 solved** — 🟢 768 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1622,6 +1622,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2058](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [Find the Minimum and Maximum Number of Nodes Between Critical Points](problems/2058.find-the-minimum-and-maximum-number-of-nodes-between-critical-points.cpp) | 🟡 Medium | C++ |
 | [2059](https://leetcode.com/problems/minimum-operations-to-convert-number/) | [Minimum Operations to Convert Number](problems/2059.minimum-operations-to-convert-number.cpp) | 🟡 Medium | C++ |
 | [2060](https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/) | [Check if an Original String Exists Given Two Encoded Strings](problems/2060.check-if-an-original-string-exists-given-two-encoded-strings.cpp) | 🔴 Hard | C++ |
+| [2062](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [Count Vowel Substrings of a String](problems/2062.count-vowel-substrings-of-a-string.cpp) | 🟢 Easy | C++ |
 | [2063](https://leetcode.com/problems/vowels-of-all-substrings/) | [Vowels of All Substrings](problems/2063.vowels-of-all-substrings.cpp) | 🟡 Medium | C++ |
 | [2064](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [Minimized Maximum of Products Distributed to Any Store](problems/2064.minimized-maximum-of-products-distributed-to-any-store.cpp) | 🟡 Medium | C++ |
 | [2065](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | [Maximum Path Quality of a Graph](problems/2065.maximum-path-quality-of-a-graph.cpp) | 🔴 Hard | C++ |
