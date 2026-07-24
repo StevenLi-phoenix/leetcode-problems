@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3110 solved** — 🟢 776 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3111 solved** — 🟢 777 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2062,6 +2062,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) | [Convert an Array Into a 2D Array With Conditions](problems/2610.convert-an-array-into-a-2d-array-with-conditions.cpp) | 🟡 Medium | C++ |
 | [2611](https://leetcode.com/problems/mice-and-cheese/) | [Mice and Cheese](problems/2611.mice-and-cheese.cpp) | 🟡 Medium | C++ |
 | [2612](https://leetcode.com/problems/minimum-reverse-operations/) | [Minimum Reverse Operations](problems/2612.minimum-reverse-operations.cpp) | 🔴 Hard | C++ |
+| [2614](https://leetcode.com/problems/prime-in-diagonal/) | [Prime In Diagonal](problems/2614.prime-in-diagonal.cpp) | 🟢 Easy | C++ |
 | [2615](https://leetcode.com/problems/sum-of-distances/) | [Sum of Distances](problems/2615.sum-of-distances.cpp) | 🟡 Medium | C++ |
 | [2616](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) | [Minimize the Maximum Difference of Pairs](problems/2616.minimize-the-maximum-difference-of-pairs.cpp) | 🟡 Medium | C++ |
 | [2617](https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid/) | [Minimum Number of Visited Cells in a Grid](problems/2617.minimum-number-of-visited-cells-in-a-grid.cpp) | 🔴 Hard | C++ |
