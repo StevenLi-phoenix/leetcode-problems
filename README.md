@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3088 solved** — 🟢 754 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3089 solved** — 🟢 755 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2515,6 +2515,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3264](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [Final Array State After K Multiplication Operations I](problems/3264.final-array-state-after-k-multiplication-operations-i.cpp) | 🟢 Easy | C++ |
 | [3265](https://leetcode.com/problems/count-almost-equal-pairs-i/) | [Count Almost Equal Pairs I](problems/3265.count-almost-equal-pairs-i.cpp) | 🟡 Medium | C++ |
 | [3267](https://leetcode.com/problems/count-almost-equal-pairs-ii/) | [Count Almost Equal Pairs II](problems/3267.count-almost-equal-pairs-ii.cpp) | 🔴 Hard | C++ |
+| [3270](https://leetcode.com/problems/find-the-key-of-the-numbers/) | [Find the Key of the Numbers](problems/3270.find-the-key-of-the-numbers.cpp) | 🟢 Easy | C++ |
 | [3271](https://leetcode.com/problems/hash-divided-string/) | [Hash Divided String](problems/3271.hash-divided-string.cpp) | 🟡 Medium | C++ |
 | [3272](https://leetcode.com/problems/find-the-count-of-good-integers/) | [Find the Count of Good Integers](problems/3272.find-the-count-of-good-integers.cpp) | 🔴 Hard | C++ |
 | [3273](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [Minimum Amount of Damage Dealt to Bob](problems/3273.minimum-amount-of-damage-dealt-to-bob.cpp) | 🔴 Hard | C++ |
