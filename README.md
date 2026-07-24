@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3127 solved** — 🟢 793 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3128 solved** — 🟢 794 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2922,6 +2922,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3732](https://leetcode.com/problems/maximum-product-of-three-elements-after-one-replacement/) | [Maximum Product of Three Elements After One Replacement](problems/3732.maximum-product-of-three-elements-after-one-replacement.cpp) | 🟡 Medium | C++ |
 | [3733](https://leetcode.com/problems/minimum-time-to-complete-all-deliveries/) | [Minimum Time to Complete All Deliveries](problems/3733.minimum-time-to-complete-all-deliveries.cpp) | 🟡 Medium | C++ |
 | [3734](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [Lexicographically Smallest Palindromic Permutation Greater Than Target](problems/3734.lexicographically-smallest-palindromic-permutation-greater-than-target.cpp) | 🔴 Hard | C++ |
+| [3736](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [Minimum Moves to Equal Array Elements III](problems/3736.minimum-moves-to-equal-array-elements-iii.cpp) | 🟢 Easy | C++ |
 | [3737](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | [Count Subarrays With Majority Element I](problems/3737.count-subarrays-with-majority-element-i.cpp) | 🟡 Medium | C++ |
 | [3738](https://leetcode.com/problems/longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | [Longest Non-Decreasing Subarray After Replacing at Most One Element](problems/3738.longest-non-decreasing-subarray-after-replacing-at-most-one-element.cpp) | 🟡 Medium | C++ |
 | [3740](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [Minimum Distance Between Three Equal Elements I](problems/3740.minimum-distance-between-three-equal-elements-i.cpp) | 🟢 Easy | C++ |
