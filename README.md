@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3150 solved** — 🟢 810 Easy · 🟡 1582 Medium · 🔴 734 Hard
+**3151 solved** — 🟢 810 Easy · 🟡 1583 Medium · 🔴 734 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -3037,6 +3037,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3850](https://leetcode.com/problems/count-sequences-to-k/) | [Count Sequences to K](problems/3850.count-sequences-to-k.cpp) | 🔴 Hard | C++ |
 | [3852](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | [Smallest Pair With Different Frequencies](problems/3852.smallest-pair-with-different-frequencies.cpp) | 🟢 Easy | C++ |
 | [3853](https://leetcode.com/problems/merge-close-characters/) | [Merge Close Characters](problems/3853.merge-close-characters.cpp) | 🟡 Medium | C++ |
+| [3854](https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating/) | [Minimum Operations to Make Array Parity Alternating](problems/3854.minimum-operations-to-make-array-parity-alternating.cpp) | 🟡 Medium | C++ |
 | [3855](https://leetcode.com/problems/sum-of-k-digit-numbers-in-a-range/) | [Sum of K-Digit Numbers in a Range](problems/3855.sum-of-k-digit-numbers-in-a-range.cpp) | 🔴 Hard | C++ |
 | [3856](https://leetcode.com/problems/trim-trailing-vowels/) | [Trim Trailing Vowels](problems/3856.trim-trailing-vowels.cpp) | 🟢 Easy | C++ |
 | [3857](https://leetcode.com/problems/minimum-cost-to-split-into-ones/) | [Minimum Cost to Split into Ones](problems/3857.minimum-cost-to-split-into-ones.cpp) | 🟡 Medium | C++ |
