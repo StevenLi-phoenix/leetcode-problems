@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3131 solved** — 🟢 797 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3132 solved** — 🟢 798 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2110,6 +2110,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2649](https://leetcode.com/problems/nested-array-generator/) | [Nested Array Generator](problems/2649.nested-array-generator.js) | 🟡 Medium | JavaScript |
 | [2650](https://leetcode.com/problems/design-cancellable-function/) | [Design Cancellable Function](problems/2650.design-cancellable-function.js) | 🔴 Hard | JavaScript |
 | [2651](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [Calculate Delayed Arrival Time](problems/2651.calculate-delayed-arrival-time.cpp) | 🟢 Easy | C++ |
+| [2652](https://leetcode.com/problems/sum-multiples/) | [Sum Multiples](problems/2652.sum-multiples.cpp) | 🟢 Easy | C++ |
 | [2653](https://leetcode.com/problems/sliding-subarray-beauty/) | [Sliding Subarray Beauty](problems/2653.sliding-subarray-beauty.cpp) | 🟡 Medium | C++ |
 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp) | 🟡 Medium | C++ |
 | [2656](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Maximum Sum With Exactly K Elements ](problems/2656.maximum-sum-with-exactly-k-elements.cpp) | 🟢 Easy | C++ |
