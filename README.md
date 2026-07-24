@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3111 solved** — 🟢 777 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3112 solved** — 🟢 778 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1394,6 +1394,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1753](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [Maximum Score From Removing Stones](problems/1753.maximum-score-from-removing-stones.cpp) | 🟡 Medium | C++ |
 | [1754](https://leetcode.com/problems/largest-merge-of-two-strings/) | [Largest Merge Of Two Strings](problems/1754.largest-merge-of-two-strings.cpp) | 🟡 Medium | C++ |
 | [1755](https://leetcode.com/problems/closest-subsequence-sum/) | [Closest Subsequence Sum](problems/1755.closest-subsequence-sum.cpp) | 🔴 Hard | C++ |
+| [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Recyclable and Low Fat Products](problems/1757.recyclable-and-low-fat-products.sql) | 🟢 Easy | mysql |
 | [1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [Minimum Changes To Make Alternating Binary String](problems/1758.minimum-changes-to-make-alternating-binary-string.cpp) | 🟢 Easy | C++ |
 | [1759](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [Count Number of Homogenous Substrings](problems/1759.count-number-of-homogenous-substrings.cpp) | 🟡 Medium | C++ |
 | [1760](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [Minimum Limit of Balls in a Bag](problems/1760.minimum-limit-of-balls-in-a-bag.cpp) | 🟡 Medium | C++ |
