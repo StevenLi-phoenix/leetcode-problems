@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3140 solved** — 🟢 806 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3141 solved** — 🟢 807 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -474,6 +474,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [584](https://leetcode.com/problems/find-customer-referee/) | [Find Customer Referee](problems/584.find-customer-referee.sql) | 🟢 Easy | mysql |
 | [587](https://leetcode.com/problems/erect-the-fence/) | [Erect the Fence](problems/587.erect-the-fence.cpp) | 🔴 Hard | C++ |
 | [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](problems/589.n-ary-tree-preorder-traversal.cpp) | 🟢 Easy | C++ |
+| [590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [N-ary Tree Postorder Traversal](problems/590.n-ary-tree-postorder-traversal.cpp) | 🟢 Easy | C++ |
 | [591](https://leetcode.com/problems/tag-validator/) | [Tag Validator](problems/591.tag-validator.cpp) | 🔴 Hard | C++ |
 | [592](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Fraction Addition and Subtraction](problems/592.fraction-addition-and-subtraction.cpp) | 🟡 Medium | C++ |
 | [593](https://leetcode.com/problems/valid-square/) | [Valid Square](problems/593.valid-square.cpp) | 🟡 Medium | C++ |
