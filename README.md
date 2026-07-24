@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3134 solved** — 🟢 800 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3135 solved** — 🟢 801 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2346,6 +2346,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) | [Divide Array Into Arrays With Max Difference](problems/2966.divide-array-into-arrays-with-max-difference.cpp) | 🟡 Medium | C++ |
 | [2967](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/) | [Minimum Cost to Make Array Equalindromic](problems/2967.minimum-cost-to-make-array-equalindromic.cpp) | 🟡 Medium | C++ |
 | [2968](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/) | [Apply Operations to Maximize Frequency Score](problems/2968.apply-operations-to-maximize-frequency-score.cpp) | 🔴 Hard | C++ |
+| [2970](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | [Count the Number of Incremovable Subarrays I](problems/2970.count-the-number-of-incremovable-subarrays-i.cpp) | 🟢 Easy | C++ |
 | [2971](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) | [Find Polygon With the Largest Perimeter](problems/2971.find-polygon-with-the-largest-perimeter.cpp) | 🟡 Medium | C++ |
 | [2972](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/) | [Count the Number of Incremovable Subarrays II](problems/2972.count-the-number-of-incremovable-subarrays-ii.cpp) | 🔴 Hard | C++ |
 | [2973](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/) | [Find Number of Coins to Place in Tree Nodes](problems/2973.find-number-of-coins-to-place-in-tree-nodes.cpp) | 🔴 Hard | C++ |
