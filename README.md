@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3109 solved** — 🟢 775 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3110 solved** — 🟢 776 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2421,6 +2421,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3111](https://leetcode.com/problems/minimum-rectangles-to-cover-points/) | [Minimum Rectangles to Cover Points](problems/3111.minimum-rectangles-to-cover-points.cpp) | 🟡 Medium | C++ |
 | [3112](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/) | [Minimum Time to Visit Disappearing Nodes](problems/3112.minimum-time-to-visit-disappearing-nodes.cpp) | 🟡 Medium | C++ |
 | [3113](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/) | [Find the Number of Subarrays Where Boundary Elements Are Maximum](problems/3113.find-the-number-of-subarrays-where-boundary-elements-are-maximum.cpp) | 🔴 Hard | C++ |
+| [3114](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/) | [Latest Time You Can Obtain After Replacing Characters](problems/3114.latest-time-you-can-obtain-after-replacing-characters.cpp) | 🟢 Easy | C++ |
 | [3115](https://leetcode.com/problems/maximum-prime-difference/) | [Maximum Prime Difference](problems/3115.maximum-prime-difference.cpp) | 🟡 Medium | C++ |
 | [3116](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/) | [Kth Smallest Amount With Single Denomination Combination](problems/3116.kth-smallest-amount-with-single-denomination-combination.cpp) | 🔴 Hard | C++ |
 | [3117](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/) | [Minimum Sum of Values by Dividing Array](problems/3117.minimum-sum-of-values-by-dividing-array.cpp) | 🔴 Hard | C++ |
