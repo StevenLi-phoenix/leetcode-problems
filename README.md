@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3129 solved** — 🟢 795 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3130 solved** — 🟢 796 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -498,6 +498,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [623](https://leetcode.com/problems/add-one-row-to-tree/) | [Add One Row to Tree](problems/623.add-one-row-to-tree.cpp) | 🟡 Medium | C++ |
 | [624](https://leetcode.com/problems/maximum-distance-in-arrays/) | [Maximum Distance in Arrays](problems/624.maximum-distance-in-arrays.cpp) | 🟡 Medium | C++ |
 | [626](https://leetcode.com/problems/exchange-seats/) | [Exchange Seats](problems/626.exchange-seats.sql) | 🟡 Medium | mysql |
+| [627](https://leetcode.com/problems/swap-sex-of-employees/) | [Swap Sex of Employees](problems/627.swap-sex-of-employees.sql) | 🟢 Easy | mysql |
 | [628](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Maximum Product of Three Numbers](problems/628.maximum-product-of-three-numbers.cpp) | 🟢 Easy | C++ |
 | [629](https://leetcode.com/problems/k-inverse-pairs-array/) | [K Inverse Pairs Array](problems/629.k-inverse-pairs-array.cpp) | 🔴 Hard | C++ |
 | [630](https://leetcode.com/problems/course-schedule-iii/) | [Course Schedule III](problems/630.course-schedule-iii.cpp) | 🔴 Hard | C++ |
