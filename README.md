@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3112 solved** — 🟢 778 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3113 solved** — 🟢 779 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -882,6 +882,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Remove All Adjacent Duplicates In String](problems/1047.remove-all-adjacent-duplicates-in-string.cpp) | 🟢 Easy | C++ |
 | [1048](https://leetcode.com/problems/longest-string-chain/) | [Longest String Chain](problems/1048.longest-string-chain.cpp) | 🟡 Medium | C++ |
 | [1049](https://leetcode.com/problems/last-stone-weight-ii/) | [Last Stone Weight II](problems/1049.last-stone-weight-ii.cpp) | 🟡 Medium | C++ |
+| [1051](https://leetcode.com/problems/height-checker/) | [Height Checker](problems/1051.height-checker.cpp) | 🟢 Easy | C++ |
 | [1052](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Grumpy Bookstore Owner](problems/1052.grumpy-bookstore-owner.cpp) | 🟡 Medium | C++ |
 | [1053](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Previous Permutation With One Swap](problems/1053.previous-permutation-with-one-swap.cpp) | 🟡 Medium | C++ |
 | [1054](https://leetcode.com/problems/distant-barcodes/) | [Distant Barcodes](problems/1054.distant-barcodes.cpp) | 🟡 Medium | C++ |
