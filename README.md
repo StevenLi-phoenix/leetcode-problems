@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3133 solved** — 🟢 799 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3134 solved** — 🟢 800 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -959,6 +959,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1175](https://leetcode.com/problems/prime-arrangements/) | [Prime Arrangements](problems/1175.prime-arrangements.cpp) | 🟢 Easy | C++ |
 | [1177](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [Can Make Palindrome from Substring](problems/1177.can-make-palindrome-from-substring.cpp) | 🟡 Medium | C++ |
 | [1178](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/) | [Number of Valid Words for Each Puzzle](problems/1178.number-of-valid-words-for-each-puzzle.cpp) | 🔴 Hard | C++ |
+| [1179](https://leetcode.com/problems/reformat-department-table/) | [Reformat Department Table](problems/1179.reformat-department-table.sql) | 🟢 Easy | mysql |
 | [1184](https://leetcode.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](problems/1184.distance-between-bus-stops.cpp) | 🟢 Easy | C++ |
 | [1185](https://leetcode.com/problems/day-of-the-week/) | [Day of the Week](problems/1185.day-of-the-week.cpp) | 🟢 Easy | C++ |
 | [1186](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [Maximum Subarray Sum with One Deletion](problems/1186.maximum-subarray-sum-with-one-deletion.cpp) | 🟡 Medium | C++ |
