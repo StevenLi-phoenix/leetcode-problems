@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3122 solved** — 🟢 788 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3123 solved** — 🟢 789 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1509,6 +1509,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1899](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [Merge Triplets to Form Target Triplet](problems/1899.merge-triplets-to-form-target-triplet.cpp) | 🟡 Medium | C++ |
 | [1900](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/) | [The Earliest and Latest Rounds Where Players Compete](problems/1900.the-earliest-and-latest-rounds-where-players-compete.cpp) | 🔴 Hard | C++ |
 | [1901](https://leetcode.com/problems/find-a-peak-element-ii/) | [Find a Peak Element II](problems/1901.find-a-peak-element-ii.cpp) | 🟡 Medium | C++ |
+| [1903](https://leetcode.com/problems/largest-odd-number-in-string/) | [Largest Odd Number in String](problems/1903.largest-odd-number-in-string.cpp) | 🟢 Easy | C++ |
 | [1904](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [The Number of Full Rounds You Have Played](problems/1904.the-number-of-full-rounds-you-have-played.cpp) | 🟡 Medium | C++ |
 | [1905](https://leetcode.com/problems/count-sub-islands/) | [Count Sub Islands](problems/1905.count-sub-islands.cpp) | 🟡 Medium | C++ |
 | [1906](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [Minimum Absolute Difference Queries](problems/1906.minimum-absolute-difference-queries.cpp) | 🟡 Medium | C++ |
