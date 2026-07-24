@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3128 solved** — 🟢 794 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3129 solved** — 🟢 795 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -479,6 +479,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [594](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Longest Harmonious Subsequence](problems/594.longest-harmonious-subsequence.cpp) | 🟢 Easy | C++ |
 | [595](https://leetcode.com/problems/big-countries/) | [Big Countries](problems/595.big-countries.sql) | 🟢 Easy | mysql |
 | [596](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Classes With at Least 5 Students](problems/596.classes-with-at-least-5-students.sql) | 🟢 Easy | mysql |
+| [598](https://leetcode.com/problems/range-addition-ii/) | [Range Addition II](problems/598.range-addition-ii.cpp) | 🟢 Easy | C++ |
 | [599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Minimum Index Sum of Two Lists](problems/599.minimum-index-sum-of-two-lists.cpp) | 🟢 Easy | C++ |
 | [600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Non-negative Integers without Consecutive Ones](problems/600.non-negative-integers-without-consecutive-ones.cpp) | 🔴 Hard | C++ |
 | [601](https://leetcode.com/problems/human-traffic-of-stadium/) | [Human Traffic of Stadium](problems/601.human-traffic-of-stadium.sql) | 🔴 Hard | mysql |
