@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3143 solved** — 🟢 809 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3144 solved** — 🟢 810 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2691,6 +2691,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3432](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [Count Partitions with Even Sum Difference](problems/3432.count-partitions-with-even-sum-difference.cpp) | 🟢 Easy | C++ |
 | [3433](https://leetcode.com/problems/count-mentions-per-user/) | [Count Mentions Per User](problems/3433.count-mentions-per-user.cpp) | 🟡 Medium | C++ |
 | [3434](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/) | [Maximum Frequency After Subarray Operation](problems/3434.maximum-frequency-after-subarray-operation.cpp) | 🟡 Medium | C++ |
+| [3436](https://leetcode.com/problems/find-valid-emails/) | [Find Valid Emails](problems/3436.find-valid-emails.sql) | 🟢 Easy | mysql |
 | [3438](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [Find Valid Pair of Adjacent Digits in String](problems/3438.find-valid-pair-of-adjacent-digits-in-string.cpp) | 🟢 Easy | C++ |
 | [3439](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) | [Reschedule Meetings for Maximum Free Time I](problems/3439.reschedule-meetings-for-maximum-free-time-i.cpp) | 🟡 Medium | C++ |
 | [3440](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/) | [Reschedule Meetings for Maximum Free Time II](problems/3440.reschedule-meetings-for-maximum-free-time-ii.cpp) | 🟡 Medium | C++ |
