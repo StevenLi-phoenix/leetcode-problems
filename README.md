@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3090 solved** — 🟢 756 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3091 solved** — 🟢 757 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2677,6 +2677,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3478](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/) | [Choose K Elements With Maximum Sum](problems/3478.choose-k-elements-with-maximum-sum.cpp) | 🟡 Medium | C++ |
 | [3479](https://leetcode.com/problems/fruits-into-baskets-iii/) | [Fruits Into Baskets III](problems/3479.fruits-into-baskets-iii.cpp) | 🟡 Medium | C++ |
 | [3482](https://leetcode.com/problems/analyze-organization-hierarchy/) | [Analyze Organization Hierarchy](problems/3482.analyze-organization-hierarchy.sql) | 🔴 Hard | mysql |
+| [3483](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Unique 3-Digit Even Numbers](problems/3483.unique-3-digit-even-numbers.cpp) | 🟢 Easy | C++ |
 | [3484](https://leetcode.com/problems/design-spreadsheet/) | [Design Spreadsheet](problems/3484.design-spreadsheet.cpp) | 🟡 Medium | C++ |
 | [3485](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/) | [Longest Common Prefix of K Strings After Removal](problems/3485.longest-common-prefix-of-k-strings-after-removal.cpp) | 🔴 Hard | C++ |
 | [3486](https://leetcode.com/problems/longest-special-path-ii/) | [Longest Special Path II](problems/3486.longest-special-path-ii.cpp) | 🔴 Hard | C++ |
