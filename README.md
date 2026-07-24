@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3116 solved** — 🟢 782 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3117 solved** — 🟢 783 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -342,6 +342,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [410](https://leetcode.com/problems/split-array-largest-sum/) | [Split Array Largest Sum](problems/410.split-array-largest-sum.cpp) | 🔴 Hard | C++ |
 | [412](https://leetcode.com/problems/fizz-buzz/) | [Fizz Buzz](problems/412.fizz-buzz.cpp) | 🟢 Easy | C++ |
 | [413](https://leetcode.com/problems/arithmetic-slices/) | [Arithmetic Slices](problems/413.arithmetic-slices.cpp) | 🟡 Medium | C++ |
+| [414](https://leetcode.com/problems/third-maximum-number/) | [Third Maximum Number](problems/414.third-maximum-number.cpp) | 🟢 Easy | C++ |
 | [415](https://leetcode.com/problems/add-strings/) | [Add Strings](problems/415.add-strings.cpp) | 🟢 Easy | C++ |
 | [416](https://leetcode.com/problems/partition-equal-subset-sum/) | [Partition Equal Subset Sum](problems/416.partition-equal-subset-sum.cpp) | 🟡 Medium | C++ |
 | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Pacific Atlantic Water Flow](problems/417.pacific-atlantic-water-flow.cpp) | 🟡 Medium | C++ |
