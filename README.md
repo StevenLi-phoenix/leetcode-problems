@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3125 solved** — 🟢 791 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3126 solved** — 🟢 792 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1549,6 +1549,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [1946](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [Largest Number After Mutating Substring](problems/1946.largest-number-after-mutating-substring.cpp) | 🟡 Medium | C++ |
 | [1947](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [Maximum Compatibility Score Sum](problems/1947.maximum-compatibility-score-sum.cpp) | 🟡 Medium | C++ |
 | [1948](https://leetcode.com/problems/delete-duplicate-folders-in-system/) | [Delete Duplicate Folders in System](problems/1948.delete-duplicate-folders-in-system.cpp) | 🔴 Hard | C++ |
+| [1952](https://leetcode.com/problems/three-divisors/) | [Three Divisors](problems/1952.three-divisors.cpp) | 🟢 Easy | C++ |
 | [1953](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [Maximum Number of Weeks for Which You Can Work](problems/1953.maximum-number-of-weeks-for-which-you-can-work.cpp) | 🟡 Medium | C++ |
 | [1954](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [Minimum Garden Perimeter to Collect Enough Apples](problems/1954.minimum-garden-perimeter-to-collect-enough-apples.cpp) | 🟡 Medium | C++ |
 | [1955](https://leetcode.com/problems/count-number-of-special-subsequences/) | [Count Number of Special Subsequences](problems/1955.count-number-of-special-subsequences.cpp) | 🔴 Hard | C++ |
