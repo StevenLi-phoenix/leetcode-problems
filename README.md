@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3085 solved** — 🟢 751 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3086 solved** — 🟢 752 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2235,6 +2235,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2882](https://leetcode.com/problems/drop-duplicate-rows/) | [Drop Duplicate Rows](problems/2882.drop-duplicate-rows.py) | 🟢 Easy | pythondata |
 | [2883](https://leetcode.com/problems/drop-missing-data/) | [Drop Missing Data](problems/2883.drop-missing-data.py) | 🟢 Easy | pythondata |
 | [2884](https://leetcode.com/problems/modify-columns/) | [Modify Columns](problems/2884.modify-columns.py) | 🟢 Easy | pythondata |
+| [2885](https://leetcode.com/problems/rename-columns/) | [Rename Columns](problems/2885.rename-columns.py) | 🟢 Easy | pythondata |
 | [2886](https://leetcode.com/problems/change-data-type/) | [Change Data Type](problems/2886.change-data-type.py) | 🟢 Easy | pythondata |
 | [2887](https://leetcode.com/problems/fill-missing-data/) | [Fill Missing Data](problems/2887.fill-missing-data.py) | 🟢 Easy | pythondata |
 | [2888](https://leetcode.com/problems/reshape-data-concatenate/) | [Reshape Data: Concatenate](problems/2888.reshape-data-concatenate.py) | 🟢 Easy | pythondata |
