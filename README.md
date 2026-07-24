@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3117 solved** — 🟢 783 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3118 solved** — 🟢 784 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1786,6 +1786,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2265](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [Count Nodes Equal to Average of Subtree](problems/2265.count-nodes-equal-to-average-of-subtree.cpp) | 🟡 Medium | C++ |
 | [2266](https://leetcode.com/problems/count-number-of-texts/) | [Count Number of Texts](problems/2266.count-number-of-texts.cpp) | 🟡 Medium | C++ |
 | [2267](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | [ Check if There Is a Valid Parentheses String Path](problems/2267.check-if-there-is-a-valid-parentheses-string-path.cpp) | 🔴 Hard | C++ |
+| [2269](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [Find the K-Beauty of a Number](problems/2269.find-the-k-beauty-of-a-number.cpp) | 🟢 Easy | C++ |
 | [2270](https://leetcode.com/problems/number-of-ways-to-split-array/) | [Number of Ways to Split Array](problems/2270.number-of-ways-to-split-array.cpp) | 🟡 Medium | C++ |
 | [2271](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [Maximum White Tiles Covered by a Carpet](problems/2271.maximum-white-tiles-covered-by-a-carpet.cpp) | 🟡 Medium | C++ |
 | [2272](https://leetcode.com/problems/substring-with-largest-variance/) | [Substring With Largest Variance](problems/2272.substring-with-largest-variance.cpp) | 🔴 Hard | C++ |
