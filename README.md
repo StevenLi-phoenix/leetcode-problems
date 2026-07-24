@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3114 solved** — 🟢 780 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3115 solved** — 🟢 781 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2098,6 +2098,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2651](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [Calculate Delayed Arrival Time](problems/2651.calculate-delayed-arrival-time.cpp) | 🟢 Easy | C++ |
 | [2653](https://leetcode.com/problems/sliding-subarray-beauty/) | [Sliding Subarray Beauty](problems/2653.sliding-subarray-beauty.cpp) | 🟡 Medium | C++ |
 | [2654](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | [Minimum Number of Operations to Make All Array Elements Equal to 1](problems/2654.minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp) | 🟡 Medium | C++ |
+| [2656](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [Maximum Sum With Exactly K Elements ](problems/2656.maximum-sum-with-exactly-k-elements.cpp) | 🟢 Easy | C++ |
 | [2657](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Find the Prefix Common Array of Two Arrays](problems/2657.find-the-prefix-common-array-of-two-arrays.cpp) | 🟡 Medium | C++ |
 | [2658](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/) | [Maximum Number of Fish in a Grid](problems/2658.maximum-number-of-fish-in-a-grid.cpp) | 🟡 Medium | C++ |
 | [2659](https://leetcode.com/problems/make-array-empty/) | [Make Array Empty](problems/2659.make-array-empty.cpp) | 🔴 Hard | C++ |
