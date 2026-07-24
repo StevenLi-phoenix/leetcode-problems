@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3095 solved** — 🟢 761 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3096 solved** — 🟢 762 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2218,6 +2218,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2856](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | [Minimum Array Length After Pair Removals](problems/2856.minimum-array-length-after-pair-removals.cpp) | 🟡 Medium | C++ |
 | [2857](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/) | [Count Pairs of Points With Distance k](problems/2857.count-pairs-of-points-with-distance-k.cpp) | 🟡 Medium | C++ |
 | [2858](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [Minimum Edge Reversals So Every Node Is Reachable](problems/2858.minimum-edge-reversals-so-every-node-is-reachable.cpp) | 🔴 Hard | C++ |
+| [2859](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [Sum of Values at Indices With K Set Bits](problems/2859.sum-of-values-at-indices-with-k-set-bits.cpp) | 🟢 Easy | C++ |
 | [2860](https://leetcode.com/problems/happy-students/) | [Happy Students](problems/2860.happy-students.cpp) | 🟡 Medium | C++ |
 | [2861](https://leetcode.com/problems/maximum-number-of-alloys/) | [Maximum Number of Alloys](problems/2861.maximum-number-of-alloys.cpp) | 🟡 Medium | C++ |
 | [2862](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/) | [Maximum Element-Sum of a Complete Subset of Indices](problems/2862.maximum-element-sum-of-a-complete-subset-of-indices.cpp) | 🔴 Hard | C++ |
