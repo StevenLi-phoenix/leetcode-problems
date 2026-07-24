@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3139 solved** — 🟢 805 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3140 solved** — 🟢 806 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -1968,6 +1968,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2476](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | [Closest Nodes Queries in a Binary Search Tree](problems/2476.closest-nodes-queries-in-a-binary-search-tree.cpp) | 🟡 Medium | C++ |
 | [2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | [Minimum Fuel Cost to Report to the Capital](problems/2477.minimum-fuel-cost-to-report-to-the-capital.cpp) | 🟡 Medium | C++ |
 | [2478](https://leetcode.com/problems/number-of-beautiful-partitions/) | [Number of Beautiful Partitions](problems/2478.number-of-beautiful-partitions.cpp) | 🔴 Hard | C++ |
+| [2481](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [Minimum Cuts to Divide a Circle](problems/2481.minimum-cuts-to-divide-a-circle.cpp) | 🟢 Easy | C++ |
 | [2482](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [Difference Between Ones and Zeros in Row and Column](problems/2482.difference-between-ones-and-zeros-in-row-and-column.cpp) | 🟡 Medium | C++ |
 | [2483](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [Minimum Penalty for a Shop](problems/2483.minimum-penalty-for-a-shop.cpp) | 🟡 Medium | C++ |
 | [2484](https://leetcode.com/problems/count-palindromic-subsequences/) | [Count Palindromic Subsequences](problems/2484.count-palindromic-subsequences.cpp) | 🔴 Hard | C++ |
