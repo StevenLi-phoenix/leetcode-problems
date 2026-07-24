@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3087 solved** — 🟢 753 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3088 solved** — 🟢 754 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -446,6 +446,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [546](https://leetcode.com/problems/remove-boxes/) | [Remove Boxes](problems/546.remove-boxes.cpp) | 🔴 Hard | C++ |
 | [547](https://leetcode.com/problems/number-of-provinces/) | [Number of Provinces](problems/547.number-of-provinces.cpp) | 🟡 Medium | C++ |
 | [550](https://leetcode.com/problems/game-play-analysis-iv/) | [Game Play Analysis IV](problems/550.game-play-analysis-iv.sql) | 🟡 Medium | mysql |
+| [551](https://leetcode.com/problems/student-attendance-record-i/) | [Student Attendance Record I](problems/551.student-attendance-record-i.cpp) | 🟢 Easy | C++ |
 | [552](https://leetcode.com/problems/student-attendance-record-ii/) | [Student Attendance Record II](problems/552.student-attendance-record-ii.cpp) | 🔴 Hard | C++ |
 | [553](https://leetcode.com/problems/optimal-division/) | [Optimal Division](problems/553.optimal-division.cpp) | 🟡 Medium | C++ |
 | [554](https://leetcode.com/problems/brick-wall/) | [Brick Wall](problems/554.brick-wall.cpp) | 🟡 Medium | C++ |
