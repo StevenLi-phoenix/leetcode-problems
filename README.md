@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3145 solved** — 🟢 810 Easy · 🟡 1579 Medium · 🔴 732 Hard
+**3146 solved** — 🟢 810 Easy · 🟡 1580 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -3107,6 +3107,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [3943](https://leetcode.com/problems/number-of-pairs-after-increment/) | [Number of Pairs After Increment](problems/3943.number-of-pairs-after-increment.cpp) | 🔴 Hard | C++ |
 | [3945](https://leetcode.com/problems/digit-frequency-score/) | [Digit Frequency Score](problems/3945.digit-frequency-score.cpp) | 🟢 Easy | C++ |
 | [3946](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | [Maximum Number of Items From Sale I](problems/3946.maximum-number-of-items-from-sale-i.cpp) | 🟡 Medium | C++ |
+| [3947](https://leetcode.com/problems/maximum-number-of-items-from-sale-ii/) | [Maximum Number of Items From Sale II](problems/3947.maximum-number-of-items-from-sale-ii.cpp) | 🟡 Medium | C++ |
 | [3948](https://leetcode.com/problems/lexicographically-maximum-mex-array/) | [Lexicographically Maximum MEX Array](problems/3948.lexicographically-maximum-mex-array.cpp) | 🔴 Hard | C++ |
 | [3950](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [Exactly One Consecutive Set Bits Pair](problems/3950.exactly-one-consecutive-set-bits-pair.cpp) | 🟢 Easy | C++ |
 | [3951](https://leetcode.com/problems/minimum-energy-to-maintain-brightness/) | [Minimum Energy to Maintain Brightness](problems/3951.minimum-energy-to-maintain-brightness.cpp) | 🟡 Medium | C++ |
