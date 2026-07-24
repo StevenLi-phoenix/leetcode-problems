@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3096 solved** — 🟢 762 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3097 solved** — 🟢 763 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -2211,6 +2211,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [2844](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/) | [Minimum Operations to Make a Special Number](problems/2844.minimum-operations-to-make-a-special-number.cpp) | 🟡 Medium | C++ |
 | [2845](https://leetcode.com/problems/count-of-interesting-subarrays/) | [Count of Interesting Subarrays](problems/2845.count-of-interesting-subarrays.cpp) | 🟡 Medium | C++ |
 | [2846](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | [Minimum Edge Weight Equilibrium Queries in a Tree](problems/2846.minimum-edge-weight-equilibrium-queries-in-a-tree.cpp) | 🔴 Hard | C++ |
+| [2848](https://leetcode.com/problems/points-that-intersect-with-cars/) | [Points That Intersect With Cars](problems/2848.points-that-intersect-with-cars.cpp) | 🟢 Easy | C++ |
 | [2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [Determine if a Cell Is Reachable at a Given Time](problems/2849.determine-if-a-cell-is-reachable-at-a-given-time.cpp) | 🟡 Medium | C++ |
 | [2850](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | [Minimum Moves to Spread Stones Over Grid](problems/2850.minimum-moves-to-spread-stones-over-grid.cpp) | 🟡 Medium | C++ |
 | [2851](https://leetcode.com/problems/string-transformation/) | [String Transformation](problems/2851.string-transformation.cpp) | 🔴 Hard | C++ |
