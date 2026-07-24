@@ -2,7 +2,7 @@
 
 My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-phoenix/leetcode-cli).
 
-**3080 solved** — 🟢 746 Easy · 🟡 1578 Medium · 🔴 732 Hard
+**3081 solved** — 🟢 747 Easy · 🟡 1578 Medium · 🔴 732 Hard
 
 | # | Title | Difficulty | Lang |
 |---|-------|------------|------|
@@ -252,6 +252,7 @@ My LeetCode solutions, managed with [leetcode-cli](https://github.com/StevenLi-p
 | [284](https://leetcode.com/problems/peeking-iterator/) | [Peeking Iterator](problems/284.peeking-iterator.cpp) | 🟡 Medium | C++ |
 | [287](https://leetcode.com/problems/find-the-duplicate-number/) | [Find the Duplicate Number](problems/287.find-the-duplicate-number.cpp) | 🟡 Medium | C++ |
 | [289](https://leetcode.com/problems/game-of-life/) | [Game of Life](problems/289.game-of-life.cpp) | 🟡 Medium | C++ |
+| [290](https://leetcode.com/problems/word-pattern/) | [Word Pattern](problems/290.word-pattern.cpp) | 🟢 Easy | C++ |
 | [292](https://leetcode.com/problems/nim-game/) | [Nim Game](problems/292.nim-game.cpp) | 🟢 Easy | C++ |
 | [295](https://leetcode.com/problems/find-median-from-data-stream/) | [Find Median from Data Stream](problems/295.find-median-from-data-stream.cpp) | 🔴 Hard | C++ |
 | [297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Serialize and Deserialize Binary Tree](problems/297.serialize-and-deserialize-binary-tree.cpp) | 🔴 Hard | C++ |
